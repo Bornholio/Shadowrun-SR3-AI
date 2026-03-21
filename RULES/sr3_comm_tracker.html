@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SR3 Comm Array Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sr-bg:#0a0e0a;--sr-surface:#0f1410;--sr-border:#1a3a1a;
+    --sr-green:#33ff66;--sr-green-dim:#1a7a33;--sr-green-dark:#0d3d1a;
+    --sr-amber:#ffaa00;--sr-red:#ff3333;--sr-blue:#33aaff;--sr-blue-dim:#1a5a7a;--sr-blue-dark:#0a2a3a;
+    --sr-cyan:#33ddff;--sr-cyan-dim:#1a6a7a;--sr-cyan-dark:#0a2a30;
+    --sr-purple:#aa66ff;--sr-purple-dim:#5a2a9a;--sr-purple-dark:#1a0a3a;
+    --sr-teal:#33ffcc;--sr-teal-dim:#1a7a5a;--sr-teal-dark:#0a2a1a;
+    --sr-gold:#ffcc33;--sr-gold-dim:#7a5a1a;--sr-gold-dark:#2a1e0a;
+    --sr-text:#99cc99;--sr-text-dim:#4a7a4a;
+    --sr-mono:'Share Tech Mono',monospace;--sr-display:'Orbitron',monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--sr-bg);color:var(--sr-text);font-family:var(--sr-mono);padding:16px;max-width:1100px;margin:0 auto;}
+  h1{font-family:var(--sr-display);font-size:14px;color:var(--sr-green);letter-spacing:4px;text-transform:uppercase;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--sr-border);}
+  .panel{background:var(--sr-surface);border:1px solid var(--sr-border);border-radius:4px;padding:12px 14px;margin-bottom:8px;}
+  .panel-title{font-family:var(--sr-display);font-size:10px;font-weight:400;color:var(--sr-green-dim);letter-spacing:3px;text-transform:uppercase;margin-bottom:10px;border-bottom:1px solid var(--sr-border);padding-bottom:6px;}
+  .add-row{display:grid;gap:6px;align-items:end;}
+  .add-row.op{grid-template-columns:2fr 60px 120px 80px;}
+  label{font-size:10px;color:var(--sr-text-dim);letter-spacing:1px;display:block;margin-bottom:3px;}
+  input[type=number],input[type=text],select{background:var(--sr-bg);border:1px solid var(--sr-border);color:var(--sr-green);font-family:var(--sr-mono);font-size:12px;padding:5px 7px;width:100%;border-radius:2px;outline:none;}
+  input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0;}
+  input[type=number]{-moz-appearance:textfield;}
+  input:focus,select:focus{border-color:var(--sr-green-dim);}
+  select option{background:var(--sr-bg);}
+  .btn{background:var(--sr-green-dark);border:1px solid var(--sr-green-dim);color:var(--sr-green);font-family:var(--sr-display);font-size:10px;letter-spacing:1px;padding:6px 10px;cursor:pointer;border-radius:2px;white-space:nowrap;width:100%;}
+  .btn:hover{background:#1a5a2a;}
+  .btn-red{background:#2a0a0a;border-color:#aa2222;color:var(--sr-red);}
+  .btn-red:hover{background:#3a1010;}
+  .btn-purple{background:var(--sr-purple-dark);border-color:var(--sr-purple-dim);color:var(--sr-purple);}
+  .btn-purple:hover{background:#2a1050;}
+  .btn-teal{background:var(--sr-teal-dark);border-color:var(--sr-teal-dim);color:var(--sr-teal);}
+  .btn-teal:hover{background:#0d3a25;}
+  .btn-gold{background:var(--sr-gold-dark);border-color:var(--sr-gold-dim);color:var(--sr-gold);}
+  .btn-gold:hover{background:#3a2a10;}
+  .btn-sm{padding:4px 8px;font-size:9px;width:auto;}
+  .type-toggle{display:flex;gap:6px;margin-bottom:12px;}
+  .type-btn{flex:1;text-align:center;padding:5px;cursor:pointer;border:1px solid var(--sr-border);border-radius:2px;font-family:var(--sr-display);font-size:10px;letter-spacing:2px;color:var(--sr-text-dim);}
+  .type-btn.active-radio{border-color:var(--sr-green-dim);color:var(--sr-green);background:var(--sr-green-dark);}
+  .type-btn.active-cell{border-color:var(--sr-cyan-dim);color:var(--sr-cyan);background:var(--sr-cyan-dark);}
+  .mode-toggle{display:flex;gap:6px;margin-bottom:12px;}
+  .mode-btn{flex:1;text-align:center;padding:5px;cursor:pointer;border:1px solid var(--sr-border);border-radius:2px;font-family:var(--sr-display);font-size:10px;letter-spacing:2px;color:var(--sr-text-dim);}
+  .mode-btn.active{border-color:var(--sr-green-dim);color:var(--sr-green);background:var(--sr-green-dark);}
+  .op-mode-toggle{display:flex;gap:4px;margin-bottom:12px;}
+  .op-mode-btn{flex:1;text-align:center;padding:5px;cursor:pointer;border:1px solid var(--sr-border);border-radius:2px;font-family:var(--sr-display);font-size:9px;letter-spacing:1px;color:var(--sr-text-dim);}
+  .op-mode-btn.active-jam{border-color:#aa2222;color:var(--sr-red);background:#2a0a0a;}
+  .op-mode-btn.active-dec{border-color:var(--sr-purple-dim);color:var(--sr-purple);background:var(--sr-purple-dark);}
+  .op-mode-btn.active-data{border-color:var(--sr-teal-dim);color:var(--sr-teal);background:var(--sr-teal-dark);}
+  .op-mode-btn.active-scan{border-color:var(--sr-gold-dim);color:var(--sr-gold);background:var(--sr-gold-dark);}
+  .entry-fields{display:grid;gap:6px;align-items:end;}
+  .radio-grid{width:100%;border-collapse:collapse;font-size:12px;}
+  .radio-grid th{font-family:var(--sr-display);font-size:9px;letter-spacing:2px;color:var(--sr-text-dim);text-align:center;padding:4px 5px;border-bottom:1px solid var(--sr-border);font-weight:400;white-space:nowrap;}
+  .radio-grid th:first-child{text-align:left;}
+  .radio-grid td{padding:5px 5px;border-bottom:1px solid #0d1e0d;vertical-align:middle;white-space:nowrap;text-align:center;}
+  .radio-grid td:first-child{text-align:left;}
+  .radio-grid tr:hover td{background:#0d1a0d;}
+  .val-green{color:var(--sr-green);}.val-amber{color:var(--sr-amber);}.val-red{color:var(--sr-red);}.val-dim{color:var(--sr-text-dim);}.val-cyan{color:var(--sr-cyan);}.val-gold{color:var(--sr-gold);}
+  .toggle{min-width:30px;padding:2px 4px;border:1px solid var(--sr-border);background:var(--sr-bg);border-radius:2px;cursor:pointer;font-size:9px;font-family:var(--sr-display);color:var(--sr-text-dim);letter-spacing:1px;text-align:center;display:inline-block;}
+  .toggle.on{border-color:var(--sr-green-dim);background:var(--sr-green-dark);color:var(--sr-green);}
+  .toggle.enc-on{border-color:#aa6600;background:#2a1800;color:var(--sr-amber);}
+  .toggle.elev-on{border-color:var(--sr-cyan-dim);background:var(--sr-cyan-dark);color:var(--sr-cyan);}
+  .empty-state{text-align:center;color:var(--sr-text-dim);font-size:11px;padding:16px;letter-spacing:2px;}
+  .inline-txt{width:34px;background:var(--sr-bg);border:1px solid var(--sr-border);color:var(--sr-amber);font-family:var(--sr-mono);font-size:12px;padding:2px 0;border-radius:2px;outline:none;text-align:center;display:block;margin:0 auto;}
+  .inline-txt:focus{border-color:var(--sr-amber);}
+  .inline-txt::placeholder{color:var(--sr-text-dim);}
+  .sit-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+  .sit-item{display:flex;align-items:center;gap:5px;cursor:pointer;}
+  .sit-dot{width:10px;height:10px;border-radius:50%;border:1px solid var(--sr-border);background:var(--sr-bg);flex-shrink:0;}
+  .sit-dot.neg-off{border-color:#7a1a1a;}
+  .sit-dot.neg-on{border-color:#ff3333;background:#ff3333;}
+  .sit-lbl{font-size:11px;color:var(--sr-text-dim);}
+  .sit-mod{font-size:10px;margin-left:2px;}
+  .sit-summary{font-family:var(--sr-display);font-size:10px;margin-left:auto;letter-spacing:1px;white-space:nowrap;}
+  .jam-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px;}
+  .jam-side{background:var(--sr-bg);border:1px solid var(--sr-border);border-radius:3px;padding:10px 12px;}
+  .jam-side-title{font-family:var(--sr-display);font-size:9px;letter-spacing:2px;margin-bottom:8px;}
+  .jam-side-title.atk{color:var(--sr-red);}
+  .jam-side-title.atk-dec{color:var(--sr-purple);}
+  .jam-side-title.atk-data{color:var(--sr-teal);}
+  .jam-side-title.atk-scan{color:var(--sr-gold);}
+  .jam-side-title.def{color:var(--sr-blue);}
+  .jam-field{margin-bottom:7px;}
+  .jam-info{font-size:11px;color:var(--sr-text-dim);margin-top:6px;line-height:1.9;}
+  .jam-info span{color:var(--sr-green);}
+  .jam-warn{font-size:11px;color:var(--sr-red);margin-top:6px;font-family:var(--sr-display);letter-spacing:1px;}
+  .roll-result{background:var(--sr-bg);border:1px solid var(--sr-border);border-radius:3px;padding:10px 12px;margin-top:4px;}
+  .roll-outcome{font-family:var(--sr-display);font-size:13px;letter-spacing:2px;text-align:center;padding:8px 0 6px;}
+  .roll-outcome.jam{color:var(--sr-red);}
+  .roll-outcome.hold{color:var(--sr-green);}
+  .roll-outcome.tie{color:var(--sr-amber);}
+  .roll-outcome.cracked{color:var(--sr-purple);}
+  .roll-outcome.data-cracked{color:var(--sr-teal);}
+  .roll-outcome.scan-hit{color:var(--sr-gold);}
+  .roll-outcome.failed{color:var(--sr-red);}
+  .roll-summary{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px;}
+  .roll-side{background:var(--sr-surface);border:1px solid var(--sr-border);border-radius:2px;padding:7px 10px;}
+  .roll-side-lbl{font-size:9px;letter-spacing:2px;font-family:var(--sr-display);margin-bottom:4px;}
+  .roll-side-lbl.atk{color:var(--sr-red);}
+  .roll-side-lbl.atk-dec{color:var(--sr-purple);}
+  .roll-side-lbl.atk-data{color:var(--sr-teal);}
+  .roll-side-lbl.atk-scan{color:var(--sr-gold);}
+  .roll-side-lbl.def{color:var(--sr-blue);}
+  .roll-stat{font-size:11px;color:var(--sr-text-dim);margin-top:2px;}
+  .roll-stat span{color:var(--sr-text);}
+  .roll-time{font-size:12px;text-align:center;margin-top:6px;font-family:var(--sr-display);letter-spacing:1px;}
+  .roll-time.purple{color:var(--sr-purple);}
+  .roll-time.teal{color:var(--sr-teal);}
+  .roll-time.gold{color:var(--sr-gold);}
+  .expand-btn{font-family:var(--sr-display);font-size:9px;letter-spacing:1px;color:var(--sr-text-dim);background:none;border:1px solid var(--sr-border);border-radius:2px;padding:3px 8px;cursor:pointer;width:100%;margin-top:6px;}
+  .expand-btn:hover{color:var(--sr-text);border-color:var(--sr-text-dim);}
+  .dice-detail{margin-top:8px;display:none;}
+  .dice-detail.open{display:block;}
+  .dice-row-block{margin-bottom:6px;}
+  .dice-row-lbl{font-size:9px;color:var(--sr-text-dim);letter-spacing:1px;margin-bottom:3px;}
+  .dice-pills{display:flex;flex-wrap:wrap;gap:3px;}
+  .die{display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;border-radius:2px;font-size:11px;font-family:var(--sr-mono);border:1px solid;}
+  .die.suc{background:#0d3d1a;border-color:var(--sr-green-dim);color:var(--sr-green);}
+  .die.fail{background:#1a1a0a;border-color:#3a3a1a;color:var(--sr-text-dim);}
+  .die.six{background:#2a1800;border-color:#aa6600;color:var(--sr-amber);}
+  .die.suc-dec{background:#1a0a3a;border-color:var(--sr-purple-dim);color:var(--sr-purple);}
+  .die.suc-data{background:#0a2a20;border-color:var(--sr-teal-dim);color:var(--sr-teal);}
+  .die.suc-scan{background:#2a1e0a;border-color:var(--sr-gold-dim);color:var(--sr-gold);}
+  .op-grid{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px;}
+  .op-grid th{font-family:var(--sr-display);font-size:9px;letter-spacing:2px;color:var(--sr-text-dim);text-align:left;padding:4px 6px;border-bottom:1px solid var(--sr-border);font-weight:400;}
+  .op-grid td{padding:5px 6px;border-bottom:1px solid #0d1e0d;vertical-align:middle;font-size:12px;}
+  .op-grid tr:hover td{background:#0d1a0d;}
+  .sect-div td{padding:4px 5px 2px;font-size:10px;color:var(--sr-text-dim);letter-spacing:3px;}
+  .cell-tag{font-family:var(--sr-display);font-size:8px;letter-spacing:1px;color:var(--sr-cyan);border:1px solid var(--sr-cyan-dim);border-radius:2px;padding:1px 4px;margin-left:5px;vertical-align:middle;}
+  .no-eccm-tag{font-family:var(--sr-display);font-size:8px;color:var(--sr-red);border:1px solid #7a1a1a;border-radius:2px;padding:1px 4px;margin-left:4px;vertical-align:middle;}
+  .scan-alloc{background:var(--sr-bg);border:1px solid var(--sr-border);border-radius:3px;padding:10px 12px;margin-bottom:10px;}
+  .scan-alloc-title{font-family:var(--sr-display);font-size:9px;color:var(--sr-gold-dim);letter-spacing:2px;margin-bottom:8px;}
+  .alloc-row{display:flex;align-items:center;gap:10px;margin-bottom:8px;}
+  .alloc-label{font-size:11px;color:var(--sr-text-dim);min-width:80px;}
+  .alloc-val{font-family:var(--sr-display);font-size:12px;min-width:28px;text-align:right;}
+  .alloc-slider{flex:1;}
+  .reveal-list{margin-top:8px;}
+  .reveal-tier{display:flex;align-items:flex-start;gap:8px;padding:5px 0;border-bottom:1px solid #0d1e0d;font-size:11px;}
+  .reveal-tier:last-child{border-bottom:none;}
+  .tier-cost{font-family:var(--sr-display);font-size:9px;min-width:16px;padding-top:1px;}
+  .tier-locked{color:var(--sr-text-dim);}
+  .tier-unlocked{color:var(--sr-gold);}
+  .tier-free{color:var(--sr-green);}
+  .tier-content{flex:1;line-height:1.6;}
+  .tier-badge{font-family:var(--sr-display);font-size:8px;letter-spacing:1px;padding:1px 5px;border-radius:2px;margin-right:4px;vertical-align:middle;}
+  .badge-free{background:var(--sr-green-dark);border:1px solid var(--sr-green-dim);color:var(--sr-green);}
+  .badge-unlocked{background:var(--sr-gold-dark);border:1px solid var(--sr-gold-dim);color:var(--sr-gold);}
+  .badge-locked{background:#1a1a0a;border:1px solid #3a3a1a;color:var(--sr-text-dim);}
+  .listen-notice{font-size:11px;color:var(--sr-green);text-align:center;padding:4px 0;letter-spacing:1px;}
+</style>
+</head>
+<body>
+<h1>&#9641; SR3 Comm Array Tracker</h1>
+
+<div class="panel">
+  <div class="panel-title">&#9641; Device Entry</div>
+  <div class="type-toggle">
+    <div class="type-btn active-radio" id="tbtn-radio" onclick="setType('radio')">Radio</div>
+    <div class="type-btn" id="tbtn-cell" onclick="setType('cell')">Cellular</div>
+  </div>
+  <div id="form-radio">
+    <div class="mode-toggle">
+      <div class="mode-btn active" id="btn-basic" onclick="setMode('basic')">Basic</div>
+      <div class="mode-btn" id="btn-advanced" onclick="setMode('advanced')">Advanced</div>
+    </div>
+    <div id="form-basic">
+      <div class="entry-fields" style="grid-template-columns:2fr 65px 80px;">
+        <div><label>Designation</label><input type="text" id="b-name" placeholder="e.g. Lone Star Patrol"/></div>
+        <div><label>Rating</label><input type="number" id="b-rating" min="1" max="15" value="4"/></div>
+        <div style="display:flex;align-items:flex-end;"><button class="btn" onclick="addRadio(true)">+ Add Radio</button></div>
+      </div>
+    </div>
+    <div id="form-advanced" style="display:none;">
+      <div class="entry-fields" style="grid-template-columns:2fr 55px 55px 55px 55px 80px;">
+        <div><label>Designation</label><input type="text" id="a-name" placeholder="e.g. TacComm"/></div>
+        <div><label>Rating</label><input type="number" id="a-rating" min="1" max="15" value="4"/></div>
+        <div><label>ECCM</label><input type="number" id="a-eccm" min="0" max="10" value="1"/></div>
+        <div><label>BE</label><input type="number" id="a-be" min="0" max="10" value="0"/></div>
+        <div><label>BD</label><input type="number" id="a-bd" min="0" max="8" value="0"/></div>
+        <div style="display:flex;align-items:flex-end;"><button class="btn" onclick="addRadio(false)">+ Add Radio</button></div>
+      </div>
+    </div>
+  </div>
+  <div id="form-cell" style="display:none;">
+    <div class="entry-fields" style="grid-template-columns:2fr 50px 50px 50px 50px 50px 80px;">
+      <div><label>Designation</label><input type="text" id="c-name" placeholder="e.g. Renraku Cell"/></div>
+      <div><label>ECCM</label><input type="number" id="c-eccm" min="0" max="10" value="1"/></div>
+      <div><label>BE</label><input type="number" id="c-be" min="0" max="10" value="0"/></div>
+      <div><label>BD</label><input type="number" id="c-bd" min="0" max="8" value="0"/></div>
+      <div><label>DE</label><input type="number" id="c-de" min="0" max="10" value="0"/></div>
+      <div><label>DD</label><input type="number" id="c-dd" min="0" max="8" value="0"/></div>
+      <div style="display:flex;align-items:flex-end;"><button class="btn" style="border-color:var(--sr-cyan-dim);color:var(--sr-cyan);background:var(--sr-cyan-dark);" onclick="addCellular()">+ Add Cell</button></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel">
+  <div class="sit-row">
+    <div class="sit-item" onclick="toggleSit('storm')"><div class="sit-dot neg-off" id="dot-storm"></div><span class="sit-lbl">Elec Storm</span><span class="sit-mod val-red">−2</span></div>
+    <div class="sit-item" onclick="toggleSit('humid')"><div class="sit-dot neg-off" id="dot-humid"></div><span class="sit-lbl">Humid</span><span class="sit-mod val-red">−0.5</span></div>
+    <div class="sit-item" onclick="toggleSit('urban')"><div class="sit-dot neg-off" id="dot-urban"></div><span class="sit-lbl">Urban</span><span class="sit-mod val-red">−1</span></div>
+    <div class="sit-summary" id="sit-summary" style="color:var(--sr-text-dim);">Global: +0</div>
+  </div>
+</div>
+
+<div class="panel">
+  <div class="panel-title">&#9635; Active Array</div>
+  <div id="radio-list"><div class="empty-state">— No devices on array —</div></div>
+</div>
+
+<div class="panel">
+  <div class="panel-title">&#9650; Operators</div>
+  <div class="add-row op">
+    <div><label>Operator Name</label><input type="text" id="op-name" placeholder="e.g. Ghost"/></div>
+    <div><label>EW Skill</label><input type="number" id="op-ew" min="1" max="12" value="4"/></div>
+    <div><label>Assigned Device</label><select id="op-radio"><option value="">— none —</option></select></div>
+    <div style="display:flex;align-items:flex-end;"><button class="btn" onclick="addOperator()">+ Add Op</button></div>
+  </div>
+  <div id="op-list"></div>
+</div>
+
+<div class="panel">
+  <div class="panel-title">&#9660; Operations</div>
+  <div class="op-mode-toggle">
+    <div class="op-mode-btn active-jam" id="opbtn-jam" onclick="setOpMode('jam')">&#9632; Jam</div>
+    <div class="op-mode-btn" id="opbtn-dec" onclick="setOpMode('dec')">&#9670; B.Dec</div>
+    <div class="op-mode-btn" id="opbtn-data" onclick="setOpMode('data')">&#9671; D.Dec</div>
+    <div class="op-mode-btn" id="opbtn-scan" onclick="setOpMode('scan')">&#9670; Scan</div>
+  </div>
+
+  <div id="panel-jam">
+    <div class="jam-grid">
+      <div class="jam-side">
+        <div class="jam-side-title atk">&#9650; Attacker</div>
+        <div class="jam-field"><label>ECM Rating</label><input type="number" id="atk-ecm" min="1" max="15" value="4" oninput="updateJamDefInfo()"/></div>
+        <div class="jam-field"><label>Operator</label><select id="atk-op" onchange="updateJamAtkInfo()"><option value="">— none —</option></select></div>
+        <div class="jam-info" id="atk-info"></div>
+      </div>
+      <div class="jam-side">
+        <div class="jam-side-title def">&#9660; Defender</div>
+        <div class="jam-field"><label>Target Device</label><select id="def-radio" onchange="updateJamDefInfo()"><option value="">— select —</option></select></div>
+        <div class="jam-info" id="def-info"></div>
+        <div class="jam-warn" id="def-warn"></div>
+      </div>
+    </div>
+    <button class="btn btn-red" onclick="rollJam()" style="width:100%;margin-bottom:8px;">&#9632; Execute Jamming Roll</button>
+    <div id="roll-result-jam"></div>
+  </div>
+
+  <div id="panel-dec" style="display:none;">
+    <div class="jam-grid">
+      <div class="jam-side">
+        <div class="jam-side-title atk-dec">&#9670; Attacker</div>
+        <div class="jam-field"><label>BD Rating</label><input type="number" id="atk-bd" min="1" max="8" value="4" oninput="updateDecInfo()"/></div>
+        <div class="jam-field"><label>Operator</label><select id="dec-op" onchange="updateDecInfo()"><option value="">— none —</option></select></div>
+        <div class="jam-info" id="dec-atk-info"></div>
+      </div>
+      <div class="jam-side">
+        <div class="jam-side-title def">&#9660; Target</div>
+        <div class="jam-field"><label>Target Device</label><select id="dec-radio" onchange="updateDecInfo()"><option value="">— select —</option></select></div>
+        <div class="jam-info" id="dec-def-info"></div>
+        <div class="jam-warn" id="dec-warn"></div>
+      </div>
+    </div>
+    <button class="btn btn-purple" onclick="rollDecrypt()" style="width:100%;margin-bottom:8px;">&#9670; Execute Broadcast Decryption</button>
+    <div id="roll-result-dec"></div>
+  </div>
+
+  <div id="panel-data" style="display:none;">
+    <div class="jam-grid">
+      <div class="jam-side">
+        <div class="jam-side-title atk-data">&#9671; Attacker</div>
+        <div class="jam-field"><label>Computer Skill</label><input type="number" id="atk-comp-skill" min="1" max="12" value="4" oninput="updateDataInfo()"/></div>
+        <div class="jam-field"><label>DD Rating</label><input type="number" id="atk-dd" min="0" max="8" value="0" oninput="updateDataInfo()"/></div>
+        <div class="jam-info" id="data-atk-info"></div>
+      </div>
+      <div class="jam-side">
+        <div class="jam-side-title def">&#9660; Target</div>
+        <div class="jam-field"><label>Target Device</label><select id="data-radio" onchange="updateDataInfo()"><option value="">— select —</option></select></div>
+        <div class="jam-info" id="data-def-info"></div>
+        <div class="jam-warn" id="data-warn"></div>
+      </div>
+    </div>
+    <button class="btn btn-teal" onclick="rollDataDecrypt()" style="width:100%;margin-bottom:8px;">&#9671; Execute Data Decryption</button>
+    <div id="roll-result-data"></div>
+  </div>
+
+  <div id="panel-scan" style="display:none;">
+    <div class="jam-grid">
+      <div class="jam-side">
+        <div class="jam-side-title atk-scan">&#9670; Scanner</div>
+        <div class="jam-field"><label>Scanner Rating</label><input type="number" id="scan-rating" min="1" max="15" value="4" oninput="updateScanInfo()"/></div>
+        <div class="jam-field"><label>EW Skill (comp)</label><input type="number" id="scan-ew" min="0" max="12" value="0" oninput="updateScanInfo()"/></div>
+        <div class="jam-info" id="scan-atk-info"></div>
+      </div>
+      <div class="jam-side">
+        <div class="jam-side-title def">&#9660; Target Band</div>
+        <div class="jam-field"><label>Reference Device</label><select id="scan-radio" onchange="updateScanInfo()"><option value="">— select —</option></select></div>
+        <div class="jam-info" id="scan-def-info"></div>
+        <div class="jam-warn" id="scan-warn"></div>
+      </div>
+    </div>
+    <button class="btn btn-gold" onclick="rollScan()" style="width:100%;margin-bottom:8px;">&#9670; Execute Scan Roll</button>
+    <div id="roll-result-scan"></div>
+  </div>
+</div>
+
+<script>
+const RANGE_TABLE=[250,1000,2000,4000,6000,9000,12000,16000,20000,25000];
+function fluxToRange(ef){
+  if(ef<=0)return 250;
+  const lo=Math.floor(ef),hi=Math.ceil(ef);
+  if(lo===hi){if(ef>=RANGE_TABLE.length)return(2*ef+10)*1000;return RANGE_TABLE[ef];}
+  const rLo=lo<RANGE_TABLE.length?RANGE_TABLE[lo]:(2*lo+10)*1000;
+  const rHi=hi<RANGE_TABLE.length?RANGE_TABLE[hi]:(2*hi+10)*1000;
+  return(rLo+rHi)/2;
+}
+function fmtRange(m){if(m<1000)return m+' m';const km=m/1000;return(Number.isInteger(km)?km:km.toFixed(1))+' km';}
+function fluxColor(f,r){const v=r>0?f/r:0;if(v>0.7)return'#33ff66';if(v>0.4)return'#ffaa00';return'#ff3333';}
+function fmtTime(mins){
+  if(mins<1)return Math.round(mins*60)+' sec';
+  const h=Math.floor(mins/60),m=Math.round(mins%60);
+  return h>0?`${h}h ${m}m`:`${m} min`;
+}
+const SITMODS={storm:-2,humid:-0.5,urban:-1};
+const sitState={storm:false,humid:false,urban:false};
+let devices=[],operators=[],entryType='radio',entryMode='basic',opMode='jam';
+let scanResult=null;
+
+function setType(t){
+  entryType=t;
+  document.getElementById('form-radio').style.display=t==='radio'?'':'none';
+  document.getElementById('form-cell').style.display=t==='cell'?'':'none';
+  document.getElementById('tbtn-radio').className='type-btn'+(t==='radio'?' active-radio':'');
+  document.getElementById('tbtn-cell').className='type-btn'+(t==='cell'?' active-cell':'');
+}
+function setMode(m){
+  entryMode=m;
+  document.getElementById('form-basic').style.display=m==='basic'?'':'none';
+  document.getElementById('form-advanced').style.display=m==='advanced'?'':'none';
+  document.getElementById('btn-basic').classList.toggle('active',m==='basic');
+  document.getElementById('btn-advanced').classList.toggle('active',m==='advanced');
+}
+function setOpMode(m){
+  opMode=m;
+  ['jam','dec','data','scan'].forEach(x=>{
+    document.getElementById('panel-'+x).style.display=m===x?'':'none';
+    document.getElementById('opbtn-'+x).className='op-mode-btn'+(m===x?' active-'+x:'');
+  });
+  if(m==='jam'){updateJamAtkInfo();updateJamDefInfo();}
+  else if(m==='dec')updateDecInfo();
+  else if(m==='data')updateDataInfo();
+  else updateScanInfo();
+}
+function addRadio(basic){
+  const nameEl=document.getElementById(basic?'b-name':'a-name');
+  const name=nameEl.value.trim()||('Radio-'+(devices.filter(d=>d.type==='radio').length+1));
+  const rating=Math.max(1,Math.min(15,parseInt(document.getElementById(basic?'b-rating':'a-rating').value)||4));
+  const eccm=basic?1:Math.max(0,Math.min(10,parseInt(document.getElementById('a-eccm').value)||0));
+  const be=basic?0:Math.max(0,Math.min(10,parseInt(document.getElementById('a-be').value)||0));
+  const bd=basic?0:Math.max(0,Math.min(8,parseInt(document.getElementById('a-bd').value)||0));
+  devices.push({id:Date.now(),type:'radio',name,rating,eccm,be,bd,de:0,dd:0,pa:0,vp:0,eccmOn:false,encOn:false,elevOn:false,basic});
+  nameEl.value='';renderAll();
+}
+function addCellular(){
+  const nameEl=document.getElementById('c-name');
+  const name=nameEl.value.trim()||('Cell-'+(devices.filter(d=>d.type==='cell').length+1));
+  const eccm=Math.max(0,Math.min(10,parseInt(document.getElementById('c-eccm').value)||1));
+  const be=Math.max(0,Math.min(10,parseInt(document.getElementById('c-be').value)||0));
+  const bd=Math.max(0,Math.min(8,parseInt(document.getElementById('c-bd').value)||0));
+  const de=Math.max(0,Math.min(10,parseInt(document.getElementById('c-de').value)||0));
+  const dd=Math.max(0,Math.min(8,parseInt(document.getElementById('c-dd').value)||0));
+  devices.push({id:Date.now(),type:'cell',name,rating:2,eccm,be,bd,de,dd,pa:0,vp:0,eccmOn:false,encOn:false,elevOn:false});
+  nameEl.value='';renderAll();
+}
+function calcFlux(d){let f=d.rating;if(d.eccm>0&&d.eccmOn)f-=0.5*d.eccm;if(d.encOn)f-=0.5;return Math.max(0,f);}
+function calcEffFlux(d,gm){let ef=calcFlux(d);if(d.elevOn)ef+=4;ef+=(d.pa||0)+(d.vp||0)+gm;return Math.max(0,ef);}
+function getGlobalMod(){let m=0;for(const k in sitState)if(sitState[k])m+=SITMODS[k];return m;}
+function toggleSit(key){sitState[key]=!sitState[key];document.getElementById('dot-'+key).className='sit-dot '+(sitState[key]?'neg-on':'neg-off');renderAll();}
+function toggleEccm(id){const d=devices.find(x=>x.id===id);if(d&&d.eccm>0){d.eccmOn=!d.eccmOn;renderAll();}}
+function toggleEnc(id){const d=devices.find(x=>x.id===id);if(d){d.encOn=!d.encOn;renderAll();}}
+function toggleElev(id){const d=devices.find(x=>x.id===id);if(d){d.elevOn=!d.elevOn;renderAll();}}
+function removeDevice(id){devices=devices.filter(x=>x.id!==id);renderAll();}
+function updatePA(id,val){const d=devices.find(x=>x.id===id);if(d){d.pa=Math.max(0,parseInt(val)||0);renderAll();}}
+function updateVP(id,val){const d=devices.find(x=>x.id===id);if(d){d.vp=Math.max(0,parseInt(val)||0);renderAll();}}
+function addOperator(){
+  const nameEl=document.getElementById('op-name');
+  const name=nameEl.value.trim()||('Op-'+(operators.length+1));
+  const ew=Math.max(1,Math.min(12,parseInt(document.getElementById('op-ew').value)||4));
+  const radioId=document.getElementById('op-radio').value||null;
+  operators.push({id:Date.now(),name,ew,radioId});
+  nameEl.value='';renderAll();
+}
+function removeOperator(id){operators=operators.filter(x=>x.id!==id);renderAll();}
+function rollD6(){return Math.floor(Math.random()*6)+1;}
+function rollWithRuleOfSix(){
+  let total=rollD6(),rolls=[total];
+  while(rolls[rolls.length-1]===6){const r=rollD6();rolls.push(r);total+=r;}
+  return{total,rolls};
+}
+function rollPool(n,tn){
+  const res=[];
+  for(let i=0;i<n;i++){const{total,rolls}=rollWithRuleOfSix();res.push({total,rolls,success:total>=tn});}
+  return res;
+}
+function countSuc(res){return res.filter(r=>r.success).length;}
+function getAtkOp(){const v=document.getElementById('atk-op').value;return v?operators.find(o=>String(o.id)===v):null;}
+function getDefDevice(){const v=document.getElementById('def-radio').value;return v?devices.find(d=>String(d.id)===v):null;}
+function getDeviceOp(dev){if(!dev)return null;return operators.find(o=>String(o.radioId)===String(dev.id))||null;}
+function updateJamAtkInfo(){
+  const ecm=parseInt(document.getElementById('atk-ecm').value)||0;
+  const op=getAtkOp();const ew=op?op.ew:0;
+  const defD=getDefDevice();const tn=defD&&defD.eccm>0?defD.eccm:'?';
+  document.getElementById('atk-info').innerHTML=`Main: <span>${ecm}</span> dice (ECM) vs TN <span>${tn}</span><br>Comp: <span>${ew}</span> EW → <span>${Math.floor(ew/2)}</span> eff suc${op?' <span style="color:var(--sr-text-dim)">('+op.name+')</span>':''}`;
+}
+function updateJamDefInfo(){
+  const d=getDefDevice();
+  const wE=document.getElementById('def-warn'),iE=document.getElementById('def-info');
+  if(!d){iE.innerHTML='';wE.innerHTML='';updateJamAtkInfo();return;}
+  if(d.eccm===0){iE.innerHTML='';wE.innerHTML='&#9888; ECCM 0 — auto-fails jamming defense';}
+  else{wE.innerHTML='';const op=getDeviceOp(d);const ew=op?op.ew:0;const atkEcm=parseInt(document.getElementById('atk-ecm').value)||0;
+    iE.innerHTML=`Main: <span>${d.eccm}</span> dice (ECCM) vs TN <span>${atkEcm}</span><br>Comp: <span>${ew}</span> EW → <span>${Math.floor(ew/2)}</span> eff suc${op?' <span style="color:var(--sr-text-dim)">('+op.name+')</span>':' <span style="color:var(--sr-text-dim)">(no op)</span>'}`;
+  }updateJamAtkInfo();
+}
+function rollJam(){
+  const atkEcm=parseInt(document.getElementById('atk-ecm').value)||0;
+  const atkOp=getAtkOp();const atkEw=atkOp?atkOp.ew:0;
+  const defDev=getDefDevice();
+  if(!defDev){document.getElementById('roll-result-jam').innerHTML='<div class="empty-state">Select a target device.</div>';return;}
+  if(defDev.eccm===0){document.getElementById('roll-result-jam').innerHTML=`<div class="roll-result"><div class="roll-outcome jam">&#9632; AUTO-JAMMED</div><div style="font-size:11px;text-align:center;color:var(--sr-red);margin-top:6px;">${defDev.name} has ECCM 0</div></div>`;return;}
+  const defOp=getDeviceOp(defDev);const defEw=defOp?defOp.ew:0;const defEccm=defDev.eccm;
+  const atkTn=Math.max(2,defEccm),defTn=Math.max(2,atkEcm);
+  const atkMain=rollPool(atkEcm,atkTn),atkComp=rollPool(atkEw,atkTn);
+  const defMain=rollPool(defEccm,defTn),defComp=rollPool(defEw,defTn);
+  const atkTotal=countSuc(atkMain)+Math.floor(countSuc(atkComp)/2);
+  const defTotal=countSuc(defMain)+Math.floor(countSuc(defComp)/2);
+  const net=atkTotal-defTotal;const jammed=net>=1,tied=net===0;
+  const oc=jammed?'jam':tied?'tie':'hold';const ot=jammed?'&#9632; JAMMED':tied?'&#9650; NO EFFECT':'&#9650; SIGNAL HELD';
+  document.getElementById('roll-result-jam').innerHTML=`<div class="roll-result"><div class="roll-outcome ${oc}">${ot}</div><div class="roll-summary"><div class="roll-side"><div class="roll-side-lbl atk">Attacker${atkOp?' — '+atkOp.name:''}</div><div class="roll-stat">Main: <span>${atkEcm}d vs TN ${atkTn} → ${countSuc(atkMain)} suc</span></div><div class="roll-stat">Comp: <span>${atkEw}d → ${Math.floor(countSuc(atkComp)/2)} eff suc</span></div><div class="roll-stat">Total: <span>${atkTotal}</span></div></div><div class="roll-side"><div class="roll-side-lbl def">Defender — ${defDev.name}</div><div class="roll-stat">Main: <span>${defEccm}d vs TN ${defTn} → ${countSuc(defMain)} suc</span></div><div class="roll-stat">Comp: <span>${defEw}d → ${Math.floor(countSuc(defComp)/2)} eff suc</span></div><div class="roll-stat">Total: <span>${defTotal}</span></div></div></div><div style="font-size:11px;text-align:center;color:${jammed?'var(--sr-red)':tied?'var(--sr-amber)':'var(--sr-green)'};">Net: ${net>0?'+':''}${net} &nbsp;|&nbsp; ${jammed?'Offense wins by '+net:tied?'Tie — no effect':'Defense holds by '+Math.abs(net)}</div><button class="expand-btn" onclick="toggleDetail(this)">&#9660; Show Dice</button><div class="dice-detail">${diceBlock('Attacker Main — ECM ('+atkEcm+'d TN '+atkTn+')',atkMain,atkTn,'jam')}${atkEw>0?diceBlock('Attacker Comp — EW ('+atkEw+'d TN '+atkTn+')',atkComp,atkTn,'jam'):''}${diceBlock('Defender Main — ECCM ('+defEccm+'d TN '+defTn+')',defMain,defTn,'jam')}${defEw>0?diceBlock('Defender Comp — EW ('+defEw+'d TN '+defTn+')',defComp,defTn,'jam'):''}</div></div>`;
+}
+function getDecOp(){const v=document.getElementById('dec-op').value;return v?operators.find(o=>String(o.id)===v):null;}
+function getDecTarget(){const v=document.getElementById('dec-radio').value;return v?devices.find(d=>String(d.id)===v):null;}
+function updateDecInfo(){
+  const bd=parseInt(document.getElementById('atk-bd').value)||0;const op=getDecOp();const ew=op?op.ew:0;const tgt=getDecTarget();
+  const wE=document.getElementById('dec-warn'),dE=document.getElementById('dec-def-info');
+  if(!tgt){dE.innerHTML='';wE.innerHTML='';}
+  else if(tgt.be===0){dE.innerHTML='';wE.innerHTML='&#9888; BE 0 — no encryption to crack';}
+  else{wE.innerHTML='';const tn=tgt.be+4;const minSuc=Math.ceil(tgt.be/2);dE.innerHTML=`BE: <span>${tgt.be}</span> &nbsp; TN: <span>${tn}</span><br>Min suc: <span>${minSuc}</span> &nbsp; Base time: <span>${tgt.be*5} min</span>`;}
+  const tn=tgt&&tgt.be>0?tgt.be+4:'?';
+  document.getElementById('dec-atk-info').innerHTML=`Main: <span>${bd}</span> dice (BD) vs TN <span>${tn}</span><br>Comp: <span>${ew}</span> EW → <span>${Math.floor(ew/2)}</span> eff suc${op?' <span style="color:var(--sr-text-dim)">('+op.name+')</span>':''}`;
+}
+function rollDecrypt(){
+  const bd=parseInt(document.getElementById('atk-bd').value)||0;const op=getDecOp();const ew=op?op.ew:0;
+  const tgt=getDecTarget();const resEl=document.getElementById('roll-result-dec');
+  if(!tgt){resEl.innerHTML='<div class="empty-state">Select a target device.</div>';return;}
+  if(tgt.be===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9670; NO ENCRYPTION</div></div>`;return;}
+  if(bd===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9670; NO BD RATING</div></div>`;return;}
+  const tn=tgt.be+4;const minSuc=Math.ceil(tgt.be/2);const timeBase=tgt.be*5;
+  const mainR=rollPool(bd,tn);const compR=rollPool(ew,tn);
+  const mainSuc=countSuc(mainR);const compSuc=Math.floor(countSuc(compR)/2);
+  const totalSuc=mainSuc+compSuc;const cracked=totalSuc>=minSuc;
+  const extraSuc=cracked?totalSuc-minSuc:0;const timeMins=cracked?Math.round(timeBase/Math.max(1,extraSuc)):null;
+  resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome ${cracked?'cracked':'failed'}">${cracked?'&#9670; ENCRYPTION CRACKED':'&#9670; DECRYPTION FAILED'}</div><div class="roll-summary"><div class="roll-side"><div class="roll-side-lbl atk-dec">Attacker${op?' — '+op.name:''}</div><div class="roll-stat">Main: <span>${bd}d vs TN ${tn} → ${mainSuc} suc</span></div><div class="roll-stat">Comp: <span>${ew}d → ${compSuc} eff suc</span></div><div class="roll-stat">Total: <span>${totalSuc}</span> (need ${minSuc})</div></div><div class="roll-side"><div class="roll-side-lbl def">Target — ${tgt.name}</div><div class="roll-stat">BE: <span>${tgt.be}</span> &nbsp; TN: <span>${tn}</span></div><div class="roll-stat">Min suc: <span>${minSuc}</span></div><div class="roll-stat">${cracked?'Extra suc: <span>'+extraSuc+'</span>':'Short by: <span>'+(minSuc-totalSuc)+'</span>'}</div></div></div>${cracked?`<div class="roll-time purple">&#9670; Time to crack: ${fmtTime(timeMins)} &nbsp;|&nbsp; ${timeBase}min ÷ ${Math.max(1,extraSuc)} extra suc</div>`:`<div style="font-size:11px;text-align:center;color:var(--sr-red);margin-top:4px;">Needed ${minSuc} — achieved ${totalSuc}</div>`}<button class="expand-btn" onclick="toggleDetail(this)">&#9660; Show Dice</button><div class="dice-detail">${diceBlock('Attacker Main — BD ('+bd+'d TN '+tn+')',mainR,tn,'dec')}${ew>0?diceBlock('Attacker Comp — EW ('+ew+'d TN '+tn+')',compR,tn,'dec'):''}</div></div>`;
+}
+function getDataTarget(){const v=document.getElementById('data-radio').value;return v?devices.find(d=>String(d.id)===v):null;}
+function updateDataInfo(){
+  const cs=parseInt(document.getElementById('atk-comp-skill').value)||0;const dd=parseInt(document.getElementById('atk-dd').value)||0;const tgt=getDataTarget();
+  const wE=document.getElementById('data-warn'),dE=document.getElementById('data-def-info');
+  if(!tgt){dE.innerHTML='';wE.innerHTML='';}
+  else if(tgt.de===0){dE.innerHTML='';wE.innerHTML='&#9888; DE 0 — no data encryption';}
+  else{wE.innerHTML='';const tn=Math.max(2,tgt.de-dd);dE.innerHTML=`DE: <span>${tgt.de}</span> &nbsp; TN: <span>${tn}</span>${tn===2?' (floored)':''}<br>Time: <span>10 min ÷ successes</span>`;}
+  const tgt2=getDataTarget();const tn=tgt2&&tgt2.de>0?Math.max(2,tgt2.de-dd):'?';
+  document.getElementById('data-atk-info').innerHTML=`Pool: <span>${cs}</span> dice (Computer) vs TN <span>${tn}</span><br>DD Rating: <span>${dd}</span> reduces TN`;
+}
+function rollDataDecrypt(){
+  const cs=parseInt(document.getElementById('atk-comp-skill').value)||0;const dd=parseInt(document.getElementById('atk-dd').value)||0;
+  const tgt=getDataTarget();const resEl=document.getElementById('roll-result-data');
+  if(!tgt){resEl.innerHTML='<div class="empty-state">Select a target device.</div>';return;}
+  if(tgt.de===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9671; NO DATA ENCRYPTION</div></div>`;return;}
+  if(cs===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9671; NO COMPUTER SKILL</div></div>`;return;}
+  const tn=Math.max(2,tgt.de-dd);const rolls=rollPool(cs,tn);const suc=countSuc(rolls);const cracked=suc>=1;
+  const timeMins=cracked?10/suc:null;const timeDisp=cracked?(timeMins<1?Math.round(timeMins*60)+' sec':Math.round(timeMins)+' min'):null;
+  resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome ${cracked?'data-cracked':'failed'}">${cracked?'&#9671; DATA ACCESSED':'&#9671; ACCESS DENIED'}</div><div class="roll-summary"><div class="roll-side"><div class="roll-side-lbl atk-data">Attacker</div><div class="roll-stat">Pool: <span>${cs}d vs TN ${tn}</span></div><div class="roll-stat">Successes: <span>${suc}</span></div></div><div class="roll-side"><div class="roll-side-lbl def">Target — ${tgt.name}</div><div class="roll-stat">DE: <span>${tgt.de}</span> &nbsp; TN: <span>${tn}</span></div><div class="roll-stat">${cracked?'Time: <span>10÷'+suc+'</span>':'<span style=\'color:var(--sr-red)\'>0 successes</span>'}</div></div></div>${cracked?`<div class="roll-time teal">&#9671; Access time: ${timeDisp} &nbsp;|&nbsp; 10min ÷ ${suc} suc</div>`:`<div style="font-size:11px;text-align:center;color:var(--sr-red);margin-top:4px;">Access denied</div>`}<button class="expand-btn" onclick="toggleDetail(this)">&#9660; Show Dice</button><div class="dice-detail">${diceBlock('Computer Skill ('+cs+'d TN '+tn+')',rolls,tn,'data')}</div></div>`;
+}
+function getScanRef(){const v=document.getElementById('scan-radio').value;return v?devices.find(d=>String(d.id)===v):null;}
+function updateScanInfo(){
+  const sr=parseInt(document.getElementById('scan-rating').value)||0;const ew=parseInt(document.getElementById('scan-ew').value)||0;const ref=getScanRef();
+  const wE=document.getElementById('scan-warn'),dE=document.getElementById('scan-def-info');
+  if(!ref){dE.innerHTML='';wE.innerHTML='';}
+  else{wE.innerHTML='';const tn=ref.rating+3;dE.innerHTML=`Device Rating: <span>${ref.rating}</span> &nbsp; TN: <span>${tn}</span><br>Reveal: <span>enc → count → rating → eccm → channels → full</span>`;}
+  const tn=ref?ref.rating+3:'?';
+  document.getElementById('scan-atk-info').innerHTML=`Main: <span>${sr}</span> dice (Scanner) vs TN <span>${tn}</span><br>Comp: <span>${ew}</span> EW → <span>${Math.floor(ew/2)}</span> eff suc`;
+}
+function rollScan(){
+  const sr=parseInt(document.getElementById('scan-rating').value)||0;const ew=parseInt(document.getElementById('scan-ew').value)||0;const ref=getScanRef();
+  const resEl=document.getElementById('roll-result-scan');
+  if(!ref){resEl.innerHTML='<div class="empty-state">Select a reference device.</div>';return;}
+  if(sr===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9670; NO SCANNER RATING</div></div>`;return;}
+  const tn=ref.rating+3;const mainR=rollPool(sr,tn);const compR=rollPool(ew,tn);
+  const mainSuc=countSuc(mainR);const compSuc=Math.floor(countSuc(compR)/2);const totalSuc=mainSuc+compSuc;
+  scanResult={totalSuc,mainR,compR,mainSuc,compSuc,tn,ref,ew,sr};
+  if(totalSuc===0){resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome failed">&#9670; NO SIGNAL ACQUIRED</div><div style="font-size:11px;text-align:center;color:var(--sr-text-dim);margin-top:6px;">0 successes — no signal on this band</div><button class="expand-btn" onclick="toggleDetail(this)">&#9660; Show Dice</button><div class="dice-detail">${diceBlock('Scanner Main ('+sr+'d TN '+tn+')',mainR,tn,'scan')}${ew>0?diceBlock('Scanner Comp — EW ('+ew+'d TN '+tn+')',compR,tn,'scan'):''}</div></div>`;return;}
+  renderScanAlloc();
+}
+function renderScanAlloc(){
+  if(!scanResult)return;
+  const {totalSuc,mainR,compR,mainSuc,compSuc,tn,ref,ew,sr}=scanResult;
+  const resEl=document.getElementById('roll-result-scan');
+  const maxFinds=Math.min(totalSuc,5);const curFinds=Math.min(maxFinds,Math.floor(maxFinds/2)||1);
+  resEl.innerHTML=`<div class="roll-result"><div class="roll-outcome scan-hit">&#9670; SIGNAL ACQUIRED</div><div class="roll-summary"><div class="roll-side"><div class="roll-side-lbl atk-scan">Scanner R${sr}</div><div class="roll-stat">Main: <span>${sr}d vs TN ${tn} → ${mainSuc} suc</span></div><div class="roll-stat">Comp: <span>${ew}d → ${compSuc} eff suc</span></div><div class="roll-stat">Total: <span>${totalSuc}</span></div></div><div class="roll-side"><div class="roll-side-lbl def">Band — ${ref.name}</div><div class="roll-stat">Ref rating: <span>${ref.rating}</span> &nbsp; TN: <span>${tn}</span></div><div class="roll-stat">Enc. free: <span>${ref.be>0?'YES — encrypted':'NO — listen now'}</span></div></div></div><div class="scan-alloc"><div class="scan-alloc-title">&#9670; Allocate Successes</div><div class="alloc-row"><span class="alloc-label">Finds</span><input type="range" class="alloc-slider" id="alloc-slider" min="0" max="${maxFinds}" value="${curFinds}" step="1" oninput="updateAllocDisplay()"/><span class="alloc-val val-gold" id="alloc-finds">${curFinds}</span></div><div style="display:flex;justify-content:space-between;font-size:10px;color:var(--sr-text-dim);margin-bottom:8px;"><span>Time suc: <span id="alloc-time-suc" style="color:var(--sr-gold)">${totalSuc-curFinds}</span></span><span id="alloc-time-disp" style="color:var(--sr-gold)"></span></div><div class="reveal-list" id="reveal-list"></div>${ref.be===0?'<div class="listen-notice">&#9670; No encryption — can listen immediately</div>':''}</div><button class="expand-btn" onclick="toggleDetail(this)">&#9660; Show Dice</button><div class="dice-detail">${diceBlock('Scanner Main ('+sr+'d TN '+tn+')',mainR,tn,'scan')}${ew>0?diceBlock('Scanner Comp — EW ('+ew+'d TN '+tn+')',compR,tn,'scan'):''}</div></div>`;
+  updateAllocDisplay();
+}
+function updateAllocDisplay(){
+  if(!scanResult)return;
+  const {totalSuc,ref}=scanResult;
+  const finds=parseInt(document.getElementById('alloc-slider').value)||0;
+  const timeSuc=totalSuc-finds;
+  document.getElementById('alloc-finds').textContent=finds;
+  document.getElementById('alloc-time-suc').textContent=timeSuc;
+  const timeMins=timeSuc>0?30/timeSuc:30;
+  document.getElementById('alloc-time-disp').textContent=timeSuc>0?'Scan time: '+fmtTime(timeMins):'Scan time: 30 min (base)';
+  const tierDefs=[
+    {label:'Encryption present',value:ref.be>0?'YES — encrypted':'NO — unencrypted'},
+    {label:'Number of devices on band',value:devices.filter(d=>d.rating===ref.rating).length+' device(s) detected'},
+    {label:'Device Rating',value:'Rating '+ref.rating},
+    {label:'ECCM present',value:ref.eccm>0?'ECCM Rating '+ref.eccm:'No ECCM'},
+    {label:'Channel count',value:(ref.rating*2)+' channels'},
+    {label:'Full stats',value:`R${ref.rating} ECCM${ref.eccm} BE${ref.be} BD${ref.bd}`},
+  ];
+  let html='';
+  tierDefs.forEach((t,i)=>{
+    const free=i===0;const unlocked=free||(i<=finds);
+    const badgeCls=free?'badge-free':unlocked?'badge-unlocked':'badge-locked';
+    const badgeLabel=free?'FREE':unlocked?'✓':'—';
+    const tierCls=free?'tier-free':unlocked?'tier-unlocked':'tier-locked';
+    html+=`<div class="reveal-tier"><span class="tier-cost ${tierCls}">${free?'★':i}</span><div class="tier-content"><span class="tier-badge ${badgeCls}">${badgeLabel}</span><span style="color:${unlocked?'var(--sr-text)':'var(--sr-text-dim)'}">${t.label}</span>${unlocked?`<br><span style="color:${free?'var(--sr-green)':'var(--sr-gold)'};font-size:10px;">&nbsp;&nbsp;&nbsp;↳ ${t.value}</span>`:''}</div></div>`;
+  });
+  document.getElementById('reveal-list').innerHTML=html;
+}
+function diceBlock(label,results,tn,type){
+  if(!results.length)return'';
+  const sucClass=type==='dec'?'suc-dec':type==='data'?'suc-data':type==='scan'?'suc-scan':'suc';
+  const pills=results.map(r=>{const cls=r.success?sucClass:r.rolls.length>1?'six':'fail';return`<span class="die ${cls}" title="${r.rolls.join('→')}">${r.total}</span>`;}).join('');
+  return`<div class="dice-row-block"><div class="dice-row-lbl">${label}</div><div class="dice-pills">${pills}</div></div>`;
+}
+function toggleDetail(btn){const det=btn.nextElementSibling;det.classList.toggle('open');btn.textContent=det.classList.contains('open')?'▲ Hide Dice':'▼ Show Dice';}
+function populateSelects(){
+  const ids=['def-radio','dec-radio','data-radio','scan-radio','op-radio'];
+  const vals=ids.map(id=>document.getElementById(id).value);
+  document.getElementById('def-radio').innerHTML='<option value="">— select —</option>';
+  document.getElementById('dec-radio').innerHTML='<option value="">— select —</option>';
+  document.getElementById('data-radio').innerHTML='<option value="">— select —</option>';
+  document.getElementById('scan-radio').innerHTML='<option value="">— select —</option>';
+  document.getElementById('op-radio').innerHTML='<option value="">— none —</option>';
+  devices.forEach(d=>{
+    const tag=d.type==='cell'?' [Cell]':'';
+    document.getElementById('def-radio').innerHTML+=`<option value="${d.id}">${d.name}${tag}${d.eccm===0?' ⚠':''}</option>`;
+    document.getElementById('dec-radio').innerHTML+=`<option value="${d.id}">${d.name}${tag}${d.be===0?' [no BE]':''}</option>`;
+    document.getElementById('data-radio').innerHTML+=`<option value="${d.id}">${d.name}${tag}${d.de===0?' [no DE]':''}</option>`;
+    document.getElementById('scan-radio').innerHTML+=`<option value="${d.id}">${d.name}${tag}</option>`;
+    document.getElementById('op-radio').innerHTML+=`<option value="${d.id}">${d.name}${tag}</option>`;
+  });
+  const atkOpSel=document.getElementById('atk-op');const decOpSel=document.getElementById('dec-op');
+  const aov=atkOpSel.value,dov=decOpSel.value;
+  atkOpSel.innerHTML='<option value="">— none —</option>';decOpSel.innerHTML='<option value="">— none —</option>';
+  operators.forEach(o=>{atkOpSel.innerHTML+=`<option value="${o.id}">${o.name} (EW ${o.ew})</option>`;decOpSel.innerHTML+=`<option value="${o.id}">${o.name} (EW ${o.ew})</option>`;});
+  ids.forEach((id,i)=>{if(vals[i])document.getElementById(id).value=vals[i];});
+  if(aov)atkOpSel.value=aov;if(dov)decOpSel.value=dov;
+  updateJamAtkInfo();updateJamDefInfo();updateDecInfo();updateDataInfo();updateScanInfo();
+}
+function renderSitSummary(){
+  const mod=getGlobalMod();const col=mod>0?'#33ff66':mod<0?'#ff3333':'#4a7a4a';const sign=mod>=0?'+':'';
+  document.getElementById('sit-summary').innerHTML=`<span style="color:${col}">Global: ${sign}${mod}</span>`;
+}
+function dv(v){return v===0?'<span class="val-dim">—</span>':'<span class="val-amber">'+v+'</span>';}
+function renderOpList(){
+  const el=document.getElementById('op-list');if(!operators.length){el.innerHTML='';return;}
+  let html='<table class="op-grid"><thead><tr><th>Operator</th><th>EW</th><th>Assigned Device</th><th></th></tr></thead><tbody>';
+  operators.forEach(o=>{const d=devices.find(x=>String(x.id)===String(o.radioId));html+=`<tr><td class="val-green">${o.name}</td><td class="val-amber">${o.ew}</td><td class="val-dim">${d?d.name:'—'}</td><td><button class="btn btn-red btn-sm" onclick="removeOperator(${o.id})">✕</button></td></tr>`;});
+  html+='</tbody></table>';el.innerHTML=html;
+}
+function renderAll(){
+  renderSitSummary();populateSelects();renderOpList();
+  const gm=getGlobalMod();const el=document.getElementById('radio-list');
+  if(!devices.length){el.innerHTML='<div class="empty-state">— No devices on array —</div>';return;}
+  const hasAdv=devices.some(d=>d.type==='radio'&&!d.basic);const hasCell=devices.some(d=>d.type==='cell');
+  let html='<table class="radio-grid"><thead><tr>';
+  html+='<th style="text-align:left">Designation</th><th>Rtg</th><th>Ch</th>';
+  if(hasAdv)html+='<th>ECCM</th><th>BE</th><th>BD</th>';
+  if(hasCell)html+='<th>DE</th><th>DD</th>';
+  html+='<th>ECCM</th><th>Enc</th><th>Elev</th><th>PA</th><th>VPwr</th><th>Flux</th><th>Eff.F</th><th>Range</th><th></th>';
+  html+='</tr></thead><tbody>';
+  function deviceRow(d){
+    const flux=calcFlux(d);const effFlux=calcEffFlux(d,gm);const fc=fluxColor(flux,d.rating);
+    const efc=effFlux>flux?'#33ff66':effFlux<flux?'#ffaa00':fc;
+    const fd=flux%1===0?flux.toFixed(0):flux.toFixed(1);const ed=effFlux%1===0?effFlux.toFixed(0):effFlux.toFixed(1);
+    const eccmTog=d.eccm===0?'<span class="val-dim">—</span>':`<span class="toggle ${d.eccmOn?'on':''}" onclick="toggleEccm(${d.id})">${d.eccmOn?'ON':'OFF'}</span>`;
+    const nc=d.type==='cell'?'val-cyan':'val-green';
+    const ct=d.type==='cell'?'<span class="cell-tag">CELL</span>':'';
+    const nt=d.eccm===0?'<span class="no-eccm-tag">NO ECCM</span>':'';
+    return`<tr><td style="text-align:left"><span class="${nc}">${d.name}</span>${ct}${nt}</td><td class="val-dim">${d.type==='cell'?'—':d.rating}</td><td class="val-dim">${d.rating*2}</td>${hasAdv?`<td>${d.basic?'<span class="val-dim">—</span>':dv(d.eccm)}</td><td>${d.basic?'<span class="val-dim">—</span>':dv(d.be)}</td><td>${d.basic?'<span class="val-dim">—</span>':dv(d.bd)}</td>`:''} ${hasCell?`<td>${d.type==='cell'?dv(d.de):'<span class="val-dim">—</span>'}</td><td>${d.type==='cell'?dv(d.dd):'<span class="val-dim">—</span>'}</td>`:''}<td>${eccmTog}</td><td><span class="toggle ${d.encOn?'enc-on':''}" onclick="toggleEnc(${d.id})">${d.encOn?'ON':'OFF'}</span></td><td><span class="toggle ${d.elevOn?'elev-on':''}" onclick="toggleElev(${d.id})">${d.elevOn?'+4':'—'}</span></td><td><input type="text" class="inline-txt" value="${d.pa||''}" placeholder="—" oninput="updatePA(${d.id},this.value)"/></td><td><input type="text" class="inline-txt" value="${d.vp||''}" placeholder="—" oninput="updateVP(${d.id},this.value)"/></td><td style="color:${fc};font-weight:bold;">${fd}</td><td style="color:${efc};font-weight:bold;">${ed}</td><td style="color:${efc};">${fmtRange(fluxToRange(effFlux))}</td><td><button class="btn btn-red btn-sm" onclick="removeDevice(${d.id})">✕</button></td></tr>`;
+  }
+  const radios=devices.filter(d=>d.type==='radio');const cells=devices.filter(d=>d.type==='cell');
+  const basics=radios.filter(r=>r.basic),advs=radios.filter(r=>!r.basic);
+  if(radios.length){
+    if(basics.length&&advs.length)html+=`<tr class="sect-div"><td colspan="20">— Basic Radios —</td></tr>`;
+    basics.forEach(r=>{html+=deviceRow(r);});
+    if(basics.length&&advs.length)html+=`<tr class="sect-div"><td colspan="20">— Advanced Radios —</td></tr>`;
+    advs.forEach(r=>{html+=deviceRow(r);});
+  }
+  if(cells.length){if(radios.length)html+=`<tr class="sect-div"><td colspan="20">— Cellular —</td></tr>`;cells.forEach(c=>{html+=deviceRow(c);});}
+  html+='</tbody></table>';el.innerHTML=html;
+}
+renderAll();
+</script>
+</body>
+</html>
