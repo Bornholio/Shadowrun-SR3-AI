@@ -1,0 +1,58 @@
+Deck Programs,Type,Notes,SC,OC,R
+Armor 6,Defensive,"Optimized, Stored as 1-6 on chip",546,54,6
+Cloak 6,Defensive,"Optimized, Stored as 1-6 on chip",546,54,6
+Lock-On 6,Defensive,"Optimized, Stored as 1-6 on chip",546,54,6
+Medic 6,Defensive,"Optimized, Stored as 1-6 on chip",728,72,6
+Restore 6,Defensive,"Optimized, Stored as 1-6 on chip",546,54,6
+Shield 6,Defensive,"Optimized, Stored as 1-6 on chip",728,72,6
+Agent Frame Core 6 (Blank),Frame/Agent,"FP 36 P6 IB1  UP21 BEMS-2442, Stored as 1-6 on chip",1820,180,6
+Agent (Software Ripper),Frame/Agent,"FP 36 P6 IB1  UP21 BEMS-2442, Sleaze 6, Deception 6, Cracker 6, Read Write 4",927,387,6
+Dumb Frame (Data Search),Frame/Agent,"FP 12 UP12 BEMS-1221, Sleaze 4, Deception 4, Browse 4",264,102,6
+Dumb Frame Core 6 (Blank),Frame/Agent,"FP 12 UP12 BEMS-1221, Stored as 1-6 on chip",546,54,6
+Smart Frame Core 6 (Blank),Frame/Agent,"FP 24 P6 IB0 UP12 BEMS-1221, Stored as 1-6 on chip",1092,108,6
+Smart Frame (Call Router),Frame/Agent,"FP 24 P6 IB0 UP12 BEMS-1221, Sleaze 4, Deception 4, Commlink 4",480,156,6
+Dumb Frame (Simsense Carrier),Frame/Agent,"FP 4 UP4 B-2, Oneshot, Read/Write 2, Decrypt 1, Encrypt 1",22,7,2
+Dumb Frame (Program/OMC Carrier),Frame/Agent,"FP 4 UP4 B-2, Read/Write 2, Decrypt 1, Encrypt 1",28,10,2
+Attack D 6,Offensive,"Optimized, Stored as 1-6 on chip",910,90,6
+Attack S 6,Offensive,"Optimized, Stored as 1-6 on chip, Targeting",1592,128,8
+Slow 6,Offensive,"Optimized, Stored as 1-6 on chip",728,72,6
+Steamroller 6,Offensive,"Optimized, Stored as 1-6 on chip",546,54,6
+Analyze 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1140,96,8
+Analyze 6,Operational,"Optimized, Stored as 1-6 on chip,  DINAB 6",1356,254,9
+Browse 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",380,32,8
+Camo 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1140,96,8
+Commlink 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",398,32,8
+Crash 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1194,96,8
+Deception 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",760,64,8
+Decrypt 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",398,32,8
+Defuse 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Doorstop 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",398,32,8
+Encrypt 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",398,32,8
+Evaluate 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Mirrors 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1194,96,8
+Purge 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Read/Write 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",760,64,8
+Redecorate 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Relocate 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",760,64,8
+Scanner 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1194,96,8
+Scanner 6,Operational,"Optimized, Stored as 1-6 on chip, DINAB 6",1314,122,9
+Sniffer 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1194,96,8
+Snooper 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Spoof 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1140,96,8
+Swerve 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1194,96,8
+Triangulation 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",796,64,8
+Validate 6,Operational,"Optimized, Stored as 1-6 on chip, Sneak",1592,128,8
+BattleTac Matrix Link 6,Special,"Optimized, Stored as 1-6 on chip",910,90,6
+Cellular Link 6,Special,"Optimized, Stored as 1-6 on chip",182,18,6
+Compressor 6,Special,"Optimized, Stored as 1-6 on chip",364,36,6
+Cracker 6,Special,"Optimized, Stored as 1-6 on chip",1092,108,6
+Cracker 6,Special,"DINAB 6, Optimized, Cracking 6 knowsoft",3343,334,9
+Guardian 6,Special,"Optimized, Stored as 1-6 on chip",364,36,6
+Maser Link 6,Special,"Optimized, Stored as 1-6 on chip",182,18,6
+Microwave Link 6,Special,"Optimized, Stored as 1-6 on chip",182,18,6
+Programming Suite 6 (HoloLISP),Special,"Self Coder 6, Optimized",2430,608,9
+Radio Link 6,Special,"Optimized, Stored as 1-6 on chip",182,18,6
+Remote Control 6,Special,"Optimized, Stored as 1-6 on chip",546,54,6
+Satellite Link 6,Special,"Optimized, Stored as 1-6 on chip",364,36,6
+Sleaze 6,Special,"Optimized, Stored as 1-6 on chip",546,54,6
+Track 6,Special,"Optimized, Stored as 1-6 on chip",1456,144,6
