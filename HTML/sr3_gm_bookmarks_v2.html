@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SR3 GM — Quick Links</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0a0e0a;--surface:#0f1410;--border:#1a3a1a;
+    --green:#33ff66;--green-dim:#1a7a33;--green-dark:#0d3d1a;
+    --amber:#ffaa00;--red:#ff3333;
+    --cyan:#33ddff;--cyan-dim:#1a6a7a;--cyan-dark:#0a2a30;
+    --purple:#aa66ff;--purple-dim:#5a2a9a;--purple-dark:#1a0a3a;
+    --gold:#ffcc33;--gold-dim:#7a5a1a;--gold-dark:#2a1e0a;
+    --text:#99cc99;--text-dim:#4a7a4a;
+    --mono:'Share Tech Mono',monospace;--display:'Orbitron',monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--text);font-family:var(--mono);padding:16px;max-width:860px;margin:0 auto;min-height:100vh;}
+  h1{font-family:var(--display);font-size:13px;color:var(--green);letter-spacing:4px;text-transform:uppercase;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;}
+  .subtitle{font-size:9px;color:var(--text-dim);letter-spacing:2px;}
+  .panel{background:var(--surface);border:1px solid var(--border);border-radius:4px;padding:12px 14px;margin-bottom:10px;}
+  .panel-title{font-family:var(--display);font-size:10px;color:var(--green-dim);letter-spacing:3px;text-transform:uppercase;margin-bottom:10px;padding-bottom:6px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;}
+  .cat-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+  label{font-size:10px;color:var(--text-dim);letter-spacing:1px;display:block;margin-bottom:3px;}
+  .add-row{display:grid;grid-template-columns:2fr 2fr 1fr auto;gap:8px;align-items:end;}
+  input,select{background:var(--bg);border:1px solid var(--border);color:var(--green);font-family:var(--mono);font-size:12px;padding:5px 8px;width:100%;border-radius:2px;outline:none;}
+  input:focus,select:focus{border-color:var(--green-dim);}
+  select option{background:var(--bg);}
+  .btn{background:var(--green-dark);border:1px solid var(--green-dim);color:var(--green);font-family:var(--display);font-size:10px;letter-spacing:1px;padding:7px 14px;cursor:pointer;border-radius:2px;white-space:nowrap;width:100%;}
+  .btn:hover{background:#1a5a2a;}
+  .btn-red{background:#2a0a0a;border-color:#aa2222;color:var(--red);}
+  .btn-red:hover{background:#3a1010;}
+  .btn-sm{padding:3px 8px;font-size:9px;width:auto;}
+  .status{font-size:10px;margin-top:6px;min-height:14px;letter-spacing:1px;}
+  /* Category tabs */
+  .cat-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;}
+  .cat-tab{padding:4px 12px;border:1px solid var(--border);border-radius:2px;cursor:pointer;font-family:var(--display);font-size:9px;letter-spacing:1px;color:var(--text-dim);background:var(--bg);transition:all 0.1s;}
+  .cat-tab:hover{border-color:var(--green-dim);color:var(--text);}
+  .cat-tab.active-all{border-color:var(--green-dim);color:var(--green);background:var(--green-dark);}
+  .cat-tab.active-repo{border-color:var(--cyan-dim);color:var(--cyan);background:var(--cyan-dark);}
+  .cat-tab.active-rules{border-color:var(--gold-dim);color:var(--gold);background:var(--gold-dark);}
+  .cat-tab.active-maps{border-color:var(--purple-dim);color:var(--purple);background:var(--purple-dark);}
+  /* Link cards */
+  .link-grid{display:grid;gap:5px;}
+  .link-card{background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:8px 12px;display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;cursor:pointer;transition:border-color 0.12s;}
+  .link-card:hover{border-color:var(--green-dim);}
+  .link-card.cat-repo{border-left:2px solid var(--cyan-dim);}
+  .link-card.cat-rules{border-left:2px solid var(--gold-dim);}
+  .link-card.cat-maps{border-left:2px solid var(--purple-dim);}
+  .link-card.cat-repo:hover{border-color:var(--cyan-dim);}
+  .link-card.cat-rules:hover{border-color:var(--gold-dim);}
+  .link-card.cat-maps:hover{border-color:var(--purple-dim);}
+  .link-name{font-size:13px;margin-bottom:2px;}
+  .link-name.cat-repo{color:var(--cyan);}
+  .link-name.cat-rules{color:var(--gold);}
+  .link-name.cat-maps{color:var(--purple);}
+  .link-name.cat-all{color:var(--green);}
+  .link-url{color:var(--text-dim);font-size:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:500px;}
+  .empty-state{text-align:center;color:var(--text-dim);font-size:11px;padding:20px;letter-spacing:2px;}
+  .list-header{font-family:var(--display);font-size:10px;color:var(--text-dim);letter-spacing:2px;margin-bottom:8px;}
+</style>
+</head>
+<body>
+
+<h1>SR3 GM — QUICK LINKS <span class="subtitle">ORTHOGONAL GATE</span></h1>
+
+<div class="panel">
+  <div class="panel-title"><span class="cat-dot" style="background:var(--green)"></span>ADD LINK</div>
+  <div class="add-row">
+    <div>
+      <label>NAME</label>
+      <input type="text" id="inp-name" placeholder="SR3 Core Rules PDF" onkeydown="if(event.key==='Enter')addLink()"/>
+    </div>
+    <div>
+      <label>URL</label>
+      <input type="text" id="inp-url" placeholder="https://" onkeydown="if(event.key==='Enter')addLink()"/>
+    </div>
+    <div>
+      <label>CATEGORY</label>
+      <select id="inp-cat">
+        <option value="repo">Repo / Files</option>
+        <option value="rules">Rules Ref</option>
+        <option value="maps">Maps</option>
+      </select>
+    </div>
+    <div>
+      <label>&nbsp;</label>
+      <button class="btn" onclick="addLink()">+ ADD</button>
+    </div>
+  </div>
+  <div class="status" id="status"></div>
+</div>
+
+<div class="cat-tabs" id="cat-tabs"></div>
+
+<div class="panel">
+  <div class="list-header" id="list-header">ALL LINKS</div>
+  <div class="link-grid" id="link-list"><div class="empty-state">— No links saved yet —</div></div>
+</div>
+
+<script>
+const CAT = {
+  repo:  {label:'REPO / FILES', color:'cyan'},
+  rules: {label:'RULES REF',    color:'gold'},
+  maps:  {label:'MAPS',         color:'purple'},
+};
+
+let links = [];
+let activeFilter = 'all';
+
+async function load() {
+  try {
+    const r = await window.storage.get('gm-links-v2');
+    if (r && r.value) links = JSON.parse(r.value);
+  } catch(e) { links = []; }
+  render();
+}
+
+async function save() {
+  try { await window.storage.set('gm-links-v2', JSON.stringify(links)); }
+  catch(e) { showStatus('Save failed', true); }
+}
+
+function showStatus(msg, err) {
+  const el = document.getElementById('status');
+  el.innerHTML = `<span style="color:${err?'var(--red)':'var(--green)'}">${msg}</span>`;
+  setTimeout(()=>el.innerHTML='', 2000);
+}
+
+async function addLink() {
+  const name = document.getElementById('inp-name').value.trim();
+  const url  = document.getElementById('inp-url').value.trim();
+  const cat  = document.getElementById('inp-cat').value;
+  if (!name) { showStatus('Name required', true); return; }
+  if (!url)  { showStatus('URL required', true); return; }
+  links.push({id:Date.now(), name, url, cat});
+  await save();
+  document.getElementById('inp-name').value = '';
+  document.getElementById('inp-url').value = '';
+  showStatus('Saved');
+  render();
+}
+
+async function removeLink(id, e) {
+  e.stopPropagation();
+  links = links.filter(l=>l.id!==id);
+  await save();
+  render();
+}
+
+function openLink(url) {
+  window.open(url, '_blank');
+}
+
+function setFilter(f) {
+  activeFilter = f;
+  render();
+}
+
+function render() {
+  renderTabs();
+  renderLinks();
+}
+
+function renderTabs() {
+  const el = document.getElementById('cat-tabs');
+  const total = links.length;
+  const counts = {};
+  Object.keys(CAT).forEach(k => counts[k] = links.filter(l=>l.cat===k).length);
+  let html = `<div class="cat-tab ${activeFilter==='all'?'active-all':''}" onclick="setFilter('all')">ALL (${total})</div>`;
+  Object.entries(CAT).forEach(([k,v]) => {
+    if(counts[k] > 0)
+      html += `<div class="cat-tab ${activeFilter===k?'active-'+k:''}" onclick="setFilter('${k}')">${v.label} (${counts[k]})</div>`;
+  });
+  el.innerHTML = html;
+}
+
+function renderLinks() {
+  const el = document.getElementById('link-list');
+  const hdr = document.getElementById('list-header');
+  const filtered = activeFilter==='all' ? links : links.filter(l=>l.cat===activeFilter);
+  hdr.textContent = activeFilter==='all' ? 'ALL LINKS' : (CAT[activeFilter]?.label || 'LINKS');
+  if (!filtered.length) { el.innerHTML='<div class="empty-state">— No links in this category —</div>'; return; }
+  el.innerHTML = filtered.map(l => {
+    const dispUrl = l.url.length > 60 ? l.url.substring(0,60)+'…' : l.url;
+    const nameClass = activeFilter==='all' ? 'cat-all' : 'cat-'+l.cat;
+    return `<div class="link-card cat-${l.cat}" onclick="openLink('${l.url.replace(/'/g,"\\'")}')">
+      <div>
+        <div class="link-name ${nameClass}">${l.name}</div>
+        <div class="link-url">${dispUrl}</div>
+      </div>
+      <button class="btn btn-red btn-sm" onclick="removeLink(${l.id},event)">✕</button>
+    </div>`;
+  }).join('');
+}
+
+load();
+</script>
+</body>
+</html>
