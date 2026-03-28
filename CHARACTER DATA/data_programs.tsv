@@ -1,0 +1,57 @@
+Program	Notes	SC	OC	R	AM	AR
+AUTOSOFT						
+Autonav Maps - Atlas (Salish Sidhe)	Salish Sidhe Area	270	68	-	0	-
+Autonav Maps - Atlas (Tir Tairngire)	Tir Tairngire Area	270	68	-	0	-
+Autonav Maps - Atlas (California)	California Area	270	68	-	0	-
+Autonav Maps - Atlas Large Scale (North America)	North American Highways and Roads	200	50	-	0	-
+Autonav Maps - Atlas Large Scale (World)	World Map Borders and Travel	200	50	-	0	-
+Autonav Maps - City Map (Seattle)	Seattle Urban/Area	50	13	-	0	-
+Autonav Maps - City Map (Vancouver)	Vancouver Urban/Area	50	13	-	0	-
+Autonav Maps - City Map (Portland)	Portland Urban/Area	50	13	-	0	-
+Autonav Maps - City Map (Washington DC)	Washington DC Urban/Area	50	13	-	0	-
+Autonav Maps - City Map (New York)	New York Urban/Area	50	13	-	0	-
+Clearsight 6	Optimized. Stored as 1-6 on chip	1638	108	6	0	0
+Datalink 6	Optimized. Stored as 1-6 on chip	1638	108	6	0	0
+Electronic Warfare 6	Optimized. Stored as 1-6 on chip	1092	72	6	0	0
+Performance Profile 6 (Americar)	Optimized. Stored as 1-6 on chip	1092	72	6	0	0
+Performance Profile 6 (Nightsky)	Optimized. Stored as 1-6 on chip	1092	72	6	0	0
+Performance Profile 6 (Nomad)	Optimized. Stored as 1-6 on chip	1092	72	6	0	0
+Sharpshooter 6	Optimized. Stored as 1-6 on chip	2184	144	6	0	0
+Transponder Library 6	Optimized. Stored as 1-6 on chip	819	54	6	0	0
+COMMUNICATIONS						
+Data Decryption Software	Optimized. Stored as 1-6 on chip	546	36	6	0	0
+Data Encryption Software	Optimized. Stored as 1-6 on chip	273	18	6	0	0
+DNI (loads into DNI cyberware - no headware memory cost)						
+DNI Bug Scanner	25mp External. Optimized	50	13	-	0	-
+DNI RF Detector	25mp External. Optimized	50	13	-	0	-
+DNI Cyberware Scanner	25mp External. Optimized	50	13	-	0	-
+DNI Laser Sensor	25mp External. Optimized	50	13	-	0	-
+DNI MAD Sensor	25mp External. Optimized	50	13	-	0	-
+DNI Sat Tracker	25mp External. Optimized	50	13	-	0	-
+DNI Signal Amplifier	25mp External. Optimized	50	13	-	0	-
+DNI Sonar System	25mp External. Optimized	50	13	-	0	-
+DNI Ultrasound Detector/Emitter	25mp External. Optimized	50	13	-	0	-
+KNOWSOFT						
+Cracking 6	Optimized. Stored as 1-6 on chip	546	36	6	0	0
+Telecom Registry Datasoft	Optimized. Stored as 1-6 on chip	546	36	6	36	6
+LIBRARY						
+Library - Conjuring	Optimized. Stored as 1-6 on chip	10800	1800	6	0	0
+Library - Enchanting	Optimized. Stored as 1-5 on chip	7500	1250	5	0	0
+Library - Sorcery	Optimized. Stored as 1-6 on chip	10800	1800	6	0	0
+SENSEWARE						
+Chemistry Program	Optimized. Stored as 1-6 on chip	819	54	6	0	-
+TACTICAL SENSE (loads into TC Generic Ports - not headware memory)						
+TC Generic Program - Bug Scanner	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Chemical Analyzer	50mp Internal. Optimized	100	25	-	0	-
+TC Generic Program - Cyberware Scanner	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Drone Sensor	50mp Radio/DJ. Optimized	100	25	-	0	-
+TC Generic Program - Gas Spectrometer	50mp Internal. Optimized	100	25	-	0	-
+TC Generic Program - Laser Sensor	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - MAD Sensor	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Sat Tracker	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Sonar System	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Ultrasound Detector/Emitter	50mp DJ-DNI. Optimized	100	25	-	0	-
+TC Generic Program - Vehicle Sensor	50mp Radio/DJ. Optimized	100	25	-	0	-
+TC Generic Program - Vehicle Sonar	50mp Radio/DJ. Optimized	100	25	-	0	-
+SPECIAL						
+Image Manipulation Software	Optimized	32	8	-	8	-
