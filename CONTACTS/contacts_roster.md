@@ -11,7 +11,7 @@
 - Activated via Etiquette test
 - All contacts established within last 5 years
 - Runners have NO memory of these relationships
-- All Rating 1 except Dagger (Mike, Rating 2)
+- All Rating 1 except Dagger (Crowbar, Rating 2)
 - Load on demand — prior career contacts documented only when accessed or surfaced in play
 
 ---
@@ -28,7 +28,7 @@ Awakened critter · 247kg · mustelid variant · ancient
 
 ---
 
-## Dennis — Keystone
+## Keystone — Keystone
 
 **Wrenchy** *(street nickname)* → codename: LOADBEARING
 Fixer · salvage & access · Rating 1 · Etiquette Street · Renton
@@ -44,7 +44,7 @@ Specialty: Cargo movement, smuggling routes, dock patrol schedules
 
 ---
 
-## Frances — Meridian
+## Meridian — Meridian
 
 **Lace** *(street name)* → codename: THRESHOLD
 Fixer · social access · Rating 1 · Etiquette Street · Downtown Seattle
@@ -70,18 +70,18 @@ Specialty: NAN border crossing, territorial entry documentation
 
 ---
 
-## Brian — Singer
+## Singer — Singer
 
 **Ghost Freq** *(matrix handle)* → codename: DEADBAND
 Decker · signal intercept · Rating 1 · Etiquette Matrix · Matrix only
 Specialty: Comm intercept, signal jamming, military host probing
-*Memory gap: Handle suggests EW background. Unknown if Deadband knows Brian's real name.*
+*Memory gap: Handle suggests EW background. Unknown if Deadband knows Singer's real name.*
 *Session 04: Not yet contacted.*
 
 **Surplus** *(street nickname)* → codename: TINDERBOX
 Arms dealer · restricted hardware · Rating 1 · Etiquette Street · Tacoma
 Specialty: Restricted weapons, milspec gear, explosives
-*Memory gap: Arms dealers don't give commcodes to strangers. Brian earned this somehow. Wrong approach words could burn immediately.*
+*Memory gap: Arms dealers don't give commcodes to strangers. Singer earned this somehow. Wrong approach words could burn immediately.*
 *Session 04: Not yet contacted.*
 
 **Fixer** *(street name unknown)* → codename: TBD
@@ -109,7 +109,7 @@ Specialty: Unknown — profile incomplete
 
 ---
 
-## Kim — Banshee
+## Banshee — Banshee
 
 **Slip** *(street nickname)* → codename: GRADEBOOK
 Info broker · personal histories · Rating 1 · Etiquette Street · Tacoma
@@ -120,7 +120,7 @@ Specialty: SIN verification, personal histories, missing persons
 **Overture** *(matrix handle)* → codename: OVERPASS
 Fixer · Johnson placement · Rating 1 · Etiquette Street · commcode only
 Specialty: Run placement, Johnson referrals, team brokering
-*Memory gap: Will notice immediately if Kim doesn't remember basics.*
+*Memory gap: Will notice immediately if Banshee doesn't remember basics.*
 *Session 04: Not yet contacted.*
 
 **Corp Secretary** *(name unknown)* → codename: TBD
@@ -128,8 +128,8 @@ Corp insider · DocWagon · Rating 1 · Etiquette Corporate · Downtown Seattle
 Gender: Female
 Specialty: Medical transport records, patient intake logs, crew assignments, incident reports — dispatcher-adjacent
 Relationship: Mixed (professional + personal) · Payment: Cash · Warmth: Warm
-*Session 04: Reconnected. 1 success initial, warm call follow-up. Vacation cover landed smoothly. Medical freelance cover established — Kim available for downtown calls, will risk fire for DW staff, premium for clients. Lunch agreed — quiet, off DocWagon campus. Psychology read (8 successes): genuine warmth, compartmentalizes well, will warn Kim before burning her. Sociology read (7 successes): mid-tier admin, scheduling/logistics, sees transport logs and crew assignments. Overlap with Street Doc's world at the edges.*
-*Note: Angela's contact Chart (Auburn DocWagon) may know her.*
+*Session 04: Reconnected. 1 success initial, warm call follow-up. Vacation cover landed smoothly. Medical freelance cover established — Banshee available for downtown calls, will risk fire for DW staff, premium for clients. Lunch agreed — quiet, off DocWagon campus. Psychology read (8 successes): genuine warmth, compartmentalizes well, will warn Banshee before burning her. Sociology read (7 successes): mid-tier admin, scheduling/logistics, sees transport logs and crew assignments. Overlap with Street Doc's world at the edges.*
+*Note: Kluger's contact Chart (Auburn DocWagon) may know her.*
 *Next action: Lunch — location TBD, quiet, off campus.*
 
 **Street Doc** *(name unknown)* → codename: TBD
@@ -137,20 +137,20 @@ Street doc · magical triage backup · Rating 1 · Etiquette Street · Barrens/D
 Gender: Female
 Specialty: Emergency triage, trauma stabilization, Barrens-mobile, DocWagon-adjacent paperwork
 Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth: Hot
-*Session 04: Reconnected. 6 successes. Warm from first word. Gratitude is specific and medical — someone Kim healed that mattered to her, under difficult circumstances. Psychology (8 successes): compassionate core, structurally tired from Barrens work, interested in downtown shift, will not burn Kim. Sociology (8 successes): Barrens-mobile, crosses security lines regularly, knows Auburn/Redmond fringe, DocWagon-adjacent paperwork for movement.*
+*Session 04: Reconnected. 6 successes. Warm from first word. Gratitude is specific and medical — someone Banshee healed that mattered to her, under difficult circumstances. Psychology (8 successes): compassionate core, structurally tired from Barrens work, interested in downtown shift, will not burn Banshee. Sociology (8 successes): Barrens-mobile, crosses security lines regularly, knows Auburn/Redmond fringe, DocWagon-adjacent paperwork for movement.*
 *Offers active:*
 - *Clinic rotation: twice monthly, low exposure, word of mouth only, good people*
-- *Pro bono case screening: Street Doc filters, Kim handles magical triage*
+- *Pro bono case screening: Street Doc filters, Banshee handles magical triage*
 - *Talismonger referral: Vessel, Pike Street market end — referred unprompted*
 *Pending:*
 - *Sending: clinic rotation info, shop commcode tonight*
-- *Medical consult: Kim's dosed/fuzzy/cops symptoms — non-magical hypothesis, three candidate substances, two seen before*
+- *Medical consult: Banshee's dosed/fuzzy/cops symptoms — non-magical hypothesis, three candidate substances, two seen before*
 - *Welcome back — check is on her*
 *Next action: Receive info tonight. Schedule medical check. Clinic rotation when ready.*
 
 ---
 
-## Gabe — Carpenter
+## Carpenter — Carpenter
 
 **Ink** *(street nickname)* → codename: FOOTNOTE
 Hermetic contact · spell formulae · Rating 1 · Etiquette Street · Seattle
@@ -178,7 +178,7 @@ Gender: Male
 Specialty: Vehicle electronics, custom fabrication, shielded housing — legitimate shop
 Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
 *Session 04: Met in person at Abelardo's, Kirkland. Shop confirmed clean — no surveillance, no magical watchers, no standing heat. Personal relationship real — fellow builder, genuine loyalty. Nervous because:*
-*⚠️ Two private operatives asked about Gabriel Boyd ~2 weeks ago. Not Lone Star (wrong shoes, wrong posture). Showed a recent photo. Left a commcode. Mechanic told them he knew a Gabe, not a Boyd — did not give him up. Passed commcode to Carpenter.*
+*⚠️ Two private operatives asked about Gabriel Boyd ~2 weeks ago. Not Lone Star (wrong shoes, wrong posture). Showed a recent photo. Left a commcode. Mechanic told them he knew a Carpenter, not a Boyd — did not give him up. Passed commcode to Carpenter.*
 *Cover approach active: Mechanic will call operatives re: radio install job. Will warn Carpenter first via text (established protocol).*
 *Work incoming: custom shielded electronics housing, 3-4 days, specialist rate, 10% introduction fee, tools included as payment. Details arriving tonight.*
 *Personal notes: Kirkland 8 years, inherited shop, divorced amicable, kid in Bellevue weekends, follows the Mariners.*
@@ -186,7 +186,7 @@ Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
 
 ---
 
-## Mike — Crowbar
+## Crowbar — Crowbar
 
 **Dagger** *(gang nickname)* → codename: STILETTO
 Street contact · Barrens gangs · **Rating 2** · Etiquette Street · Puyallup
@@ -202,7 +202,7 @@ Specialty: Spirit negotiation, shamanic reagents, totem guidance
 
 ---
 
-## Angela — Kluger
+## Kluger — Kluger
 
 **Chart** *(medical nickname)* → codename: VITALS
 Medical insider · transport logs · Rating 1 · Etiquette Corporate · Auburn
@@ -232,7 +232,7 @@ Specialty: Unknown — profile incomplete
 
 ## Intelligence Asset — Unaffiliated
 
-**Unknown Commcode** *(operatives asking about Gabe)* → ⚠️ PRIORITY
+**Unknown Commcode** *(operatives asking about Carpenter)* → ⚠️ PRIORITY
 Passed by Mechanic · Session 04
 Two private operatives, not Lone Star, ~2 weeks ago. Had recent photo of Gabriel Boyd.
 Commcode in Singer's possession.

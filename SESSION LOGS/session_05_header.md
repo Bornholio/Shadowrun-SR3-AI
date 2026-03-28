@@ -83,7 +83,7 @@
 
 **Vessel** — Pike Street talismonger, been there a long time, not easy to forget. Separate from Singer's Talismonger contact. Street Doc referred unprompted.
 
-**Kim's symptoms** — dosed/fuzzy/cops. Street Doc investigating non-magical hypothesis. Three candidate substances, two seen before.
+**Banshee's symptoms** — dosed/fuzzy/cops. Street Doc investigating non-magical hypothesis. Three candidate substances, two seen before.
 
 ---
 
@@ -96,7 +96,7 @@
 
 **Likely supplementals Session 05:**
 - `STATS/campaign_stats.md` — reunification stat work
-- `CHARACTERS/dennis.md`, `frances.md`, `mike.md`, `angela.md` — reunification
+- `CHARACTERS/keystone.md`, `meridian.md`, `crowbar.md`, `kluger.md` — reunification
 - `CONTACTS/contacts_roster.md` — contact scenes
 - skill: `sr3-social-tests` — if Vessel or Room 6 man approached
 - skill: `sr3-comm-rules` — if scanner data analysis goes deep

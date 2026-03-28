@@ -129,7 +129,7 @@ SA and RE never apply to decking or rigging. Enhanced Articulation never applies
 | Decking (fully mental) | INT + LR3 + RI2 (+4) + extra RI (+2) | RI2 +2d6 + extra +1d6 |
 | Cold Assist | (QUI+INT)/2 + LR3 + EA | 1d6 + SA2, no Hacking Pool |
 
-### Singer (Brian) Reference
+### Singer (Singer) Reference
 
 | Mode | REA | Initiative |
 |------|-----|-----------|
@@ -153,7 +153,7 @@ SA and RE never apply to decking or rigging. Enhanced Articulation never applies
 - Reserve for last operation in a combat turn
 - Cannot use on: Etiquette (Matrix), Body/Willpower vs gray/black IC
 
-### Singer (Brian)
+### Singer (Singer)
 | Source | Value |
 |--------|-------|
 | INT 13 + MPCP 8 / 3 | 7 |
@@ -300,7 +300,7 @@ Magic/Force recovers 1/hour.
 | Infrastructure | Lodge | Library |
 | Masking | Yes | No |
 
-**Frances — dual feature:** Hermetic sorcery (library, no mask) + Lover conjuring (nature spirits, lodge, shamanic structure).
+**Meridian — dual feature:** Hermetic sorcery (library, no mask) + Lover conjuring (nature spirits, lodge, shamanic structure).
 
 ---
 

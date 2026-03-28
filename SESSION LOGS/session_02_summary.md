@@ -8,13 +8,13 @@
 
 | Character | Street Name | RCS Callsign |
 |-----------|-------------|--------------|
-| Brian | Singer | Hammer |
-| Kim | Banshee | Halo |
-| Gabe | Carpenter | Slam |
-| Dennis | Keystone | TBD |
-| Frances | Meridian | TBD |
-| Mike | Crowbar | TBD |
-| Angela | Kluger | TBD |
+| Singer | Singer | Hammer |
+| Banshee | Banshee | Halo |
+| Carpenter | Carpenter | Slam |
+| Keystone | Keystone | TBD |
+| Meridian | Meridian | TBD |
+| Crowbar | Crowbar | TBD |
+| Kluger | Kluger | TBD |
 
 *RCS callsigns for non-3PR pending.*
 

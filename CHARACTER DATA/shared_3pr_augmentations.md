@@ -1,5 +1,5 @@
-# Shared Augmentations — 3PR (Brian, Kim, Gabe)
-*This file covers all cyberware, bioware, nanoware, geneware, and related augmentations common to Brian, Kim, and Gabe.*
+# Shared Augmentations — 3PR (Singer, Banshee, Carpenter)
+*This file covers all cyberware, bioware, nanoware, geneware, and related augmentations common to Singer, Banshee, and Carpenter.*
 
 ---
 

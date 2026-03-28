@@ -21,7 +21,7 @@ CHARACTER DATA/                 — Career history, augmentations, program libra
   shared_3pr_augmentations.md
 
 CHARACTERS/                     — Individual character sheets
-  angela.md  brian.md  dennis.md  frances.md  gabe.md  kim.md  mike.md
+  kluger.md  singer.md  keystone.md  meridian.md  carpenter.md  banshee.md  crowbar.md
 
 CONTACTS/
   contacts_roster.md
@@ -159,13 +159,13 @@ Default to **GM PREP MODE** unless told otherwise.
 
 ## Pending Items *(flag when encountered)*
 
-- [ ] Angela's missing edge
-- [ ] Mike and Angela SURGE traits
+- [ ] Kluger's missing edge
+- [ ] Crowbar and Kluger SURGE traits
 - [ ] Common family SURGE traits
-- [ ] Gabe and Mike eye colors
-- [ ] Frances English lingo specialty
+- [ ] Carpenter and Crowbar eye colors
+- [ ] Meridian English lingo specialty
 - [ ] VCR grade (3PR)
-- [ ] Totem/tradition details — Dennis: Raven Shaman ✓ · Frances: Hermetic ✓ · Kim, Gabe, Mike, Angela: TBD
+- [ ] Totem/tradition details — Keystone: Raven Shaman ✓ · Meridian: Hermetic ✓ · Banshee, Carpenter, Crowbar, Kluger: TBD
 - [ ] Initiate grades (3PR minimum 7 — exact grades TBD)
 - [ ] Metamagic list (3PR — Masking confirmed, others TBD)
 

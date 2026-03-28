@@ -23,18 +23,18 @@
 All seven are first-wave elven metamorphosis expressions. Expressed in the central states — dangerous and difficult period. During this time all seven organized and helped others going through genetic expression — 8–10 hours per week sustained over years. Source of Good Reputation 2.
 
 ### Goblinization / UGE Split
-- Dennis, Frances, Brian, Kim, Mike, Angela — goblinized early, coinciding with the volcano cataclysm (2017), as adults
-- Gabe — UGE baby, born 2011, expressed as elf from birth, did not goblinize
+- Keystone, Meridian, Singer, Banshee, Crowbar, Kluger — goblinized early, coinciding with the volcano cataclysm (2017), as adults
+- Carpenter — UGE baby, born 2011, expressed as elf from birth, did not goblinize
 
 ### Harlequin's Back
 All seven were present at Harlequin's Back (01/08/57). Participated in blunting early Horror arrival. Magical backlash triggered second genetic expression in all seven.
 
 ### Night One / SURGE Expression
-Dennis, Frances, Brian, Kim, Gabe — Night Ones, SURGE event layered on elven metamorphosis.
-Mike and Angela — less severe SURGE, still expressed.
+Keystone, Meridian, Singer, Banshee, Carpenter — Night Ones, SURGE event layered on elven metamorphosis.
+Crowbar and Kluger — less severe SURGE, still expressed.
 
 ### The Surgery (3PR)
-Brian, Kim, Gabe underwent extraordinary surgery:
+Singer, Banshee, Carpenter underwent extraordinary surgery:
 - Over 9 Essence worth of Delta-grade cyberware and bioware
 - Surgeon result: −60% Essence cost, +2 Concealment
 - Karma expenditure improved to −90% Essence cost
@@ -57,8 +57,8 @@ The reset was chosen. The scale of what was being maintained made it necessary:
 Someone — or the family themselves — determined that carrying all of that forward conscious was untenable or dangerous.
 
 ### Karma Economy (Background)
-- Dennis and Frances: ~500 good karma
-- Mike and Angela: ~120 good karma
+- Keystone and Meridian: ~500 good karma
+- Crowbar and Kluger: ~120 good karma
 - 3PR: substantial — full adventure career
 - All seven: 1 GK/week community building throughout
 

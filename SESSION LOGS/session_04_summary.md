@@ -73,7 +73,7 @@
 
 ## Contact Reconnections — Session 04
 
-### Banshee — Kim
+### Banshee — Banshee
 | Contact | Successes | Status | Notes |
 |---|---|---|---|
 | Corp Secretary (DocWagon) | 1 + warm call | Hot | Lunch pending, medical freelance cover established |
@@ -83,20 +83,20 @@
 - DocWagon mid-tier admin, dispatcher-adjacent
 - Sees transport logs, crew assignments, incident reports
 - Mixed relationship (professional + personal), cash payment history
-- Warm, genuine — will warn Kim before burning her
+- Warm, genuine — will warn Banshee before burning her
 - Lunch agreed — somewhere quiet, off DocWagon campus
 - Overlap with Street Doc's world at the edges
 
 **Street Doc profile:**
 - Barrens-based, mobile, crosses security rating lines regularly
-- Deep gratitude — someone Kim healed that mattered to her
+- Deep gratitude — someone Banshee healed that mattered to her
 - Structurally tired, interested in downtown cleaner work
 - Offers: clinic rotation (twice monthly, low exposure), pro bono case screening
 - Referred: **Vessel** — talismonger, Pike Street market end, been there a long time
-- Will send: clinic rotation info, shop commcode, medical consult notes on Kim's dosed/fuzzy symptoms
+- Will send: clinic rotation info, shop commcode, medical consult notes on Banshee's dosed/fuzzy symptoms
 - Medical check arranged: Street Doc investigating non-magical dose hypothesis
 
-### Singer — Brian
+### Singer — Singer
 | Contact | Successes | Status | Notes |
 |---|---|---|---|
 | Fixer (female) | 4 | Solid, favor ledger open | Downtown footprint, independent operator |
@@ -109,11 +109,11 @@
 - Controlled, trusts process over people, reliable within limits
 - Fellowship offer filed, not committed
 
-### Carpenter — Gabe
+### Carpenter — Carpenter
 | Contact | Successes | Status | Notes |
 |---|---|---|---|
 | Fixer (female) | 2 | Functional, cash only | Slightly outside her range for downtown |
-| Mechanic (male) | 1 + meet | Active, nervous | ⚠️ Someone asked about Gabe 2 weeks ago |
+| Mechanic (male) | 1 + meet | Active, nervous | ⚠️ Someone asked about Carpenter 2 weeks ago |
 
 **Fixer profile:**
 - Cash only, burned by personal entanglement before
@@ -125,8 +125,8 @@
 - Personal relationship — fellow builder, genuine loyalty
 - Runs legitimate shop in Kirkland, 5 minutes from Abelardo's
 - Shop clean — no surveillance, no magical watchers, no standing heat
-- Two people asked about Gabe ~2 weeks ago: not Lone Star (wrong shoes, wrong posture), private, showed a recent photo
-- Mechanic told them he knew a Gabe, not a Boyd — didn't give him up
+- Two people asked about Carpenter ~2 weeks ago: not Lone Star (wrong shoes, wrong posture), private, showed a recent photo
+- Mechanic told them he knew a Carpenter, not a Boyd — didn't give him up
 - Held a commcode they left — passed it to Carpenter
 - Has specialist fabrication work: custom shielded electronics housing, 3-4 days, specialist rates, 10% introduction fee, tools included as payment option
 - Cover story active: radio install job, early warning protocol established
@@ -139,7 +139,7 @@
 ### Unknown Commcode — ⚠️ PRIORITY
 Left by two private operatives asking about Gabriel Boyd ~2 weeks ago.
 - Not Lone Star — wrong posture, wrong shoes
-- Had a recent photo of Gabe (post-reset)
+- Had a recent photo of Carpenter (post-reset)
 - Someone has had eyes on the family since shortly after waking
 - Commcode now in Singer's possession
 - Cover approach planned: Mechanic calls them, asks about radio install job
@@ -166,14 +166,14 @@ LS patrol rhythm and dispatch cadence recorded. Singer to analyze. Full picture 
 
 | Thread | Status | Notes |
 |---|---|---|
-| Unknown commcode (operatives asking about Gabe) | ⚠️ Active | Mechanic holds it, cover approach planned |
+| Unknown commcode (operatives asking about Carpenter) | ⚠️ Active | Mechanic holds it, cover approach planned |
 | RAVN-001 and RAVN-002 | Unknown | Location still unknown |
 | Room 6 man | Unanswered | "When you're ready" — still pending |
 | Safehouse Net 30 balance | ~7,650¥ due | Clock running |
 | Reunification | 2 days | Keystone/Crowbar/Meridian/Kluger departing Pinnacle Peak |
 | Mechanic fabrication job | Incoming | Details arriving tonight, specialist rate, tools as payment |
-| Street Doc medical check | Pending | Kim's dosed/fuzzy symptoms — non-magical hypothesis |
-| Clinic rotation | Offered | Kim in rotation, Street Doc screening cases |
+| Street Doc medical check | Pending | Banshee's dosed/fuzzy symptoms — non-magical hypothesis |
+| Clinic rotation | Offered | Banshee in rotation, Street Doc screening cases |
 | Vessel introduction | Pending | Via Street Doc when timing right |
 | Singer Talismonger | Not reached | Manual approach needed, Browse 4 frame failed |
 | Scanner data analysis | Pending | Singer to review overnight recording |
@@ -183,13 +183,13 @@ LS patrol rhythm and dispatch cadence recorded. Singer to analyze. Full picture 
 
 ## Pending Items — Ongoing
 
-- [ ] Angela's missing edge
-- [ ] Mike and Angela SURGE traits
-- [ ] Gabe and Mike eye colors
-- [ ] Frances English lingo specialty
+- [ ] Kluger's missing edge
+- [ ] Crowbar and Kluger SURGE traits
+- [ ] Carpenter and Crowbar eye colors
+- [ ] Meridian English lingo specialty
 - [ ] VCR grade (3PR)
-- [ ] Kim, Gabe, Mike, Angela totem/tradition details
-- [ ] Exact initiate grades (3PR minimum 8 confirmed Brian, 7 Kim/Gabe)
+- [ ] Banshee, Carpenter, Crowbar, Kluger totem/tradition details
+- [ ] Exact initiate grades (3PR minimum 8 confirmed Singer, 7 Banshee/Carpenter)
 - [ ] Full metamagic list (3PR — confirmed: Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding)
 
 ---

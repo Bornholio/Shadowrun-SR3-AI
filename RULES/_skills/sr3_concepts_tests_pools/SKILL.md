@@ -124,9 +124,9 @@ Opposition NPCs: no Karma Pool unless designated major NPC by GM.
 
 | Character | Combat Pool | Spell Pool | Hacking Pool | Control Pool |
 |---|---|---|---|---|
-| Singer (Brian) | 18 | 12 | 12 | 20 (rigging) |
-| Banshee (Kim) | 20 | 12 | — | — |
-| Carpenter (Gabe) | 18 | 11 | — | — |
+| Singer (Singer) | 18 | 12 | 12 | 20 (rigging) |
+| Banshee (Banshee) | 20 | 12 | — | — |
+| Carpenter (Carpenter) | 18 | 11 | — | — |
 
 *Combat Pool uses augmented QUI/INT/WIL. Spell/Hacking Pool uses unaugmented INT.*
 *Singer Hacking Pool: (INT 11 + MPCP 8 + Response Increase 2×2) / 3 = 12 (verify against sheet).*

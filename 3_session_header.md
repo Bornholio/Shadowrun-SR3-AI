@@ -32,16 +32,16 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 
 ## Character Summary
 
-**3PR (Prime Runners):** Brian, Kim, Gabe
-— Delta-grade cyber/bioware · Magic 12 · Brian Grade 8, Kim/Gabe Grade 7 · Masking confirmed
+**3PR (Prime Runners):** Singer, Banshee, Carpenter
+— Delta-grade cyber/bioware · Magic 12 · Singer Grade 8, Banshee/Carpenter Grade 7 · Masking confirmed
 
-**Other four:** Dennis (Raven Shaman) · Frances (Hermetic Mage) · Mike (Shaman/Ganger) · Angela (Mage/Detective)
+**Other four:** Keystone (Raven Shaman) · Meridian (Hermetic Mage) · Crowbar (Shaman/Ganger) · Kluger (Mage/Detective)
 
 **All seven shared edges:** Good Reputation 2 · Bilingual · Lightning Reflexes 3 · High Pain Tolerance 3 · Quick Healer · Astral Chameleon
 
 **All seven:** Night One / SURGE expression
-— Dennis, Frances, Brian, Kim, Gabe = full Night One Albino
-— Mike and Angela = mild SURGE
+— Keystone, Meridian, Singer, Banshee, Carpenter = full Night One Albino
+— Crowbar and Kluger = mild SURGE
 
 **Metamagics confirmed (3PR):** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
@@ -109,14 +109,14 @@ Load after the three root files, on demand per session:
 
 | Thread | Status |
 |---|---|
-| Unknown commcode (operatives asking about Gabe) | ⚠️ Active — Mechanic cover approach planned |
+| Unknown commcode (operatives asking about Carpenter) | ⚠️ Active — Mechanic cover approach planned |
 | RAVN-001 and RAVN-002 | Location unknown |
 | Room 6 man | "When you're ready" — unanswered |
 | Safehouse Net 30 balance ~7,650¥ | Clock running |
 | Reunification | ~2 days |
 | Mechanic fabrication job | Details arriving — specialist rate |
-| Street Doc medical check | Kim's dosed/fuzzy symptoms pending |
-| Clinic rotation | Offered — Kim to confirm |
+| Street Doc medical check | Banshee's dosed/fuzzy symptoms pending |
+| Clinic rotation | Offered — Banshee to confirm |
 | Vessel introduction | Via Street Doc — timing TBD |
 | Singer Talismonger | Manual approach needed |
 | Scanner data analysis | Overnight recording, Singer to review |
@@ -127,16 +127,16 @@ Load after the three root files, on demand per session:
 
 ## Pending Items *(flag when encountered)*
 
-- [ ] Angela's missing edge
-- [ ] Mike and Angela SURGE traits
+- [ ] Kluger's missing edge
+- [ ] Crowbar and Kluger SURGE traits
 - [ ] Common family SURGE traits
-- [ ] Gabe and Mike eye colors
-- [ ] Frances English lingo specialty
+- [ ] Carpenter and Crowbar eye colors
+- [ ] Meridian English lingo specialty
 - [ ] VCR grade (3PR)
-- [ ] Kim, Gabe, Mike, Angela totem/tradition details — Kim Wolf ✓, Gabe Cat ✓, Mike/Angela TBD
-- [ ] Exact initiate grades — Brian 8 ✓, Kim 7 ✓, Gabe 7 ✓, Dennis/Frances/Mike/Angela TBD
-- [ ] Metamagic list — 3PR confirmed, Dennis/Frances/Mike/Angela TBD
-- [ ] Aptitude details — Dennis/Frances/Mike/Angela specific aptitudes not fully documented
+- [ ] Banshee, Carpenter, Crowbar, Kluger totem/tradition details — Banshee Wolf ✓, Carpenter Cat ✓, Crowbar/Kluger TBD
+- [ ] Exact initiate grades — Singer 8 ✓, Banshee 7 ✓, Carpenter 7 ✓, Keystone/Meridian/Crowbar/Kluger TBD
+- [ ] Metamagic list — 3PR confirmed, Keystone/Meridian/Crowbar/Kluger TBD
+- [ ] Aptitude details — Keystone/Meridian/Crowbar/Kluger specific aptitudes not fully documented
 
 ---
 

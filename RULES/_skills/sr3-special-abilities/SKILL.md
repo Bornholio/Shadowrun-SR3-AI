@@ -1,6 +1,6 @@
 ---
 name: sr3-special-abilities
-description: "SR3 Shadowrun 3rd Edition special abilities reference for GM use. Load when the session involves Lightbearer abilities (Brian only), Cognition metamagic, or Adept Powers (Multi-Tasking, Nimble Fingers). Character-specific — load on demand when these abilities are exercised in play."
+description: "SR3 Shadowrun 3rd Edition special abilities reference for GM use. Load when the session involves Lightbearer abilities (Singer only), Cognition metamagic, or Adept Powers (Multi-Tasking, Nimble Fingers). Character-specific — load on demand when these abilities are exercised in play."
 user-invocable: false
 ---
 
@@ -11,7 +11,7 @@ user-invocable: false
 
 ## LIGHTBEARER ABILITIES
 *4th World rules modified for 6th World — Earthdawn origin*
-*Rank 15 — Brian (Singer) only*
+*Rank 15 — Singer (Singer) only*
 
 **Key:** ♦ = Simple Action | ♣ = Free Action | — = Passive / on death
 
@@ -39,7 +39,7 @@ user-invocable: false
 ## COGNITION
 *Metamagic — Adept or Mystic Adept only (SotA:2064)*
 *Prerequisite: Centering technique (MitS p.72) and a Centering skill*
-*Possessed by: Brian, Kim, Gabe*
+*Possessed by: Singer, Banshee, Carpenter*
 
 ### What It Does
 - Center for success or reduce modifiers on **Intelligence Tests** including Perception and Learning — Free Action
@@ -89,6 +89,6 @@ The adept may use **two Free Actions per Initiative Phase**.
 ## ADJUDICATION NOTES
 
 - Lightbearer abilities are unique to Singer — do not apply to other family members
-- Cognition applies to Brian, Kim, and Gabe — confirm before applying +1 die to Knowledge/Language tests
+- Cognition applies to Singer, Banshee, and Carpenter — confirm before applying +1 die to Knowledge/Language tests
 - Adept powers: always verify against individual character sheets before adjudicating
 - 4th World / Earthdawn conversions are GM-approved house rules — flag if anything seems inconsistent with SR3 core

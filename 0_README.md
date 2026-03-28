@@ -43,16 +43,16 @@ E:.
 │       adventure_history.md        — Career history, prior runs (canonical) ⚠️ GM only
 │       data_programs.md            — Data/autosoft program library (SC/OC/R tables)
 │       deck_programs.md            — Deck program library (SC/OC/R tables)
-│       shared_3pr_augmentations.md — Full cyberware/bioware block for Brian, Kim, Gabe
+│       shared_3pr_augmentations.md — Full cyberware/bioware block for Singer, Banshee, Carpenter
 │
 ├───CHARACTERS/
-│       angela.md
-│       brian.md
-│       dennis.md
-│       frances.md
-│       gabe.md
-│       kim.md
-│       mike.md
+│       banshee.md          — Banshee
+│       carpenter.md        — Carpenter
+│       crowbar.md          — Crowbar
+│       keystone.md         — Keystone
+│       kluger.md           — Kluger
+│       meridian.md         — Meridian
+│       singer.md           — Singer
 │
 ├───CONTACTS/
 │   │   contacts_roster.md          — All contacts, ratings, specialties, memory gaps
@@ -136,8 +136,8 @@ E:.
 │       ├───sr3-matrix-ops/
 │       │       SKILL.md            — All operation descriptions + quick-ref table
 │       │
-│       ├───sr3-matrix-rules/       — ★ NOTE — folder exists per skills system; load via skill name
-│       │       (see skills system)
+│       ├───sr3-matrix-rules/
+│       │       SKILL.md            — Cyberdecks, system tests, security tally, IC types
 │       │
 │       ├───sr3-social-tests/
 │       │       SKILL.md            — Social mechanics, racism, Etiquette, contacts
@@ -175,7 +175,7 @@ Load these on demand after the root files:
 | `STATS/campaign_stats.md` | Any character stat work |
 | `CHARACTERS/[name].md` | Work on a specific character |
 | `CHARACTER DATA/shared_3pr_augmentations.md` | 3PR cyber/bioware detail |
-| `CHARACTER DATA/deck_programs.md` | Decking scenes — Brian's programs |
+| `CHARACTER DATA/deck_programs.md` | Decking scenes — Singer's programs |
 | `CHARACTER DATA/data_programs.md` | Vehicle/drone autosoft work |
 | `CHARACTER DATA/adventure_history.md` | Prior career reference ⚠️ GM only |
 | `CONTACTS/contacts_roster.md` | Contact scenes |
@@ -221,7 +221,7 @@ Load these on demand after the root files:
 | Question | File |
 |---|---|
 | What edition rules apply? | `2_sr3_game_rules.md` |
-| What are Brian's stats? | `CHARACTERS/brian.md` |
+| What are Singer's stats? | `CHARACTERS/singer.md` |
 | What cyberware do 3PR share? | `CHARACTER DATA/shared_3pr_augmentations.md` |
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
 | What happened in Session 04? | `SESSION LOGS/session_04_summary.md` |
@@ -229,7 +229,7 @@ Load these on demand after the root files:
 | What contacts does the team have? | `CONTACTS/contacts_roster.md` |
 | How does jamming work? | skill: `sr3-comm-rules` |
 | What are Lightbearer abilities? | skill: `sr3-special-abilities` |
-| What programs does Brian carry? | `CHARACTER DATA/deck_programs.md` |
+| What programs does Singer carry? | `CHARACTER DATA/deck_programs.md` |
 | What is the cross-reference stat table? | `STATS/campaign_stats.md` |
 | How does transit work? | `MAPS/transit_index.md` → specific files |
 | How does action economy work? | `RULES/shadowrun3_action_economy_reference.md` |
@@ -269,4 +269,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 04*
+*Repository current through Session 04 — Session 05 prep loaded*

@@ -10,7 +10,7 @@
 
 ## Lightbearer Abilities
 *4th World rules modified for 6th World — Earthdawn origin*
-*Rank 15 — Brian only*
+*Rank 15 — Singer only*
 
 | Cost | Ability | Description |
 |------|---------|-------------|

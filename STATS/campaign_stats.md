@@ -14,19 +14,19 @@
 
 | Character | Street Name | RCS Callsign |
 |-----------|-------------|--------------|
-| Brian | Singer | Hammer |
-| Kim | Banshee | Halo |
-| Gabe | Carpenter | Slam |
-| Dennis | Keystone | KEYS |
-| Frances | Meridian | MERRY |
-| Mike | Crowbar | CROW |
-| Angela | Kluger | CLUE |
+| Singer | Singer | Hammer |
+| Banshee | Banshee | Halo |
+| Carpenter | Carpenter | Slam |
+| Keystone | Keystone | KEYS |
+| Meridian | Meridian | MERRY |
+| Crowbar | Crowbar | CROW |
+| Kluger | Kluger | CLUE |
 
 ---
 
 ## Family Profiles
 
-### Dennis — Keystone
+### Keystone — Keystone
 **Role:** Shaman (Raven totem) | **Prior Life:** Civil engineer / mechanic
 **Born:** Late 1940s | **Expression:** Night One / SURGE / Albino
 **Height:** 6'6" | **Build:** Muscular, bulky for an elf
@@ -38,7 +38,7 @@
 **Concealment:** Rating 4 normal, 6–8 with clothing, Poncho loadout = 11
 **Notes:** Civil engineer's body — big hands, wide shoulders. Named Dag ~40 years ago without knowing it. Likely in Seattle that summer — possible Alaska cruise stopover. Raven on the wire outside McHugh's was watching him specifically.
 
-### Frances — Meridian
+### Meridian — Meridian
 **Role:** Hermetic Mage / Face | **Prior Life:** Occupational therapist
 **Born:** Late 1940s | **Expression:** Night One / SURGE / Albino
 **Height:** 5'10" | **Build:** Firmly built for an elf
@@ -52,9 +52,9 @@
 **Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
 **English lingo:** None current — British register historical, too rusty to apply
 **Infrastructure needed:** Library (sorcery) + Lodge (conjuring)
-**Notes:** Diamond pupils announce rather than conceal. Occupational therapist's bearing. French at 1960s academic register. Witnessed Dennis's totem contact at McHugh's.
+**Notes:** Diamond pupils announce rather than conceal. Occupational therapist's bearing. French at 1960s academic register. Witnessed Keystone's totem contact at McHugh's.
 
-### Brian — Singer
+### Singer — Singer
 **Role:** Prime Runner / Mage / Military EW specialist
 **Prior Life:** Military EW specialist / Mechanical engineer
 **Born:** Early 1970s | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
@@ -66,7 +66,7 @@
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Notes:** Military engineer's economy of movement. Carries TC, BattleTac, full sensor suite, VCR 2. Said "cyber zombies" out loud because the right thing has no name yet. Has bronze bracers — put them on without deciding to.
 
-### Kim — Banshee
+### Banshee — Banshee
 **Role:** Prime Runner / Face / Mage / Teacher
 **Prior Life:** Teacher | **Born:** Early 1970s
 **Expression:** Night One / SURGE / Albino / Genetic Enhancement
@@ -80,11 +80,11 @@
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Notes:** Teacher's presence. Smallest, frequently most significant. Sign Language 5 — state-level deaf/HoH advocate. Conjures Force 9 wind spirits before breakfast.
 
-### Gabe — Carpenter
+### Carpenter — Carpenter
 **Role:** Prime Runner / Mage / Decker
 **Prior Life:** Student | **Born:** 2011 (UGE wave — not goblinization)
 **Expression:** Night One / SURGE / Albino / Genetic Enhancement
-**Height:** ~5'4"–5'5" | **Build:** Stockier than Kim
+**Height:** ~5'4"–5'5" | **Build:** Stockier than Banshee
 **Hair:** White | **Eyes:** TBD
 **Fur:** White, fine | **Individual Bonus:** +1 Quickness (edge)
 **Tradition:** Cat Shaman / Path of the Warrior
@@ -95,7 +95,7 @@
 **Animal companion:** Flurry — Blackberry Cat (Felis nigra), Awakened '17, dual natured
 **Notes:** The UGE baby with a veteran's hardware. Youngest. Two routers — genuine parallel processing. Organic microscopic vision. Full-size event Session 04 — Flurry at large in Belltown safehouse.
 
-### Mike — Crowbar
+### Crowbar — Crowbar
 **Role:** Ganger / Shaman | **Prior Life:** Petty criminal
 **Born:** Late 1970s | **Expression:** Standard elf / mild SURGE
 **Height:** 6'9" | **Build:** Slim-framed
@@ -107,7 +107,7 @@
 **Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
 **Notes:** Barrens survival instincts. Reads gang tags natively. Glyph aimed at his recognition specifically. *"Why us then?"* — unanswered. Karma pool burned down. Left Siobhan a 20¥ tip.
 
-### Angela — Kluger
+### Kluger — Kluger
 **Role:** Mage / Detective | **Prior Life:** Healthcare specialist / Nurse
 **Born:** Late 1960s | **Expression:** Standard elf / mild SURGE
 **Height:** 6'1" | **Build:** Lithe, long-framed
@@ -171,7 +171,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 ### Stat Maximums
 *3PR racial max: BOD/STR 9, not 8 — confirmed from character sheets*
 
-| | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | Body max | 7 | 7 | 9 | 9 | 9 | 7 | 7 |
 | Quick max | 9 | 9 | 10 | 10 | 11 | 8 | 8 |
@@ -182,7 +182,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### Stat Ceilings (max × 1.5 rounded down)
 
-| | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | Body ceil | 10 | 10 | 13 | 13 | 13 | 10 | 10 |
 | Quick ceil | 13 | 13 | 15 | 15 | 16 | 12 | 12 |
@@ -197,7 +197,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 *Pheromones = cultured bioware, augmented stat when physically present in range*
 *Unaugmented base used for: magic, conjuring, drain, astral, racism offset*
 
-| | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | Body | 8 | 8 | 11 | 9 | 11 | 6 | 6 |
 | Quickness | 9 | 9 | 11(15) | 11(15) | 14(18) | 7 | 7 |
@@ -210,7 +210,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### Key Unaugmented Stats (Magical Use — 3PR)
 
-| | Brian | Kim | Gabe |
+| | Singer | Banshee | Carpenter |
 |---|---|---|---|
 | Conjuring CHA (drain pool) | 11 | 16 | 11 |
 | Drain WIL | 11 | 14 | 11 |
@@ -233,25 +233,25 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | | Avg Init | P1 | P2 | P3 | P4 |
 |---|---|---|---|---|---|
-| Gabe | ~37 | 37✓ | 27✓ | 17✓ | 7✓ |
-| Brian | ~35 | 35✓ | 25✓ | 15✓ | 5✓ |
-| Kim | ~35 | 35✓ | 25✓ | 15✓ | 5✓ |
-| Frances | ~17 | 17✓ | 7✓ | — | — |
-| Dennis | ~17 | 17✓ | 7✓ | — | — |
-| Angela | ~15 | 15✓ | 5✓ | — | — |
-| Mike | ~15 | 15✓ | 5✓ | — | — |
+| Carpenter | ~37 | 37✓ | 27✓ | 17✓ | 7✓ |
+| Singer | ~35 | 35✓ | 25✓ | 15✓ | 5✓ |
+| Banshee | ~35 | 35✓ | 25✓ | 15✓ | 5✓ |
+| Meridian | ~17 | 17✓ | 7✓ | — | — |
+| Keystone | ~17 | 17✓ | 7✓ | — | — |
+| Kluger | ~15 | 15✓ | 5✓ | — | — |
+| Crowbar | ~15 | 15✓ | 5✓ | — | — |
 
 ### Movement Per Pass
 
 | | Q | Walk/turn | Run/turn | Passes | Walk/pass | Run/pass |
 |---|---|---|---|---|---|---|
-| Gabe | 18 | 18m | 54m | 4 | 4.5m | 13.5m |
-| Brian | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
-| Kim | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
-| Frances | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
-| Dennis | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
-| Angela | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
-| Mike | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
+| Carpenter | 18 | 18m | 54m | 4 | 4.5m | 13.5m |
+| Singer | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
+| Banshee | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
+| Meridian | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
+| Keystone | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
+| Kluger | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
+| Crowbar | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
 
 ---
 
@@ -259,13 +259,13 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | Character | Grade | Metamagics confirmed |
 |---|---|---|
-| Brian | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Kim | 7 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Gabe | 7 | Masking, Channeling, Invoking, Shielding, Sensing, Reflecting |
-| Dennis | None | — |
-| Frances | None | — |
-| Mike | None | — |
-| Angela | None | — |
+| Singer | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Banshee | 7 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Carpenter | 7 | Masking, Channeling, Invoking, Shielding, Sensing, Reflecting |
+| Keystone | None | — |
+| Meridian | None | — |
+| Crowbar | None | — |
+| Kluger | None | — |
 
 *All seven are initiates — they do not know this.*
 
@@ -275,7 +275,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### Edge Table
 
-| Edge | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| Edge | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | Good Reputation 2 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Bilingual | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -302,7 +302,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### SURGE / Night One Traits
 
-| Trait | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| Trait | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | Night One / SURGE | ✓ | ✓ | ✓ | ✓ | ✓ | mild | mild |
 | Albino | ✓ | ✓ | ✓ | ✓ | ✓ | — | — |
@@ -326,7 +326,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### Bilingual (Free at INT rating)
 
-| | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | English spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
 | English R/W | 8 | 8 | 11 | 11 | 5 | 3 | 6 |
@@ -336,7 +336,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ### Additional Languages
 
-| Language | Dennis | Frances | Brian | Kim | Gabe | Mike | Angela |
+| Language | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
 |---|---|---|---|---|---|---|---|
 | French spoken | 2 | 6 | 4 | 2 | 5 | 2 | 4 |
 | German spoken | 2 | — | 4 | 2 | 5 | — | 5 |
@@ -355,13 +355,13 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | Character | Lingo |
 |---|---|
-| Dennis | Scientific Jargon |
-| Frances | None |
-| Brian | Street/City Speak, Scientific Jargon |
-| Kim | Legalese, City Speak |
-| Gabe | Net Jargon, City Speak |
-| Mike | Street/City Speak |
-| Angela | Medical Jargon, Street/City Speak |
+| Keystone | Scientific Jargon |
+| Meridian | None |
+| Singer | Street/City Speak, Scientific Jargon |
+| Banshee | Legalese, City Speak |
+| Carpenter | Net Jargon, City Speak |
+| Crowbar | Street/City Speak |
+| Kluger | Medical Jargon, Street/City Speak |
 
 ---
 
@@ -369,7 +369,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 *Full detail: CHARACTER DATA/shared_3pr_augmentations.md*
 
-### Shared Bioware Package (Brian, Kim, Gabe)
+### Shared Bioware Package (Singer, Banshee, Carpenter)
 
 | Bioware | Effect |
 |---|---|
@@ -438,13 +438,13 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | Runner | Credstick |
 |---|---|
-| Dennis | 1,089¥ |
-| Frances | 1,386¥ |
-| Brian | 888¥ |
-| Kim | 1,191¥ |
-| Gabe | 692¥ |
-| Mike | 984¥ |
-| Angela | 1,287¥ |
+| Keystone | 1,089¥ |
+| Meridian | 1,386¥ |
+| Singer | 888¥ |
+| Banshee | 1,191¥ |
+| Carpenter | 692¥ |
+| Crowbar | 984¥ |
+| Kluger | 1,287¥ |
 | **Total** | **~6,408¥** *(updated after Session 04)* |
 
 **Safehouse Net 30 balance:** ~7,650¥ due — clock running.
@@ -457,7 +457,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 - [x] RCS callsigns — Keystone: KEYS · Meridian: MERRY · Crowbar: CROW · Kluger: CLUE
 - [x] Kluger ranged weapon — confirmed none
 - [x] Kluger missing edge — resolved (no missing edge)
-- [x] Mike and Angela SURGE traits — confirmed from sheets: Altered Eye Color, High/Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3
+- [x] Crowbar and Kluger SURGE traits — confirmed from sheets: Altered Eye Color, High/Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3
 - [x] Common family SURGE traits — confirmed from sheets: Altered Eye Color, High/Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3 (all seven)
 - [x] Initiate grades — Singer 8 ✓ · Banshee 7 ✓ · Carpenter 7 ✓ · Keystone/Meridian/Crowbar/Kluger: none
 - [x] Metamagic list — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none

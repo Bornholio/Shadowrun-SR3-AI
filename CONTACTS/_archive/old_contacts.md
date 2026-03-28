@@ -13,7 +13,7 @@ All of them believe la Malice is dead. The relationships are gone.
 
 Approaching any of them as a stranger is the only safe option. The SURGE
 expression, Night One markers, and genetic changes mean visual recognition
-is unreliable. A contact who knew Brian as a human-passing elf with no fur
+is unreliable. A contact who knew Singer as a human-passing elf with no fur
 and normal eyes is not looking at the same person. Most will not make the
 connection. A few might feel something is familiar and not be able to place it.
 
@@ -30,9 +30,9 @@ extraordinary social action with consequences either way.
 
 | Shadow Name | Character | Status |
 |---|---|---|
-| Claire | Kim | Active |
-| Alois | Brian | Active |
-| Arnaud | Gabe | Active |
+| Claire | Banshee | Active |
+| Alois | Singer | Active |
+| Arnaud | Carpenter | Active |
 | Pentarus | *Deceased team member* | — |
 
 Contacts listed under Pentarus have no current handler. They are orphaned —
@@ -93,7 +93,7 @@ will offer it to active clients at standard rates).
 
 ### Dr. Isaac Kade — "Patchwork"
 **Type:** Street Doc | **Rating:** 3 | **Location:** Seattle — Taetzal Medical Clinic
-**Primary:** Claire/Kim *(lost)*
+**Primary:** Claire/Banshee *(lost)*
 **Specialty:** Full surgical capability, Taetzal Medical Clinic
 
 Rating 3 street doc with full surgical capability. Ran out of Taetzal.
@@ -144,7 +144,7 @@ two days after the assassination) and the subsequent procedure is not accidental
 
 ## Blackstone
 **Type:** Dwarven Technician | **Rating:** 3 | **Location:** Seattle — Private Facility, Auburn
-**Primary:** Alois/Brian *(lost)*
+**Primary:** Alois/Singer *(lost)*
 
 Blackstone and his daughter were extracted from Aztechnology's hands by
 la Malice. The debt is real and he knows it.
@@ -177,16 +177,16 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Erin Scott "Alpha Blue" | 2 | Seattle | Claire/Kim | Johnson and runner |
+| Erin Scott "Alpha Blue" | 2 | Seattle | Claire/Banshee | Johnson and runner |
 | Eve Donavan [Ares] | 2 | Seattle | Pentarus | Jobs, Electronics — orphaned |
 | Marcus | 1 | Seattle | Pentarus | Knows Team Generson identity — orphaned |
-| Melon Head | 2 | Seattle | Alois/Brian | Computer 3, Electronics 3, Etiquette 4 (Street 6), Negotiation 7 |
+| Melon Head | 2 | Seattle | Alois/Singer | Computer 3, Electronics 3, Etiquette 4 (Street 6), Negotiation 7 |
 | Morgan "Popsicle" Ulstar [Nexus] | **3** | Denver | Pentarus | **See Safe Contacts** — orphaned but approachable |
 | Sandii | 1 | Seattle | Pentarus | Orphaned |
-| Vanian "Rat" | 1 | Seattle | Arnaud/Gabe | Electronics — stolen goods |
-| Dante Russo "Turnstile" | 2 | New York | Arnaud/Gabe | Meet setup, introductions, Mafia ties |
+| Vanian "Rat" | 1 | Seattle | Arnaud/Carpenter | Electronics — stolen goods |
+| Dante Russo "Turnstile" | 2 | New York | Arnaud/Carpenter | Meet setup, introductions, Mafia ties |
 | Daniel Kapaa | 1 | Hawaii | Pentarus | Orphaned |
-| Duncan | 1 | UK/Edinburgh | Alois/Brian | |
+| Duncan | 1 | UK/Edinburgh | Alois/Singer | |
 
 ---
 
@@ -194,15 +194,15 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Dr. Isaac Kade "Patchwork" | **3** | Seattle/Taetzal | Claire/Kim | **See Safe Contacts** |
-| Hiro Watanabe "Bonecode" | 3 | Seattle/Taetzal | Claire/Kim | Taetzal — see note |
-| Leonard Cho "Ghost Scalpel" | 3 | Seattle/Taetzal | Claire/Kim | Taetzal — see note |
-| Denise Carter "CleanCut" | 2 | Seattle | Arnaud/Gabe | Part time TMC |
-| Maria Alvarez "QuickStitch" | 2 | Seattle/Taetzal | Claire/Kim | Taetzal |
-| Samuel Brooks "Back Alley" | 2 | Seattle/Taetzal | Claire/Kim | Taetzal |
-| Tanya Volkov "Red Needle" | 2 | Seattle/Taetzal | Claire/Kim | Taetzal |
-| Viktor Hale "Meatjack" | 2 | Seattle | Arnaud/Gabe | |
-| Harlan Keene "Patch" | 1 | Denver | Alois/Brian | |
+| Dr. Isaac Kade "Patchwork" | **3** | Seattle/Taetzal | Claire/Banshee | **See Safe Contacts** |
+| Hiro Watanabe "Bonecode" | 3 | Seattle/Taetzal | Claire/Banshee | Taetzal — see note |
+| Leonard Cho "Ghost Scalpel" | 3 | Seattle/Taetzal | Claire/Banshee | Taetzal — see note |
+| Denise Carter "CleanCut" | 2 | Seattle | Arnaud/Carpenter | Part time TMC |
+| Maria Alvarez "QuickStitch" | 2 | Seattle/Taetzal | Claire/Banshee | Taetzal |
+| Samuel Brooks "Back Alley" | 2 | Seattle/Taetzal | Claire/Banshee | Taetzal |
+| Tanya Volkov "Red Needle" | 2 | Seattle/Taetzal | Claire/Banshee | Taetzal |
+| Viktor Hale "Meatjack" | 2 | Seattle | Arnaud/Carpenter | |
+| Harlan Keene "Patch" | 1 | Denver | Alois/Singer | |
 
 ---
 
@@ -211,9 +211,9 @@ relationship — lower trust ceiling even if recovered).*
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
 | Anika Patel "Pulse" | 2 | Seattle | Pentarus | Part time TMC — orphaned |
-| Jerome Watkins "Blue Siren" | 2 | Seattle | Alois/Brian | Part time TMC |
-| Keiko Tanaka "Crash Cart" | 2 | Seattle | Arnaud/Gabe | Part time TMC |
-| Paul Rennick "Lights Out" | 2 | Seattle/Taetzal | Claire/Kim | Taetzal |
+| Jerome Watkins "Blue Siren" | 2 | Seattle | Alois/Singer | Part time TMC |
+| Keiko Tanaka "Crash Cart" | 2 | Seattle | Arnaud/Carpenter | Part time TMC |
+| Paul Rennick "Lights Out" | 2 | Seattle/Taetzal | Claire/Banshee | Taetzal |
 
 ---
 
@@ -221,14 +221,14 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Capt. Robert "Tex" Maddox "Longhorn" | 1 | Seattle | Alois/Brian | Lone Star Captain |
-| Det. Marcus Hale "Deadbeat" | 1 | Seattle | Alois/Brian | Knight Errant Detective |
-| Isaac Crowley "Blackbox" | 2 | Seattle | Alois/Brian | DocWagon Internal Security |
+| Capt. Robert "Tex" Maddox "Longhorn" | 1 | Seattle | Alois/Singer | Lone Star Captain |
+| Det. Marcus Hale "Deadbeat" | 1 | Seattle | Alois/Singer | Knight Errant Detective |
+| Isaac Crowley "Blackbox" | 2 | Seattle | Alois/Singer | DocWagon Internal Security |
 | Koren Thark | 1 | Seattle | Pentarus | LS Gang Division — orphaned |
-| Olivia Chen "Latch" | 1 | New York | Arnaud/Gabe | Case whispers, warrants |
-| Daniel Cross "Quiet Knife" | 1 | DC | Alois/Brian | CIA Operation Project Lead |
-| Gen. Thomas R. Whitaker "Iron Flag" | 1 | Seattle | Alois/Brian | UCAS General |
-| Harold P. Wainwright "Paperclip" | 1 | DC | Alois/Brian | UCAS VA Case worker |
+| Olivia Chen "Latch" | 1 | New York | Arnaud/Carpenter | Case whispers, warrants |
+| Daniel Cross "Quiet Knife" | 1 | DC | Alois/Singer | CIA Operation Project Lead |
+| Gen. Thomas R. Whitaker "Iron Flag" | 1 | Seattle | Alois/Singer | UCAS General |
+| Harold P. Wainwright "Paperclip" | 1 | DC | Alois/Singer | UCAS VA Case worker |
 
 ---
 
@@ -237,13 +237,13 @@ relationship — lower trust ceiling even if recovered).*
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
 | Sarah Crull | 1 | Seattle | Pentarus | Mitsuhama — orphaned |
-| Tanya Oko | 1 | Seattle | Claire/Kim | Mitsuhama, ATVP Facilities |
-| Urlan Manes | 1 | Seattle | Alois/Brian | Dream Chipper connection |
+| Tanya Oko | 1 | Seattle | Claire/Banshee | Mitsuhama, ATVP Facilities |
+| Urlan Manes | 1 | Seattle | Alois/Singer | Dream Chipper connection |
 | Elaine Kuroda "Velvet Glove" | 1 | Seattle | Pentarus | CTO Personal secretary — orphaned |
-| Tangent | 1 | Tir Na nOg | Alois/Brian | Highstar |
-| Dominic O'Brien | 1 | Tir Na nOg | Claire/Kim | SES |
+| Tangent | 1 | Tir Na nOg | Alois/Singer | Highstar |
+| Dominic O'Brien | 1 | Tir Na nOg | Claire/Banshee | SES |
 | Mary Falls | 1 | Seattle | Pentarus | CEO MFI Corp — orphaned |
-| Roxanne | 1 | Seattle | Alois/Brian | GTS corp |
+| Roxanne | 1 | Seattle | Alois/Singer | GTS corp |
 
 ---
 
@@ -256,9 +256,9 @@ relationship — lower trust ceiling even if recovered).*
 | Kiera Caldwell "Bluejay" | 1 | Denver | Pentarus | Journalist — orphaned |
 | Nina Park "Ink" | 1 | New York | Pentarus | Press access — orphaned |
 | Ethan Brooks "Pressman" | 1 | Boston | Pentarus | Research, archives — orphaned |
-| Petra Johnson | 1 | New York | Claire/Kim | NY Lawyer |
-| Gabriel Ortiz | 1 | New York | Claire/Kim | Heat smoothing, court timing |
-| Bridgit O'Toole | 1 | Tir Na nOg | Arnaud/Gabe | OTT Transcom |
+| Petra Johnson | 1 | New York | Claire/Banshee | NY Lawyer |
+| Gabriel Ortiz | 1 | New York | Claire/Banshee | Heat smoothing, court timing |
+| Bridgit O'Toole | 1 | Tir Na nOg | Arnaud/Carpenter | OTT Transcom |
 
 ---
 
@@ -266,8 +266,8 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Elena Varga "Seamstress" | 2 | Denver | Claire/Kim | IDs, uniforms, documents |
-| Holly Nguyen "Spool" | 1 | San Francisco | Alois/Brian | IDs, permits |
+| Elena Varga "Seamstress" | 2 | Denver | Claire/Banshee | IDs, uniforms, documents |
+| Holly Nguyen "Spool" | 1 | San Francisco | Alois/Singer | IDs, permits |
 
 ---
 
@@ -277,10 +277,10 @@ relationship — lower trust ceiling even if recovered).*
 |---|---|---|---|---|
 | Jac | 2 | Salish-Sidhe | Pentarus | Vector thrust, cars, drones, Panzers — orphaned |
 | Valerie Westerfield | 2 | Seattle | Pentarus | Rotorcraft, cars — orphaned |
-| Saito Nakamura "Monkfish" | 1 | Denver | Alois/Brian | Drone eyes, tail checks |
+| Saito Nakamura "Monkfish" | 1 | Denver | Alois/Singer | Drone eyes, tail checks |
 | Darius Cole "Brass" | 1 | Detroit | Pentarus | Chop bays, VIN swaps — orphaned |
-| Harold Kip | 1 | Seattle/Auburn | Alois/Brian | |
-| Jackie Stewart | 1 | UK/Edinburgh | Claire/Kim | |
+| Harold Kip | 1 | Seattle/Auburn | Alois/Singer | |
+| Jackie Stewart | 1 | UK/Edinburgh | Claire/Banshee | |
 
 ---
 
@@ -288,12 +288,12 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Freya Goldenhair | 1 | Seattle | Claire/Kim | Dream Chipper connection |
-| Samira al-Masri | 1 | New York | Claire/Kim | Foci, reagents, lodge circles |
-| Lili Ice | 1 | Seattle/Pinehurst | Claire/Kim | "Icelady" |
+| Freya Goldenhair | 1 | Seattle | Claire/Banshee | Dream Chipper connection |
+| Samira al-Masri | 1 | New York | Claire/Banshee | Foci, reagents, lodge circles |
+| Lili Ice | 1 | Seattle/Pinehurst | Claire/Banshee | "Icelady" |
 | Daisy | 2 | Salish-Sidhe | Pentarus | Orphaned |
 | Amina al-Hassan | 1 | Denver | Pentarus | Reagents, wards — orphaned |
-| Noah Redbird "Ash" | 1 | Omaha | Arnaud/Gabe | Spirit advice, wards |
+| Noah Redbird "Ash" | 1 | Omaha | Arnaud/Carpenter | Spirit advice, wards |
 
 ---
 
@@ -301,9 +301,9 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Leary | 1 | Seattle | Alois/Brian | Biological computers, TMC shops |
-| Fionnghuala Colquhoun | 1 | UK/Edinburgh | Arnaud/Gabe | University researcher |
-| Col. Richard Voss "Killware" | 1 | Houston | Alois/Brian | Ares Security, Technical Training |
+| Leary | 1 | Seattle | Alois/Singer | Biological computers, TMC shops |
+| Fionnghuala Colquhoun | 1 | UK/Edinburgh | Arnaud/Carpenter | University researcher |
+| Col. Richard Voss "Killware" | 1 | Houston | Alois/Singer | Ares Security, Technical Training |
 
 ---
 
@@ -311,11 +311,11 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Kesh Running-Deer "Ironwind" | 1 | Salish-Sidhe | Arnaud/Gabe | Border guard |
-| Tomas Gray Elk "Fencepost" | 1 | Salish-Sidhe | Claire/Kim | Border guard |
-| Chief Tayan Silverbranch "Stormroot" | 1 | Salish-Sidhe | Alois/Brian | Tribal chief |
-| Raymond Cho "Backhaul" | 2 | Vancouver | Alois/Brian | Port lanes, border timing |
-| Marisol Reyes "Switchback" | 1 | Denver | Arnaud/Gabe | Drop routes, Casquilho crews |
+| Kesh Running-Deer "Ironwind" | 1 | Salish-Sidhe | Arnaud/Carpenter | Border guard |
+| Tomas Gray Elk "Fencepost" | 1 | Salish-Sidhe | Claire/Banshee | Border guard |
+| Chief Tayan Silverbranch "Stormroot" | 1 | Salish-Sidhe | Alois/Singer | Tribal chief |
+| Raymond Cho "Backhaul" | 2 | Vancouver | Alois/Singer | Port lanes, border timing |
+| Marisol Reyes "Switchback" | 1 | Denver | Arnaud/Carpenter | Drop routes, Casquilho crews |
 | Valeria Ortega "Switch" | 1 | Tijuana | Pentarus | Crossing tricks — orphaned |
 
 ---
@@ -324,17 +324,17 @@ relationship — lower trust ceiling even if recovered).*
 
 | Name | Rating | Location | Primary | Notes |
 |---|---|---|---|---|
-| Vincenzo Calitri — Mafia | 1 | Seattle | Alois/Brian | |
-| Numbers — Mafia Lt. | 1 | Seattle | Alois/Brian | |
-| Chairman Pak — Seoulpa | 1 | Seattle | Alois/Brian | |
-| Knife-Hand — Yakuza | 1 | Seattle | Alois/Brian | |
-| Shiro — Yakuza Lt. | 1 | Seattle | Alois/Brian | |
-| Kenji Kuroda — Yakuza Oyabun | 1 | Seattle | Alois/Brian | |
-| Kang Min-Jae "Ghost Phoenix" | FoF | Seattle | Alois/Brian | FoF |
-| Park Dae-Hyun "Black Chrysanthemum" | FoF | Seattle | Alois/Brian | FoF |
-| All Triad entries | FoF | Seattle | Claire/Kim | FoF — see full list below |
+| Vincenzo Calitri — Mafia | 1 | Seattle | Alois/Singer | |
+| Numbers — Mafia Lt. | 1 | Seattle | Alois/Singer | |
+| Chairman Pak — Seoulpa | 1 | Seattle | Alois/Singer | |
+| Knife-Hand — Yakuza | 1 | Seattle | Alois/Singer | |
+| Shiro — Yakuza Lt. | 1 | Seattle | Alois/Singer | |
+| Kenji Kuroda — Yakuza Oyabun | 1 | Seattle | Alois/Singer | |
+| Kang Min-Jae "Ghost Phoenix" | FoF | Seattle | Alois/Singer | FoF |
+| Park Dae-Hyun "Black Chrysanthemum" | FoF | Seattle | Alois/Singer | FoF |
+| All Triad entries | FoF | Seattle | Claire/Banshee | FoF — see full list below |
 
-**Triad contacts (all FoF, Claire/Kim primary):**
+**Triad contacts (all FoF, Claire/Banshee primary):**
 Uncle Tsing, Lucky Nine, Paper Fan, Hiroto Tanaka/Tigers, Madame Lin Xiu/White Orchid,
 Uncle Bao Jin/Golden Fan, Wu Shen/Heavenly Dragon, and associated lieutenants.
 
@@ -352,7 +352,7 @@ but that the program still means something. The emotional weight cuts both ways 
 some will be genuinely moved. Others will feel the relationship was built on a
 deception if they learn who the family really was.
 
-**Gang Bosses (all Rating 1 unless noted, Seattle, Claire/Kim or Alois/Brian primary):**
+**Gang Bosses (all Rating 1 unless noted, Seattle, Claire/Banshee or Alois/Singer primary):**
 Big Digger/Komun'go, Big Reggie/52nd Street Bloods, Bloody Tom/Cutters,
 Brass Monkey R3/Road Crew, Burnout Bill/405 Hellhounds, Butcher Kane/Meat Junkies,
 Crosshair/Iron Sights, Deputy Grond/Ork Posse, Dr. Feelgood/Brain Eaters (FoF),
@@ -374,8 +374,8 @@ All others Rating 1. Full list available on request.
 
 | Name | Type | Rating | Location | Primary | Notes |
 |---|---|---|---|---|---|
-| Triple Point | Gang | G | Seattle/Redmond | Claire/Kim | 39 mixed members, blocks around Taetzal |
-| Road Crew | Go Gang | G | Seattle/Auburn | Claire/Kim | 24 go-gangers, 4 industrial road pavers |
+| Triple Point | Gang | G | Seattle/Redmond | Claire/Banshee | 39 mixed members, blocks around Taetzal |
+| Road Crew | Go Gang | G | Seattle/Auburn | Claire/Banshee | 24 go-gangers, 4 industrial road pavers |
 
 *Triple Point operated around Taetzal. Their territory may still border the
 building under new management. They do not know la Malice is alive.*
@@ -387,30 +387,30 @@ building under new management. They do not know la Malice is alive.*
 | Name | Type | Rating | Location | Primary | Notes |
 |---|---|---|---|---|---|
 | Angel | Musician | 3 | Seattle | Pentarus | Orphaned |
-| Lirael Moonstep "Glimmer" | Elf Poser | 1 | Seattle | Claire/Kim | |
-| Emma "Sleeping Beauty" | Street Kid | 1 | Seattle/Puyallup | Arnaud/Gabe | |
-| Rico Alvarez "Quickstep" | Bouncer | 1 | Miami | Alois/Brian | |
-| Mina Patel "Latchkey" | Concierge | 1 | Atlanta | Claire/Kim | |
+| Lirael Moonstep "Glimmer" | Elf Poser | 1 | Seattle | Claire/Banshee | |
+| Emma "Sleeping Beauty" | Street Kid | 1 | Seattle/Puyallup | Arnaud/Carpenter | |
+| Rico Alvarez "Quickstep" | Bouncer | 1 | Miami | Alois/Singer | |
+| Mina Patel "Latchkey" | Concierge | 1 | Atlanta | Claire/Banshee | |
 | Tomasz Nowak | Priest | 1 | Denver | Pentarus | Safe beds, parish network — orphaned |
-| Hamish Macleod | Bartender | 1 | UK/Edinburgh | Alois/Brian | |
-| Clean Steve | Assassin | 1 | Seattle | Alois/Brian | Martial artist |
-| Bonecrack | Mercenary | 1 | Seattle | Claire/Kim | |
-| Jae Kim "Ghost Ping" | Spider | 1 | New York | Arnaud/Gabe | Host watches, trace work |
-| Priya Nand "Ledger" | Accountant | 1 | Denver | Claire/Kim | Payroll ghosts |
-| Caleb Hart "Pinstripe" | Auditor | 1 | Chicago | Alois/Brian | Paper trails, corp habits |
-| Inez Morales "Rosary" | Activist | 1 | Los Angeles | Alois/Brian | Safe houses, community pull |
-| Robbie Kurosawa "Kinu" | Agent | 2 | Hawaii | Claire/Kim | Ex MCT/Aloha |
-| Irina Sokolov "Cold Draw" | Arms | 1 | New York | Arnaud/Gabe | Vory pipeline |
-| Selena Ward "Ledger" | Broker | 1 | New York | Arnaud/Gabe | Shell buys, finance circles |
-| Declan O'Malley "Kite" | Go-gang | 1 | Denver | Alois/Brian | Spikes ties |
+| Hamish Macleod | Bartender | 1 | UK/Edinburgh | Alois/Singer | |
+| Clean Steve | Assassin | 1 | Seattle | Alois/Singer | Martial artist |
+| Bonecrack | Mercenary | 1 | Seattle | Claire/Banshee | |
+| Jae Banshee "Ghost Ping" | Spider | 1 | New York | Arnaud/Carpenter | Host watches, trace work |
+| Priya Nand "Ledger" | Accountant | 1 | Denver | Claire/Banshee | Payroll ghosts |
+| Caleb Hart "Pinstripe" | Auditor | 1 | Chicago | Alois/Singer | Paper trails, corp habits |
+| Inez Morales "Rosary" | Activist | 1 | Los Angeles | Alois/Singer | Safe houses, community pull |
+| Robbie Kurosawa "Kinu" | Agent | 2 | Hawaii | Claire/Banshee | Ex MCT/Aloha |
+| Irina Sokolov "Cold Draw" | Arms | 1 | New York | Arnaud/Carpenter | Vory pipeline |
+| Selena Ward "Ledger" | Broker | 1 | New York | Arnaud/Carpenter | Shell buys, finance circles |
+| Declan O'Malley "Kite" | Go-gang | 1 | Denver | Alois/Singer | Spikes ties |
 | Jamal Baines "Rook" | Guard | 1 | Denver | Pentarus | Patrol gaps — orphaned |
-| Keon Briggs "Bodega" | Ganger | 1 | New York | Arnaud/Gabe | Street buzz |
-| Mara Volkov "Seam" | Disguise | 1 | New York | Arnaud/Gabe | Wardrobe, backstage doors |
-| Maritza Kline "Cold Iron" | Fence | 1 | Denver | Arnaud/Gabe | Hot goods, Vory middlemen |
-| Mei Lin "Stitch" | Nurse | 1 | New York | Alois/Brian | Quiet care, Chinatown cover |
-| Nate Tsosie "Snowcrash" | Sysop | 1 | Denver | Alois/Brian | Host rumors, access paths |
-| Sofia Markovic "Needle" | Paramedic | 1 | Toronto | Claire/Kim | Discreet care |
-| Rafiq Hasan "Harborlight" | Longshore | 1 | New York | Alois/Brian | Dock pulls, union hooks |
+| Keon Briggs "Bodega" | Ganger | 1 | New York | Arnaud/Carpenter | Street buzz |
+| Mara Volkov "Seam" | Disguise | 1 | New York | Arnaud/Carpenter | Wardrobe, backstage doors |
+| Maritza Kline "Cold Iron" | Fence | 1 | Denver | Arnaud/Carpenter | Hot goods, Vory middlemen |
+| Mei Lin "Stitch" | Nurse | 1 | New York | Alois/Singer | Quiet care, Chinatown cover |
+| Nate Tsosie "Snowcrash" | Sysop | 1 | Denver | Alois/Singer | Host rumors, access paths |
+| Sofia Markovic "Needle" | Paramedic | 1 | Toronto | Claire/Banshee | Discreet care |
+| Rafiq Hasan "Harborlight" | Longshore | 1 | New York | Alois/Singer | Dock pulls, union hooks |
 
 ---
 
