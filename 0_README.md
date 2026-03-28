@@ -46,13 +46,13 @@ E:.
 │       shared_3pr_augmentations.md — Full cyberware/bioware block for Singer, Banshee, Carpenter
 │
 ├───CHARACTERS/
-│       banshee.md          — Banshee
-│       carpenter.md        — Carpenter
-│       crowbar.md          — Crowbar
-│       keystone.md         — Keystone
-│       kluger.md           — Kluger
-│       meridian.md         — Meridian
-│       singer.md           — Singer
+│       banshee.md          — Prime Runner / Face / Mage
+│       carpenter.md        — Prime Runner / Mage / Decker
+│       crowbar.md          — Ganger / Shaman
+│       keystone.md         — Shaman (Raven totem)
+│       kluger.md           — Mage / Detective
+│       meridian.md         — Hermetic Mage / Face
+│       singer.md           — Prime Runner / Mage / Military EW
 │
 ├───CONTACTS/
 │   │   contacts_roster.md          — All contacts, ratings, specialties, memory gaps
@@ -157,8 +157,9 @@ E:.
 │       session_02_summary.md
 │       session_03_oos_summary.md
 │       session_03_summary.md
-│       session_04_summary.md       — ★ NEW
-│       session_05_header.md        — ★ NEW — Session 05 prep header
+│       session_04_summary.md
+│       session_05_summary.md
+│       session_06_header.md        — ★ current session prep
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -210,8 +211,8 @@ Load these on demand after the root files:
 | skill: `sr3-spellcasting` | Spellcasting procedure, drain resolution |
 | skill: `sr3_concepts_tests_pools` | Test types, pool allocation, defaulting, Rule of Six |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_04_summary.md` | Session 04 continuity reference |
-| `SESSION LOGS/session_05_header.md` | Session 05 prep |
+| `SESSION LOGS/session_05_summary.md` | Session 05 continuity reference |
+| `SESSION LOGS/session_06_header.md` | Session 06 prep — current |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 
 ---
@@ -250,7 +251,7 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 04 complete — Session 05 pending
+**Status:** Session 05 complete — Session 06 pending
 **Heat:** BOLO active, LS expanding north
 **Funds:** ~6,408¥ in certified credsticks / Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
@@ -269,4 +270,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 04 — Session 05 prep loaded*
+*Repository current through Session 05 — Session 06 prep loaded*

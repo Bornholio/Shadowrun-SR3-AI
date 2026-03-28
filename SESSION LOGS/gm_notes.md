@@ -80,7 +80,7 @@ Does not want Lone Star to find la Malice first. Possibly wants the family found
 - Device series: at least 003 confirmed, 001 and 002location unknown
 - Same operator: tripwire on Auburn South tower + tight-beam Route 167 + RAVN devices
 - Panel van: same operator, off station after 4 hours
-- Auburn South tap: carrier removing in 48-72 hours from session 03
+- Auburn South tap — gone
 
 ### Room 6 Man
 Professional, mundane, human male, late 30s, Wired Reflexes 1-2, Essence ~3.0-3.5.
@@ -178,6 +178,6 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
-*GM Notes v1.1 — Malice Family Campaign*
-*Updated after Session 03*
+*GM Notes v1.2 — Malice Family Campaign*
+*Updated after Session 05*
 *File location: SESSION LOGS/gm_notes.md*

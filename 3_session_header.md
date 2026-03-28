@@ -1,6 +1,6 @@
 # Malice Family Campaign — Session Header
 *Paste this file first into any new chat. Load sr3_game_rules.md and chat_control.md after.*
-*File location: session_header.md (root)*
+*File location: 3_session_header.md (root)*
 
 ---
 
@@ -20,7 +20,7 @@ When uncertain whether a rule is SR3 canonical, say so explicitly. If no SR3 sou
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 04 complete.
+**Status:** Session 05 complete.
 
 ---
 
@@ -45,7 +45,7 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 
 **Metamagics confirmed (3PR):** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
-**Initiate status:** All seven are initiates — they do not know this.
+**Initiate status:** Singer Gr8, Banshee Gr7, Carpenter Gr7 confirmed. Keystone/Meridian/Crowbar/Kluger: none.
 
 ---
 
@@ -60,8 +60,8 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 **Active assets:**
 - Great Form Hearth Spirit F4 — 10 services, guarding unit
 - City Spirit F8 — 2 services (Pinnacle Peak four)
-- Overnight scanner recording — pending Singer analysis
 - Singer fire pit — prepped, not lit
+- Belltown LS patrol pattern — mapped, Tactical Computer tracking active
 
 ---
 
@@ -105,38 +105,40 @@ Load after the three root files, on demand per session:
 
 ---
 
-## Open Threads *(Session 05 pickup)*
+## Open Threads *(Session 06 pickup)*
 
 | Thread | Status |
 |---|---|
-| Unknown commcode (operatives asking about Carpenter) | ⚠️ Active — Mechanic cover approach planned |
-| RAVN-001 and RAVN-002 | Location unknown |
+| Unknown commcode | ⚠️ Active — registry hit, Mechanic cover approach in a few days, Carpenter warned first |
+| RAVN van | Roaming, likely Auburn — same operator, no intercept plan |
 | Room 6 man | "When you're ready" — unanswered |
-| Safehouse Net 30 balance ~7,650¥ | Clock running |
-| Reunification | ~2 days |
-| Mechanic fabrication job | Details arriving — specialist rate |
-| Street Doc medical check | Banshee's dosed/fuzzy symptoms pending |
+| Safehouse Net 30 balance ~7,650¥ | Clock running, no plan |
+| Reunification | Imminent |
+| Mechanic fabrication job | Details arriving |
+| Street Doc medical check | Banshee symptoms pending — consult notes arriving |
 | Clinic rotation | Offered — Banshee to confirm |
 | Vessel introduction | Via Street Doc — timing TBD |
 | Singer Talismonger | Manual approach needed |
-| Scanner data analysis | Overnight recording, Singer to review |
 | Carpenter Fixer second call | Queued |
-| Auburn South tap | Carrier removing — may already be gone |
+| DW HRT unit | Encrypted, Belltown sector — BD run available |
 
 ---
 
 ## Pending Items *(flag when encountered)*
 
-- [ ] Kluger's missing edge
-- [ ] Crowbar and Kluger SURGE traits
-- [ ] Common family SURGE traits
-- [ ] Carpenter and Crowbar eye colors
-- [ ] Meridian English lingo specialty
-- [ ] VCR grade (3PR)
-- [ ] Banshee, Carpenter, Crowbar, Kluger totem/tradition details — Banshee Wolf ✓, Carpenter Cat ✓, Crowbar/Kluger TBD
-- [ ] Exact initiate grades — Singer 8 ✓, Banshee 7 ✓, Carpenter 7 ✓, Keystone/Meridian/Crowbar/Kluger TBD
-- [ ] Metamagic list — 3PR confirmed, Keystone/Meridian/Crowbar/Kluger TBD
-- [ ] Aptitude details — Keystone/Meridian/Crowbar/Kluger specific aptitudes not fully documented
+- [x] Eye colors — all seven confirmed
+- [x] RCS callsigns — KEYS · MERRY · CROW · CLUE
+- [x] SURGE traits — all seven confirmed
+- [x] Initiate grades — Singer 8, Banshee 7, Carpenter 7 · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Metamagics — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Aptitudes — Keystone/Meridian/Crowbar/Kluger: none
+- [x] Meridian English lingo — none
+- [x] VCR grade — VCR 2 confirmed
+- [x] Kluger ranged weapon — none
+- [x] Bilingual — confirmed all seven
+- [ ] Crowbar/Kluger totem/tradition details — TBD
+- [ ] Transceivers/radios — not yet acquired, all seven
+- [ ] Net 30 funding plan — 7,650¥ needed
 
 ---
 
@@ -157,7 +159,7 @@ Do not re-narrate past events unless asked. Flag any conflict between correction
 
 ## Continuity Flags *(GM eyes only)*
 
-- Session 01–04 events canonical — do not retcon without GM instruction
+- Session 01–05 events canonical — do not retcon without GM instruction
 - Harlequin connection is GM-only knowledge — never surface to players
 - "Why us then?" is the central unanswered question — do not answer it
 - The family does not know they are initiates
@@ -170,4 +172,4 @@ Do not re-narrate past events unless asked. Flag any conflict between correction
 
 *Session Header v1.2 — Malice Family Campaign*
 *Updated after Session 04*
-*File location: session_header.md (root)*
+*File location: 3_session_header.md (root)*

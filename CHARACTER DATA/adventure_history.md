@@ -132,5 +132,6 @@ The family does not know they chose it.
 
 ---
 
-*Adventure History v1.0 — Malice Family Campaign*
-*File location: SESSION LOGS/adventure_history.md*
+*Adventure History v1.1 — Malice Family Campaign*
+*Updated after Session 05*
+*File location: CHARACTER DATA/adventure_history.md*

@@ -28,7 +28,7 @@ Awakened critter · 247kg · mustelid variant · ancient
 
 ---
 
-## Keystone — Keystone
+## Keystone
 
 **Wrenchy** *(street nickname)* → codename: LOADBEARING
 Fixer · salvage & access · Rating 1 · Etiquette Street · Renton
@@ -44,7 +44,7 @@ Specialty: Cargo movement, smuggling routes, dock patrol schedules
 
 ---
 
-## Meridian — Meridian
+## Meridian
 
 **Lace** *(street name)* → codename: THRESHOLD
 Fixer · social access · Rating 1 · Etiquette Street · Downtown Seattle
@@ -70,7 +70,7 @@ Specialty: NAN border crossing, territorial entry documentation
 
 ---
 
-## Singer — Singer
+## Singer
 
 **Ghost Freq** *(matrix handle)* → codename: DEADBAND
 Decker · signal intercept · Rating 1 · Etiquette Matrix · Matrix only
@@ -109,7 +109,7 @@ Specialty: Unknown — profile incomplete
 
 ---
 
-## Banshee — Banshee
+## Banshee
 
 **Slip** *(street nickname)* → codename: GRADEBOOK
 Info broker · personal histories · Rating 1 · Etiquette Street · Tacoma
@@ -150,7 +150,7 @@ Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth: H
 
 ---
 
-## Carpenter — Carpenter
+## Carpenter
 
 **Ink** *(street nickname)* → codename: FOOTNOTE
 Hermetic contact · spell formulae · Rating 1 · Etiquette Street · Seattle
@@ -178,7 +178,7 @@ Gender: Male
 Specialty: Vehicle electronics, custom fabrication, shielded housing — legitimate shop
 Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
 *Session 04: Met in person at Abelardo's, Kirkland. Shop confirmed clean — no surveillance, no magical watchers, no standing heat. Personal relationship real — fellow builder, genuine loyalty. Nervous because:*
-*⚠️ Two private operatives asked about Gabriel Boyd ~2 weeks ago. Not Lone Star (wrong shoes, wrong posture). Showed a recent photo. Left a commcode. Mechanic told them he knew a Carpenter, not a Boyd — did not give him up. Passed commcode to Carpenter.*
+*⚠️ Two private operatives asked about Carpenter ~2 weeks ago. Not Lone Star (wrong shoes, wrong posture). Showed a recent photo. Left a commcode. Mechanic told them he knew a Carpenter, not a Boyd — did not give him up. Passed commcode to Carpenter.*
 *Cover approach active: Mechanic will call operatives re: radio install job. Will warn Carpenter first via text (established protocol).*
 *Work incoming: custom shielded electronics housing, 3-4 days, specialist rate, 10% introduction fee, tools included as payment. Details arriving tonight.*
 *Personal notes: Kirkland 8 years, inherited shop, divorced amicable, kid in Bellevue weekends, follows the Mariners.*
@@ -186,7 +186,7 @@ Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
 
 ---
 
-## Crowbar — Crowbar
+## Crowbar
 
 **Dagger** *(gang nickname)* → codename: STILETTO
 Street contact · Barrens gangs · **Rating 2** · Etiquette Street · Puyallup
@@ -202,7 +202,7 @@ Specialty: Spirit negotiation, shamanic reagents, totem guidance
 
 ---
 
-## Kluger — Kluger
+## Kluger
 
 **Chart** *(medical nickname)* → codename: VITALS
 Medical insider · transport logs · Rating 1 · Etiquette Corporate · Auburn
@@ -234,7 +234,7 @@ Specialty: Unknown — profile incomplete
 
 **Unknown Commcode** *(operatives asking about Carpenter)* → ⚠️ PRIORITY
 Passed by Mechanic · Session 04
-Two private operatives, not Lone Star, ~2 weeks ago. Had recent photo of Gabriel Boyd.
+Two private operatives, not Lone Star, ~2 weeks ago. Had recent photo of Carpenter.
 Commcode in Singer's possession.
 *Cover approach: Mechanic calls re: radio install. Warns Carpenter first.*
 *Do not call directly without full Singer prep and trace suppression active.*
@@ -254,6 +254,6 @@ Functions as:
 
 ---
 
-*Contacts Roster v1.3 — Malice Family Campaign*
-*Updated after Session 04*
+*Contacts Roster v1.4 — Malice Family Campaign*
+*Updated after Session 05*
 *File location: CONTACTS/contacts_roster.md*

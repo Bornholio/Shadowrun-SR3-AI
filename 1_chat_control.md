@@ -1,7 +1,7 @@
 # Chat Control — Session Management
-*Load order: 3 of 3 — Paste after session_header.md and sr3_game_rules.md*
+*Load order: 3 of 3 — Paste after 3_session_header.md and 2_sr3_game_rules.md*
 *After all three root files are loaded, Claude will confirm and await supplemental files*
-*File location: chat_control.md (root)*
+*File location: 1_chat_control.md (root)*
 
 ---
 
@@ -9,10 +9,10 @@
 
 ```
 ROOT/                           — Always-load files only
-  session_header.md
-  sr3_game_rules.md
-  chat_control.md
-  README.md
+  0_README.md
+  1_chat_control.md
+  2_sr3_game_rules.md
+  3_session_header.md
 
 CHARACTER DATA/                 — Career history, augmentations, program libraries
   adventure_history.md
@@ -47,15 +47,23 @@ MAPS/
 NPC/                            — Named NPCs, load on demand
 
 RULES/                          — Subsystem rules, load on demand
+  01_sperethiel_grammar.md
+  02_sperethiel_lexicon.md
+  cell_limits_compact_1.md
   data_rules.md
   deck_rules.md
   house_rules.md
+  phones.md
+  shadowrun3_action_economy_reference.md
   _skills/                      — Packaged skill files for subsystem-focused chats
     sr3-comm-rules/SKILL.md     ← replaces sr3_comm_rules.md
+    sr3-matrix-rules/SKILL.md   ← cyberdecks, system tests, security, IC
+    sr3-matrix-ops/SKILL.md     ← all operation descriptions + quick-ref table
     sr3-social-tests/SKILL.md   ← replaces sr3_social_tests.md
     sr3-spells/SKILL.md         ← replaces spells_street_grimoire.md + _quick.md
     sr3-special-abilities/SKILL.md ← replaces special_abilities.md
     sr3-spellcasting/SKILL.md   ← existing
+    sr3_concepts_tests_pools/SKILL.md ← test types, pool allocation, defaulting
   _archive/                     — Superseded flat files, do not load
     shadowrun3_spellcasting_rules.md
     special_abilities.md
@@ -70,6 +78,9 @@ SESSION LOGS/
   session_02_summary.md
   session_03_oos_summary.md
   session_03_summary.md
+  session_04_summary.md
+  session_05_summary.md
+  session_06_header.md
 
 STATS/
   campaign_stats.md             — Cross-reference tables; character sheets supersede
@@ -146,7 +157,7 @@ Default to **GM PREP MODE** unless told otherwise.
 
 ## Narrative Continuity *(GM Eyes Only)*
 
-- Session 01–03 events are canonical — do not retcon without GM instruction
+- Session 01–05 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
@@ -159,15 +170,17 @@ Default to **GM PREP MODE** unless told otherwise.
 
 ## Pending Items *(flag when encountered)*
 
-- [ ] Kluger's missing edge
-- [ ] Crowbar and Kluger SURGE traits
-- [ ] Common family SURGE traits
-- [ ] Carpenter and Crowbar eye colors
-- [ ] Meridian English lingo specialty
-- [ ] VCR grade (3PR)
-- [ ] Totem/tradition details — Keystone: Raven Shaman ✓ · Meridian: Hermetic ✓ · Banshee, Carpenter, Crowbar, Kluger: TBD
-- [ ] Initiate grades (3PR minimum 7 — exact grades TBD)
-- [ ] Metamagic list (3PR — Masking confirmed, others TBD)
+- [x] Eye colors — all seven confirmed
+- [x] RCS callsigns — KEYS · MERRY · CROW · CLUE
+- [x] SURGE traits — all seven confirmed
+- [x] Initiate grades — Singer 8, Banshee 7, Carpenter 7 · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Metamagics — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Aptitudes — Keystone/Meridian/Crowbar/Kluger: none
+- [x] Meridian English lingo — none
+- [x] VCR grade — VCR 2 confirmed
+- [x] Bilingual — confirmed all seven
+- [ ] Crowbar/Kluger totem/tradition details — TBD
+- [ ] Transceivers/radios — not yet acquired, all seven
 
 ---
 
@@ -181,6 +194,6 @@ Then await character file pastes or corrections before doing anything else.
 
 ---
 
-*Chat Control v1.1 — Malice Family Campaign*
-*Updated after Session 03*
-*File location: chat_control.md (root)*
+*Chat Control v1.2 — Malice Family Campaign*
+*Updated after Session 05*
+*File location: 1_chat_control.md (root)*
