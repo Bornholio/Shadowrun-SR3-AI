@@ -1,24 +1,30 @@
 # Session 07 Startup Header — Malice Family
-*Shadowrun 3rd Edition*
 *File location: SESSION LOGS/session_07_header.md*
 
 ---
 
 ## Status at Session 07 Open
+*⟹ Echo this block in load confirmation before awaiting supplemental files.*
 
 **Date in-game:** ~March 2058
 **Location:** Sandy Systems LLC, Unit 5, Belltown — established, clean, B-rated security
 **Split:** Reunified — all seven together as of Session 07 morning
-**Reunification:** Van transport, river valley route, park passes — complete
 **Heat:** BOLO active, LS expanding north — safehouse holding
 
 ---
 
 ## Funds
 
-| | |
+| Character | Certified ¥ |
 |---|---|
-| **Balance** | **~6,917¥** |
+| Singer | — |
+| Banshee | — |
+| Carpenter | — |
+| Keystone | — |
+| Meridian | — |
+| Crowbar | — |
+| Kluger | — |
+| **Group total** | **~6,917¥** |
 | Safehouse Net 30 due | ~7,650¥ — clock running, no plan |
 
 ---
@@ -100,17 +106,7 @@
 
 ## Pending Items
 
-- [x] Eye colors — all seven confirmed
-- [x] RCS callsigns — KEYS · MERRY · CROW · CLUE
-- [x] SURGE traits — all seven confirmed
-- [x] Metamagics — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
-- [x] Aptitudes — Keystone/Meridian/Crowbar/Kluger: none
-- [x] Meridian English lingo — none
-- [x] VCR grade — VCR 2 confirmed
-- [x] Kluger ranged weapon — none
-- [x] Bilingual — confirmed all seven
-- [x] Initiation group — all seven joined, 7 members, no strictures
-- [ ] ⚠️ 3PR initiate grades — Gr7 vs Gr8 — resolve
+- [ ] ⚠️ 3PR initiate grades — Gr7 vs Gr8 — resolve before next initiation
 - [ ] Crowbar/Kluger totem/tradition details — TBD
 - [ ] Transceivers/radios — not yet acquired, all seven
 - [ ] Net 30 funding plan — 7,650¥ needed
@@ -118,24 +114,15 @@
 
 ---
 
-## Load Order
+## Likely Supplementals — Session 07
 
-1. `3_session_header.md`
-2. `2_sr3_game_rules.md`
-3. `1_chat_control.md`
-4. Supplementals as needed
-
-**Likely supplementals Session 07:**
-- `STATS/campaign_stats.md` — GK tracking, stat reference
-- `CONTACTS/contacts_roster.md` — contact scenes
-- skill: `sr3-karma` — karma awards, GK tracking
 - skill: `sr3-social-tests` — contact scenes, Vessel, Room 6 man
 - skill: `sr3-spellcasting` — if magic comes up
 - skill: `sr3-comm-rules` — if DW HRT BD run or van intercept
 - `SESSION LOGS/gm_notes.md` — GM prep
+- `CHARACTERS/[name].md` — load if stat work needed
 
 ---
 
 *Session 07 Header — Malice Family Campaign*
-*Updated after Session 07 GK/advancement work*
 *File location: SESSION LOGS/session_07_header.md*

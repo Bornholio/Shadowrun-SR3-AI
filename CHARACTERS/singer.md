@@ -27,6 +27,31 @@
 
 ---
 
+## Initiative Modes
+
+SA2 = Synaptic Accelerator 2 · LR3 = Lightning Reflexes 3 · RE6 = Reaction Enhancers 6 · RI2 = Response Increase 2
+
+| Mode | REA | Initiative |
+|------|-----|-----------|
+| Physical | 24 | 24 + 3d6 |
+| Rigging (fully mental) | 20 | 20 + 3d6 |
+| Decking (REA based) | 21 | 21 + 3d6 |
+| Decking (fully mental) | 22 | 22 + 4d6 |
+| Cold Assist | 18 | 18 + 3d6 |
+
+## Hacking Pool
+
+| Source | Value |
+|--------|-------|
+| INT 13 + MPCP 8 ÷ 3 | 7 |
+| Encephalon 2 | +2 |
+| Math SPU 3 | +3 |
+| **Total** | **12** |
+
+Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or attribute in use.
+
+---
+
 ## Active Skills
 
 | Skill | Stat | Rating | Notes |

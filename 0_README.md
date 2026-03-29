@@ -18,15 +18,15 @@ These four files live at root and are pasted into every fresh Claude chat:
 | File | Purpose |
 |---|---|
 | `0_README.md` | This file — repository index and load order reference |
-| `1_chat_control.md` | Modes, correction protocol, continuity flags, load confirmation |
-| `2_sr3_game_rules.md` | Core SR3 mechanics, pools, karma, metamagics, spellcasting, conjuring, decking |
-| `3_session_header.md` | Edition lock, campaign identity, file index, pending items — paste first |
+| `1_chat_control.md` | On-demand file index, modes, GM experience, character sheet authority, load confirmation |
+| `2_sr3_game_rules.md` | Edition lock, narrative continuity, stat format, rolling conventions, metamagics, security ratings |
+| `3_session_header.md` | Campaign identity, character summary, current situation, open threads, pending items, end of session protocol |
 
 **Session start paste order:**
-1. `3_session_header.md`
+1. `1_chat_control.md`
 2. `2_sr3_game_rules.md`
-3. `1_chat_control.md`
-4. Character sheets and supplemental files as needed (see below)
+3. `3_session_header.md`
+4. Supplemental files as needed (see Supplemental Load Index)
 
 ---
 
@@ -35,9 +35,9 @@ These four files live at root and are pasted into every fresh Claude chat:
 ```
 E:.
 │   0_README.md                     — This file — repository index and load order reference
-│   1_chat_control.md               — Always load — session management and protocol
+│   1_chat_control.md               — Always load — on-demand file index, modes, load confirmation
 │   2_sr3_game_rules.md             — Always load — SR3 mechanics reference
-│   3_session_header.md             — Always load — edition lock, campaign summary, file index
+│   3_session_header.md             — Always load — campaign identity, current situation, open threads
 │
 ├───CHARACTER DATA/
 │       adventure_history.md        — Career history, prior runs (canonical) ⚠️ GM only
@@ -265,7 +265,7 @@ Load these on demand after the root files:
 
 - [ ] Spirits: Ancestor Spirits, Loa, Toxic, Blood, Free Spirit full rules, Ally Spirits, Ghost, Insect Spirits — all MitS
 - [ ] Vehicles and rigger rules
-- [ ] Matrix rules (beyond deck operations in `2_sr3_game_rules.md`)
+- [ ] Matrix rules (beyond operations covered in skills)
 
 ---
 
@@ -286,7 +286,6 @@ to find. Someone else told the field operative to stand down.
 ## File Authority
 
 - Individual character sheets (`CHARACTERS/`) supersede `STATS/campaign_stats.md`
-- `2_sr3_game_rules.md` supersedes any rules summary in `3_session_header.md`
 - `SESSION LOGS/gm_notes.md` is the continuity authority for mystery elements
 - SR3 core rulebook supersedes all campaign files where they conflict
 

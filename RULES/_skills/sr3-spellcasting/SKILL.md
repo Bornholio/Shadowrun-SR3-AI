@@ -82,6 +82,17 @@ Complex Action. Roll **Sorcery + Spell Pool** vs TN = Force. Each success reduce
 
 ---
 
+## LIMITED SPELLS
+
+| Limit | Drain Modifier | Effect |
+|---|---|---|
+| Fetish | −1 Force | Requires attuned fetish physically touching caster; if lost, Force hours meditation to re-attune |
+| Exclusive | −2 Force | Both casting and sustaining are Exclusive Actions |
+
+Modifier reduces Drain Force **or** Karma cost at learning — choose one. A spell may carry both limits; each applies separately. The unrestricted version must be learned as a separate spell.
+
+---
+
 ## OBJECT RESISTANCE
 
 | Category | TN |

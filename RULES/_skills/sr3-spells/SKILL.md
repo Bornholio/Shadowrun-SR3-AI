@@ -149,6 +149,7 @@ Caster chooses base Damage Level at cast. Secondary effects apply on surviving t
 | Name | Type | Target | Dur | Drain | Notes |
 |---|---|---|---|---|---|
 | Armor | P | 6 | S | +2(M) | Armor Rating = Force; compatible with worn armor; binary |
+| Fashion | P | 4 | S→P | +1(L) | Changes appearance of clothing/textiles; Force ≥ total armor rating of item; sustain for drain-level duration to make permanent: L=5 turns · M=10 · S=15 · D=20; civilian clothing Force 1; Armor Jacket (5/3) = Force 5 minimum |
 | Physical Barrier | P | 6 | S | +2(S) | Barrier Rating = Force +1 per 2 extra suc; physical plane only |
 | Astral Barrier | M | 6 | S | +1(S) | As Physical Barrier; astral plane only |
 | Ice Sheet | P | 4 | I | +1(S) | Area = Magic radius; Qui(Force) test to avoid prone; vehicles Crash Test |
@@ -237,6 +238,7 @@ Caster chooses base Damage Level at cast. Secondary effects apply on surviving t
 | Fling / Poltergeist | +1(M) |
 | Levitate / Magic Fingers | +2(M) |
 | Armor / Light / Shadow | +2(M) |
+| Fashion | +1(L) |
 | Physical Barrier | +2(S) |
 | Astral Barrier / Ice Sheet / Petrify | +1(S) |
 | Ignite | +1(D) |

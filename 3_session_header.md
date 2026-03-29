@@ -1,15 +1,6 @@
 # Malice Family Campaign — Session Header
-*Paste this file first into any new chat. Load sr3_game_rules.md and chat_control.md after.*
+*Load order: 3 of 3 — Paste after 1_chat_control.md and 2_sr3_game_rules.md*
 *File location: 3_session_header.md (root)*
-
----
-
-## Edition Lock
-
-**System:** Shadowrun 3rd Edition (SR3) — core only unless specified
-**Supplements in use:** SR3 Companion (edges/traits) · Man & Machine SR3 (cyber/bioware) · Magic in the Shadows SR3 (magic)
-**Do NOT import SR4/5/6 rules, mechanics, or terminology under any circumstances.**
-When uncertain whether a rule is SR3 canonical, say so explicitly. If no SR3 source exists, say so — do not silently substitute later edition rules.
 
 ---
 
@@ -20,13 +11,7 @@ When uncertain whether a rule is SR3 canonical, say so explicitly. If no SR3 sou
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 06 complete.
-
----
-
-## GM Experience
-
-Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused answers. Flag deviations and uncertainties briefly.
+**Status:** Session 06 complete — Session 07 pending
 
 ---
 
@@ -63,46 +48,6 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 - Singer fire pit — prepped, not lit
 - Belltown LS patrol pattern — mapped, Tactical Computer tracking active
 - F&V Baptist burner commcode — active cover, held by: Marta, Daro, Oswin, Rat
-
----
-
-## Supplemental File Index
-
-Load after the three root files, on demand per session:
-
-| File | Load when |
-|---|---|
-| `STATS/campaign_stats.md` | Any character stat work |
-| `CHARACTERS/[name].md` | Work on a specific character |
-| `CHARACTER DATA/shared_3pr_augmentations.md` | 3PR cyber/bioware detail |
-| `CHARACTER DATA/deck_programs.md` | Decking scenes |
-| `CHARACTER DATA/data_programs.md` | Vehicle/drone autosoft work |
-| `CHARACTER DATA/adventure_history.md` | Prior career reference |
-| `CONTACTS/contacts_roster.md` | Contact scenes |
-| `NPC/Lone_Star_Beat_Cops.md` | LS patrol response — foot/auto/cycle/chopper/riot |
-| `NPC/Lone_Star_Specialist_Cops.md` | LS detectives, DPI mages, pilots, watcher |
-| `NPC/Lone_Star_SWAT_SF_Cops.md` | DED, FRT, SWAT — heavy response |
-| `CRITTERS/critter_rules.md` + `critters_powers_sr3.md` | Any critter encounter |
-| `CRITTERS/critters_pe.md` | Paranormal Animals of Europe |
-| `CRITTERS/critters_pna.md` | Paranormal Animals of North America |
-| `CRITTERS/critters_srii.md` | SR2-source critters |
-| `CRITTERS/spirits_sr3.md` | Spirit summoning or encounters |
-| `CRITTERS/dragons_sr3.md` | Dragon encounters |
-| `RULES/house_rules.md` | Bioware/geneware edge cases, Infinite Warehouse |
-| `MAPS/00_security_ratings_master.md` | Full security rating cross-reference — all districts |
-| `MAPS/01_downtown.md` | Downtown/Belltown detail — current 3PR area |
-| `MAPS/06_auburn.md` | Auburn detail |
-| `MAPS/10_puyallup.md` | Puyallup detail — Dag corridor, barrens fringe |
-| `MAPS/[01–11].md` | Any specific district — load by number |
-| skill: `sr3-comm-rules` | Jamming, ECM/ECCM, scanning |
-| skill: `sr3-matrix-rules` | Decking — cyberdecks, system tests, security tally, IC |
-| skill: `sr3-matrix-ops` | Decking — all operation descriptions and quick-ref table |
-| skill: `sr3-social-tests` | Social mechanics, racism, Etiquette, contacts |
-| skill: `sr3-spells` | Spell stats and drain lookup |
-| skill: `sr3-special-abilities` | Lightbearer (Singer), Cognition, Adept powers |
-| skill: `sr3-spellcasting` | Spellcasting procedure, drain resolution |
-| `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 
 ---
 
@@ -153,16 +98,10 @@ Load after the three root files, on demand per session:
 
 ## Pending Rules Sections *(not yet built)*
 
+- [ ] Conjuring skill — Nature spirits, elementals, drain, services, banishing, uncontrolled spirits
 - [ ] Spirits: Ancestor Spirits, Loa, Toxic, Blood, Free Spirit full rules, Ally Spirits, Ghost, Insect Spirits — all MitS
 - [ ] Vehicles and rigger rules
-- [ ] Matrix rules (beyond deck operations in sr3_game_rules.md)
-
----
-
-## Correction Protocol
-
-When stat corrections are provided: update silently, confirm with `Corrected: [what changed]`.
-Do not re-narrate past events unless asked. Flag any conflict between correction and established narrative.
+- [ ] Matrix rules — extended host operations, trace/track, running hot
 
 ---
 
@@ -181,6 +120,82 @@ Do not re-narrate past events unless asked. Flag any conflict between correction
 
 ---
 
-*Session Header v1.3 — Malice Family Campaign*
-*Updated after Session 06*
+## End of Session Protocol
+
+At the close of every session, create or update these files before the next push:
+
+**1. Session summary** — `SESSION LOGS/session_XX_summary.md`
+**2. Next session header** — `SESSION LOGS/session_XX+1_header.md`
+**3. Update root** — copy new situation into `3_session_header.md`, advance session status
+
+---
+
+### Session Summary Format
+
+```
+# Session XX — [Short Title]
+*Malice Family Campaign*
+*In-game: [day, date, time range] · Location: [primary scene]*
+
+## Situation at Session End
+- **Location:** [where the family is]
+- **Heat:** [LS/threat status]
+- **Funds:** [¥ on hand] | [Net 30 balance if active]
+- **Active assets:** [spirits, tools, cover identities still running]
+
+## Session Events
+[Narrative summary — key scenes, decisions, outcomes. No retcon zone after this is written.]
+
+## Threads Opened
+| Thread | Detail |
+|---|---|
+| [thread] | [status] |
+
+## Threads Resolved
+| Thread | Resolution |
+|---|---|
+| [thread] | [how it closed] |
+
+## Contacts Used / Made
+| Contact | Context |
+|---|---|
+| [name] | [what happened] |
+
+## Resources
+- **Karma:** [X group · individual notes if any]
+- **Nuyen:** [gains / losses / net]
+- **Gear acquired:** [list or none]
+
+## GM Notes
+[Anything to carry forward — timing flags, NPC intentions, world state changes]
+```
+
+---
+
+### Session Header Format
+
+```
+# Session XX — Prep Header
+*Malice Family Campaign*
+*Picking up: [in-game day, time, location]*
+
+## Situation
+[2–4 lines: where they are, what's active, immediate pressure]
+
+## Active Assets
+[spirits, cover IDs, gear prepped, surveillance running]
+
+## Immediate Threads
+[Top 3–5 threads most likely to come up this session]
+
+## Background Pressure
+[LS heat, financial clock, any slow-burn threats ticking]
+
+## GM Flags
+[NPC intentions, world events in motion, timing notes]
+```
+
+---
+
+*Session Header — Malice Family Campaign*
 *File location: 3_session_header.md (root)*

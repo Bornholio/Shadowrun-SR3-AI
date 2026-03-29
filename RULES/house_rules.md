@@ -3,9 +3,9 @@
 *File location: RULES/house_rules.md*
 
 > **See also:**
-> - sr3_game_rules.md — karma economy, language rules, initiative, augmentation grade rules
-> - special_abilities.md — Lightbearer, Cognition, Adept Powers full text
-> - sr3_comm_rules.md — jamming, scanning, broadcast/data decryption
+> - `2_sr3_game_rules.md` — karma economy, language rules, rolling conventions
+> - skill: `sr3-special-abilities` — Lightbearer, Cognition, Adept Powers
+> - skill: `sr3-comm-rules` — jamming, scanning, broadcast/data decryption
 
 ---
 

@@ -1,5 +1,6 @@
 # SR3 Game Rules Reference
-*Load order: 1 of 3 — Load this file first, then load chat_control.md*
+*Load order: 2 of 3 — Paste after 1_chat_control.md*
+*File location: 2_sr3_game_rules.md (root)*
 
 ---
 
@@ -22,13 +23,7 @@
 4. Matrix (SR3)
 5. Cannon Companion
 6. Man & Machine
-7. Target: Awakened Lands
-8. Target: Wastelands
-9. Threats / Threats 2
-10. State of the Art 2063 / State of the Art 2064
-11. Loose Alliances
-12. Shadows of Asia
-13. Other named SR3 sourcebooks as specified by GM
+7. Other named SR3 sourcebooks as specified by GM
 
 ### Non-Canonical Sources
 - SR4, SR5, SR6 rulebooks and sourcebooks
@@ -42,6 +37,19 @@
 - **Mentor Spirit** — called Totem (shamans) or Mentor (hermetics) in SR3
 - **Limits** — not an SR3 mechanic
 - **Edge** — not an SR3 mechanic
+
+---
+
+## Narrative Continuity *(GM Eyes Only)*
+
+- Session 01–06 events are canonical — do not retcon without GM instruction
+- Mystery threads are intentionally unresolved
+- The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
+- Harlequin connection is GM-only knowledge — do not surface to players
+- "Why us then?" is the central unanswered question — do not answer it
+- The family does not know they are initiates
+- The family does not know they chose the surgery
+- The family does not know what "old blood" means yet
 
 ---
 
@@ -90,19 +98,6 @@
 
 ---
 
-## Pools
-
-| Pool | Formula | Notes |
-|---|---|---|
-| Spell | (INT + WIL + MAG) / 3 | |
-| Hacking | (INT + MPCP) / 3 + Modifiers | Hot ASIST only |
-| Astral | (INT + WIL + MAG) / 3 | |
-| Combat | (QUI + INT + WIL) / 2 + Modifiers | |
-| Control | REA + VCR Bonus | Mental only |
-| Task | Special | |
-
----
-
 ## Astral Stats
 
 | Physical | Astral Equivalent |
@@ -129,65 +124,6 @@ SA and RE never apply to decking or rigging. Enhanced Articulation never applies
 | Decking (fully mental) | INT + LR3 + RI2 (+4) + extra RI (+2) | RI2 +2d6 + extra +1d6 |
 | Cold Assist | (QUI+INT)/2 + LR3 + EA | 1d6 + SA2, no Hacking Pool |
 
-### Singer (Singer) Reference
-
-| Mode | REA | Initiative |
-|------|-----|-----------|
-| Physical | 24 | 24+3d6 |
-| Rigging (fully mental) | 20 | 20+3d6 |
-| Decking (REA based) | 21 | 21+3d6 |
-| Decking (fully mental) | 22 | 22+4d6 |
-| Cold Assist | 18 | 18+3d6 |
-
----
-
-## Hacking Pool
-
-*Full rules: RULES/Matrix_rules.md*
-
-- **Hot ASIST only** — cold assist: no Hacking Pool
-- Formula: (INT + MPCP) / 3, round down
-- Modifiers: Encephalon and Math SPU only
-- System Familiarity adds dice in appropriate hosts
-- Max dice per test = base skill or attribute in use
-- Reserve for last operation in a combat turn
-- Cannot use on: Etiquette (Matrix), Body/Willpower vs gray/black IC
-
-### Singer (Singer)
-| Source | Value |
-|--------|-------|
-| INT 13 + MPCP 8 / 3 | 7 |
-| Encephalon 2 | +2 |
-| Math SPU 3 | +3 |
-| **Total** | **12** |
-
----
-
-## Deck Operations
-
-*Full Matrix rules: RULES/Matrix_rules.md*
-
-### Utility Programs
-Programs **modify TN only** — they do not add dice. Computer skill + Hacking Pool only.
-
-### Operation Structure
-1. Determine host subsystem rating (TN)
-2. Apply utility program TN modifiers
-3. Roll Computer skill dice vs modified TN
-4. Add Hacking Pool on final operation of turn if needed
-5. Count successes, apply result
-
-### Host Rating Format
-`Security / Access / Control / Index / Files / Slave`
-
-| Host Type | Security | Subsystems (each) |
-|---|---|---|
-| UCAS Green-4 | 6 | 8/6/6/6 |
-| Minor LTG | 4–5 | 5–6 |
-| Easy | 1D3+3 | 1D3+7 |
-| Average | 1D3+6 | 2D3+9 |
-| Hard | 2D3+6 | 1D6+12 |
-
 ---
 
 ## White Noise Generator (WNG)
@@ -196,97 +132,6 @@ Programs **modify TN only** — they do not add dice. Computer skill + Hacking P
 - Opposed test: WNG Rating vs listener/recorder rating
 - Select Sound Filter counters at Rating × 2
 - Does NOT affect electronic signals, RF, or Matrix
-
----
-
-## Spellcasting Summary
-
-1. **Preparation** — choose spell, Force, allocate Spell Pool (capped at Sorcery), targets. +2TN per simultaneous spell.
-2. **Targeting** — Perception test if needed
-3. **Sorcery Test** — Sorcery + Spell Pool vs TN
-4. **Spell Resistance** — target attribute vs Force
-5. **Spell Effect** — net successes determine outcome
-6. **Drain Resistance** — Willpower + remaining Spell Pool vs Drain TN
-   - TN: Force/2 rounded down + modifier (minimum TN 2)
-   - Force > MAG = Physical damage
-   - Each sustained spell: +2 Drain Power on subsequent casts
-   - Every 2 successes = −1 Drain Level; below Light = no damage
-
-### Spell Defense
-- Allocate Sorcery dice in advance
-- Range: MAG × 100m, same plane
-- Max subjects = Sorcery rating
-- Successes ≥ incoming = spell fails
-
-### Dispelling
-- Sorcery + Spell Pool vs Force
-- Each success reduces original successes by one
-- Drain Resistance required after each attempt
-
----
-
-## Centering
-
-All three modes: Free Action, declared before base skill test.
-Do not center when silence required (sneaking etc.)
-
-| Mode | When | TN | Effect |
-|------|------|----|--------|
-| A — Success | Astrally perceiving | Same as base skill | Complementary dice (halved) added to base test |
-| B — Drain | Before drain | Drain TN | Complementary dice (halved) added to drain resistance |
-| C — Penalties | Before base test | Base TN − Initiate Grade | Every 2 successes = −1 TN on base test |
-
-Mode B most effective — pool allocation flexibility, significant drain reduction benefit.
-
----
-
-## Conjuring
-
-All conjuring: Exclusive. Nature spirits + control/banishing = Complex Action.
-Elementals = ritual, Force hours. Summoner adds CHA dice to any test involving own spirit.
-
-### Summoning
-- Test: Conjuring vs TN = desired Force
-- Successes = services
-- Drain always required
-- Interruption = auto-fail + Drain
-
-### Conjuring Drain — Critical Rules
-- Pool: **CHA unaugmented dice ONLY** — Spell Pool does NOT apply
-- TN: desired Force
-- Force > MAG = Physical damage
-- Every 2 successes = −1 Drain Level; below Light = no damage
-- Centering Mode B valid before drain roll
-
-### Drain Category (Force vs CHA)
-| Force | Category |
-|-------|----------|
-| ≤ CHA/4 | Light |
-| ≤ CHA/2 | Moderate |
-| > CHA/2 | Serious |
-| = CHA | Deadly |
-| > CHA (and > MAG) | Physical Deadly |
-
-### Nature Spirit Duration
-- Vanish sunrise/sunset, unused services lost
-- Standby in domain: recalled as Simple Action
-- Each power use = one service (same power/params = still one service)
-- Combat = one service regardless of foes
-
-### Uncontrolled Elemental
-Roll Force vs TN 6: 1+ success = flees; zero = attacks master or rampages.
-
-### Banishing & Controlling
-Opposed Conjuring vs TN = spirit Force.
-Shamans vs nature spirits. Mages vs elementals.
-
-| Winner | Effect per net success |
-|--------|----------------------|
-| Banisher | Spirit Force −1 |
-| Spirit/controller | Challenger Magic −1 |
-| Tie | Contest continues, both locked |
-
-Magic/Force recovers 1/hour.
 
 ---
 
@@ -304,22 +149,6 @@ Magic/Force recovers 1/hour.
 
 ---
 
-## Fashion Spell
-
-- Minimum Force = total armor rating of clothing changed
-- Must sustain for drain-level duration to become permanent:
-
-| Drain Level | Time |
-|-------------|------|
-| Light | 5 turns |
-| Moderate | 10 turns |
-| Serious | 15 turns |
-| Deadly | 20 turns |
-
-Civilian clothing: Force 1. Armor Jacket (5/3): Force 5 minimum.
-
----
-
 ## Spell Learning
 
 | Factor | Rule |
@@ -333,15 +162,6 @@ Civilian clothing: Force 1. Armor Jacket (5/3): Force 5 minimum.
 | Instruction | Every 2 successes vs TN 4 = +1 die to student's Sorcery Test |
 | Teacher cost | 1,000¥ × Force + living expenses |
 
-### Limited Spells
-
-| Limit | Modifier | Effect |
-|---|---|---|
-| Fetish | −1 | Requires attuned fetish touching caster; lost = Force hours meditation to re-attune |
-| Exclusive | −2 | Casting and sustaining both Exclusive Actions |
-
-Modifier reduces Drain Force **or** Karma cost — choose at learning. A spell may carry both limits; each serves a separate purpose. Unrestricted version must be learned separately.
-
 ---
 
 ## Language Rules (House)
@@ -352,6 +172,7 @@ Modifier reduces Drain Force **or** Karma cost — choose at learning. A spell m
 - Lingo/Jargon: edge offsetting +2 TN penalty — noted on language entry, not a separate skill
 
 ### Language TN Table
+
 | Situation | TN |
 |-----------|-----|
 | Universal concept | 2 |
@@ -389,24 +210,6 @@ Modifier reduces Drain Force **or** Karma cost — choose at learning. A spell m
 | Stats above racial max | Rating × 3 |
 | Stat ceiling | Max × 1.5 rounded down |
 | Karma Pool | 1/10 GK (human) or 1/20 GK (metahuman); bad karma halves rate |
-
----
-
-## Comm Rules Reference
-*Full rules: RULES/sr3_comm_rules.md*
-*Social rules: RULES/sr3_social_tests.md*
-
-**Flux** = Rating − (0.5 × ECCM active) − (0.5 if BCE active) + PA + elevation + vehicle + global mods
-Global: Electrical Storm −2 | Humid −0.5 | Urban −1
-**Channels** = Rating × 2
-
-| Component | Cost | Legality |
-|-----------|------|----------|
-| Transceiver | Rating × 500¥ | Code U |
-| BCE/BCD R1–4 | Rating × 1,000¥ | Code V |
-| BCE/BCD R5–7 | Rating × 2,000¥ | Code V |
-| BCE R8+ / BCD R5+ | Rating × 4,000¥ | Code W |
-| ECCM | Rating × 1,000¥ | Legal, avail +1/point |
 
 ---
 
@@ -448,9 +251,53 @@ Global: Electrical Storm −2 | Humid −0.5 | Urban −1
 **MitS adept restriction:** Only Centering, Divining, Masking from MitS available to adepts.
 **3PR:** Mystic Adepts — full list per sheets per GM ruling.
 
+### Centering
+
+Free Action — declare before base skill test. Do not center when silence is required.
+
+| Mode | When | TN | Effect |
+|------|------|----|--------|
+| A — Success | Astrally perceiving | Same as base skill | Complementary dice (halved) added to base test |
+| B — Drain | Before drain roll | Drain TN | Complementary dice (halved) added to drain resistance |
+| C — Penalties | Before base test | Base TN − Initiate Grade | Every 2 successes = −1 TN on base test |
+
+Mode B most effective — pool allocation flexibility, significant drain reduction benefit.
+
+### Masking
+
+- Conceal true initiate grade and magical aura from astral perception
+- Shamans can mask; standard Hermetics cannot
+- Opposed test: caster's Sorcery + grade vs observer's INT
+- Can mask grade down to appear as any lower grade or as mundane
+- Does not work against astrally projecting initiates of equal or higher grade
+
+### Shielding
+
+- Provide Spell Defense dice for others within range
+- Range: Initiate Grade × 10m
+- Allocate up to Grade dice — added directly to target's Spell Defense pool
+- Allocated dice unavailable to caster's own pools while shielding
+
+### Quickening *(Mage only)*
+
+- Make a sustained spell permanent — no ongoing concentration required
+- Cost: 1 Karma per Force point of the spell, paid at time of quickening
+- Quickened spell still counts as sustained for dispelling and astral detection
+- Can be dispelled normally; if dispelled, Karma is lost
+
+### Anchoring
+
+- Bind a spell to a trigger object or condition
+- Setup: Force × 2 hours of ritual work; requires lodge or library
+- Trigger condition: physical (touch, spoken word), astral (aura match), or timed
+- Drain occurs at trigger time, not during binding; caster need not be present
+
+---
+
 ## Security Ratings
 
 ### Rating Scale
+
 | Rating | Description | Response |
 |---|---|---|
 | AAA | Maximum — corporate/military enclave | Instant, elite, overwhelming |
@@ -463,6 +310,7 @@ Global: Electrical Storm −2 | Humid −0.5 | Urban −1
 | Z | Extreme — active threats to life | No law; survival territory |
 
 ### Response Times (Lone Star)
+
 | Rating | Response Time | Force Sent |
 |---|---|---|
 | AAA | Immediate | Heavy — HTR, magic support possible |
@@ -474,6 +322,7 @@ Global: Electrical Storm −2 | Humid −0.5 | Urban −1
 | E/Z | Never | — |
 
 ### Key District Ratings (Quick Reference)
+
 | District | Range | Notes |
 |---|---|---|
 | Downtown | AAA–C | Luxury enclaves to low-class fringe |
@@ -489,6 +338,7 @@ Global: Electrical Storm −2 | Humid −0.5 | Urban −1
 | Council Island | Sovereign | No Lone Star rating; own internal security |
 
 ### Special Cases
+
 - **Fort Lewis:** Metroplex Guard and UCAS Military Police rate areas one level higher than Lone Star
 - **Tarislar (Puyallup):** Official C; community-funded Knight Errant raises effective security to A
 - **Corporate enclaves:** Internal AAA regardless of surrounding district rating
@@ -498,6 +348,5 @@ Global: Electrical Storm −2 | Humid −0.5 | Urban −1
 
 ---
 
-*SR3 Game Rules Reference v1.4 — Malice Family Campaign*
-*Updated after Session 03*
-*File location: RULES/sr3_game_rules.md*
+*SR3 Game Rules Reference — Malice Family Campaign*
+*File location: 2_sr3_game_rules.md (root)*

@@ -17,19 +17,6 @@ info()  { echo -e "  ${GREEN}✓${NC}  $*"; }
 warn()  { echo -e "  ${YELLOW}⚠${NC}  $*"; }
 err()   { echo -e "  ${RED}✗${NC}  $*"; }
 
-# ── Name scrub ────────────────────────────────────────────────────────────────
-scrub_names() {
-    perl -pi -e '
-        s/\bBrian\b/Singer/g;    s/\bbrian\b/singer/g;
-        s/\bKim\b/Banshee/g;     s/\bkim\b/banshee/g;
-        s/\bGabe\b/Carpenter/g;  s/\bgabe\b/carpenter/g;  s/\bGABE\b/CARPENTER/g;
-        s/\bDennis\b/Keystone/g; s/\bdennis\b/keystone/g;
-        s/\bFrances\b/Meridian/g; s/\bfrances\b/meridian/g;
-        s/\bMike\b/Crowbar/g;    s/\bmike\b/crowbar/g;
-        s/\bAngela\b/Kluger/g;   s/\bangela\b/kluger/g;
-    ' "$1"
-}
-
 # ── Routing ───────────────────────────────────────────────────────────────────
 get_destination() {
     local name
@@ -131,9 +118,6 @@ for f in "${files[@]}"; do
         continue
     fi
 
-    # Scrub real names before moving
-    [[ "$DRY_RUN" == false ]] && scrub_names "$f"
-
     local_dest="${dest#"$REPO"/}"
     if [[ -f "$dest/$base" ]]; then
         info "UPDATE  $base  →  ${local_dest}/"
@@ -176,19 +160,6 @@ if [[ ${#unmatched[@]} -gt 0 ]]; then
     echo -e "  ${RED}✗  UNMATCHED — moved to _inbox/_unmatched/:${NC}"
     for f in "${unmatched[@]}"; do echo "       • $f"; done
     echo "       Add routing rules to sort_inbox.sh or move manually."
-fi
-
-# Name scrub verification
-echo ""
-echo "  ── Name scrub check ──────────────────────────"
-hits=$(grep -rn --include="*.md" -w \
-    "Brian\|brian\|Kim\|Gabe\|gabe\|GABE\|Dennis\|Frances\|Mike\|Angela" \
-    "$REPO" --exclude-dir=".git" --exclude-dir="_inbox" 2>/dev/null || true)
-if [[ -z "$hits" ]]; then
-    info "No real names found  —  clean."
-else
-    err "Real names still present:"
-    echo "$hits" | sed 's/^/       /'
 fi
 
 echo ""
