@@ -154,6 +154,31 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
+## Session 06 — New Threads & GM Notes
+
+### Gray Market DocWagon Unit
+Operates in Belltown/Barrens fringe gap. Uses stolen DW livery. Garage on 3rd Street, Belltown. Treated Daro at 2211 Session 05 — logged his biometrics and sold the data. Not in Corp Secretary's dispatch logs — her log absence is itself information if Banshee asks her about it. Oswin knows the operation. Connects to Kluger's contact Chart at Auburn DW at the edges — Chart may know the unit is operating in the gap.
+
+### Oswin's Kit Serial Number
+The DocWagon serial number etched into Oswin's trauma kit is flagged in a pending DW internal investigation. Oswin does not know the case is still open — he believed it was closed. If the kit is scanned by anyone with DW database access, it triggers a case file pull and flags Oswin's location. GM controls timing — this is a sleeping thread that activates when the kit gets scanned.
+
+### Daro and the Package
+Daro moved from Noodle House alley between 0730–0800 Session 06. Package still on him. Contents: GM decides — DocWagon personnel file (connects to Chart/Corp Secretary if the name is someone they know) or illegal signal booster hardware (connects to Singer's EW background). Lace did not make contact — reported back to Patch. Patch's next move GM controlled. Daro's biometric data is in a broker queue — buyer unknown. Thread dormant until it resurfaces.
+
+### Lace / Patch
+Lace departed sector south 0854 without Daro. Professional — she reported the miss to Patch and is waiting for instructions. Patch is an ork male independent dealer, ground-floor commercial space two blocks from Sandy Systems. He doesn't know the family exists. His next move toward Daro is GM controlled — he may send Lace back, may use other means, may write off the package depending on what it is.
+
+### F&V Baptist Cover
+Now held by four street contacts: Marta, Daro, Oswin, Rat. All have the same burner commcode. The cover is getting real use in the sector. If any of them calls the number at an awkward moment it becomes a session event. GM tracks who has the number.
+
+### Marta's Shelter Contact
+Contact at a shelter on 3rd doing SINless intake paperwork — holds paperwork for people who need to disappear from LS records before processing. Name unknown. This person is a potential asset or a potential liability depending on how the family's Belltown presence develops. Load on demand.
+
+### Reunification
+Van transport arranged Session 06 night. River valley route, avoiding formal border crossing, park passes as documentation. Seven together by Session 07 morning. The Net 30 clock continues — 7,650¥ due, no plan yet.
+
+---
+
 ## Standing GM Continuity Rules
 
 - Session 01 events are canonical — do not retcon without GM instruction
@@ -165,6 +190,7 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 - The family does not know they chose the surgery
 - The family does not know what "old blood" means yet
 - Althain as memory restoration site — do not surface to players
+- All three 3PR are Grade 8 — corrected Session 06
 
 ---
 
@@ -178,6 +204,6 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
-*GM Notes v1.2 — Malice Family Campaign*
-*Updated after Session 05*
+*GM Notes v1.3 — Malice Family Campaign*
+*Updated after Session 06*
 *File location: SESSION LOGS/gm_notes.md*

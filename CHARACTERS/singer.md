@@ -39,15 +39,15 @@
 | Interrogation | Cha | 4 | |
 | Intimidation | Cha | 6 | |
 | Leadership | Cha | 5 | |
-| Negotiation | Cha | 8 | ★ Aptitude |
+| Negotiation | Cha | 9 | ★ Aptitude |
 | Singing | Cha | 5 | |
 | Computer | Int | 10 (11) | ★ Aptitude, Centering |
 | Disguise | Int | 6 (7) | |
 | Demolitions | Int | 6 (7) | |
-| Electronics | Int | 8 (9) | ★ Aptitude, Centering |
+| Electronics | Int | 9 (10) | ★ Aptitude, Centering |
 | Biotech | Int | 6 (7) | |
 | Portacam | Int | 2 [6] | |
-| Small Unit Tactics | Int | 4 (8) | Centering |
+| Small Unit Tactics | Int | 5 (9) | Centering |
 | Lock Picking | Qui | 4 (5) | |
 | Navigation | Int | 3 (4) | |
 | Assault Rifles | Qui | 5 (6) | |
@@ -268,3 +268,22 @@
 
 ### Extender Box
 Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg
+
+---
+
+## Good Karma
+
+**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
+
+| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
+|---|---|---|---|---|---|---|
+| S1–S6 | 5 | 3 | 8 | — | — | Group 5 / Individual: Room 6, false position, RAVN-003 |
+
+**Running Totals (S1+):**
+- Public GK earned: 5
+- Secret GK earned: 3
+- Total GK earned (S1+): 8
+- GK spent (S1+): 24 — SUT 4→5: 4 / Electronics 8→9: 10 / Negotiation 8→9: 10
+- GK available: 32 (bank) + 8 (earned) − 24 (spent) = **16**
+- Karma Pool current: 11
+- Reputation (Malice): 5 ÷ 20 = **0**

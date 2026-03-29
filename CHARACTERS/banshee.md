@@ -45,7 +45,7 @@
 | Small Unit Tactics | Int | 2 (6) | |
 | Lock Picking | Qui | 2 | |
 | Navigation | Int | 3 | |
-| Disguise | Int | 4 | |
+| Disguise | Int | 5 | |
 | Assault Rifles | Qui | 5 (6) | |
 | Clubs | Str | 4 (5) | |
 | Edged Weapons | Str | 6 (7) | |
@@ -59,10 +59,10 @@
 | Karate | Str | 6 (7) | ★ Aptitude, Focus Will, Sweep, Kick Attack, Throw, Vicious Blow, Focus Strength |
 | Underwater Combat | Str | 4 (5) | |
 | Whips | Qui | 1 (2) | |
-| Sorcery | Wil | 6 | ★ Aptitude, Centering |
+| Sorcery | Wil | 7 | ★ Aptitude, Centering |
 | Conjuring | Wil | 14 | ★ Aptitude, Centering |
 | Enchanting | Wil | 4 | Centering |
-| Aura Reading | Int | 5 | |
+| Aura Reading | Int | 6 | |
 | Centering | Wil | 4 | Latin |
 | Centering | Wil | 4 | Mathematics |
 | Car | Rea | 5 (6) | |
@@ -204,3 +204,22 @@
 - ZL Bags for all items
 - Cash: 800¥
 - ID: R1, Ages Well — Patty Novak
+
+---
+
+## Good Karma
+
+**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
+
+| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
+|---|---|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: Force 9 Wind Spirit drain |
+
+**Running Totals (S1+):**
+- Public GK earned: 5
+- Secret GK earned: 1
+- Total GK earned (S1+): 6
+- GK spent (S1+): 16 — Sorcery 6→7: 7 / Disguise 4→5: 4 / Aura Reading 5→6: 5
+- GK available: 32 (bank) + 6 (earned) − 16 (spent) = **22**
+- Karma Pool current: 11
+- Reputation (Malice): 5 ÷ 20 = **0**

@@ -107,19 +107,3 @@ If `sort_inbox.sh` drops a file in `_inbox/_unmatched/`, use this table:
 | `sr3_*`, `sr3-*`, `shadowrun3_*`, and other rules files | `RULES/` |
 
 If a new file type needs a permanent route, add a `case` entry in `sort_inbox.sh`.
-
----
-
-## Name-scrub mapping
-
-The sorter applies these automatically. For manual reference:
-
-| Real name | Shadow handle |
-|---|---|
-| Brian | Singer |
-| Kim | Banshee |
-| Gabe | Carpenter |
-| Dennis | Keystone |
-| Frances | Meridian |
-| Mike | Crowbar |
-| Angela | Kluger |

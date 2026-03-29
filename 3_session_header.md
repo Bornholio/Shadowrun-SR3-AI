@@ -20,7 +20,7 @@ When uncertain whether a rule is SR3 canonical, say so explicitly. If no SR3 sou
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 05 complete.
+**Status:** Session 06 complete.
 
 ---
 
@@ -33,7 +33,7 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 ## Character Summary
 
 **3PR (Prime Runners):** Singer, Banshee, Carpenter
-— Delta-grade cyber/bioware · Magic 12 · Singer Grade 8, Banshee/Carpenter Grade 7 · Masking confirmed
+— Delta-grade cyber/bioware · Magic 12 · All three Grade 8 confirmed · Masking confirmed
 
 **Other four:** Keystone (Raven Shaman) · Meridian (Hermetic Mage) · Crowbar (Shaman/Ganger) · Kluger (Mage/Detective)
 
@@ -45,23 +45,24 @@ Long-term SR3 GM. No basic explanations unless asked. Concise, rules-focused ans
 
 **Metamagics confirmed (3PR):** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
-**Initiate status:** Singer Gr8, Banshee Gr7, Carpenter Gr7 confirmed. Keystone/Meridian/Crowbar/Kluger: none.
+**Initiate status:** Singer Gr8, Banshee Gr8, Carpenter Gr8 confirmed. Keystone/Meridian/Crowbar/Kluger: none.
 
 ---
 
 ## Current Situation
 
 **Location:** Sandy Systems LLC, Unit 5, Belltown — established, clean, B-rated security
-**Split:** 3PR in Belltown / Keystone, Crowbar, Meridian, Kluger at Pinnacle Peak
-**Reunification:** ~2 days
+**Split:** Reunified — all seven together as of Session 07 morning
+**Reunification:** Tonight (Session 06 night) — van transport, river valley route, park passes
 **Heat:** BOLO active, LS expanding north — safehouse holding
-**Funds:** 6,408¥ | Safehouse Net 30 ~7,650¥ due
+**Funds:** ~6,917¥ | Safehouse Net 30 ~7,650¥ due
 
 **Active assets:**
-- Great Form Hearth Spirit F4 — 10 services, guarding unit
-- City Spirit F8 — 2 services (Pinnacle Peak four)
+- Great Form Hearth Spirit F4 — 10 services, guarding unit (Banshee, Grade 8) · B6 Q6×3 S4 C4 I4 W4 Reach+1 ImmNW(8) · Powers: AccZ CncP CnfZ Guard Manif Search Divination(domain)
+- City Spirit F8 — dissipated Session 06 (Banshee left domain, 2 services lost)
 - Singer fire pit — prepped, not lit
 - Belltown LS patrol pattern — mapped, Tactical Computer tracking active
+- F&V Baptist burner commcode — active cover, held by: Marta, Daro, Oswin, Rat
 
 ---
 
@@ -113,7 +114,7 @@ Load after the three root files, on demand per session:
 | RAVN van | Roaming, likely Auburn — same operator, no intercept plan |
 | Room 6 man | "When you're ready" — unanswered |
 | Safehouse Net 30 balance ~7,650¥ | Clock running, no plan |
-| Reunification | Imminent |
+| Reunification | Tonight — van transport, river valley route |
 | Mechanic fabrication job | Details arriving |
 | Street Doc medical check | Banshee symptoms pending — consult notes arriving |
 | Clinic rotation | Offered — Banshee to confirm |
@@ -121,6 +122,13 @@ Load after the three root files, on demand per session:
 | Singer Talismonger | Manual approach needed |
 | Carpenter Fixer second call | Queued |
 | DW HRT unit | Encrypted, Belltown sector — BD run available |
+| Oswin | F&V Baptist commcode held — unestablished contact, pier, Belltown waterfront |
+| Marta | F&V Baptist commcode held — bag recovered, shelter contact on 3rd |
+| Rat | F&V Baptist commcode held — treated, debt owed, Disassembler prospect |
+| Daro / package | Location unknown — moved 0730–0800 Session 06, Lace missed him, biometric broker hit ~1100 |
+| Lace | Departed sector 0854 without Daro — Patch notified, next move GM controlled |
+| Gray market DW unit | Garage on 3rd, stolen livery, not in Corp Secretary logs |
+| IR blocking eyewear | Not acquired — Pike Street market flagged |
 
 ---
 
@@ -129,7 +137,7 @@ Load after the three root files, on demand per session:
 - [x] Eye colors — all seven confirmed
 - [x] RCS callsigns — KEYS · MERRY · CROW · CLUE
 - [x] SURGE traits — all seven confirmed
-- [x] Initiate grades — Singer 8, Banshee 7, Carpenter 7 · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Initiate grades — Singer 8, Banshee 8, Carpenter 8 · Keystone/Meridian/Crowbar/Kluger: none
 - [x] Metamagics — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
 - [x] Aptitudes — Keystone/Meridian/Crowbar/Kluger: none
 - [x] Meridian English lingo — none
@@ -139,6 +147,7 @@ Load after the three root files, on demand per session:
 - [ ] Crowbar/Kluger totem/tradition details — TBD
 - [ ] Transceivers/radios — not yet acquired, all seven
 - [ ] Net 30 funding plan — 7,650¥ needed
+- [ ] IR blocking eyewear — not acquired, Pike Street market flagged
 
 ---
 
@@ -159,7 +168,7 @@ Do not re-narrate past events unless asked. Flag any conflict between correction
 
 ## Continuity Flags *(GM eyes only)*
 
-- Session 01–05 events canonical — do not retcon without GM instruction
+- Session 01–06 events canonical — do not retcon without GM instruction
 - Harlequin connection is GM-only knowledge — never surface to players
 - "Why us then?" is the central unanswered question — do not answer it
 - The family does not know they are initiates
@@ -167,9 +176,11 @@ Do not re-narrate past events unless asked. Flag any conflict between correction
 - The family does not know what "old blood" means yet
 - Althain as memory restoration site — do not surface to players
 - Vessel: not easy to forget — GM controlled detail
+- Oswin's kit serial number — flagged in pending DW civil action, Oswin unaware, GM controlled
+- F&V Baptist cover is live in sector — four street contacts holding the commcode
 
 ---
 
-*Session Header v1.2 — Malice Family Campaign*
-*Updated after Session 04*
+*Session Header v1.3 — Malice Family Campaign*
+*Updated after Session 06*
 *File location: 3_session_header.md (root)*

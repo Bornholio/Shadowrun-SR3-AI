@@ -95,6 +95,7 @@ E:.
 │       Lone_Star_Beat_Cops.md      — Foot/Auto/Cycle Patrol, Chomer Cop, Riot Control
 │       Lone_Star_Specialist_Cops.md — DoI/DPI Detectives, Mages, Pilots, Watcher, Corpsec ref
 │       Lone_Star_SWAT_SF_Cops.md   — DED, FRT, SWAT Rifleman/Sniper/Spotter/Decker/Mage
+│       sr3_contacts_compressed_v1.md — ★ NEW — Contacts and opponents compressed reference
 │
 ├───RULES/
 │   │   01_sperethiel_grammar.md    — ★ NEW — Sperethiel grammatical rules and structure
@@ -102,9 +103,11 @@ E:.
 │   │   cell_limits_compact_1.md    — ★ NEW — Compact cell limits reference
 │   │   data_rules.md               — Column definitions for data_programs.md
 │   │   deck_rules.md               — Column definitions and options for deck_programs.md
+│   │   firearms.md                 — ★ NEW — Firearms list for weapon calls in session
 │   │   house_rules.md              — Bioware/geneware house rules, Infinite Warehouse
 │   │   phones.md                   — ★ NEW — Commlinks, telecom, phone rules reference
 │   │   shadowrun3_action_economy_reference.md — ★ NEW — Action economy, free/simple/complex
+│   │   sr3-example-hosts.md        — ★ NEW — Detailed host examples for decking scenes
 │   │
 │   ├───-archive/                   — Superseded flat files, do not load
 │   │       cell_limits_1.md
@@ -128,6 +131,12 @@ E:.
 │   │
 │   └───_skills/                    — Packaged skill files for Claude subsystem chats
 │       │   SKILL.md                — Skill index / loader reference
+│       │   sr3-armor.md            — ★ NEW — Armor rules, layering, penalties
+│       │   sr3-armor-types.md      — ★ NEW — Armor ratings quick-reference table
+│       │   sr3-damage-conditions.md — ★ NEW — Damage, condition monitors, wound modifiers, knockdown
+│       │   sr3-karma.md            — ★ NEW — Karma award, GK tracking, KP conversion, Reputation
+│       │   sr3-melee-combat.md     — ★ NEW — Melee combat rules, reach, full defense
+│       │   sr3-ranged-combat.md    — ★ NEW — Ranged combat, firearms, burst fire, recoil
 │       │   sr3-spellcasting.skill
 │       │
 │       ├───sr3-comm-rules/
@@ -148,6 +157,9 @@ E:.
 │       ├───sr3-spells/
 │       │       SKILL.md            — Spell stats and drain lookup
 │       │
+│       ├───sr3-quick-decking/
+│       │       SKILL.md            — ★ NEW — Quick Matrix resolution for mid-session decking
+│       │
 │       └───sr3_concepts_tests_pools/
 │               SKILL.md            — ★ NEW — Test types, pool allocation, defaulting, Rule of Six
 │
@@ -159,7 +171,8 @@ E:.
 │       session_03_summary.md
 │       session_04_summary.md
 │       session_05_summary.md
-│       session_06_header.md        — ★ current session prep
+│       session_06_summary.md
+│       session_07_header.md        — ★ current session prep
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -183,13 +196,16 @@ Load these on demand after the root files:
 | `NPC/Lone_Star_Beat_Cops.md` | LS patrol response, foot/auto/cycle/chomer/riot |
 | `NPC/Lone_Star_Specialist_Cops.md` | LS detectives, DPI mages, pilots, watcher |
 | `NPC/Lone_Star_SWAT_SF_Cops.md` | DED, FRT, SWAT — heavy response |
+| `NPC/sr3_contacts_compressed_v1.md` | Contacts and opponents compressed reference |
 | `CRITTERS/critter_rules.md` + `critters_powers_sr3.md` | Any critter encounter |
 | `CRITTERS/critters_pe.md` | Paranormal Animals of Europe |
 | `CRITTERS/critters_pna.md` | Paranormal Animals of North America |
 | `CRITTERS/critters_srii.md` | SR2-source critters |
 | `CRITTERS/spirits_sr3.md` | Spirit summoning or encounters |
 | `CRITTERS/dragons_sr3.md` | Dragon encounters |
+| `RULES/firearms.md` | Firearms list — weapon selection and calls in session |
 | `RULES/house_rules.md` | Bioware/geneware edge cases, Infinite Warehouse |
+| `RULES/sr3-example-hosts.md` | Detailed host examples for running decking scenes |
 | `RULES/shadowrun3_action_economy_reference.md` | Action economy questions |
 | `RULES/phones.md` | Commlinks, telecom, call mechanics |
 | `RULES/cell_limits_compact_1.md` | Cell/signal limit quick reference |
@@ -202,17 +218,24 @@ Load these on demand after the root files:
 | `MAPS/transit_network_reference.md` | Full network detail |
 | `MAPS/transit_worldbuilding.md` | Transit flavor and SR3 lore |
 | `MAPS/[01–11].md` | Load specific district when action moves there |
+| skill: `sr3-armor` | Armor rules, layering, Combat Pool penalties, special types |
+| skill: `sr3-armor-types` | Armor ratings quick-reference table |
 | skill: `sr3-comm-rules` | Jamming, ECM/ECCM, scanning |
+| skill: `sr3-damage-conditions` | Damage, wound modifiers, knockdown, overflow |
+| skill: `sr3-karma` | Karma awards, GK tracking, KP conversion, Reputation |
 | skill: `sr3-matrix-rules` | Decking — cyberdecks, system tests, security tally, IC |
 | skill: `sr3-matrix-ops` | Decking — all operation descriptions and quick-ref table |
+| skill: `sr3-melee-combat` | Melee rules, reach, full defense, cyberware melee |
+| skill: `sr3-quick-decking` | Quick Matrix resolution for unplanned mid-session decking |
+| skill: `sr3-ranged-combat` | Ranged combat, burst fire, recoil, ammo types |
 | skill: `sr3-social-tests` | Social mechanics, racism, Etiquette, contacts |
 | skill: `sr3-spells` | Spell stats and drain lookup |
 | skill: `sr3-special-abilities` | Lightbearer (Singer), Cognition, Adept powers |
 | skill: `sr3-spellcasting` | Spellcasting procedure, drain resolution |
 | skill: `sr3_concepts_tests_pools` | Test types, pool allocation, defaulting, Rule of Six |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_05_summary.md` | Session 05 continuity reference |
-| `SESSION LOGS/session_06_header.md` | Session 06 prep — current |
+| `SESSION LOGS/session_06_summary.md` | Session 06 continuity reference |
+| `SESSION LOGS/session_07_header.md` | Session 07 prep — current |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 
 ---
@@ -251,7 +274,7 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 05 complete — Session 06 pending
+**Status:** Session 06 complete — Session 07 pending
 **Heat:** BOLO active, LS expanding north
 **Funds:** ~6,408¥ in certified credsticks / Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
@@ -270,4 +293,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 05 — Session 06 prep loaded*
+*Repository current through Session 06 — Session 07 prep loaded*

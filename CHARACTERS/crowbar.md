@@ -49,7 +49,7 @@
 | Intimidation | Cha | 4 |
 | Leadership | Cha | 2 |
 | Negotiation | Cha | 2 |
-| Survival | Wil | 2 |
+| Survival | Wil | 4 |
 | Sorcery | Wil | 2 |
 | Conjuring | Wil | 2 |
 | Enchanting | Wil | 2 |
@@ -125,3 +125,29 @@
 - Small Military Rucksack
 - Cash: 800¥
 - ID: R1, Ages Well — Randy Sobieski
+
+---
+
+## Initiation Group
+
+**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+**Cost paid:** 3 GK (S1–S6)
+
+---
+
+## Good Karma
+
+**GK Bank (pre-S1):** 15 — spend only, no conversion, no reputation
+
+| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
+|---|---|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: gang tag read, personal glyph flagged |
+
+**Running Totals (S1+):**
+- Public GK earned: 5
+- Secret GK earned: 1
+- Total GK earned (S1+): 6
+- GK spent (S1+): 14 — Group join: 3 / Survival 2→4: 11
+- GK available: 15 (bank) + 6 (earned) − 14 (spent) = **7**
+- Karma Pool current: 2
+- Reputation (Malice): 5 ÷ 20 = **0**

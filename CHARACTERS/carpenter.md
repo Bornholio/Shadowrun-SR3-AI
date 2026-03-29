@@ -55,10 +55,10 @@
 | Throwing Weapons | Str | 4 (5) | |
 | Brawling | Str | 5 (6) | Close Combat, Evasion, Ground Fighting, Disorient, Herding |
 | Underwater Combat | Str | 4 (5) | |
-| Sorcery | Wil | 6 | ★ Aptitude, Centering |
+| Sorcery | Wil | 7 | ★ Aptitude, Centering |
 | Conjuring | Wil | 7 | ★ Aptitude, Centering |
 | Enchanting | Wil | 5 | Centering |
-| Aura Reading | Int | 5 | |
+| Aura Reading | Int | 6 | |
 | Centering | Wil | 4 | Latin |
 | Centering | Wil | 4 | Mathematics |
 | Car | Rea | 6 (7) | Centering |
@@ -189,3 +189,22 @@
 - ZL Bags for all items
 - Cash: 800¥
 - ID: R1, Ages Well — Kevin Strzok
+
+---
+
+## Good Karma
+
+**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
+
+| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
+|---|---|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: chip swap loop file |
+
+**Running Totals (S1+):**
+- Public GK earned: 5
+- Secret GK earned: 1
+- Total GK earned (S1+): 6
+- GK spent (S1+): 12 — Aura Reading 5→6: 5 / Sorcery 6→7: 7
+- GK available: 32 (bank) + 6 (earned) − 12 (spent) = **26**
+- Karma Pool current: 11
+- Reputation (Malice): 5 ÷ 20 = **0**

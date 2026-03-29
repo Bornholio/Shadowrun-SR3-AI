@@ -1,7 +1,7 @@
 # Campaign Stats — Master Reference
 *Malice Family — SR3 Campaign*
 *File location: STATS/campaign_stats.md*
-*Updated after Session 04*
+*Updated after Session 06*
 
 > **Authority:** Individual character sheet files in CHARACTERS/ folder supersede
 > any values in this document. This file is a cross-reference summary only.
@@ -259,15 +259,22 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | Character | Grade | Metamagics confirmed |
 |---|---|---|
-| Singer | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Banshee | 7 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Carpenter | 7 | Masking, Channeling, Invoking, Shielding, Sensing, Reflecting |
+| Singer | ⚠️ 7 or 8 — resolve | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Banshee | ⚠️ 7 or 8 — resolve | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Carpenter | ⚠️ 7 or 8 — resolve | Masking, Channeling, Invoking, Shielding, Sensing, Reflecting |
 | Keystone | None | — |
 | Meridian | None | — |
 | Crowbar | None | — |
 | Kluger | None | — |
 
 *All seven are initiates — they do not know this.*
+*⚠️ 3PR grade discrepancy: session_05_summary records Gr7, session header and campaign_stats previously recorded Gr8. Flagged for resolution.*
+
+## Initiation Group
+
+**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+- **3PR (founding):** Singer, Banshee, Carpenter
+- **Session 07 joins:** Keystone, Meridian, Crowbar, Kluger — all joined successfully, 3 GK each
 
 ---
 
@@ -440,14 +447,48 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 |---|---|
 | Keystone | 1,089¥ |
 | Meridian | 1,386¥ |
-| Singer | 888¥ |
-| Banshee | 1,191¥ |
-| Carpenter | 692¥ |
+| Singer | ~688¥ |
+| Banshee | ~991¥ |
+| Carpenter | ~492¥ |
 | Crowbar | 984¥ |
 | Kluger | 1,287¥ |
-| **Total** | **~6,408¥** *(updated after Session 04)* |
+| **Total** | **~6,917¥** *(updated after Session 06)* |
+
+*Session 06 spend: ~200¥ each across Singer/Banshee/Carpenter — disguise supplies, clothing, pet supplies (Flurry). IR blocking eyewear not acquired — flagged for Pike Street market.*
 
 **Safehouse Net 30 balance:** ~7,650¥ due — clock running.
+
+---
+
+## Good Karma Summary (Session 07)
+
+*Full detail in individual character sheets. This is cross-reference only.*
+
+| Character | GK Bank (pre-S1) | S1+ Earned | S1+ Spent | GK Available | KP Current | Reputation (Malice) |
+|---|---|---|---|---|---|---|
+| Singer | 32 | 8 | 24 | 16 | 11 | 0 |
+| Banshee | 32 | 6 | 16 | 22 | 11 | 0 |
+| Carpenter | 32 | 6 | 12 | 26 | 11 | 0 |
+| Keystone | 16 | 6 | 19 | 3 | 31 | 0 |
+| Meridian | 15 | 6 | 19 | 2 | 31 | 0 |
+| Crowbar | 15 | 6 | 14 | 7 | 2 | 0 |
+| Kluger | 15 | 6 | 14 | 7 | 2 | 0 |
+
+**Group Public GK earned (S1+):** 5 — Reputation (Malice): 5 ÷ 20 = **0**
+**KP conversion threshold:** every 20 total GK earned (S1+), elf rate. No threshold crossed yet (max earned 8).
+
+### S1–S6 Skill Purchases
+| Character | Purchases |
+|---|---|
+| Singer | Small Unit Tactics 4→5 (4gk) · Electronics 8→9 (10gk) · Negotiation 8→9 (10gk) |
+| Banshee | Sorcery 6→7 (7gk) · Disguise 4→5 (4gk) · Aura Reading 5→6 (5gk) |
+| Carpenter | Aura Reading 5→6 (5gk) · Sorcery 6→7 (7gk) |
+| Keystone | Group join (3gk) · Survival 2→4 (11gk) · Etiquette 2→3 (5gk) |
+| Meridian | Group join (3gk) · Survival 2→4 (11gk) · Etiquette 2→3 (5gk) |
+| Crowbar | Group join (3gk) · Survival 2→4 (11gk) |
+| Kluger | Group join (3gk) · Survival 2→4 (11gk) |
+
+*3PR skill costs reduced by −4 GK (Mnemonic Enhancer 3 + Cognition), floor 1 GK per rating point.*
 
 ---
 
@@ -457,16 +498,21 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 - [x] RCS callsigns — Keystone: KEYS · Meridian: MERRY · Crowbar: CROW · Kluger: CLUE
 - [x] Kluger ranged weapon — confirmed none
 - [x] Kluger missing edge — resolved (no missing edge)
-- [x] Crowbar and Kluger SURGE traits — confirmed from sheets: Altered Eye Color, High/Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3
-- [x] Common family SURGE traits — confirmed from sheets: Altered Eye Color, High/Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3 (all seven)
-- [x] Initiate grades — Singer 8 ✓ · Banshee 7 ✓ · Carpenter 7 ✓ · Keystone/Meridian/Crowbar/Kluger: none
+- [x] Crowbar and Kluger SURGE traits — confirmed
+- [x] Common family SURGE traits — confirmed all seven
 - [x] Metamagic list — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
 - [x] Aptitude details — Keystone/Meridian/Crowbar/Kluger: none
 - [x] Meridian English lingo specialty — none
 - [x] VCR grade (3PR) — VCR 2 confirmed
+- [x] Initiation group — all seven joined, 7 members, no strictures
+- [ ] ⚠️ 3PR initiate grades — Gr7 (session_05_summary) vs Gr8 (session header) — resolve
+- [ ] Crowbar/Kluger totem/tradition details — TBD
+- [ ] Transceivers/radios — not yet acquired, all seven
+- [ ] Net 30 funding plan — 7,650¥ needed
+- [ ] IR blocking eyewear — not acquired, Pike Street market flagged
 
 ---
 
-*Campaign Stats v1.3 — Malice Family Campaign*
-*Updated after Session 04*
+*Campaign Stats v1.5 — Malice Family Campaign*
+*Updated after Session 06 — prepared for Session 07*
 *File location: STATS/campaign_stats.md*

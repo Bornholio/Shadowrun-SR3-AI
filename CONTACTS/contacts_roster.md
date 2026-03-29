@@ -230,6 +230,41 @@ Specialty: Unknown — profile incomplete
 
 ---
 
+## New Contacts — Session 06 Unestablished
+
+**Oswin** *(surname unknown)* → codename: TBD
+Former DocWagon SRT paramedic · SINless · Rating unestablished · Belltown waterfront sector
+Gender: Male · Age: Mid-50s · Metatype: Human
+Specialty: Emergency triage, trauma stabilization, 3 years continuous Belltown sector observation
+Relationship: Professional (debt incurred this session) · Payment: TBD · Warmth: Measured
+*F&V Baptist commcode held. WR1 installed — older, well-maintained. Trauma kit with flagged DocWagon serial number (pending civil action — Oswin unaware). Lost SIN in creditor action 3 years ago following disputed negligence claim — patient lived. Knows the gray-market DocWagon unit operating on 3rd (stolen livery, not in official logs). Has observed roll crew twice prior. Knows Daro by sight as sector regular. Three years of continuous sector observation — knows most of what moves through Belltown.*
+*Session 06: Treated Rat alongside Banshee. Card accepted without questions. Recalibrated his model of the morning without making a production of it. Potential Rating 1 — not yet formally established.*
+*⚠️ Note: Oswin's kit serial number is flagged in a pending DocWagon internal investigation. If scanned it triggers a case file. Oswin does not know this. GM controlled.*
+
+**Marta** *(surname unknown)* → codename: TBD
+SINless-adjacent · Belltown sector regular · Rating unestablished · not yet formally established
+Gender: Female · Age: Mid-40s · Metatype: Human
+Specialty: SINless network, shelter intake contacts, sector movement
+*F&V Baptist commcode in her burner (Carpenter added it). Bag recovered, healed Session 06. Has a contact at a shelter on 3rd doing SINless intake paperwork — holding paperwork for people who need to disappear from LS records before processing. Two camp members scattered during go gang fight — status unknown.*
+*Session 06: Cooperated fully once trust established. Offered shelter contact information unprompted as reciprocal exchange. Potential information asset — not yet formally established.*
+
+**Rat** *(street name only)* → codename: TBD
+Disassembler prospect · south end crew · Rating unestablished · not yet formally established
+Gender: Male · Age: ~17 · Metatype: Human
+Specialty: Waterfront stairs, local street knowledge, go gang fringe
+*F&V Baptist commcode held (Singer gave it directly). Cousin in Disassembler south end crew — cousin got him the prospect slot. Treated by Banshee Session 06 — forearm burn and old brand both removed. Owes a small debt. Knows the waterfront stairs better than any LS unit.*
+*Session 06: Received the lecture, hid his colors, left at a walk. Looked back once. Not a formal contact — useful once, may surface again on his own timeline.*
+
+---
+
+## Daro — Flagged / Location Unknown
+
+**Daro** *(street name)* → status: ACTIVE THREAD
+SINless · Belltown sector · not a contact — active loose thread
+*Package still on him — taped inside jacket lining, contents unknown. Moved from Noodle House alley between 0730–0800 Session 06. Lace (Patch's collector) did not make contact — departed sector south 0854. Biometric data sold by gray-market DocWagon unit at 2211 Session 05 — hit queued in broker system ~1100 Session 06, buyer unknown. F&V Baptist commcode left by Banshee — he has it. Load on demand when thread resurfaces.*
+
+---
+
 ## Intelligence Asset — Unaffiliated
 
 **Unknown Commcode** *(operatives asking about Carpenter)* → ⚠️ PRIORITY
@@ -254,6 +289,6 @@ Functions as:
 
 ---
 
-*Contacts Roster v1.4 — Malice Family Campaign*
-*Updated after Session 05*
+*Contacts Roster v1.5 — Malice Family Campaign*
+*Updated after Session 06*
 *File location: CONTACTS/contacts_roster.md*

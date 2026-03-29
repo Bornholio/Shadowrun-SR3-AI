@@ -104,7 +104,7 @@
 ### Charisma
 | Skill | Stat | Rating |
 |-------|------|--------|
-| Etiquette | Cha | 2 |
+| Etiquette | Cha | 3 |
 | Instruction | Cha | 2 |
 | Interrogation | Cha | 2 |
 | Intimidation | Cha | 2 |
@@ -114,7 +114,7 @@
 ### Willpower
 | Skill | Stat | Rating |
 |-------|------|--------|
-| Survival | Wil | 2 |
+| Survival | Wil | 4 |
 | Sorcery | Wil | 6 |
 | Conjuring | Wil | 6 |
 | Enchanting | Wil | 2 |
@@ -205,3 +205,29 @@
 - Small Military Rucksack
 - Cash: 800¥
 - ID: R1, Ages Well — Gary Hruska
+
+---
+
+## Initiation Group
+
+**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+**Cost paid:** 3 GK (S1–S6)
+
+---
+
+## Good Karma
+
+**GK Bank (pre-S1):** 16 — spend only, no conversion, no reputation
+
+| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
+|---|---|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: Dag contact and settlement |
+
+**Running Totals (S1+):**
+- Public GK earned: 5
+- Secret GK earned: 1
+- Total GK earned (S1+): 6
+- GK spent (S1+): 19 — Group join: 3 / Survival 2→4: 11 / Etiquette 2→3: 5
+- GK available: 16 (bank) + 6 (earned) − 19 (spent) = **3**
+- Karma Pool current: 31
+- Reputation (Malice): 5 ÷ 20 = **0**
