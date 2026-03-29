@@ -184,9 +184,12 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 **Group:** Malice (Shaman, 3 members, No strictures)
 
 **Totem Bonuses:**
-- Sorcery: +1 Dice Health Spells, +1★ Control Manipulation
+- Sorcery: +1 Dice Health Spells, +1★ Control Manipulation (conditional: summer / Lughnasad ±72hrs / Irish province of Munster / within 4m LOS of fire ≥campfire)
+- Sorcery: −1 die Health Spells (Bard disadvantage — net with Dark King: 0 change)
 - Conjuring: Nature Spirits, Elementals (no Water), Spirits of Flame
-- +2 Dice Spirits of Man, +2 Dice Spirit of Flames
+- +2 Dice Spirits of Man, +2 Dice Spirits of Flame
+- Disadvantage: −1 die Health Spells (Bard) offset by +1 die Health Spells (Dark King) — net 0
+- Requirement: artistic Knowledge Skill at Rating 4+ (met: Painting 4)
 
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
@@ -228,8 +231,6 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 **Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
 
 **Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
-
-**Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
 
 **4th World Abilities:**
 - Lightbringer — From seeking to destroy Horror in the Salish area

@@ -144,7 +144,6 @@
 | English R/W | Int | 8 |
 | Spanish | Int | 2 |
 | French | Int | 5 |
-| Sperethiel | Int | 2 |
 | Sperethiel | Int | 8 |
 | Sperethiel R/W | Int | 4 |
 | Salish-Sidhe | Int | 2 |
@@ -173,7 +172,11 @@
 
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1
 
-**Conjuring Bonuses (Lover — conjuring side only):** +2 Illusion, Control Manipulation, +2 Spirits of Water
+**Tradition:** Hermetic (sorcery) / Lover Shaman (conjuring)
+- Sorcery: hermetic framework — library required for learning, no masking on powerful spells
+- Conjuring: Lover bonuses apply — lodge required, nature spirits (not elementals)
+- Conjuring: +2 dice Illusion spells, +2 dice Control Manipulation spells, +2 dice Spirits of Water
+- Disadvantage: minimum CHA 6 (met: CHA 9)
 
 ---
 

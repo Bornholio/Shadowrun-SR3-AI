@@ -131,16 +131,18 @@
 ## Magic
 
 **Tradition:** Wolf Shaman / Path of the Druid  
-**Grade:** 7 Initiate  
+**Grade:** 8 Initiate  
 **Group:** Malice (Shaman and Mage, 3 members, No strictures)
 
 **Totem Bonuses:**
-- +1 Dice Combat, +2 Dice Detection
-- +2 Dice Forest, Prairie or Mountain Spirits
-- Can go Berserk
-- +1★ Dice Illusion Spells
-- +2 Dice Spirits of the Water
-- Conjure Spirits, Elementals (no Fire), Spirits of Water
+- Wolf: +2 dice Combat spells, +2 dice Detection spells
+- Wolf: +2 dice Forest, Prairie or Mountain spirits
+- Wolf: Berserk — on taking physical damage, WIL TN 4 test; fail = berserk 3 turns (−1 per success, 3+ averts); attacks nearest living target by most powerful available means
+- Druid: +1★ Illusion spells (conditional: autumn / Samhain ±72hrs / Irish province of Connaught / on or in water)
+- Druid: −1 die Combat spells
+- Druid: +2 dice Spirits of the Water
+- Conjuring: Spirits, Elementals (no Fire), Spirits of Water
+- Requirement: appropriate Knowledge Skill at Rating 4+ (met: History 4, Herbal Lore 4, Law 6)
 
 **Spells:**
 
@@ -161,8 +163,6 @@
 **Flaws / Surge:** Albino (bought off Colorblind and Allergy to Sunlight — see notes), Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
 
 **Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
-
-**Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
 
 ---
 

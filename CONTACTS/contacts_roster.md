@@ -1,7 +1,10 @@
 # Contacts Roster — La Malice
 *Malice Family — SR3 Campaign*
 *File location: CONTACTS/contacts_roster.md*
-*Updated after Session 04*
+*Updated after Session 06*
+
+> **Operational state** (next actions, warmth, status) is maintained in the current session header contact table.
+> This file carries static profile data — specialty, relationship type, payment baseline, notes.
 
 ---
 
@@ -24,7 +27,6 @@ Awakened critter · 247kg · mustelid variant · ancient
 *Den: under large rock formation near the peak*
 *Contact method: Keystone physical presence on mountain. Dag finds Keystone within reasonable time of arrival.*
 *Dag initiates independently on his own timeline.*
-*How 247kg of awakened mustelid navigates the Auburn/Puyallup corridor undetected is his business.*
 
 ---
 
@@ -34,13 +36,11 @@ Awakened critter · 247kg · mustelid variant · ancient
 Fixer · salvage & access · Rating 1 · Etiquette Street · Renton
 Specialty: Construction site access, structural salvage, vehicle drops
 *Memory gap: No face, no history. Name suggests trade background.*
-*Session 04: Not yet contacted.*
 
 **Two-Bit** *(street nickname)* → codename: SPILLWAY
 Street intel · Renton docks · Rating 1 · Etiquette Street
 Specialty: Cargo movement, smuggling routes, dock patrol schedules
 *Memory gap: Dock-level contact. Doesn't know if Two-Bit knows his face.*
-*Session 04: Not yet contacted.*
 
 ---
 
@@ -49,24 +49,25 @@ Specialty: Cargo movement, smuggling routes, dock patrol schedules
 **Lace** *(street name)* → codename: THRESHOLD
 Fixer · social access · Rating 1 · Etiquette Street · Downtown Seattle
 Specialty: Johnson introductions, fake SIN referrals, social cover
-*Session 01: Called successfully. Read as professional social/info fixer, patient, won't spook easily.*
-*Session 04: Not yet contacted.*
+Relationship: Professional · Warmth baseline: Patient, professional, won't spook easily
+*S01: Called successfully. Read as professional social/info fixer.*
 
 **Harmon** *(first name only)* → codename: VESTIBULE
 Corp insider · unknown corp · Rating 1 · Etiquette Corporate
 Specialty: Unknown — insufficient intel
 *Memory gap: First name and commcode only. Unknown megacorp. Calling blind is significant risk.*
-*Session 04: Not yet contacted.*
 
 **Sle-cheep Watkins** *(Muscles)* → codename: SKOOKUM
 Park Head · Pinnacle Peak Park · Rating 1 · Etiquette Street · Muckleshoot NAN
 Specialty: Awakened wildlife, NAN territorial access, tribal documentation, park passes
-*Session 03: Fresh contact. Makah traditional name — mussels, staff call him Muscles. Read the Dag situation and made a quiet judgment call. Probably knows more about what's on that mountain than he said.*
+Relationship: Professional · Warmth baseline: Measured, knows more than he said
+*S03: Fresh contact. Made a quiet judgment call letting Dag onto the mountain.*
 
 **George Millard** → codename: SPRUCE
 Border Guard · Muckleshoot territorial boundary · Rating 1 · Etiquette Street
 Specialty: NAN border crossing, territorial entry documentation
-*Session 03: Single interaction, positive. His name on the entry log gives the four a documented legitimate crossing. Heard "that's our dog" and let it go.*
+Relationship: Professional · Warmth baseline: Single interaction, positive
+*S03: Entry log documents legitimate crossing for all four pass holders.*
 
 ---
 
@@ -76,36 +77,33 @@ Specialty: NAN border crossing, territorial entry documentation
 Decker · signal intercept · Rating 1 · Etiquette Matrix · Matrix only
 Specialty: Comm intercept, signal jamming, military host probing
 *Memory gap: Handle suggests EW background. Unknown if Deadband knows Singer's real name.*
-*Session 04: Not yet contacted.*
 
 **Surplus** *(street nickname)* → codename: TINDERBOX
 Arms dealer · restricted hardware · Rating 1 · Etiquette Street · Tacoma
 Specialty: Restricted weapons, milspec gear, explosives
-*Memory gap: Arms dealers don't give commcodes to strangers. Singer earned this somehow. Wrong approach words could burn immediately.*
-*Session 04: Not yet contacted.*
+*Memory gap: Arms dealers don't give commcodes to strangers. Wrong approach words could burn immediately.*
 
 **Fixer** *(street name unknown)* → codename: TBD
 Fixer · Johnson placement · Rating 1 · Etiquette Street · Downtown Seattle
 Gender: Female
 Specialty: Johnson introductions, SIN referrals, social cover — independent operator
-Relationship: Professional only · Payment: Favors · Warmth: Transactional
-*Session 04: Reconnected. 4 successes. Favor ledger open — not zeroed. Downtown footprint confirmed. Controls, trusts process over people. Fellowship offer filed, not committed. Manual approach only — Browse 4 frame could not locate her. Deliberately low profile.*
-*Next action: Offer work when ledger play is clear.*
+Relationship: Professional only · Payment: Favors · Warmth baseline: Transactional, trusts process over people
+*S04: Reconnected. 4 successes. Favor ledger open — not zeroed. Downtown footprint confirmed. Deliberately low profile — Browse 4 frame could not locate her. Manual approach only.*
 
 **Talismonger** *(street name unknown)* → codename: TBD
 Talismonger · spell formulae · Rating 1 · Etiquette Street · Pike Street area
 Gender: Female
 Specialty: Spell formula sourcing, arcane materials, reagents — favor-based exchange
-Relationship: Professional only · Payment: Favors · Warmth: Transactional
-*Session 04: Frame failed (Browse 4, TN 7, 0 successes). Manual approach needed. Deliberately low profile — not easily searchable. Pike Street area confirmed probable.*
+Relationship: Professional only · Payment: Favors · Warmth baseline: Transactional
+*S04: Frame failed (Browse 4, TN 7, 0 successes). Deliberately low profile. Manual approach needed.*
 *Note: Vessel (Street Doc referral) is a separate talismonger also on Pike Street. Two distinct operations.*
-*Next action: Manual approach when in area.*
 
 **Room 6 Man** → codename: TBD
 Professional · unknown affiliation · Rating 1 · burner commcode only
 Specialty: Unknown — profile incomplete
-*Session 03: Mutual professional debt established. RAVN operator targeted him also — same van, same network. One encrypted comm call 0731, 12 min, content not captured. Weapon within reach asleep. Wired Reflexes 1-2, Essence ~3.0-3.5. Said "retired" with complicated weight. Response to van ID: "APPRECIATED. VAN CONFIRMS. WE SHOULD TALK PROPERLY. WHEN YOU'RE READY." Name, affiliation, full profile: unknown — load on demand.*
-*Session 04: Still pending. "When you're ready" unanswered.*
+Relationship: Mutual professional debt · Warmth baseline: Controlled, reciprocal
+*S03: RAVN operator targeted him also. One encrypted comm call 0731, 12 min, content not captured. Weapon within reach asleep. WR 1-2, Essence ~3.0-3.5. Said "retired" with complicated weight.*
+*Name, affiliation, full profile: unknown — load on demand.*
 
 ---
 
@@ -115,38 +113,27 @@ Specialty: Unknown — profile incomplete
 Info broker · personal histories · Rating 1 · Etiquette Street · Tacoma
 Specialty: SIN verification, personal histories, missing persons
 *Memory gap: No memory of what Slip looks like, where they meet, or going rate.*
-*Session 04: Not yet contacted.*
 
 **Overture** *(matrix handle)* → codename: OVERPASS
 Fixer · Johnson placement · Rating 1 · Etiquette Street · commcode only
 Specialty: Run placement, Johnson referrals, team brokering
 *Memory gap: Will notice immediately if Banshee doesn't remember basics.*
-*Session 04: Not yet contacted.*
 
 **Corp Secretary** *(name unknown)* → codename: TBD
 Corp insider · DocWagon · Rating 1 · Etiquette Corporate · Downtown Seattle
 Gender: Female
 Specialty: Medical transport records, patient intake logs, crew assignments, incident reports — dispatcher-adjacent
-Relationship: Mixed (professional + personal) · Payment: Cash · Warmth: Warm
-*Session 04: Reconnected. 1 success initial, warm call follow-up. Vacation cover landed smoothly. Medical freelance cover established — Banshee available for downtown calls, will risk fire for DW staff, premium for clients. Lunch agreed — quiet, off DocWagon campus. Psychology read (8 successes): genuine warmth, compartmentalizes well, will warn Banshee before burning her. Sociology read (7 successes): mid-tier admin, scheduling/logistics, sees transport logs and crew assignments. Overlap with Street Doc's world at the edges.*
-*Note: Kluger's contact Chart (Auburn DocWagon) may know her.*
-*Next action: Lunch — location TBD, quiet, off campus.*
+Relationship: Mixed (professional + personal) · Payment: Cash · Warmth baseline: Warm, genuine — will warn Banshee before burning her
+*S04: Reconnected. Vacation cover landed smoothly. Medical freelance cover established. Psychology (8): compartmentalizes well. Sociology (7): mid-tier admin, sees transport logs and crew assignments.*
+*Note: Her dispatch logs show no entry for the gray-market DW unit on 3rd — that absence is information. Kluger's contact Chart may know her.*
 
 **Street Doc** *(name unknown)* → codename: TBD
 Street doc · magical triage backup · Rating 1 · Etiquette Street · Barrens/Downtown mobile
 Gender: Female
 Specialty: Emergency triage, trauma stabilization, Barrens-mobile, DocWagon-adjacent paperwork
-Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth: Hot
-*Session 04: Reconnected. 6 successes. Warm from first word. Gratitude is specific and medical — someone Banshee healed that mattered to her, under difficult circumstances. Psychology (8 successes): compassionate core, structurally tired from Barrens work, interested in downtown shift, will not burn Banshee. Sociology (8 successes): Barrens-mobile, crosses security lines regularly, knows Auburn/Redmond fringe, DocWagon-adjacent paperwork for movement.*
-*Offers active:*
-- *Clinic rotation: twice monthly, low exposure, word of mouth only, good people*
-- *Pro bono case screening: Street Doc filters, Banshee handles magical triage*
-- *Talismonger referral: Vessel, Pike Street market end — referred unprompted*
-*Pending:*
-- *Sending: clinic rotation info, shop commcode tonight*
-- *Medical consult: Banshee's dosed/fuzzy/cops symptoms — non-magical hypothesis, three candidate substances, two seen before*
-- *Welcome back — check is on her*
-*Next action: Receive info tonight. Schedule medical check. Clinic rotation when ready.*
+Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth baseline: Hot — gratitude is specific and medical
+*S04: Reconnected. 6 successes. Psychology (8): compassionate core, structurally tired, interested in downtown shift, will not burn Banshee. Sociology (8): Barrens-mobile, crosses security lines regularly, DocWagon-adjacent paperwork.*
+*Offers standing: clinic rotation twice monthly; pro bono case screening; talismonger referral (Vessel, Pike Street).*
 
 ---
 
@@ -156,33 +143,27 @@ Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth: H
 Hermetic contact · spell formulae · Rating 1 · Etiquette Street · Seattle
 Specialty: Spell formula sourcing, arcane materials, minor ritual support
 *Memory gap: Tattoo artist/reagent fence or formula scribe. Doesn't know if Ink knows he's a mage.*
-*Session 04: Not yet contacted.*
 
 **Noodles** *(street nickname)* → codename: PATCHWORK
 Street doc · triage · Rating 1 · Etiquette Street · Redmond Barrens
 Specialty: Emergency triage, trauma stabilization, stim patch supply
 *Memory gap: Friendly nickname, approachable, low-profile. Doesn't know address or face.*
-*Session 04: Not yet contacted.*
 
 **Fixer** *(street name unknown)* → codename: TBD
 Fixer · salvage & access · Rating 1 · Etiquette Street · Renton/Auburn
 Gender: Female
 Specialty: Construction site access, structural salvage, cargo movement — cash only
-Relationship: Professional only · Payment: Cash · Warmth: Transactional
-*Session 04: Reconnected. 2 successes. Polite, not engaged. Cash only was a deliberate structural choice — burned by personal entanglement before. Screens commcodes before answering. Salvage/access specialty, Renton/Auburn footprint. Downtown fellowship slightly outside her range — noted it. Psychology (8 successes): cautious, restructured around cash-only after being burned. Sociology (8 successes): mid-level fixer, knows construction sites and cargo movement.*
-*Next action: Second call queued. Approach with concrete work offer.*
+Relationship: Professional only · Payment: Cash only · Warmth baseline: Cautious, restructured around cash-only after being burned
+*S04: Reconnected. 2 successes. Polite, not engaged. Salvage/access specialty, Renton/Auburn footprint. Screens commcodes before answering.*
 
 **Mechanic** *(street name unknown)* → codename: TBD
 Mechanic · custom fabrication · Rating 1 · Etiquette Street · Kirkland
 Gender: Male
 Specialty: Vehicle electronics, custom fabrication, shielded housing — legitimate shop
-Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
-*Session 04: Met in person at Abelardo's, Kirkland. Shop confirmed clean — no surveillance, no magical watchers, no standing heat. Personal relationship real — fellow builder, genuine loyalty. Nervous because:*
-*⚠️ Two private operatives asked about Carpenter ~2 weeks ago. Not Lone Star (wrong shoes, wrong posture). Showed a recent photo. Left a commcode. Mechanic told them he knew a Carpenter, not a Boyd — did not give him up. Passed commcode to Carpenter.*
-*Cover approach active: Mechanic will call operatives re: radio install job. Will warn Carpenter first via text (established protocol).*
-*Work incoming: custom shielded electronics housing, 3-4 days, specialist rate, 10% introduction fee, tools included as payment. Details arriving tonight.*
-*Personal notes: Kirkland 8 years, inherited shop, divorced amicable, kid in Bellevue weekends, follows the Mariners.*
-*Next action: Await fabrication job details tonight.*
+Relationship: Personal · Payment: Both · Warmth baseline: Warm, loyal, currently nervous
+*S04: Met in person at Abelardo's. Shop confirmed clean — no surveillance, no magical watchers.*
+*⚠️ Two private operatives asked about Carpenter ~2 weeks ago. Not Lone Star. Showed a recent photo. Mechanic didn't give him up. Passed their commcode to Carpenter. Cover approach active: Mechanic will call them re: radio install, warns Carpenter first.*
+*Personal: Kirkland 8 years, inherited shop, divorced amicable, kid in Bellevue weekends, follows the Mariners.*
 
 ---
 
@@ -192,13 +173,11 @@ Relationship: Personal · Payment: Both · Warmth: Warm (nervous)
 Street contact · Barrens gangs · **Rating 2** · Etiquette Street · Puyallup
 Specialty: Gang territorial intel, muscle referrals, stolen goods, street heat
 *Memory gap: Only Rating 2 contact — name carries faint weight through the wipe. Worked together more than once.*
-*Session 04: Not yet contacted.*
 
 **Candle** *(spirit-name)* → codename: HEARTHSTONE
 Shaman contact · spirit negotiation · Rating 1 · Etiquette Street · Puyallup
 Specialty: Spirit negotiation, shamanic reagents, totem guidance
 *Memory gap: Spirit-name is significant. Doesn't remember totem Candle follows.*
-*Session 04: Not yet contacted.*
 
 ---
 
@@ -207,72 +186,56 @@ Specialty: Spirit negotiation, shamanic reagents, totem guidance
 **Chart** *(medical nickname)* → codename: VITALS
 Medical insider · transport logs · Rating 1 · Etiquette Corporate · Auburn
 Specialty: Medical transport records, patient intake logs, DocWagon/Crashcart
-*Memory gap: Clinical humor nickname. Unknown facility, unknown what provided, unknown if payment outstanding. If team was processed medically, Chart may hold critical information.*
-*Session 04: Not yet contacted.*
-*Note: Auburn DocWagon — may know Banshee's Corp Secretary (Downtown DocWagon).*
+Relationship: Professional · Warmth baseline: Unknown
+*Memory gap: Clinical humor nickname. Unknown facility, unknown what provided, unknown if payment outstanding.*
+*Note: Auburn DocWagon — may know Banshee's Corp Secretary (Downtown DocWagon). May know the gray-market DW unit operating in Belltown at the edges.*
 
 **Badge** *(street nickname)* → codename: CASEFILE
 Lone Star contact · records · Rating 1 · Etiquette Street · Auburn LS
 Specialty: Missing persons records, arrest files, crime scene data, patrols
 *Memory gap: Rare and valuable. No memory of the arrangement or leverage involved.*
-*Session 04: Not yet contacted.*
 
 ---
 
-## New Contact — Unestablished
+## Unestablished — Potential Contacts
+
+*These individuals have interacted with the family but are not formally established contacts.*
+*Move to main roster when Rating is confirmed in play.*
 
 **Vessel** → codename: TBD
-Talismonger · Pike Street market end · Rating unestablished · not yet contacted
+Talismonger · Pike Street market end · Rating unestablished
 Specialty: Unknown — profile incomplete
-*Referred by Street Doc unprompted during Session 04 call. "Been there a long time. Not easy to forget." Separate person from Singer's Talismonger contact (also Pike Street area). Street Doc referred her in context of security for reagent runs — possible work lead.*
-*Introduction path: via Street Doc when timing right.*
-*Note: Singer's Talismonger and Vessel are two distinct Pike Street operations.*
-
----
-
-## New Contacts — Session 06 Unestablished
+*Referred by Street Doc unprompted — "been there a long time, not easy to forget." Separate from Singer's Talismonger. Introduction path: via Street Doc.*
 
 **Oswin** *(surname unknown)* → codename: TBD
-Former DocWagon SRT paramedic · SINless · Rating unestablished · Belltown waterfront sector
+Former DocWagon SRT paramedic · SINless · Belltown waterfront sector
 Gender: Male · Age: Mid-50s · Metatype: Human
 Specialty: Emergency triage, trauma stabilization, 3 years continuous Belltown sector observation
-Relationship: Professional (debt incurred this session) · Payment: TBD · Warmth: Measured
-*F&V Baptist commcode held. WR1 installed — older, well-maintained. Trauma kit with flagged DocWagon serial number (pending civil action — Oswin unaware). Lost SIN in creditor action 3 years ago following disputed negligence claim — patient lived. Knows the gray-market DocWagon unit operating on 3rd (stolen livery, not in official logs). Has observed roll crew twice prior. Knows Daro by sight as sector regular. Three years of continuous sector observation — knows most of what moves through Belltown.*
-*Session 06: Treated Rat alongside Banshee. Card accepted without questions. Recalibrated his model of the morning without making a production of it. Potential Rating 1 — not yet formally established.*
-*⚠️ Note: Oswin's kit serial number is flagged in a pending DocWagon internal investigation. If scanned it triggers a case file. Oswin does not know this. GM controlled.*
+Relationship: Professional (debt incurred S06) · Warmth baseline: Measured, recalibrates without drama
+*S06: Treated Rat alongside Banshee. Former SRT, WR1. Lost SIN in creditor action 3 years ago — disputed negligence claim, patient lived. Knows the gray-market DW unit on 3rd. Three years of sector observation — knows most of what moves through Belltown. F&V Baptist commcode held.*
+*⚠️ Trauma kit serial flagged in pending DW internal investigation. Oswin unaware. GM controlled.*
 
 **Marta** *(surname unknown)* → codename: TBD
-SINless-adjacent · Belltown sector regular · Rating unestablished · not yet formally established
+SINless-adjacent · Belltown sector regular
 Gender: Female · Age: Mid-40s · Metatype: Human
 Specialty: SINless network, shelter intake contacts, sector movement
-*F&V Baptist commcode in her burner (Carpenter added it). Bag recovered, healed Session 06. Has a contact at a shelter on 3rd doing SINless intake paperwork — holding paperwork for people who need to disappear from LS records before processing. Two camp members scattered during go gang fight — status unknown.*
-*Session 06: Cooperated fully once trust established. Offered shelter contact information unprompted as reciprocal exchange. Potential information asset — not yet formally established.*
+*S06: Bag recovered, healed. Has a contact at a shelter on 3rd doing SINless intake paperwork. F&V Baptist commcode held.*
 
 **Rat** *(street name only)* → codename: TBD
-Disassembler prospect · south end crew · Rating unestablished · not yet formally established
+Disassembler prospect · south end crew
 Gender: Male · Age: ~17 · Metatype: Human
 Specialty: Waterfront stairs, local street knowledge, go gang fringe
-*F&V Baptist commcode held (Singer gave it directly). Cousin in Disassembler south end crew — cousin got him the prospect slot. Treated by Banshee Session 06 — forearm burn and old brand both removed. Owes a small debt. Knows the waterfront stairs better than any LS unit.*
-*Session 06: Received the lecture, hid his colors, left at a walk. Looked back once. Not a formal contact — useful once, may surface again on his own timeline.*
+*S06: Treated by Banshee — forearm burn and old brand removed. Cousin in Disassembler south end crew. Owes a small debt. F&V Baptist commcode held.*
 
 ---
 
-## Daro — Flagged / Location Unknown
+## Active Threads — Not Contacts
 
-**Daro** *(street name)* → status: ACTIVE THREAD
-SINless · Belltown sector · not a contact — active loose thread
-*Package still on him — taped inside jacket lining, contents unknown. Moved from Noodle House alley between 0730–0800 Session 06. Lace (Patch's collector) did not make contact — departed sector south 0854. Biometric data sold by gray-market DocWagon unit at 2211 Session 05 — hit queued in broker system ~1100 Session 06, buyer unknown. F&V Baptist commcode left by Banshee — he has it. Load on demand when thread resurfaces.*
+**Daro** → active loose thread — see current session header
+SINless · Belltown sector · package on him, location unknown as of S06.
 
----
-
-## Intelligence Asset — Unaffiliated
-
-**Unknown Commcode** *(operatives asking about Carpenter)* → ⚠️ PRIORITY
-Passed by Mechanic · Session 04
-Two private operatives, not Lone Star, ~2 weeks ago. Had recent photo of Carpenter.
-Commcode in Singer's possession.
-*Cover approach: Mechanic calls re: radio install. Warns Carpenter first.*
-*Do not call directly without full Singer prep and trace suppression active.*
+**Unknown Commcode** → active thread — see current session header
+Left by two private operatives asking about Carpenter. In Singer's possession.
 
 ---
 
@@ -289,6 +252,6 @@ Functions as:
 
 ---
 
-*Contacts Roster v1.5 — Malice Family Campaign*
+*Contacts Roster v1.6 — Malice Family Campaign*
 *Updated after Session 06*
-*File location: CONTACTS/contacts_roster.md*
+*Operational state (next actions, warmth) in current session header contact table*

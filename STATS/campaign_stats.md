@@ -5,8 +5,8 @@
 
 > **Authority:** Individual character sheet files in CHARACTERS/ folder supersede
 > any values in this document. This file is a cross-reference summary only.
-> Full adventure detail: CHARACTER DATA/adventure_history.md
-> Full contact detail: CONTACTS/contacts_roster.md
+> **Live operational data** (credstick holdings, karma totals, open threads, pending items)
+> is maintained in the current session header. This file carries permanent reference data only.
 
 ---
 
@@ -24,6 +24,20 @@
 
 ---
 
+## Cover IDs
+
+| Street Name | Cover ID |
+|---|---|
+| Singer | Dale Kowalski |
+| Banshee | Patty Novak |
+| Carpenter | Kevin Strzok |
+| Keystone | Gary Hruska |
+| Meridian | Carol Wentzel |
+| Crowbar | Randy Sobieski |
+| Kluger | Diane Prusak |
+
+---
+
 ## Family Profiles
 
 ### Keystone — Keystone
@@ -31,12 +45,12 @@
 **Born:** Late 1940s | **Expression:** Night One / SURGE / Albino
 **Height:** 6'6" | **Build:** Muscular, bulky for an elf
 **Hair:** Short, stark white — opaque, not translucent
-**Eyes:** TBD next session
+**Eyes:** Sapphire blue, star pattern
 **Fur:** Silver/white, fine, close-lying
 **Tradition:** Raven Shaman — no bonuses, no restrictions. Trickster demands freedom.
-**Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
+**Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
 **Concealment:** Rating 4 normal, 6–8 with clothing, Poncho loadout = 11
-**Notes:** Civil engineer's body — big hands, wide shoulders. Named Dag ~40 years ago without knowing it. Likely in Seattle that summer — possible Alaska cruise stopover. Raven on the wire outside McHugh's was watching him specifically.
+**Notes:** Civil engineer's body — big hands, wide shoulders. Named Dag ~40 years ago without knowing it. Likely in Seattle that summer — Alaska cruise stopover confirmed. Raven on the wire outside McHugh's was watching him specifically.
 
 ### Meridian — Meridian
 **Role:** Hermetic Mage / Face | **Prior Life:** Occupational therapist
@@ -49,8 +63,8 @@
 - Conjuring side: nature spirits (not elementals), lodge needed, shamanic structure
 - Lover bonuses: +2 Illusion, +2 Control manipulation spells, +2 Spirits of Water
 - Penalties: paid off
-**Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
-**English lingo:** None current — British register historical, too rusty to apply
+**Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
+**English lingo:** None
 **Infrastructure needed:** Library (sorcery) + Lodge (conjuring)
 **Notes:** Diamond pupils announce rather than conceal. Occupational therapist's bearing. French at 1960s academic register. Witnessed Keystone's totem contact at McHugh's.
 
@@ -59,7 +73,7 @@
 **Prior Life:** Military EW specialist / Mechanical engineer
 **Born:** Early 1970s | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
 **Height:** 5'8" | **Build:** Compact, dense — deliberate
-**Hair:** White | **Eyes:** Olive, large
+**Hair:** White | **Eyes:** Olive green, yellow band
 **Fur:** White, fine | **Individual Bonus:** +1 Intelligence (edge)
 **Tradition:** Dark King / Path of the Bard
 **Magic:** 12 | **Initiate:** Grade 8 — confirmed
@@ -71,12 +85,12 @@
 **Prior Life:** Teacher | **Born:** Early 1970s
 **Expression:** Night One / SURGE / Albino / Genetic Enhancement
 **Height:** 5'4" | **Build:** Small-framed — smallest of the seven
-**Hair:** Stark white | **Eyes:** Stark blue, slightly larger — SURGE trait
+**Hair:** Stark white | **Eyes:** Bright blue, slightly larger — SURGE trait
 **Fur:** White, fine | **Individual Bonus:** +1 Charisma (edge)
 **Tradition:** Wolf Shaman / Path of the Druid
 - Totem bonuses: +1 Combat, +2 Detection, +2 Forest/Prairie/Mountain spirits, +2 Spirits of Water
 - Can go Berserk
-**Magic:** 12 | **Initiate:** Grade 7 — confirmed
+**Magic:** 12 | **Initiate:** Grade 8 — confirmed
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Notes:** Teacher's presence. Smallest, frequently most significant. Sign Language 5 — state-level deaf/HoH advocate. Conjures Force 9 wind spirits before breakfast.
 
@@ -85,12 +99,12 @@
 **Prior Life:** Student | **Born:** 2011 (UGE wave — not goblinization)
 **Expression:** Night One / SURGE / Albino / Genetic Enhancement
 **Height:** ~5'4"–5'5" | **Build:** Stockier than Banshee
-**Hair:** White | **Eyes:** TBD
+**Hair:** White | **Eyes:** Bright blue
 **Fur:** White, fine | **Individual Bonus:** +1 Quickness (edge)
 **Tradition:** Cat Shaman / Path of the Warrior
 - Totem bonuses: +1 Illusion, +2 City spirits, +1 Combat spells, +2 Spirits of the Land
 - Toy with enemy; +1TN if dirty
-**Magic:** 12 | **Initiate:** Grade 7 — confirmed
+**Magic:** 12 | **Initiate:** Grade 8 — confirmed
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Animal companion:** Flurry — Blackberry Cat (Felis nigra), Awakened '17, dual natured
 **Notes:** The UGE baby with a veteran's hardware. Youngest. Two routers — genuine parallel processing. Organic microscopic vision. Full-size event Session 04 — Flurry at large in Belltown safehouse.
@@ -99,25 +113,25 @@
 **Role:** Ganger / Shaman | **Prior Life:** Petty criminal
 **Born:** Late 1970s | **Expression:** Standard elf / mild SURGE
 **Height:** 6'9" | **Build:** Slim-framed
-**Hair:** Blonde | **Eyes:** TBD next session
+**Hair:** Blonde | **Eyes:** Brown
 **Fur:** Mild SURGE, less pronounced
 **Tradition:** Lover Shaman
 - Bonuses: +2 Illusion, +2 Control manipulation, +2 Spirits of Water
 - Penalties: paid off
-**Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
-**Notes:** Barrens survival instincts. Reads gang tags natively. Glyph aimed at his recognition specifically. *"Why us then?"* — unanswered. Karma pool burned down. Left Siobhan a 20¥ tip.
+**Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
+**Notes:** Barrens survival instincts. Reads gang tags natively. Glyph aimed at his recognition specifically. *"Why us then?"* — unanswered. Left Siobhan a 20¥ tip.
 
 ### Kluger — Kluger
 **Role:** Mage / Detective | **Prior Life:** Healthcare specialist / Nurse
 **Born:** Late 1960s | **Expression:** Standard elf / mild SURGE
 **Height:** 6'1" | **Build:** Lithe, long-framed
-**Hair:** Light brown, long, heavy | **Eyes:** Notable — withheld by player
+**Hair:** Light brown, long, heavy | **Eyes:** Dark brown
 **Fur:** Mild SURGE, less pronounced
 **Tradition:** Lover Shaman
 - Bonuses: +2 Illusion, +2 Control manipulation, +2 Spirits of Water
 - Penalties: paid off
-**Magic:** 6 | **Initiate:** Yes — grade TBD | **Spell List:** Full SR3 core + Fashion F1
-**Notes:** Most visually approachable. Medical assessment reflex. German 5 (Street dialect, teenage years in Germany). English R/W = full INT. No ranged weapon. Karma pool burned down.
+**Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
+**Notes:** Most visually approachable. Medical assessment reflex. German 5 (Street dialect, teenage years in Germany). English R/W = full INT. No ranged weapon.
 
 ---
 
@@ -152,7 +166,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 **Species:** Felis nigra (Paranormal Animal of Europe)
 **Owner:** Carpenter | **Expression:** Awakened 2017 | **Appearance:** Black, white underside
-**Status:** Active — Belltown safehouse, full-size event Session 04, uneasy détente with Hearth Spirit
+**Status:** Active — Belltown safehouse
 
 `B2 Q5×5 S2 C3 I3 W5 E(6) R6** | Init: 6+3d6 | Atk: 6L −1Reach`
 
@@ -259,22 +273,21 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 | Character | Grade | Metamagics confirmed |
 |---|---|---|
-| Singer | ⚠️ 7 or 8 — resolve | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Banshee | ⚠️ 7 or 8 — resolve | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
-| Carpenter | ⚠️ 7 or 8 — resolve | Masking, Channeling, Invoking, Shielding, Sensing, Reflecting |
+| Singer | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Banshee | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
+| Carpenter | 8 | Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding |
 | Keystone | None | — |
 | Meridian | None | — |
 | Crowbar | None | — |
 | Kluger | None | — |
 
 *All seven are initiates — they do not know this.*
-*⚠️ 3PR grade discrepancy: session_05_summary records Gr7, session header and campaign_stats previously recorded Gr8. Flagged for resolution.*
 
 ## Initiation Group
 
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+**Group:** Malice (7 members, no strictures)
 - **3PR (founding):** Singer, Banshee, Carpenter
-- **Session 07 joins:** Keystone, Meridian, Crowbar, Kluger — all joined successfully, 3 GK each
+- **S07 joins:** Keystone, Meridian, Crowbar, Kluger — all joined, 3 GK each
 
 ---
 
@@ -337,7 +350,6 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 |---|---|---|---|---|---|---|---|
 | English spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
 | English R/W | 8 | 8 | 11 | 11 | 5 | 3 | 6 |
-
 | Sperethiel spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
 | Sperethiel R/W | 4 | 4 | 5 | 5 | 5 | 3 | 3 |
 
@@ -347,7 +359,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 |---|---|---|---|---|---|---|---|
 | French spoken | 2 | 6 | 4 | 2 | 5 | 2 | 4 |
 | German spoken | 2 | — | 4 | 2 | 5 | — | 5 |
-| German specialty | — | — | — | — | — | — | Street dialect (Kluger) |
+| German specialty | — | — | — | — | — | — | Street dialect |
 | Spanish spoken | 2 | 2 | 4 | 4 | 2 | 4 | 2 |
 | Japanese spoken | 2 | 2 | 4 | 4 | 2 | 3 | 1 |
 | Korean spoken | — | — | 4 | — | — | — | — |
@@ -395,7 +407,7 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 - Right ear: Delta datajack, primary, high brain
 - Left ear: Delta datajack, mid-brain (VCR tier)
-- Both palms: Induction pads, skin-flush, Smartlink
+- Both palms: Induction pads, skin-flush, Smartlink 2
 - Base of skull: Multiport Chip Jack (4 OMC slots)
 - **Cranial Cyberdeck:** MPCP 8 / Body 5 / Evasion 6 / Masking 8 / Sensors 5
   - Active Memory: 3000mp | I/O Speed: 800 | Hardening: 10 (12 with Natural Hardening 2)
@@ -405,6 +417,9 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 - Wired Reflexes NOT installed — conflicts with Synaptic Accelerator
 - **Tactical Computer:** BattleTac mod, 6 Generic Ports
   - Subscriber list: Singer, Banshee, Carpenter — pre-configured, heavy encryption
+- Signal Amplifier 10 — flux booster, not a jammer
+- Simrig Full-X — passive, player-driven
+- Reflex Recorder 2 — bonus folded into sheet skill ratings
 
 ---
 
@@ -420,64 +435,30 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 **Post-2025 knowledge:** Distrusted by default. Characters hedge and seek verification.
 **Magic basics:** Trusted. Specialty magical knowledge: distrusted until verified.
 
-### Horror Memory Triggers (GM Eyes)
-
-| Event | Trigger |
-|-------|---------|
-| Ivy and Chrome — blood/sacrifice magic item | Encounter blood magic, sacrifice magic, similar items |
-| Total Eclipse — spider-like Horror | Insect spirits (spider), Horror-tainted astral space |
-| Geyswain/Arleesh — idol and Great Dragon | Great Dragon contact, Geyswain/Arleesh named, dragon-scale artifacts |
-| Harlequin's Back — metaplane journey | Proximity to volcano-affected site or Great Ghost Dance site |
-| **Althain (Mt. St. Helens)** | **Full memory restoration for all seven on visiting** |
+*Horror Memory Triggers: GM eyes only — see gm_notes.md*
 
 ---
 
-## Prior Adventure History
+## Good Karma — Snapshot (S07 open)
 
-*(See CHARACTER DATA/adventure_history.md for full detail)*
+*Live totals maintained in current session header. This is a dated reference snapshot.*
+*Last updated: Session 07 open*
 
-**Last recorded activity:** 08/19/57
-**Reset:** ~03/2058 — family wakes at McHugh's
+| Character | GK Bank (pre-S1) | S1+ Earned | S1+ Spent | GK Available | KP Current |
+|---|---|---|---|---|---|
+| Singer | 32 | 8 | 24 | 16 | 11 |
+| Banshee | 32 | 6 | 16 | 22 | 11 |
+| Carpenter | 32 | 6 | 12 | 26 | 11 |
+| Keystone | 16 | 6 | 19 | 3 | 31 |
+| Meridian | 15 | 6 | 19 | 2 | 31 |
+| Crowbar | 15 | 6 | 14 | 7 | 2 |
+| Kluger | 15 | 6 | 14 | 7 | 2 |
 
----
+**Group Public GK earned (S1+):** 5 — Reputation (Malice): 0
+**KP conversion threshold:** every 20 total GK earned (S1+), elf rate. No threshold crossed yet.
 
-## Certified Credstick Holdings
+### Skill Purchases to Date (S1–S6)
 
-| Runner | Credstick |
-|---|---|
-| Keystone | 1,089¥ |
-| Meridian | 1,386¥ |
-| Singer | ~688¥ |
-| Banshee | ~991¥ |
-| Carpenter | ~492¥ |
-| Crowbar | 984¥ |
-| Kluger | 1,287¥ |
-| **Total** | **~6,917¥** *(updated after Session 06)* |
-
-*Session 06 spend: ~200¥ each across Singer/Banshee/Carpenter — disguise supplies, clothing, pet supplies (Flurry). IR blocking eyewear not acquired — flagged for Pike Street market.*
-
-**Safehouse Net 30 balance:** ~7,650¥ due — clock running.
-
----
-
-## Good Karma Summary (Session 07)
-
-*Full detail in individual character sheets. This is cross-reference only.*
-
-| Character | GK Bank (pre-S1) | S1+ Earned | S1+ Spent | GK Available | KP Current | Reputation (Malice) |
-|---|---|---|---|---|---|---|
-| Singer | 32 | 8 | 24 | 16 | 11 | 0 |
-| Banshee | 32 | 6 | 16 | 22 | 11 | 0 |
-| Carpenter | 32 | 6 | 12 | 26 | 11 | 0 |
-| Keystone | 16 | 6 | 19 | 3 | 31 | 0 |
-| Meridian | 15 | 6 | 19 | 2 | 31 | 0 |
-| Crowbar | 15 | 6 | 14 | 7 | 2 | 0 |
-| Kluger | 15 | 6 | 14 | 7 | 2 | 0 |
-
-**Group Public GK earned (S1+):** 5 — Reputation (Malice): 5 ÷ 20 = **0**
-**KP conversion threshold:** every 20 total GK earned (S1+), elf rate. No threshold crossed yet (max earned 8).
-
-### S1–S6 Skill Purchases
 | Character | Purchases |
 |---|---|
 | Singer | Small Unit Tactics 4→5 (4gk) · Electronics 8→9 (10gk) · Negotiation 8→9 (10gk) |
@@ -492,27 +473,6 @@ Powers: EPA(Qui), ERct, ESen(Smell+) | Weakness: ReducedSenses(Vision)
 
 ---
 
-## Pending Items
-
-- [x] Eye colors — Singer: Olive Green (yellow band) · Banshee: Bright Blue · Carpenter: Bright Blue · Keystone: Sapphire Blue (star pattern) · Meridian: Emerald Green (diamond pupils) · Crowbar: Brown · Kluger: Dark Brown
-- [x] RCS callsigns — Keystone: KEYS · Meridian: MERRY · Crowbar: CROW · Kluger: CLUE
-- [x] Kluger ranged weapon — confirmed none
-- [x] Kluger missing edge — resolved (no missing edge)
-- [x] Crowbar and Kluger SURGE traits — confirmed
-- [x] Common family SURGE traits — confirmed all seven
-- [x] Metamagic list — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
-- [x] Aptitude details — Keystone/Meridian/Crowbar/Kluger: none
-- [x] Meridian English lingo specialty — none
-- [x] VCR grade (3PR) — VCR 2 confirmed
-- [x] Initiation group — all seven joined, 7 members, no strictures
-- [ ] ⚠️ 3PR initiate grades — Gr7 (session_05_summary) vs Gr8 (session header) — resolve
-- [ ] Crowbar/Kluger totem/tradition details — TBD
-- [ ] Transceivers/radios — not yet acquired, all seven
-- [ ] Net 30 funding plan — 7,650¥ needed
-- [ ] IR blocking eyewear — not acquired, Pike Street market flagged
-
----
-
-*Campaign Stats v1.5 — Malice Family Campaign*
+*Campaign Stats v1.6 — Malice Family Campaign*
 *Updated after Session 06 — prepared for Session 07*
-*File location: STATS/campaign_stats.md*
+*Live operational data (funds, open threads, pending items) in current session header*

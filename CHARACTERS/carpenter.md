@@ -118,19 +118,21 @@
 ## Magic
 
 **Tradition:** Cat Shaman / Path of the Warrior  
-**Grade:** 7 Initiate  
+**Grade:** 8 Initiate  
 **Group:** Malice (Shaman and Mage, 4 members, No strictures)
 
-**Metamagics:** Masking, Channeling, Invoking, Shielding, Sensing, Reflecting
+**Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
 **Totem Bonuses:**
-- +1 Dice Illusion
-- +2 Dice City Spirits
-- +1TN if Dirty
-- Toy with enemy
-- +1 Combat Spells
-- +2 Dice Spirits of the Land
-- Conjure Spirits, Elementals (no Air), Spirits of the Land
+- Cat: +2 dice Illusion spells
+- Cat: +2 dice City spirits
+- Cat: +1TN all Mental TNs if dirty or unkempt
+- Cat: Unwounded — WIL TN 6 when casting damaging spell; fail = must cast least-damaging spell at minimum damage level (variable) or ½ Force; wounded = restriction lifts
+- Warrior: +1★ Combat spells (conditional: winter / Imbolc ±72hrs / Irish province of Ulster / hills or mountains)
+- Warrior: −1 die Illusion spells
+- Warrior: +2 dice Spirits of the Land
+- Conjuring: Spirits, Elementals (no Air), Spirits of the Land
+- Requirement: melee Combat Skill at Rating 4+ (met: Brawling 5, Clubs 6, Polearms 6)
 
 **Spells:**
 
@@ -147,8 +149,6 @@
 **Edges:** Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Quick Healer
 
 **Flaws / Surge:** Altered Eye Color, High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Toughness, High Pain Tolerance 3, Lightning Reflexes 3
-
-**Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
 
 ---
 

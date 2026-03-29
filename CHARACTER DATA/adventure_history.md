@@ -1,6 +1,6 @@
 # Adventure History — La Malice
 *Malice Family — SR3 Campaign*
-*File location: SESSION LOGS/adventure_history.md*
+*File location: CHARACTER DATA/adventure_history.md*
 *⚠️ GM EYES ONLY — Characters have no memory of these events*
 
 ---
@@ -132,6 +132,6 @@ The family does not know they chose it.
 
 ---
 
-*Adventure History v1.1 — Malice Family Campaign*
-*Updated after Session 05*
+*Adventure History v1.2 — Malice Family Campaign*
+*Updated after Session 06*
 *File location: CHARACTER DATA/adventure_history.md*

@@ -174,7 +174,11 @@
 
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1
 
-**Tradition:** Raven Shaman — no totem bonuses, no restrictions
+**Tradition:** Raven Shaman
+- +2 dice Manipulation spells
+- +2 dice Sky spirits
+- Disadvantage: +1TN all magical TNs while not under open sky
+- Environment: Anywhere under the open sky
 
 ---
 
