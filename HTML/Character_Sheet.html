@@ -185,10 +185,31 @@ CHARACTERS.forEach(name => {
 
 function loadCharacter(name) {
   contentDiv.innerHTML = `
-    <div id="img-panel"><img src="../shadowrun/CHARACTERS/${name}.png" alt="${name}"></div>
-    <div id="md-panel"><div class="md"><p style="color:#555">Loading...</p></div></div>
-  `;
-  fetch(`../shadowrun/CHARACTERS/${name.toLowerCase()}.md`)
+<div id="img-panel">
+  <img src="https://raw.githubusercontent.com/Bornholio/Shadowrun-SR3-AI/main/CHARACTERS/${name}.png" alt="${name}">
+  <img src="https://raw.githubusercontent.com/Bornholio/Shadowrun-SR3-AI/main/CHARACTERS/${name}2.png" alt="${name}">
+  <img src="https://raw.githubusercontent.com/Bornholio/Shadowrun-SR3-AI/main/CHARACTERS/${name}3.png" alt="${name}">
+</div>
+
+<style>
+  #img-panel {
+    display: flex;
+    flex-direction: column; /* Forces vertical stacking */
+    align-items: flex-start; /* Keeps images at their natural width */
+    gap: 10px;               /* Adds space between the images */
+  }
+  
+  #img-panel img {
+    max-width: 100%;        /* Ensures large images don't overflow */
+    height: auto;
+  }
+</style>
+
+<div id="md-panel">
+  <div class="md"><p style="color:#555">Loading...</p></div>
+</div>
+`;
+	fetch(`https://raw.githubusercontent.com/Bornholio/Shadowrun-SR3-AI/main/CHARACTERS/${name.toLowerCase()}.md`)
     .then(r => {
       if (!r.ok) throw new Error(r.status);
       return r.text();

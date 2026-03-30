@@ -177,7 +177,8 @@
 - Conjuring: Lover bonuses apply — lodge required, nature spirits (not elementals)
 - Conjuring: +2 dice Illusion spells, +2 dice Control Manipulation spells, +2 dice Spirits of Water
 - Disadvantage: minimum CHA 6 (met: CHA 9)
-
+**Grade:** 0 Initiate  
+**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 ---
 
 ## Equipment

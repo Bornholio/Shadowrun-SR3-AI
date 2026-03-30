@@ -94,7 +94,8 @@
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1, Improved Invisibility 2
 
 **Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
-
+**Grade:** 0 Initiate  
+**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 ---
 
 ## Equipment

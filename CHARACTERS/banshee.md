@@ -132,7 +132,7 @@
 
 **Tradition:** Wolf Shaman / Path of the Druid  
 **Grade:** 8 Initiate  
-**Group:** Malice (Shaman and Mage, 3 members, No strictures)
+**Group:** Malice (Shaman and Mage, 7 members, No strictures)
 
 **Totem Bonuses:**
 - Wolf: +2 dice Combat spells, +2 dice Detection spells

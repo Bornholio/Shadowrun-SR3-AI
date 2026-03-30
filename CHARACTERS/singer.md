@@ -181,7 +181,7 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 
 **Tradition:** Dark King / Path of the Bard  
 **Grade:** 8 Initiate  
-**Group:** Malice (Shaman, 3 members, No strictures)
+**Group:** Malice (Shaman, 7 members, No strictures)
 
 **Totem Bonuses:**
 - Sorcery: +1 Dice Health Spells, +1★ Control Manipulation (conditional: summer / Lughnasad ±72hrs / Irish province of Munster / within 4m LOS of fire ≥campfire)

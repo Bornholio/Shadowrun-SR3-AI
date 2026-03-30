@@ -119,7 +119,7 @@
 
 **Tradition:** Cat Shaman / Path of the Warrior  
 **Grade:** 8 Initiate  
-**Group:** Malice (Shaman and Mage, 4 members, No strictures)
+**Group:** Malice (Shaman and Mage, 7 members, No strictures)
 
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 

@@ -179,7 +179,8 @@
 - +2 dice Sky spirits
 - Disadvantage: +1TN all magical TNs while not under open sky
 - Environment: Anywhere under the open sky
-
+**Grade:** 0 Initiate  
+**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 ---
 
 ## Equipment
