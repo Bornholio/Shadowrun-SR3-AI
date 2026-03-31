@@ -50,7 +50,8 @@
 | MSCJ-4 | Brainware | AV Recording 20Gp OMC (7 days A&V) | -1 | Legal | 14 | 14 |
 | Multislot Chipjack-4 | Brainware | 4 slots, 4 chips, 5 ports | 4 | Legal | — | 14 |
 | RAS Override | Brainware | Allow parallel rig/deck/realworld at +4TN | -1 | Legal | — | 14 |
-| Tactical Computer, BT Mod | Brainware | Acts as Battle Tac Master, +4 Combat Pool 100% pool, +4 or More SUT | -1 | 2P-R | 12 | 14 |
+| Tactical Computer (BT Mod) | Brainware | TC modified for BT protocols · acts as BattleTac master unit when linked to radio · Rating = applicable senses ÷ 2 (max 4) · +4 Combat Pool · 100% pool for Surprise Tests · +4 SUT skill bonus · Simple Action to convey orders | -1 | 2P-R | 12 | 14 |
+| BattleTac Cyberlink | Brainware | Cybernetic BT receiver · −2TN on SUT tests (master targeting user) · auto tactical map via image link · translates linked cyber senses to BT protocols → feeds TC as sensor input · each sense transmitted = 1 radio channel | -1 | 2P-R | 12 | 14 |
 | TC Generic/Dedicated Ports 6/11 | Brainware | All other senses, includes 4 radio linked sensor systems | -1 | 2P-R | 12 | 14 |
 
 ---
@@ -94,7 +95,12 @@
 
 ---
 
-## Senseware
+*Tactical application (network topology, sense inventory, per-character TN table, initiative caps, radio budget): see `CHARACTER DATA/tactics_3pr.md`*
+*Generic SR3 tactics rules: see skill `sr3-tactics`*
+
+---
+
+## Senseware 
 
 | Device | Type | Notes | Ports | Legality | Conceal | Scan |
 |--------|------|-------|-------|----------|---------|------|
@@ -202,8 +208,8 @@
 | Multi-Tasking | Adept Power (0.5) | Concentrate on separate actions, Two Free Actions per Init Pass |
 | Nimble Fingers | Adept Power (0.5) | Sleight of Hand +1 Dice, Free Actions (Insert Clip, Pick Up/Down Object, Remove Clip, Use Simple Object) |
 | Shamanism | Flaw | No Spells — must learn magical skills before bonuses apply |
-| Magical Group | Initiation | Group: Malice Family (Shaman and Mage, 4 members, No strictures) |
-| Initiate Grade 7 | Initiation | +7 Magic, +7 Metamagic Powers (group, ordeal) |
+| Magical Group | Initiation | Group: Malice (Shaman and Mage, 7 members, No strictures) |
+| Initiate Grade 8 | Initiation | +8 Magic, +8 Metamagic Powers (group, ordeal) |
 
 ---
 

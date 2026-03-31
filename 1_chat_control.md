@@ -1,6 +1,7 @@
 # Chat Control — Session Management
 *Load order: 1 of 3 — Paste this file first*
 *File location: 1_chat_control.md (root)*
+*Updated after Session 07 prep*
 
 ---
 
@@ -13,11 +14,15 @@ These files are not loaded at session start. Prompt the GM to load them when the
 
 **Character data** — load when detail is needed beyond project knowledge
 - `CHARACTER DATA/shared_3pr_augmentations.md` — full cyberware/bioware block for Singer, Banshee, Carpenter
+- `CHARACTER DATA/tactics_3pr.md` — BT network topology, Singer TC sense inventory, per-character SUT TNs, initiative caps, radio budget
 - `CHARACTER DATA/deck_programs.md` — Singer's deck programs
 - `CHARACTER DATA/data_programs.md` — vehicle/drone autosofts
 
 **Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_06_summary.md` — most recent completed session
+- `SESSION LOGS/session_07_header.md` — current session header (consolidated, all prior threads folded in)
+- `SESSION LOGS/session_06_summary.md` — most recent completed session narrative
+
+*Sessions 01–06 headers and summaries archived — load only if specific historical continuity is needed.*
 
 **Maps** — load when action moves to that district
 - `MAPS/00_security_ratings_master.md` — security rating cross-reference
@@ -38,6 +43,9 @@ These files are not loaded at session start. Prompt the GM to load them when the
 - `CRITTERS/dragons_sr3.md` — dragon encounters
 
 **Rules modules** — load on demand
+- `RULES/sr3-perception-surprise.md` — Perception tests, Stealth mechanic, Surprise resolution, Visibility tables (standard/extended/underwater), vision system rules
+- `RULES/sr3-tactics.md` — Tactical Computer, Small Unit Tactics, BattleTac system, indirect fire, ambush/surprise bonuses
+- `RULES/sr3-athletics.md` — Running/fatigue, Jumping, Climbing, Falling, Swimming, Holding breath, Lifting/Throwing
 - `RULES/firearms.md` — weapon selection and calls
 - `RULES/sr3-example-hosts.md` — host examples for decking scenes
 - `RULES/house_rules.md` — bioware/geneware edge cases, Infinite Warehouse
@@ -45,6 +53,29 @@ These files are not loaded at session start. Prompt the GM to load them when the
 - `RULES/cell_limits_compact_1.md` — signal and cell limit reference
 - `RULES/shadowrun3_action_economy_reference.md` — action economy
 - `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` — Sperethiel
+
+---
+
+## Skill Load Triggers
+
+Load skills proactively — do not answer mechanical questions from memory when a skill file exists.
+
+| Situation | Load |
+|---|---|
+| Stealth, detection, or surprise possible | `sr3-perception-surprise` |
+| TC, SUT, or BattleTac mechanics | `sr3-tactics` + `tactics_3pr.md` |
+| Lifting, jumping, climbing, falling, fatigue | `sr3-athletics` |
+| Ranged combat | `sr3-ranged-combat` |
+| Melee combat | `sr3-melee-combat` |
+| Damage, wounds, knockdown | `sr3-damage-conditions` |
+| Spellcasting or drain | `sr3-spellcasting` |
+| Conjuring or spirits | `sr3-conjuring` |
+| Social tests or contacts | `sr3-social-tests` |
+| Matrix/decking | `sr3-matrix-rules` + `sr3-matrix-ops` |
+| Comm/jamming/ECM | `sr3-comm-rules` |
+| Armor or damage resistance | `sr3-armor` + `sr3-armor-types` |
+| Karma awards or spending | `sr3-karma` |
+| Special abilities (Singer/Banshee/Carpenter) | `sr3-special-abilities` |
 
 ---
 
@@ -93,6 +124,8 @@ Default to **GM PREP MODE** unless told otherwise.
   6. Gear and augmentations
 - After corrections, regenerate any affected tables
 
+**Grade canonical:** Singer, Banshee, Carpenter — Grade 8 confirmed S06. Session 05 summary entries were incorrect. Grade 8 is the only authoritative value.
+
 ---
 
 ## Correction Protocol
@@ -132,5 +165,28 @@ Then await supplemental file pastes or GM instruction before proceeding.
 
 ---
 
+## Likely Supplementals by Session Type
+
+**Combat session:**
+`sr3-perception-surprise` · `sr3-tactics` · `tactics_3pr.md` · `sr3-ranged-combat` · `sr3-damage-conditions` · `sr3-armor` · `sr3-armor-types`
+
+**Contact / social session:**
+`sr3-social-tests` · `contacts_roster.md`
+
+**Decking / Matrix session:**
+`sr3-matrix-rules` · `sr3-matrix-ops` · `sr3-comm-rules` · `deck_programs.md`
+
+**Magic / spirit session:**
+`sr3-spellcasting` · `sr3-spells` · `sr3-conjuring` · `spirits_sr3.md`
+
+**Outdoor / wilderness:**
+`sr3-athletics` · `sr3-perception-surprise` · relevant map file
+
+**Karma / advancement:**
+`sr3-karma`
+
+---
+
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
+*Updated after Session 07 prep*

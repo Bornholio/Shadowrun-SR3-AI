@@ -52,7 +52,10 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 
 ---
 
-## Active Skills
+## BattleTac Role
+
+**Role:** Master (default) — SUT 5, effective 9 with TC Rating 4 · Simple Action to convey orders · max 5 teammates boosted
+*Any 3PR can act as master — Singer default by skill advantage.*
 
 | Skill | Stat | Rating | Notes |
 |-------|------|--------|-------|
@@ -245,9 +248,9 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 
 ## Cyberware / Bioware
 
-**cyberware** Δ BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer BT Mod, TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator
+**cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
-**Bioware** ©  Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
+**Bioware** ©ultured;  Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
 
 **ESS:** 5.00 | Bio Index 0.50
 
