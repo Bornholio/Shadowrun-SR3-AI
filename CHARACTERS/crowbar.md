@@ -4,7 +4,14 @@
 **Lifestyle:** Squatter  
 **RCS Callsign:** CROW  
 **Eye Color:** Brown  
-**Contacts:** Fixer, Talismonger
+**Contacts:** Dagger (STILETTO, Rating 2), Candle (HEARTHSTONE, Rating 1)
+
+---
+
+## Status — Session 07+
+**OUT OF ACTIVE SESSIONS**
+Day job: Downtown building services, overnight cleaning and maintenance · 10hrs/week · 250¥/week · cash · no SIN check
+Work clothes purchased S07 · 50¥ spent
 
 ---
 
@@ -24,6 +31,12 @@
 | INI  | — | 12+1d6 | |
 | Karma Pool | — | 2 | |
 | Good Karma | — | 15 | |
+
+---
+
+## Academic Knowledge Ceiling
+*Established S07 — trusted post-2025 knowledge limit*
+**Rating 2 — Interested**
 
 ---
 
@@ -96,6 +109,7 @@
 **Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
 **Grade:** 0 Initiate  
 **Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
+
 ---
 
 ## Equipment
@@ -109,11 +123,7 @@
 - Lined Coat
 - Secure Vest
 - Military Armored Jacket (Black outfit)
-
-### Outfits
-**Ordinary:** Ordinary Clothing  
-**Black:** Military Armored Jacket, BDUs, Light Web Gear, Combat Boots, Snake Mesh Socks (Black)  
-**Antisensor Urban Camo:** Poncho, Respirator, Beanie, Small Equipment Pouch, Large Equipment Pouch, Pistol Ammunition Pouch
+- Work clothes (building services, nondescript) — purchased S07
 
 ### Gear
 - QD Concealing Holster
@@ -124,7 +134,7 @@
 - Canteen and Mess Kit
 - Sleeping Bag, Tent
 - Small Military Rucksack
-- Cash: 800¥
+- Cash: **938¥**
 - ID: R1, Ages Well — Randy Sobieski
 
 ---
@@ -140,15 +150,14 @@
 
 **GK Bank (pre-S1):** 15 — spend only, no conversion, no reputation
 
-| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
-|---|---|---|---|---|---|---|
-| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: gang tag read, personal glyph flagged |
+| Session | Public GK | Secret GK | Total Earned | Notes |
+|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | Group 5 / Individual: gang tag read, personal glyph flagged |
+| S7 | 1 | 0 | 1 | Solid investigative session |
 
 **Running Totals (S1+):**
-- Public GK earned: 5
-- Secret GK earned: 1
-- Total GK earned (S1+): 6
+- Total GK earned (S1+): 7
 - GK spent (S1+): 14 — Group join: 3 / Survival 2→4: 11
-- GK available: 15 (bank) + 6 (earned) − 14 (spent) = **7**
+- GK available: 15 (bank) + 7 (earned) − 14 (spent) = **8**
 - Karma Pool current: 2
-- Reputation (Malice): 5 ÷ 20 = **0**
+- Reputation (Malice): 9 ÷ 20 = **0**

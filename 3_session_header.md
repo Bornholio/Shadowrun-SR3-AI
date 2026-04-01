@@ -11,7 +11,7 @@
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 06 complete — Session 07 pending
+**Status:** Session 07 complete — Session 08 pending
 
 ---
 
@@ -21,6 +21,7 @@
 — Delta-grade cyber/bioware · Magic 12 · All three Grade 8 confirmed · Masking confirmed
 
 **Other four:** Keystone (Raven Shaman) · Meridian (Hermetic Mage) · Crowbar (Shaman/Ganger) · Kluger (Mage/Detective)
+— All four in day jobs, out of active sessions
 
 **All seven shared edges:** Good Reputation 2 · Bilingual · Lightning Reflexes 3 · High Pain Tolerance 3 · Quick Healer · Astral Chameleon
 
@@ -37,71 +38,91 @@
 ## Current Situation
 
 **Location:** Sandy Systems LLC, Unit 5, Belltown — established, clean, B-rated security
-**Split:** Reunified — all seven together as of Session 07 morning
-**Reunification:** Tonight (Session 06 night) — van transport, river valley route, park passes
-**Heat:** BOLO active, LS expanding north — safehouse holding
-**Funds:** ~6,917¥ | Safehouse Net 30 ~7,650¥ due
+**Split:** 3PR active — Singer at coffin hotel post-run, Banshee and Carpenter at breakfast place 2 blocks east with all pier items
+**Reunification:** All three returning to Unit 5 shortly
+**Heat:** BOLO stale, misdirection posted · LS tracker on Cascade van noted · DMV poison pill restoring to clean backup within 6–12 hours of S07 end
+**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 988¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each
 
 **Active assets:**
-- Great Form Hearth Spirit F4 — 10 services, guarding unit (Banshee, Grade 8) · B6 Q6×3 S4 C4 I4 W4 Reach+1 ImmNW(8) · Powers: AccZ CncP CnfZ Guard Manif Search Divination(domain)
-- City Spirit F8 — dissipated Session 06 (Banshee left domain, 2 services lost)
-- Singer fire pit — prepped, not lit
-- Belltown LS patrol pattern — mapped, Tactical Computer tracking active
+- Great Form Hearth Spirit F4 — 10 services, guarding Unit 5 (Banshee, Grade 8)
+- BT matrix link group — persistent, encrypted, three-way (Singer/Banshee/Carpenter)
+- LTG spoof trigger — planted Belltown primary tower, Queen Anne fallback on Singer RC command
+- Westwind (Eurocar, dark blue, 2049) — Singer RC hold, parking structure 2 blocks from home
+- Two bridged telecom lines — dead units in building, two additional commcode addresses active
+- Commlink trap — Spokane vending host, Meridian cover SIN query logs to Singer dead commcode
+- Belltown LS patrol pattern — mapped, TC tracking active
+- DW gray-market channel — Banshee passive monitor active
 - F&V Baptist burner commcode — active cover, held by: Marta, Daro, Oswin, Rat
+
+**Day job earners (out of sessions):**
+- Keystone — downtown seismic retrofit contractor's assistant · 250¥/week
+- Meridian — Belltown language tutoring, French sessions · 250¥/week
+- Crowbar — downtown building services, overnight · 250¥/week
+- Kluger — Belltown-edge urgent care clinic, intake paperwork · 250¥/week
 
 ---
 
-## Open Threads *(Session 06 pickup)*
+## Physical Items — Pier Recovery
+
+| Item | Description | Status |
+|---|---|---|
+| Case | Matte black, 30×20cm, low-tech | In hand — Carpenter |
+| Six SIN cards Rating 3 | Mixed metatypes — working kit | In hand |
+| Callum Shire SIN | Elf male, apparent 30s — most recently handled by pier man | Flagged |
+| Data chip one | Standard format — unread | In hand |
+| Proto-Sperethiel note | Two lines, handwritten, old paper — unreadable | In hand |
+| Credstick | Herbertson Medical Services port format — balance unknown | In hand |
+| Key | Organometallic, 8cm, partially grown — ancient aura | In hand — do not touch bare-handed |
+| Data chip two | 2031 encoding, 847 words — proto-Sperethiel, unreadable | In hand |
+
+---
+
+## Open Threads *(Session 08 pickup)*
 
 | Thread | Status |
 |---|---|
-| Unknown commcode | ⚠️ Active — registry hit, Mechanic cover approach in a few days, Carpenter warned first |
+| Pier man | Commcode held by Carpenter — unnamed contact. Waiting. Knows the family found the items and erased the trap. |
+| HMS-7731-CORP | Herbertson Medical Services account active, processing charges. Someone controls it. |
+| Callum Shire | Client liaison at 0340 DW incident. SIN card carried by pier man. Elf male. |
+| Oswin / 0340 | Was on SRT Delta team. Holds F&V Baptist commcode. Doesn't know family knows. Kit serial still flagged. |
+| Proto-Sperethiel content | Note and chip two unreadable — pier man can probably read them |
+| Credstick | Requires Herbertson-format reader — balance and contents unknown |
+| The key | Organometallic, ancient — unknown lock, unknown location |
+| 0412 burst transmission | Non-standard encryption · Belltown/SLU border · 200m radius · building unidentified |
+| "Paladin" | Okonkwo (Special Investigations) terminology — operation, contact, or unit unknown |
+| LS tracker on Cascade van | 48 hours old — Okonkwo's unit probable source |
+| DMV poison pill | Restoring to clean backup — planter will know someone found and erased it |
+| Unknown commcode | Left by two private operatives asking about Carpenter — Mechanic cover approach due |
 | RAVN van | Roaming, likely Auburn — same operator, no intercept plan |
-| Room 6 man | "When you're ready" — unanswered |
-| Safehouse Net 30 balance ~7,650¥ | Clock running, no plan |
-| Reunification | Tonight — van transport, river valley route |
-| Mechanic fabrication job | Details arriving |
-| Street Doc medical check | Banshee symptoms pending — consult notes arriving |
-| Clinic rotation | Offered — Banshee to confirm |
-| Vessel introduction | Via Street Doc — timing TBD |
-| Singer Talismonger | Manual approach needed |
-| Carpenter Fixer second call | Queued |
-| DW HRT unit | Encrypted, Belltown sector — BD run available |
-| Oswin | F&V Baptist commcode held — unestablished contact, pier, Belltown waterfront |
-| Marta | F&V Baptist commcode held — bag recovered, shelter contact on 3rd |
-| Rat | F&V Baptist commcode held — treated, debt owed, Disassembler prospect |
-| Daro / package | Location unknown — moved 0730–0800 Session 06, Lace missed him, biometric broker hit ~1100 |
-| Lace | Departed sector 0854 without Daro — Patch notified, next move GM controlled |
-| Gray market DW unit | Garage on 3rd, stolen livery, not in Corp Secretary logs |
-| IR blocking eyewear | Not acquired — Pike Street market flagged |
+| Room 6 man | "When you're ready" — unanswered. Possible connection to pier man. |
+| Safehouse Net 30 ~7,650¥ | Due ~3 weeks — no plan |
+| Gray market DW unit | Garage on 3rd, stolen livery — Banshee passive monitor active |
+| Daro / package | Location unknown — Lace missed him, biometric broker hit, Patch next move GM controlled |
 
 ---
 
-## Pending Items *(flag when encountered)*
+## Pending Items *(carry forward)*
 
-- [x] Eye colors — all seven confirmed
-- [x] RCS callsigns — KEYS · MERRY · CROW · CLUE
-- [x] SURGE traits — all seven confirmed
-- [x] Initiate grades — Singer 8, Banshee 8, Carpenter 8 · Keystone/Meridian/Crowbar/Kluger: none
-- [x] Metamagics — Singer/Banshee/Carpenter confirmed · Keystone/Meridian/Crowbar/Kluger: none
-- [x] Aptitudes — Keystone/Meridian/Crowbar/Kluger: none
-- [x] Meridian English lingo — none
-- [x] VCR grade — VCR 2 confirmed
-- [x] Kluger ranged weapon — none
-- [x] Bilingual — confirmed all seven
 - [ ] Crowbar/Kluger totem/tradition details — TBD
 - [ ] Transceivers/radios — not yet acquired, all seven
 - [ ] Net 30 funding plan — 7,650¥ needed
-- [ ] IR blocking eyewear — not acquired, Pike Street market flagged
+- [ ] IR blocking eyewear — not acquired, Pike Street flagged
+- [ ] Herbertson Medical Services reader — needed for credstick
+- [ ] Proto-Sperethiel translation — note and chip two
 
 ---
 
-## Pending Rules Sections *(not yet built)*
+## Academic Knowledge Ceilings *(established S07)*
 
-- [ ] Conjuring skill — Nature spirits, elementals, drain, services, banishing, uncontrolled spirits
-- [ ] Spirits: Ancestor Spirits, Loa, Toxic, Blood, Free Spirit full rules, Ally Spirits, Ghost, Insect Spirits — all MitS
-- [ ] Vehicles and rigger rules
-- [ ] Matrix rules — extended host operations, trace/track, running hot
+| Character | Ceiling | Descriptor |
+|---|---|---|
+| Singer | 5 | Educated |
+| Banshee | 5 | Educated |
+| Carpenter | 5 | Educated |
+| Meridian | 4 | Well-rounded |
+| Keystone | 3 | Dedicated |
+| Kluger | 3 | Dedicated |
+| Crowbar | 2 | Interested |
 
 ---
 
@@ -114,9 +135,11 @@
 - The family does not know they chose the surgery
 - The family does not know what "old blood" means yet
 - Althain as memory restoration site — do not surface to players
-- Vessel: not easy to forget — GM controlled detail
-- Oswin's kit serial number — flagged in pending DW civil action, Oswin unaware, GM controlled
+- Pier man identity — GM controlled. Callum Shire is his working elf identity.
+- HMS account operator — GM controlled. Connected to surgery architect thread.
+- Oswin's kit serial — sleeping thread, activates on DW database scan
 - F&V Baptist cover is live in sector — four street contacts holding the commcode
+- DMV poison pill planter will know within 6–12 hours that someone found and erased the trap
 
 ---
 
@@ -130,72 +153,6 @@ At the close of every session, create or update these files before the next push
 
 ---
 
-### Session Summary Format
-
-```
-# Session XX — [Short Title]
-*Malice Family Campaign*
-*In-game: [day, date, time range] · Location: [primary scene]*
-
-## Situation at Session End
-- **Location:** [where the family is]
-- **Heat:** [LS/threat status]
-- **Funds:** [¥ on hand] | [Net 30 balance if active]
-- **Active assets:** [spirits, tools, cover identities still running]
-
-## Session Events
-[Narrative summary — key scenes, decisions, outcomes. No retcon zone after this is written.]
-
-## Threads Opened
-| Thread | Detail |
-|---|---|
-| [thread] | [status] |
-
-## Threads Resolved
-| Thread | Resolution |
-|---|---|
-| [thread] | [how it closed] |
-
-## Contacts Used / Made
-| Contact | Context |
-|---|---|
-| [name] | [what happened] |
-
-## Resources
-- **Karma:** [X group · individual notes if any]
-- **Nuyen:** [gains / losses / net]
-- **Gear acquired:** [list or none]
-
-## GM Notes
-[Anything to carry forward — timing flags, NPC intentions, world state changes]
-```
-
----
-
-### Session Header Format
-
-```
-# Session XX — Prep Header
-*Malice Family Campaign*
-*Picking up: [in-game day, time, location]*
-
-## Situation
-[2–4 lines: where they are, what's active, immediate pressure]
-
-## Active Assets
-[spirits, cover IDs, gear prepped, surveillance running]
-
-## Immediate Threads
-[Top 3–5 threads most likely to come up this session]
-
-## Background Pressure
-[LS heat, financial clock, any slow-burn threats ticking]
-
-## GM Flags
-[NPC intentions, world events in motion, timing notes]
-```
-
----
-
 *Session Header — Malice Family Campaign*
 *File location: 3_session_header.md (root)*
+*Updated after Session 07*

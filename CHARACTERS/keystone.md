@@ -8,6 +8,13 @@
 
 ---
 
+## Status — Session 07+
+**OUT OF ACTIVE SESSIONS**
+Day job: Downtown seismic retrofit contractor's assistant · 10hrs/week · 250¥/week · cash · no SIN check
+Work clothes purchased S07 · 50¥ spent
+
+---
+
 ## Attributes
 
 | Stat | Racial Max | Base (Aug) [Cyber] | Notes |
@@ -24,6 +31,12 @@
 | INI  | — | 14+1d6 | |
 | Karma Pool | — | 31 | |
 | Good Karma | — | 16 | |
+
+---
+
+## Academic Knowledge Ceiling
+*Established S07 — trusted post-2025 knowledge limit*
+**Rating 3 — Dedicated**
 
 ---
 
@@ -70,36 +83,8 @@
 | Computer | Int | 2 |
 | Electronics | Int | 2 |
 | Biotech | Int | 2 |
-| Diving B/R | Int | 2 |
-| Edged Weapons B/R | Int | 2 |
-| Clubs B/R | Int | 2 |
-| Polearms B/R | Int | 2 |
-| Cyber-Implant Combat B/R | Int | 2 |
-| Throwing Weapons B/R | Int | 2 |
-| Projectile Weapons B/R | Int | 2 |
-| Heavy Weapons B/R | Int | 2 |
-| Pistols B/R | Int | 2 |
-| SMGs B/R | Int | 2 |
-| Rifles B/R | Int | 2 |
-| Assault Rifles B/R | Int | 2 |
-| Shotguns B/R | Int | 2 |
-| Laser Weapons B/R | Int | 2 |
-| Whips B/R | Int | 2 |
-| Gunnery B/R | Int | 2 |
-| Launch Weapons B/R | Int | 2 |
-| Computer B/R | Int | 2 |
-| Electronics B/R | Int | 2 |
-| Bike B/R | Int | 2 |
 | Car B/R | Int | 6 |
-| Hovercraft B/R | Int | 2 |
-| Motorboat B/R | Int | 2 |
-| Ship B/R | Int | 2 |
-| Sailboat B/R | Int | 2 |
-| Winged Aircraft B/R | Int | 2 |
-| Rotor Aircraft B/R | Int | 2 |
-| Vector Thrust Aircraft B/R | Int | 2 |
-| LTA Aircraft B/R | Int | 2 |
-| Submarine B/R | Int | 2 |
+| All other B/R | Int | 2 |
 
 ### Charisma
 | Skill | Stat | Rating |
@@ -120,20 +105,10 @@
 | Enchanting | Wil | 2 |
 | Centering | Wil | 2 |
 
-### Reaction (-1H)
+### Reaction
 | Skill | Stat | Rating |
 |-------|------|--------|
-| Bike | Rea | 2 |
-| Car | Rea | 2 |
-| Hovercraft | Rea | 2 |
-| Motorboat | Rea | 2 |
-| Ship | Rea | 2 |
-| Sailboat | Rea | 2 |
-| Winged Aircraft | Rea | 2 |
-| Rotor Aircraft | Rea | 2 |
-| Vector Thrust Aircraft | Rea | 2 |
-| LTA Aircraft | Rea | 2 |
-| Submarine | Rea | 2 |
+| All vehicle skills | Rea | 2 |
 
 ---
 
@@ -178,9 +153,9 @@
 - +2 dice Manipulation spells
 - +2 dice Sky spirits
 - Disadvantage: +1TN all magical TNs while not under open sky
-- Environment: Anywhere under the open sky
 **Grade:** 0 Initiate  
 **Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
+
 ---
 
 ## Equipment
@@ -193,11 +168,7 @@
 - Long Coat
 - Secure Vest
 - Military Armored Jacket (Black outfit)
-
-### Outfits
-**Ordinary:** Ordinary Clothing  
-**Black:** Military Armored Jacket, BDUs, Light Web Gear, Combat Boots, Snake Mesh Socks (Black)  
-**Antisensor Urban Camo:** Poncho, Respirator, Beanie, Small Equipment Pouch, Large Equipment Pouch, Pistol Ammunition Pouch
+- Work clothes (contractor casual, steel-toes) — purchased S07
 
 ### Gear
 - QD Concealing Holster
@@ -208,7 +179,7 @@
 - Canteen and Mess Kit
 - Sleeping Bag, Tent
 - Small Military Rucksack
-- Cash: 800¥
+- Cash: **938¥**
 - ID: R1, Ages Well — Gary Hruska
 
 ---
@@ -224,15 +195,14 @@
 
 **GK Bank (pre-S1):** 16 — spend only, no conversion, no reputation
 
-| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
-|---|---|---|---|---|---|---|
-| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: Dag contact and settlement |
+| Session | Public GK | Secret GK | Total Earned | Notes |
+|---|---|---|---|---|
+| S1–S6 | 5 | 1 | 6 | Group 5 / Individual: Dag contact and settlement |
+| S7 | 1 | 0 | 1 | Solid investigative session |
 
 **Running Totals (S1+):**
-- Public GK earned: 5
-- Secret GK earned: 1
-- Total GK earned (S1+): 6
+- Total GK earned (S1+): 7
 - GK spent (S1+): 19 — Group join: 3 / Survival 2→4: 11 / Etiquette 2→3: 5
-- GK available: 16 (bank) + 6 (earned) − 19 (spent) = **3**
+- GK available: 16 (bank) + 7 (earned) − 19 (spent) = **4**
 - Karma Pool current: 31
-- Reputation (Malice): 5 ÷ 20 = **0**
+- Reputation (Malice): 9 ÷ 20 = **0**

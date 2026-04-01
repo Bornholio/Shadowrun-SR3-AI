@@ -101,6 +101,7 @@
 | Latin | Int | 6 (10) | |
 | Greek R/W | Int | 1 (5) | |
 | Irish Gaelic | Int | 2 (6) | |
+| Sign Language | Int | 5 | |
 
 ---
 
@@ -133,6 +134,12 @@
 
 ---
 
+## Academic Knowledge Ceiling
+*Established S07 — trusted post-2025 knowledge limit*
+**Rating 5 — Educated**
+
+---
+
 ## Magic
 
 **Tradition:** Wolf Shaman / Path of the Druid  
@@ -148,6 +155,8 @@
 - Druid: +2 dice Spirits of the Water
 - Conjuring: Spirits, Elementals (no Fire), Spirits of Water
 - Requirement: appropriate Knowledge Skill at Rating 4+ (met: History 4, Herbal Lore 4, Law 6)
+
+**Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
 **Spells:**
 
@@ -173,7 +182,7 @@
 
 **cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
-**Bioware** ©ultured;  Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
+**Bioware** ©ultured; Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
 
 **ESS:** 5.00 | Bio Index 0.50
 
@@ -208,7 +217,7 @@
 - Sleeping Bag, Tent
 - Small Military Rucksack
 - ZL Bags for all items
-- Cash: 800¥
+- Cash: **988¥**
 - ID: R1, Ages Well — Patty Novak
 
 ---
@@ -220,12 +229,13 @@
 | Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
 |---|---|---|---|---|---|---|
 | S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: 9 |
+| S7 | 1 | 0 | 1 | — | — | Solid investigative session |
 
 **Running Totals (S1+):**
-- Public GK earned: 5
+- Public GK earned: 6
 - Secret GK earned: 1
-- Total GK earned (S1+): 6
+- Total GK earned (S1+): 7
 - GK spent (S1+): 16 — Sorcery 6→7: 7 / Disguise 4→5: 4 / Aura Reading 5→6: 5
-- GK available: 32 (bank) + 6 (earned) − 16 (spent) = **22**
+- GK available: 32 (bank) + 7 (earned) − 16 (spent) = **23**
 - Karma Pool current: 11
-- Reputation (Malice): 5 ÷ 20 = **0**
+- Reputation (Malice): 9 ÷ 20 = **0**

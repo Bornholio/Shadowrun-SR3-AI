@@ -1,7 +1,7 @@
 # Chat Control — Session Management
 *Load order: 1 of 3 — Paste this file first*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 07 prep*
+*Updated after Session 07*
 
 ---
 
@@ -12,6 +12,9 @@ These files are not loaded at session start. Prompt the GM to load them when the
 **Character sheets** — load when working on a specific character
 - `CHARACTERS/singer.md` · `banshee.md` · `carpenter.md` · `keystone.md` · `meridian.md` · `crowbar.md` · `kluger.md`
 
+**Character sheet viewer** — `CHARACTERS/Character_Sheet.html`
+Load when visual character reference is needed. Pulls portraits and .md sheets directly from GitHub repo. Requires repo to be current — push updated .md files before use. Open via browser, not Claude file tools.
+
 **Character data** — load when detail is needed beyond project knowledge
 - `CHARACTER DATA/shared_3pr_augmentations.md` — full cyberware/bioware block for Singer, Banshee, Carpenter
 - `CHARACTER DATA/tactics_3pr.md` — BT network topology, Singer TC sense inventory, per-character SUT TNs, initiative caps, radio budget
@@ -19,10 +22,10 @@ These files are not loaded at session start. Prompt the GM to load them when the
 - `CHARACTER DATA/data_programs.md` — vehicle/drone autosofts
 
 **Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_07_header.md` — current session header (consolidated, all prior threads folded in)
-- `SESSION LOGS/session_06_summary.md` — most recent completed session narrative
+- `SESSION LOGS/session_08_header.md` — current session header (consolidated, all prior threads folded in)
+- `SESSION LOGS/session_07_summary.md` — most recent completed session narrative
 
-*Sessions 01–06 headers and summaries archived — load only if specific historical continuity is needed.*
+*Sessions 01–07 headers and summaries archived — load only if specific historical continuity is needed.*
 
 **Maps** — load when action moves to that district
 - `MAPS/00_security_ratings_master.md` — security rating cross-reference
@@ -189,4 +192,4 @@ Then await supplemental file pastes or GM instruction before proceeding.
 
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 07 prep*
+*Updated after Session 07*
