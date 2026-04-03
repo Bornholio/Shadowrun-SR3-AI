@@ -20,6 +20,8 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `CHARACTER DATA/tactics_3pr.md` — BT network topology, Singer TC sense inventory, per-character SUT TNs, initiative caps, radio budget
 - `CHARACTER DATA/deck_programs.md` — Singer's deck programs
 - `CHARACTER DATA/data_programs.md` — vehicle/drone autosofts
+- `CHARACTER DATA/pre2025_histories_gm.md` — pre-2025 character histories ⚠️ GM only
+- `CHARACTER DATA/pre2025_timeline_players.md` — pre-2025 timeline (player-facing)
 
 **Session logs** — load when continuity reference is needed
 - `SESSION LOGS/session_08_header.md` — current session header (consolidated, all prior threads folded in)
@@ -46,12 +48,16 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `CRITTERS/dragons_sr3.md` — dragon encounters
 
 **Rules modules** — load on demand
-- `RULES/sr3-perception-surprise.md` — Perception tests, Stealth mechanic, Surprise resolution, Visibility tables (standard/extended/underwater), vision system rules
-- `RULES/sr3-tactics.md` — Tactical Computer, Small Unit Tactics, BattleTac system, indirect fire, ambush/surprise bonuses
-- `RULES/sr3-athletics.md` — Running/fatigue, Jumping, Climbing, Falling, Swimming, Holding breath, Lifting/Throwing
+- `RULES/_skills/sr3-perception-surprise.md` — Perception tests, Stealth mechanic, Surprise resolution, Visibility tables (standard/extended/underwater), vision system rules
+- `RULES/_skills/sr3-tactics.md` — Tactical Computer, Small Unit Tactics, BattleTac system, indirect fire, ambush/surprise bonuses
+- `RULES/_skills/sr3-athletics.md` — Running/fatigue, Jumping, Climbing, Falling, Swimming, Holding breath, Lifting/Throwing
 - `RULES/firearms.md` — weapon selection and calls
-- `RULES/sr3-example-hosts.md` — host examples for decking scenes
+- `RULES/_skills/sr3-example-hosts.md` — host examples for decking scenes
 - `RULES/house_rules.md` — bioware/geneware edge cases, Infinite Warehouse
+- `RULES/Genetech_rules.md` — Genetech rules reference
+- `RULES/sr3-bioware.md` — bioware rules and tables
+- `RULES/sr3-cyberware.md` — cyberware rules and tables
+- `RULES/sr3-nanotech.md` — nanotech rules reference
 - `RULES/phones.md` — commlink and telecom mechanics
 - `RULES/cell_limits_compact_1.md` — signal and cell limit reference
 - `RULES/shadowrun3_action_economy_reference.md` — action economy
@@ -77,6 +83,7 @@ Load skills proactively — do not answer mechanical questions from memory when 
 | Matrix/decking | `sr3-matrix-rules` + `sr3-matrix-ops` |
 | Comm/jamming/ECM | `sr3-comm-rules` |
 | Armor or damage resistance | `sr3-armor` + `sr3-armor-types` |
+| Fire damage or object resistance | `sr3-object-fire` |
 | Karma awards or spending | `sr3-karma` |
 | Special abilities (Singer/Banshee/Carpenter) | `sr3-special-abilities` |
 
