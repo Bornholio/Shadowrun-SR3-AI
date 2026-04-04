@@ -1,4 +1,4 @@
-# Adventure History — La Malice
+# Adventure History — Malice
 *Malice Family — SR3 Campaign*
 *File location: CHARACTER DATA/adventure_history.md*
 *⚠️ GM EYES ONLY — Characters have no memory of these events*
@@ -23,7 +23,7 @@ Adventures marked with memory trigger icons where applicable.
 
 | Date | Adventure | Cover | Notes |
 |------|-----------|-------|-------|
-| 12/17/49 | Recovery | — | First event. Context unknown — recovery from what? |
+| 12/17/49 | Recovery | — | First event. runners rescued from vat tanks Universal Omnitech, Portland. Pentarus sole survivor of bad run leaves with SB&C | 
 | 01/01/50 | Food Fight | — | First run |
 | 01/02/50 | Supernova | — | |
 | 01/16/50 | Site of Desecration | — | |
@@ -116,17 +116,17 @@ The family does not know they chose it.
 
 ---
 
-## Memory Restoration Reference
+## Memory Restoration Reference / Power restoration
 
 | Trigger | Event | What Returns |
 |---------|-------|-------------|
-| Blood/sacrifice magic encountered | Ivy and Chrome | Memory of the item, what it cost |
-| Insect spirits (spider type) / Horror astral | Total Eclipse | Combat memory first, context after |
-| Great Dragon contact / Geyswain or Arleesh named | Dragon Hunt + context | Weight of helping kill a Great Dragon. Arleesh significant before they know why. |
-| Volcano-affected site / Great Ghost Dance site | Harlequin's Back | Fragmentary, builds with exposure |
-| Physical visit to Mt. St. Helens (Althain) | All events | Complete restoration, all seven |
-| Insect spirits generally | Multiple prior encounters | Abiding hatred before conscious recall — they act before they know why |
-| Dragon contact generally | Multiple prior encounters | Professional recognition — "I have done this before" |
+| Blood/sacrifice magic encountered | Ivy and Chrome | Memory of the item, what it cost | may restore infinite wharehouse (loss of magic for (0.5PP spent)
+| Insect spirits (spider type) / Horror astral | Total Eclipse | Combat memory first, context after |Will restore Traceless Walk (loss of magic for (0.5PP spent)
+| Great Dragon contact / Geyswain or Arleesh named | Dragon Hunt + context | Weight of helping kill a Great Dragon. Arleesh significant before they know why. |Will restore infinite wharehouse (loss of magic for (0.5PP spent)
+| Volcano-affected site / Great Ghost Dance site | Harlequin's Back | Fragmentary, builds with exposure | Ascending restoration of lightbringer powers 2 per event
+| Physical visit to Mt. St. Helens (Althain) | All events | Complete restoration, all seven | all listed powers restored
+| Insect spirits generally | Multiple prior encounters | Abiding hatred before conscious recall — they act before they know why | Will restore Traceless Walk (loss of magic for (0.5PP spent)
+| Dragon contact generally | Multiple prior encounters | Professional recognition — "I have done this before" | may restore infinite wharehouse (loss of magic for (0.5PP spent)
 
 **Two Harlequin arcs:** The 2050 arc and 2057 Harlequin's Back are distinct events seven years apart. During memory restoration characters may conflate the two. GM manages which memories belong to which event.
 

@@ -51,6 +51,7 @@
 **Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
 **Concealment:** Rating 4 normal, 6–8 with clothing, Poncho loadout = 11
 **Notes:** Civil engineer's body — big hands, wide shoulders. Named Dag ~40 years ago without knowing it. Likely in Seattle that summer — Alaska cruise stopover confirmed. Raven on the wire outside McHugh's was watching him specifically.
+**Relation** Father of Singer-Klugel-Carpenter, Husband of Meridian
 
 ### Meridian — Meridian
 **Role:** Hermetic Mage / Face | **Prior Life:** Occupational therapist
@@ -67,6 +68,7 @@
 **English lingo:** None
 **Infrastructure needed:** Library (sorcery) + Lodge (conjuring)
 **Notes:** Diamond pupils announce rather than conceal. Occupational therapist's bearing. French at 1960s academic register. Witnessed Keystone's totem contact at McHugh's.
+**Relation** Mother of Singer-Crowbar, Wife of Keystone
 
 ### Singer — Singer
 **Role:** Prime Runner / Mage / Military EW specialist
@@ -79,6 +81,7 @@
 **Magic:** 12 | **Initiate:** Grade 8 — confirmed
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Notes:** Military engineer's economy of movement. Carries TC, BattleTac, full sensor suite, VCR 2. Said "cyber zombies" out loud because the right thing has no name yet. Has bronze bracers — put them on without deciding to.
+**Relation** Father of Carpenter, Son of Meridian and Keystone, Husband of Banshee
 
 ### Banshee — Banshee
 **Role:** Prime Runner / Face / Mage / Teacher
@@ -93,6 +96,7 @@
 **Magic:** 12 | **Initiate:** Grade 8 — confirmed
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Notes:** Teacher's presence. Smallest, frequently most significant. Sign Language 5 — state-level deaf/HoH advocate. Conjures Force 9 wind spirits before breakfast.
+**Relation** Mother of Carpenter, Wife of Singer
 
 ### Carpenter — Carpenter
 **Role:** Prime Runner / Mage / Decker
@@ -108,6 +112,7 @@
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 **Animal companion:** Flurry — Blackberry Cat (Felis nigra), Awakened '17, dual natured
 **Notes:** The UGE baby with a veteran's hardware. Youngest. Two routers — genuine parallel processing. Organic microscopic vision. Full-size event Session 04 — Flurry at large in Belltown safehouse.
+**Relation** Son of Singer and Banshee
 
 ### Crowbar — Crowbar
 **Role:** Ganger / Shaman | **Prior Life:** Petty criminal
@@ -120,6 +125,7 @@
 - Penalties: paid off
 **Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
 **Notes:** Barrens survival instincts. Reads gang tags natively. Glyph aimed at his recognition specifically. *"Why us then?"* — unanswered. Left Siobhan a 20¥ tip.
+**Relation** Father of -unknown-, Son of Meridian and Keystone
 
 ### Kluger — Kluger
 **Role:** Mage / Detective | **Prior Life:** Healthcare specialist / Nurse
@@ -132,6 +138,7 @@
 - Penalties: paid off
 **Magic:** 6 | **Initiate:** None | **Spell List:** Full SR3 core + Fashion F1
 **Notes:** Most visually approachable. Medical assessment reflex. German 5 (Street dialect, teenage years in Germany). English R/W = full INT. No ranged weapon.
+**Relation** Daughter of Keystone
 
 ---
 
