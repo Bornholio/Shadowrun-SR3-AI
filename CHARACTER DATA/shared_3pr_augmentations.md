@@ -167,7 +167,7 @@
 *Surgical outcomes (see table value for scan TN total) apply on top of grade bonuses. Do not modify these values without GM review.*
 
 **Security Cyberware Scanner (field):**
-- Hand-held Rating 1-6 / Doorway Rating 3-8
+- Hand-held Rating 1-6 / Doorway Rating 3-9
 - Basic cyberware TN 3 · Alphaware TN 6 · Betaware TN 8 · Deltaware TN 10
 - Catches: cyberware and nano-implants (Hive, Facilitator)
 - Does not catch: bioware, free-floating/transient nanoware

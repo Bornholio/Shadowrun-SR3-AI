@@ -56,7 +56,7 @@ Extra dice for skill use when activated. Uses standard dice pool rules (SR3 p. 4
 ## DETECTION
 
 ### Security Cyberware Scanner
-Hand-held Rating 6 / Doorway Rating 8 (Concealability 8). Roll device rating vs TN: basic cyberware TN 3, alphaware TN 6. Catches cyberware and nano-implants. Does not catch bioware or free-floating/transient nanoware.
+Hand-held Rating 3-6 / Doorway Rating 3-9 (Concealability 8). Roll device rating vs TN: basic cyberware TN 3, alphaware TN 6, betaware 8, deltaware 10. Catches cyberware and nano-implants. Does not catch bioware or free-floating/transient nanoware.
 
 ### Clinic/Hospital Implant Detection
 Separate tests for cyberware and bioware. Each test: 60 minutes base. Rating = clinic/hospital rating. Visual scan first (Perception vs Concealability).

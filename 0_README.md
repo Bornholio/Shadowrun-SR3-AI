@@ -114,6 +114,7 @@ E:.
 │   │   sr3-bioware.md              — Bioware rules and tables
 │   │   sr3-cyberware.md            — Cyberware rules and tables
 │   │   sr3-nanotech.md             — Nanotech rules reference
+│   │   sr3-shamanic-mask-vs-masking.md — Shamanic mask (physical totem tell) vs. masking metamagic (astral)
 │   │
 │   ├───-archive/                   — Superseded flat files, do not load
 │   │       cell_limits_1.md
@@ -234,6 +235,7 @@ Load these on demand after the root files:
 | `RULES/phones.md` | Commlinks, telecom, call mechanics |
 | `RULES/cell_limits_compact_1.md` | Cell/signal limit quick reference |
 | `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` | Sperethiel use in play |
+| `RULES/sr3-shamanic-mask-vs-masking.md` | Shamanic mask or masking metamagic questions |
 | `MAPS/00_security_ratings_master.md` | Full security rating cross-reference |
 | `MAPS/06_auburn.md` | Auburn — current family area of operations |
 | `MAPS/10_puyallup.md` | Puyallup — Dag corridor, barrens fringe |
@@ -287,6 +289,7 @@ Load these on demand after the root files:
 | How does transit work? | `MAPS/transit_index.md` → specific files |
 | How does action economy work? | `RULES/shadowrun3_action_economy_reference.md` |
 | What does that Sperethiel word mean? | `RULES/02_sperethiel_lexicon.md` |
+| How does shamanic mask / masking work? | `RULES/sr3-shamanic-mask-vs-masking.md` |
 
 ---
 
@@ -321,4 +324,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 06 — Session 07 prep loaded*
+*Repository current through Session 07 — Session 08 prep loaded*

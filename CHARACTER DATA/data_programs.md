@@ -13,28 +13,29 @@
 
 ---
 
-## Autosoft
+## Autosoft 
+Autonav Maps - This is map data that is accessable to Vehilces and Orientation systems 
 
-| Program/Data | Notes | SC | OC | R | AM | AR |
-|--------------|-------|----|----|---|----|----|
-| Autonav Maps - Atlas (Salish Sidhe) | Salish Sidhe Area | 270 | 68 | — | 0 | — |
-| Autonav Maps - Atlas (Tir Tairngire) | Tir Tairngire Area | 270 | 68 | — | 0 | — |
-| Autonav Maps - Atlas (California) | California Area | 270 | 68 | — | 0 | — |
-| Autonav Maps - Atlas Large Scale (North America) | North American Highways and Roads | 200 | 50 | — | 0 | — |
-| Autonav Maps - Atlas Large Scale (World) | World Map Borders and Travel | 200 | 50 | — | 0 | — |
-| Autonav Maps - City Map (Seattle) | Seattle Urban/Area | 50 | 13 | — | 0 | — |
-| Autonav Maps - City Map (Vancouver) | Vancouver Urban/Area | 50 | 13 | — | 0 | — |
-| Autonav Maps - City Map (Portland) | Portland Urban/Area | 50 | 13 | — | 0 | — |
-| Autonav Maps - City Map (Washington DC) | Washington DC Urban/Area | 50 | 13 | — | 0 | — |
-| Autonav Maps - City Map (New York) | New York Urban/Area | 50 | 13 | — | 0 | — |
-| Clearsight 6 | Optimized. Stored as 1-6 on chip | 1638 | 108 | 6 | 0 | 0 |
-| Datalink 6 | Optimized. Stored as 1-6 on chip | 1638 | 108 | 6 | 0 | 0 |
-| Electronic Warfare 6 | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 |
-| Performance Profile 6 (Americar) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 |
-| Performance Profile 6 (Nightsky) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 |
-| Performance Profile 6 (Nomad) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 |
-| Sharpshooter 6 | Optimized. Stored as 1-6 on chip | 2184 | 144 | 6 | 0 | 0 |
-| Transponder Library 6 | Optimized. Stored as 1-6 on chip | 819 | 54 | 6 | 0 | 0 |
+| Program/Data | Notes | SC | OC | R | AM | AR | INFORMATION |
+|--------------|-------|----|----|---|----|----|----|
+| Autonav Maps - Atlas (Salish Sidhe) | Salish Sidhe Area | 270 | 68 | — | 0 | — | — |
+| Autonav Maps - Atlas (Tir Tairngire) | Tir Tairngire Area | 270 | 68 | — | 0 | — | — |
+| Autonav Maps - Atlas (California) | California Area | 270 | 68 | — | 0 | — | — |
+| Autonav Maps - Atlas Large Scale (North America) | North American Highways and Roads | 200 | 50 | — | 0 | — | — |
+| Autonav Maps - Atlas Large Scale (World) | World Map Borders and Travel | 200 | 50 | — | 0 | — | — |
+| Autonav Maps - City Map (Seattle) | Seattle Urban/Area | 50 | 13 | — | 0 | — | — |
+| Autonav Maps - City Map (Vancouver) | Vancouver Urban/Area | 50 | 13 | — | 0 | — | — |
+| Autonav Maps - City Map (Portland) | Portland Urban/Area | 50 | 13 | — | 0 | — | — |
+| Autonav Maps - City Map (Washington DC) | Washington DC Urban/Area | 50 | 13 | — | 0 | — | — |
+| Autonav Maps - City Map (New York) | New York Urban/Area | 50 | 13 | — | 0 | — | — |
+| Clearsight 6 | Optimized. Stored as 1-6 on chip | 1638 | 108 | 6 | 0 | 0 | — |
+| Datalink 6 | Optimized. Stored as 1-6 on chip | 1638 | 108 | 6 | 0 | 0 | — |
+| Electronic Warfare 6 | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 | — |
+| Performance Profile 6 (Americar) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 | — |
+| Performance Profile 6 (Nightsky) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 | — |
+| Performance Profile 6 (Nomad) | Optimized. Stored as 1-6 on chip | 1092 | 72 | 6 | 0 | 0 | — |
+| Sharpshooter 6 | Optimized. Stored as 1-6 on chip | 2184 | 144 | 6 | 0 | 0 | — |
+| Transponder Library 6 | Optimized. Stored as 1-6 on chip | 819 | 54 | 6 | 0 | 0 | data used for spoofing tracking |
 
 ---
 

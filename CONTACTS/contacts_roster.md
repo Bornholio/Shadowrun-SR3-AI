@@ -1,7 +1,7 @@
 # Contacts Roster — La Malice
 *Malice Family — SR3 Campaign*
 *File location: CONTACTS/contacts_roster.md*
-*Updated after Session 06*
+*Updated after Session 08*
 
 > **Operational state** (next actions, warmth, status) is maintained in the current session header contact table.
 > This file carries static profile data — specialty, relationship type, payment baseline, notes.
@@ -53,9 +53,11 @@ Relationship: Professional · Warmth baseline: Patient, professional, won't spoo
 *S01: Called successfully. Read as professional social/info fixer.*
 
 **Harmon** *(first name only)* → codename: VESTIBULE
-Corp insider · unknown corp · Rating 1 · Etiquette Corporate
-Specialty: Unknown — insufficient intel
-*Memory gap: First name and commcode only. Unknown megacorp. Calling blind is significant risk.*
+Corp insider · Global Technologies adjacent · Rating 1 · Etiquette Corporate
+Specialty: HMS signatory intel, corporate registry access, political leverage
+Relationship: Professional · Warmth baseline: Frustrated, ready to talk — eleven days of stonewalling by GT/Reyes
+*S08: Commcode confirmed active. Received Meridian's message 0908. Has been requesting direct contact with Okonkwo three times this week — GT blocking every meeting. Sitting on HMS second signatory name. Described as having something "material." Furious and operational. Meridian call pending ~1600 S09.*
+*Note: Watcher spirit F3 anchored to his building — passive, third-party placer unknown. Not Reyes, not Okonkwo.*
 
 **Sle-cheep Watkins** *(Muscles)* → codename: SKOOKUM
 Park Head · Pinnacle Peak Park · Rating 1 · Etiquette Street · Muckleshoot NAN
@@ -103,6 +105,7 @@ Professional · unknown affiliation · Rating 1 · burner commcode only
 Specialty: Unknown — profile incomplete
 Relationship: Mutual professional debt · Warmth baseline: Controlled, reciprocal
 *S03: RAVN operator targeted him also. One encrypted comm call 0731, 12 min, content not captured. Weapon within reach asleep. WR 1-2, Essence ~3.0-3.5. Said "retired" with complicated weight.*
+*S08: Received Singer's coded warning re: RAVN still active / Cascade van burned. Replied: thumbs up. Professional acknowledgment, no further contact initiated.*
 *Name, affiliation, full profile: unknown — load on demand.*
 
 ---
@@ -119,21 +122,32 @@ Fixer · Johnson placement · Rating 1 · Etiquette Street · commcode only
 Specialty: Run placement, Johnson referrals, team brokering
 *Memory gap: Will notice immediately if Banshee doesn't remember basics.*
 
-**Corp Secretary** *(name unknown)* → codename: TBD
+**Corp Secretary "Dispatch Dee"** → codename: TBD
 Corp insider · DocWagon · Rating 1 · Etiquette Corporate · Downtown Seattle
 Gender: Female
+Commcode: 9206-ΔMED-4471 (Bellevue LTG anchor, routes through DW corporate trunk)
+Icon: Stylized paramedic cross, teal and white
 Specialty: Medical transport records, patient intake logs, crew assignments, incident reports — dispatcher-adjacent
 Relationship: Mixed (professional + personal) · Payment: Cash · Warmth baseline: Warm, genuine — will warn Banshee before burning her
-*S04: Reconnected. Vacation cover landed smoothly. Medical freelance cover established. Psychology (8): compartmentalizes well. Sociology (7): mid-tier admin, sees transport logs and crew assignments.*
-*Note: Her dispatch logs show no entry for the gray-market DW unit on 3rd — that absence is information. Kluger's contact Chart may know her.*
+*S04: Reconnected. Vacation cover landed smoothly. Medical freelance cover established.*
+*S08: Contact card updated. Voicemail reply warm, slightly rushed. Mentioned "a little weird around here lately" — did not elaborate. Follow up in warmer setting. Could be 0340 adjacent or Oswin kit serial investigation.*
+*Note: Dispatch logs show no entry for gray-market DW unit on 3rd — absence is information.*
 
 **Street Doc** *(name unknown)* → codename: TBD
 Street doc · magical triage backup · Rating 1 · Etiquette Street · Barrens/Downtown mobile
 Gender: Female
 Specialty: Emergency triage, trauma stabilization, Barrens-mobile, DocWagon-adjacent paperwork
 Relationship: Professional (deep gratitude layer) · Payment: Mixed · Warmth baseline: Hot — gratitude is specific and medical
-*S04: Reconnected. 6 successes. Psychology (8): compassionate core, structurally tired, interested in downtown shift, will not burn Banshee. Sociology (8): Barrens-mobile, crosses security lines regularly, DocWagon-adjacent paperwork.*
+*S04: Reconnected. 6 successes. Compassionate core, structurally tired, will not burn Banshee.*
 *Offers standing: clinic rotation twice monthly; pro bono case screening; talismonger referral (Vessel, Pike Street).*
+
+**Tourniquet** *(street name)* → codename: TBD
+Medical logistics fixer · Rating 1 · Etiquette Street · Kessler's diner, Belltown/Denny Triangle
+Gender: Male · Human · Late 40s
+Specialty: Gray medical placement, HRT capacity, medical surplus, emergency services equipment — logistics and supply. Does not post a commcode — walk-in only at Kessler's, corner booth.
+Relationship: New professional · Payment: TBD · Warmth baseline: Efficient, transactional, not cold — respects directness
+*S08: Cold approach by Banshee. Clinic placement confirmed — Barrens-edge Renton, operator contact card held by Banshee. Three HRT clients — first: clinic operator 800¥/incident; second: private Belltown, high discretion; third: arrived 4 days ago, GM controlled. School thread: elven deaf children, Barrens, deferred. Counted seven without being told. Credstick ring on right index finger — enchanted, warding type, made by an awakened associate.*
+*Stat block: `B5 Q4 S4 I6 W5 C5 M0 E5.0 R5 PR4` — see session 09 header*
 
 ---
 
@@ -154,15 +168,15 @@ Fixer · salvage & access · Rating 1 · Etiquette Street · Renton/Auburn
 Gender: Female
 Specialty: Construction site access, structural salvage, cargo movement — cash only
 Relationship: Professional only · Payment: Cash only · Warmth baseline: Cautious, restructured around cash-only after being burned
-*S04: Reconnected. 2 successes. Polite, not engaged. Salvage/access specialty, Renton/Auburn footprint. Screens commcodes before answering.*
+*S04: Reconnected. 2 successes. Polite, not engaged. Salvage/access specialty, Renton/Auburn footprint.*
 
 **Mechanic** *(street name unknown)* → codename: TBD
 Mechanic · custom fabrication · Rating 1 · Etiquette Street · Kirkland
 Gender: Male
 Specialty: Vehicle electronics, custom fabrication, shielded housing — legitimate shop
 Relationship: Personal · Payment: Both · Warmth baseline: Warm, loyal, currently nervous
-*S04: Met in person at Abelardo's. Shop confirmed clean — no surveillance, no magical watchers.*
-*⚠️ Two private operatives asked about Carpenter ~2 weeks ago. Not Lone Star. Showed a recent photo. Mechanic didn't give him up. Passed their commcode to Carpenter. Cover approach active: Mechanic will call them re: radio install, warns Carpenter first.*
+*S04: Met in person at Abelardo's. Shop confirmed clean.*
+*⚠️ Two private operatives asked about Carpenter ~2 weeks ago. Not Lone Star. Showed a recent photo. Mechanic didn't give him up. Cover approach active: Mechanic will call them re: radio install, warns Carpenter first. Call is OVERDUE as of S09.*
 *Personal: Kirkland 8 years, inherited shop, divorced amicable, kid in Bellevue weekends, follows the Mariners.*
 
 ---
@@ -212,8 +226,9 @@ Former DocWagon SRT paramedic · SINless · Belltown waterfront sector
 Gender: Male · Age: Mid-50s · Metatype: Human
 Specialty: Emergency triage, trauma stabilization, 3 years continuous Belltown sector observation
 Relationship: Professional (debt incurred S06) · Warmth baseline: Measured, recalibrates without drama
-*S06: Treated Rat alongside Banshee. Former SRT, WR1. Lost SIN in creditor action 3 years ago — disputed negligence claim, patient lived. Knows the gray-market DW unit on 3rd. Three years of sector observation — knows most of what moves through Belltown. F&V Baptist commcode held.*
+*S06: Treated Rat alongside Banshee. Former SRT, WR1. Lost SIN in creditor action 3 years ago. Knows the gray-market DW unit on 3rd. Three years of sector observation.*
 *⚠️ Trauma kit serial flagged in pending DW internal investigation. Oswin unaware. GM controlled.*
+*Note: Clinic operator (Tourniquet placement) has informal relationship with DW street medics — possibly Oswin-adjacent.*
 
 **Marta** *(surname unknown)* → codename: TBD
 SINless-adjacent · Belltown sector regular
@@ -235,7 +250,26 @@ Specialty: Waterfront stairs, local street knowledge, go gang fringe
 SINless · Belltown sector · package on him, location unknown as of S06.
 
 **Unknown Commcode** → active thread — see current session header
-Left by two private operatives asking about Carpenter. In Singer's possession.
+Left by two private operatives asking about Carpenter. In Singer's possession. Mechanic cover approach overdue.
+
+**Pier Man** → active thread — see current session header
+Icon and contact card held by Carpenter. Callum Shire is his working elf identity. Waiting for the family to decide what kind of relationship this is. Can read proto-Sperethiel.
+
+---
+
+## NPC Reference — CSS-7 / Paladin (GM Eyes Only)
+
+*Not contacts — active threat-adjacent. Full stat blocks in session 09 header.*
+
+**Detective Amara Okonkwo** — LS Special Investigations, PR 5
+Looking for the seven from McHugh's. Not a threat. Wants to find them before Reyes does.
+Singer has passive receive on her radio channel. Auto-squelch on Reyes installed — future injections reach her only.
+
+**Detective Dekker Raus** — LS Special Investigations, PR 3
+Okonkwo's partner. Defers completely.
+
+**Reyes / "The Compact"** — GT Security Division, PR 4
+CSS-7 co-sign. Protecting HMS second signatory. Has known about family since day one. Node burned, rotating. Scent profile locked by Carpenter.
 
 ---
 
@@ -252,6 +286,6 @@ Functions as:
 
 ---
 
-*Contacts Roster v1.6 — Malice Family Campaign*
-*Updated after Session 06*
-*Operational state (next actions, warmth) in current session header contact table*
+*Contacts Roster v1.7 — Malice Family Campaign*
+*Updated after Session 08*
+*Operational state (next actions, warmth) in current session header*
