@@ -86,14 +86,15 @@
 ## Rolling Conventions
 
 - **Combat Turn = 3 seconds**
-- Always specify: **open test** or **threshold test**
+- Always specify: **open test**, **Success Contest**, **Opposed** or **Success**
 - Always name the SR3 mechanic being used
 - Always show: Skill + dice pool + TN + relevant modifiers
 - Open tests: report the highest single die result
 - Threshold tests: report number of dice meeting or beating TN
 - Initiative passes: count down in decades, highest first, subtract 10 per pass, 0 or below = out
 - Good Reputation 2: −2TN social tests, fully cancels +2 wariness/suspicion modifiers
-- **Pool cap rule:** Pool dice cannot exceed base skill or attribute rating being used
+- **Pool cap rule (offensive):** Combat Pool dice on any offensive test cannot exceed base skill rating. Defaulting = no Combat Pool on offense.
+- **Pool cap rule (defensive):** No cap on Dodge or Damage Resistance — Body is an attribute, not a skill; offensive cap does not apply to DR rolls.
 - **Social tests:** skill dice only — no spell pool, task pool, or combat pool
 
 ---
@@ -111,18 +112,31 @@
 
 ---
 
-## Decking & Rigging — Initiative Modes
+## Initiative Modes
 
-SA2 = Synaptic Accelerator 2. RE6 = Reaction Enhancers 6. LR3 = Lightning Reflexes 3.
-SA and RE never apply to decking or rigging. Enhanced Articulation never applies to decking or rigging.
+**What applies per mode:**
+- **SA (Synaptic Accelerator):** Physical and driving only — never decking or rigging
+- **RE (Reaction Enhancers):** Physical and driving only — never decking or rigging
+- **EA (Enhanced Articulation):** Physical and driving only — never decking or rigging
+- **VCR:** Rigging only — provides its own REA and initiative bonus; not a reaction enhancer
 
-| Mode | REA Formula | Initiative Dice |
-|------|-------------|-----------------|
-| Physical | (QUI+INT)/2 + RE6 + LR3 + EA | 1d6 + SA2 |
-| Rigging (fully mental) | INT + LR3 + VCR2 (+4) | VCR2 +2d6 |
-| Decking (REA based) | (QUI+INT)/2 + LR3 + RI2 (+4) | RI2 +2d6 |
-| Decking (fully mental) | INT + LR3 + RI2 (+4) + extra RI (+2) | RI2 +2d6 + extra +1d6 |
-| Cold Assist | (QUI+INT)/2 + LR3 + EA | 1d6 + SA2, no Hacking Pool |
+| Mode | REA Formula | Initiative Dice | Notes |
+|------|-------------|-----------------|-------|
+| Physical | (QUI+INT)/2 + RE + LR + EA | 1d6 + 1d6 per SA rating | — |
+| Rigging (VCR) | INT + LR + (VCR rating × 2) | 1d6 + 1d6 per VCR rating | −2 Handling per VCR rating |
+| Driving (Physical Controls) | (QUI+INT)/2 + RE + LR + EA | 1d6 + 1d6 per SA rating | — |
+| Driving (Virtual Dashboard) | (QUI+INT)/2 + RE + LR + 1 | 1d6 + 1d6 per SA rating | −1 Handling, +1TN physical actions |
+| Decking (REA-based) | (QUI+INT)/2 + LR + (RI rating × 2) | 1d6 + 1d6 per RI rating | — |
+| Decking (fully mental / DNI) | INT + LR + (effective RI × 2) | 1d6 + 1d6 per effective RI level | Requires pure DNI config; effective RI = deck RI + DNI bonus + Reality Filter bonus |
+| Decking (Cold Assist) | (QUI+INT)/2 + LR | 1d6 | No Hacking Pool |
+| Decking (Tortoise) | (QUI+INT)/2 + RE + LR + EA | 1d6 + 1d6 per SA rating | Physical init applies; no Hacking Pool; deck runs slow background ops |
+
+**RI clarification:** REA-based uses (QUI+INT)/2 base; fully mental uses INT base. Each source of RI adds +2 REA and +1d6 initiative and stacks independently:
+- Deck hardware RI rating (e.g. RI2 = 2 levels)
+- Pure DNI configuration = +1 effective RI level
+- Reality Filters = +1 effective RI level
+
+*3PR calculated initiative values: `CHARACTER DATA/tactics_3pr.md`*
 
 ---
 
@@ -267,9 +281,9 @@ Mode B most effective — pool allocation flexibility, significant drain reducti
 
 - Conceal true initiate grade and magical aura from astral perception
 - Shamans can mask; standard Hermetics cannot
-- Opposed test: caster's Sorcery + grade vs observer's INT
-- Can mask grade down to appear as any lower grade or as mundane
-- Does not work against astrally projecting initiates of equal or higher grade
+- Full detection procedure: `RULES/sr3-shamanic-mask-vs-masking.md`
+- Always on by default — deliberate masking is an optional exclusive Simple Action for enhanced concealment
+- Does not affect physical observers; does not work against equal-or-higher-grade astrally projecting initiates
 
 ### Shielding
 

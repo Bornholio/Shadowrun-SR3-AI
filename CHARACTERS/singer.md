@@ -245,6 +245,7 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 - Lightbringer — From seeking to destroy Horror in the Salish area
 - Greater Incarnation — From Blunting the Horror advance (Unresolved function)
 - Assumed Path — 6th World Elven Magic, added path selection on top of Shamanism
+- Infinite Warehouse — Metaplanar item storage
 
 **Adept Powers:** Multi-Tasking (0.5 — concentrate on separate actions, two free actions per init pass), Nimble Fingers (0.5 — Sleight of Hand +1 Dice, free actions for simple object use)
 

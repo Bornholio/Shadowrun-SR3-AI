@@ -72,6 +72,14 @@ E:.
 │       dragons_sr3.md              — Dragon rules, great dragons, statted individuals
 │       spirits_sr3.md              — SR3 + MitS spirits, elementals, Wild Hunt (MitS sections partial)
 │
+├───INTEL/                          ⚠️ GM EYES ONLY — threat tracking and mystery architecture
+│       GT_threat_load_header.md    — GT threat team load guide, tier status, escalation quick-ref
+│       memory_restoration_triggers.md — Trigger table, session activation log, standing notes
+│       GT_notes.md                 — ★ PENDING — GT corporate profile, HMS, key NPCs
+│       okonkwo_notes.md            — ★ PENDING — Okonkwo identity, case thread, assets
+│       GT_threat_load_triggers.md  — ★ PENDING — Escalation summary, tier trigger conditions
+│       GT_threat_teams.md          — ★ PENDING — Grey Shutter / Cold Notch / Iron Sill stat blocks
+│
 ├───HTML/
 │       sr3_comm_tracker.html       — Live browser tool: flux calc, range, roll interface
 │       sr3_gm_bookmarks_v2.html
@@ -268,6 +276,9 @@ Load these on demand after the root files:
 | `SESSION LOGS/session_07_summary.md` | Session 07 continuity reference |
 | `SESSION LOGS/session_08_header.md` | Session 08 prep — current |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
+| `INTEL/GT_threat_load_header.md` | ⚠️ GT threat teams — load first, then tier files as triggered |
+| `INTEL/memory_restoration_triggers.md` | ⚠️ Memory/power restoration trigger table and session log |
+| `INTEL/GT_threat_teams.md` | ⚠️ Grey Shutter / Cold Notch / Iron Sill — load when tier triggered (PENDING) |
 
 ---
 
@@ -281,6 +292,8 @@ Load these on demand after the root files:
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
 | What happened in Session 07? | `SESSION LOGS/session_07_summary.md` |
 | Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ |
+| What is the GT threat tier status? | `INTEL/GT_threat_load_header.md` ⚠️ |
+| What triggers memory/power restoration? | `INTEL/memory_restoration_triggers.md` ⚠️ |
 | What contacts does the team have? | `CONTACTS/contacts_roster.md` |
 | How does jamming work? | skill: `sr3-comm-rules` |
 | What are Lightbearer abilities? | skill: `sr3-special-abilities` |

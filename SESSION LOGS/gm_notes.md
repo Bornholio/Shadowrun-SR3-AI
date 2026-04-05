@@ -201,6 +201,14 @@ Contact at a shelter on 3rd doing SINless intake paperwork — holds paperwork f
 
 ---
 
+## Elven Aging
+
+-“I would think that most elves who Awakened in 2011 or later could expect to see their 400th birthdays, barring disease or disaster. As you know, elves mature physically and mentally at the same rate as humans. When they reach an age of about 25, however, their metabolic balance ‘freezes,’ and they cease showing physical and mental signs of aging. Senility is expected to set in during the last 100 years of life. Or so we’re taught in Tir schools, at least.”
+-   — Spes (20:42:13/4-10-54)
+
+---
+
+
 *GM Notes v1.4 — Malice Family Campaign*
-*Updated after Session 06*
+*Updated after Session 08*
 *⚠️ GM EYES ONLY*

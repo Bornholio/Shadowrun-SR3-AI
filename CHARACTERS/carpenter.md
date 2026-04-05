@@ -162,6 +162,12 @@
 
 **Flaws / Surge:** Altered Eye Color, High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Toughness, High Pain Tolerance 3, Lightning Reflexes 3
 
+**4th World Abilities:**
+- Lightbringer — From seeking to destroy Horror in the Salish area
+- Greater Incarnation — From Blunting the Horror advance (Unresolved function)
+- Assumed Path — 6th World Elven Magic, added path selection on top of Shamanism
+- Infinite Warehouse — Metaplanar item storage
+
 ---
 
 ## Cyberware / Bioware

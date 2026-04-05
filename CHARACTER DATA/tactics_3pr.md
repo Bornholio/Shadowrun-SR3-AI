@@ -101,8 +101,6 @@ Maximum Initiative bonus per target = target's Reaction.
 | Crowbar | 12 | +12 |
 | Kluger | 12 | +12 |
 
-*Caps rarely triggered — Singer's effective SUT 9 produces maximum +4 Initiative from 8 successes. Cap matters only if multiple SUT users stack.*
-
 ---
 
 ## Radio Channel Budget — Singer

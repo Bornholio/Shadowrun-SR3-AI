@@ -155,24 +155,25 @@ Three forms; full paradigm not in source:
 | *gorofaskit* | *goro* + *faskit* | Law governing outsiders |
 | *sameraerthtish* | *sa* + *meraerth* + *-tish* | Paladin; strict warrior |
 
-Here's the addition. Append this as a new section at the end of doc 01:
-
 ---
 
 ## Language Origins — Research Notes
 
 **Sperethiel source family:** Old Irish / Celtic — not Proto-Celtic, not PIE.
 Structural evidence: Old Irish sandhi elision, conjugation suffix pattern, nominalizer prefix, dental fricative *th*, distinct *sh* phoneme. Hard g/c rule is a constructed simplification not present in Old Irish.
-**Reference tool:** eDIL (dil.ie) — covers Old Irish c.700–900 CE, which is the closest attested layer to Sperethiel roots.
+**Reference tool:** eDIL (dil.ie) — covers Old Irish c.700–900 CE, closest attested layer to Sperethiel roots.
 **Checking method:** Match attested Sperethiel roots against eDIL phonetically, verify semantic alignment. Divergence suggests Proto-Celtic depth or authorial invention.
+**Confirmed dialect layers:** Gaelic-Sperethiel and Eireann-Sperethiel are formally named variants used in Tir na nÓg only — not core Sperethiel.
+**Precursor Sperethiel:** Named in source material as an older, more complex ancestor. Surviving fragments show Romance-language influence. Do not use for construction.
+**Discard pile:** *de Tuatha*, Celtic Double Cross adventure vocabulary — Irish flavor, not canonical Sperethiel. Tir na nÓg vocabulary requires verification before treating as core Sperethiel.
 
 **ED language family map:**
 
 | Language | Source Family | Notes |
 |---|---|---|
-| Sperethiel | Old Irish / Celtic | Western branch; authors likely used popular reference |
-| Throalic | Semitic pattern | *-im* plural, apostrophe cluster breaks, Hebrew/Arabic feel |
-| Scythan | PIE steppe layer | Guttural, archaic; underlayer of Throalic |
-
-**Discard pile:** *de Tuatha*, Celtic Double Cross adventure vocabulary — Irish flavor, not canonical Sperethiel. Tir na nÓg vocabulary should be verified separately before treating as Sperethiel.
-
+| Sperethiel | Old Irish / Celtic | Authors likely used popular reference, not specialist sources |
+| Gaelic-Sperethiel | Irish dialect layer | Tir na nÓg only |
+| Eireann-Sperethiel | Formal courtly variant | Tir na nÓg ceremonial only |
+| Precursor Sperethiel | Unknown — Romance-adjacent | Pre-Scourge; untranslatable to modern Sperethiel |
+| Throalic | Semitic pattern | *-im* plural, apostrophe cluster breaks |
+| Scythan | PIE steppe layer | Guttural underlayer of Throalic |
