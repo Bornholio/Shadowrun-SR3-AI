@@ -39,6 +39,23 @@ E:.
 │   2_sr3_game_rules.md             — Always load — SR3 mechanics reference
 │   3_session_header.md             — Always load — campaign identity, current situation, open threads
 │
+├───ADVENTURE PLANS/                 — Published SR3 module adaptations and original run material
+│       Alachia.md                  — Alachia background notes
+│       belltown_geography.md       — Belltown district layout and geography notes
+│       belltown_venues.md          — Belltown venue reference
+│   │
+│   ├───BLOOD IN THE BOARDROOM/
+│   │       bitb_00_setup_and_hooks.md
+│   │       bitb_01_track_civil_war.md
+│   │       bitb_02_track_neck_and_neck.md
+│   │       bitb_03_track_cross_purposes.md
+│   │       bitb_04_track_out_of_the_east.md
+│   │
+│   └───COORPORATE PUNISHMENT/
+│           double_take.md
+│           legacy.md
+│           second_effort.md
+│
 ├───CHARACTER DATA/
 │       adventure_history.md        — Career history, prior runs (canonical) ⚠️ GM only
 │       data_programs.md            — Data/autosoft program library (SC/OC/R tables)
@@ -75,12 +92,10 @@ E:.
 ├───INTEL/                          ⚠️ GM EYES ONLY — threat tracking and mystery architecture
 │       GT_threat_load_header.md    — GT threat team load guide, tier status, escalation quick-ref
 │       memory_restoration_triggers.md — Trigger table, session activation log, standing notes
-│       GT_notes.md                 — ★ PENDING — GT corporate profile, HMS, key NPCs
-│       okonkwo_notes.md            — ★ PENDING — Okonkwo identity, case thread, assets
-│       GT_threat_load_triggers.md  — ★ PENDING — Escalation summary, tier trigger conditions
-│       GT_threat_teams.md          — ★ PENDING — Grey Shutter / Cold Notch / Iron Sill stat blocks
+│       RAVN2.md                    — RAVN device intelligence summary v2.0
 │
 ├───HTML/
+│       Character_Sheet.html        — Character sheet viewer (portraits + stats from GitHub repo)
 │       sr3_comm_tracker.html       — Live browser tool: flux calc, range, roll interface
 │       sr3_gm_bookmarks_v2.html
 │
@@ -97,16 +112,20 @@ E:.
 │       09_redmond.md                  — Redmond Barrens (C/E/Z)
 │       10_puyallup.md                 — Puyallup (C/E/Z) ★ Dag corridor
 │       11_council_island.md           — Council Island (sovereign territory)
-│       transit_index.md              — ★ NEW — Transit system index and load guide
-│       transit_network_reference.md  — ★ NEW — Full network reference (routes, fares, schedules)
-│       transit_south_corridor.md     — ★ NEW — South corridor detail (Auburn/Puyallup/Tacoma)
-│       transit_worldbuilding.md      — ★ NEW — SR3 transit lore, flavor, world detail
+│       transit_index.md              — Transit system index and load guide
+│       transit_network_reference.md  — Full network reference (routes, fares, schedules)
+│       transit_south_corridor.md     — South corridor detail (Auburn/Puyallup/Tacoma)
+│       transit_worldbuilding.md      — SR3 transit lore, flavor, world detail
 │
 ├───NPC/
 │       Lone_Star_Beat_Cops.md      — Foot/Auto/Cycle Patrol, Chomer Cop, Riot Control
 │       Lone_Star_Specialist_Cops.md — DoI/DPI Detectives, Mages, Pilots, Watcher, Corpsec ref
 │       Lone_Star_SWAT_SF_Cops.md   — DED, FRT, SWAT Rifleman/Sniper/Spotter/Decker/Mage
-│       sr3_contacts_compressed_v1.md — ★ NEW — Contacts and opponents compressed reference
+│       GT_threat_load_triggers.md  — Escalation summary, tier trigger conditions ⚠️ GM only
+│       GT_threat_tier1_grey_shutter.md — Grey Shutter stat block ⚠️ GM only
+│       GT_threat_tier2_cold_notch.md — Cold Notch stat block ⚠️ GM only
+│       GT_threat_tier3_iron_sill.md — Iron Sill stat block ⚠️ GM only
+│       sr3_contacts_compressed_v1.md — Contacts and opponents compressed reference
 │
 ├───RULES/
 │   │   01_sperethiel_grammar.md    — Sperethiel grammatical rules and structure
@@ -150,6 +169,7 @@ E:.
 │       │   sr3-athletics.md        — Running/fatigue, jumping, climbing, falling, swimming
 │       │   sr3-damage-conditions.md — Damage, condition monitors, wound modifiers, knockdown
 │       │   sr3-example-hosts.md    — Detailed host examples for decking scenes
+│       │   sr3-healing-stun.md     — Stun recovery test, time, unconsciousness, rest rules
 │       │   sr3-karma.md            — Karma award, GK tracking, KP conversion, Reputation
 │       │   sr3-melee-combat.md     — Melee combat rules, reach, full defense
 │       │   sr3-object-fire.md      — Object resistance and fire rules
@@ -194,11 +214,19 @@ E:.
 │       session_03_oos_summary.md
 │       session_03_summary.md
 │       session_04_summary.md
+│       session_05_header.md
 │       session_05_summary.md
+│       session_06_header.md
 │       session_06_summary.md
 │       session_07_header.md
 │       session_07_summary.md
-│       session_08_header.md        — ★ current session prep
+│       session_08_header.md
+│       session_08_summary.md
+│       session_09_header.md
+│       session_09_summary.md
+│       session_10_header.md
+│       session_10_summary.md
+│       session_11_header.md        — ★ current session prep
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -259,6 +287,7 @@ Load these on demand after the root files:
 | skill: `sr3-concepts-tests-pools` | Test types, pool allocation, defaulting, Rule of Six |
 | skill: `sr3-conjuring` | Summoning, controlling, banishing spirits |
 | skill: `sr3-damage-conditions` | Damage, wound modifiers, knockdown, overflow |
+| skill: `sr3-healing-stun` | Stun recovery tests, recovery time, unconsciousness, rest interruption |
 | skill: `sr3-karma` | Karma awards, GK tracking, KP conversion, Reputation |
 | skill: `sr3-matrix-rules` | Decking — cyberdecks, system tests, security tally, IC |
 | skill: `sr3-matrix-ops` | Decking — all operation descriptions and quick-ref table |
@@ -273,12 +302,16 @@ Load these on demand after the root files:
 | skill: `sr3-spellcasting` | Spellcasting procedure, drain resolution |
 | skill: `sr3-tactics` | Tactical Computer, SUT, BattleTac, indirect fire |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_07_summary.md` | Session 07 continuity reference |
-| `SESSION LOGS/session_08_header.md` | Session 08 prep — current |
+| `SESSION LOGS/session_10_summary.md` | Most recent completed session narrative |
+| `SESSION LOGS/session_11_header.md` | Current session header |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 | `INTEL/GT_threat_load_header.md` | ⚠️ GT threat teams — load first, then tier files as triggered |
 | `INTEL/memory_restoration_triggers.md` | ⚠️ Memory/power restoration trigger table and session log |
-| `INTEL/GT_threat_teams.md` | ⚠️ Grey Shutter / Cold Notch / Iron Sill — load when tier triggered (PENDING) |
+| `INTEL/RAVN2.md` | ⚠️ RAVN device intelligence summary |
+| `NPC/GT_threat_load_triggers.md` | ⚠️ GT escalation triggers — load when threat tier escalates |
+| `NPC/GT_threat_tier1_grey_shutter.md` | ⚠️ Grey Shutter stat block — load when tier 1 triggered |
+| `NPC/GT_threat_tier2_cold_notch.md` | ⚠️ Cold Notch stat block — load when tier 2 triggered |
+| `NPC/GT_threat_tier3_iron_sill.md` | ⚠️ Iron Sill stat block — load when tier 3 triggered |
 
 ---
 
@@ -290,7 +323,7 @@ Load these on demand after the root files:
 | What are Singer's stats? | `CHARACTERS/singer.md` |
 | What cyberware do 3PR share? | `CHARACTER DATA/shared_3pr_augmentations.md` |
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
-| What happened in Session 07? | `SESSION LOGS/session_07_summary.md` |
+| What happened in Session 10? | `SESSION LOGS/session_10_summary.md` |
 | Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ |
 | What is the GT threat tier status? | `INTEL/GT_threat_load_header.md` ⚠️ |
 | What triggers memory/power restoration? | `INTEL/memory_restoration_triggers.md` ⚠️ |
@@ -319,7 +352,7 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 07 complete — Session 08 pending
+**Status:** Session 10 complete — Session 11 pending
 **Heat:** BOLO stale, misdirection posted · LS tracker on Cascade van noted
 **Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 988¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
@@ -337,4 +370,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 07 — Session 08 prep loaded*
+*Repository current through Session 10 — Session 11 in progress*

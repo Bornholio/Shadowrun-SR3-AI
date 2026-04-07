@@ -11,7 +11,7 @@
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 09 complete — Session 10 pending
+**Status:** Session 10 complete — Session 11 pending
 
 ---
 
@@ -215,4 +215,4 @@ Large dual-natured creature. Puget Sound nativity. Seal-shaped in the way Dag is
 
 *Session Header — Malice Family Campaign*
 *File location: 3_session_header.md (root)*
-*Updated after Session 09*
+*Updated after Session 10*

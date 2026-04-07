@@ -1,3 +1,9 @@
+---
+name: sr3-cyberware
+description: "SR3 Shadowrun 3rd Edition cyberware rules for GM reference. Load when the session involves cyberware grades, Essence cost, installation, cyber-magic interaction, smartlinks, wired reflexes, or any question about cyberware implants. Sources: SR3 core + Man & Machine."
+user-invocable: false
+---
+
 # SR3 Cyberware
 *Sources: SR3 core p. 297–303; Man & Machine. SR3 canonical.*
 

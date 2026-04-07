@@ -2,6 +2,7 @@
 *Malice Family — SR3 Campaign*
 *File location: SESSION LOGS/gm_notes.md*
 *⚠️ GM EYES ONLY — Do not load into player-facing sessions*
+*Updated after Session 10*
 
 ---
 
@@ -74,13 +75,24 @@ Field asset with military tradecraft, burst transmission, told to stand down.
 Whoever runs them has corporate reach into LS dispatch and ability to suppress aerial assets.
 Does not want Lone Star to find la Malice first. Possibly wants the family found intact.
 
-**RAVN network — confirmed S03:**
+**RAVN network — confirmed S10:**
 - Burst frequencies: 423.775 MHz primary / 891.220 MHz secondary
-- Encryption: 128-bit hardware keyed
-- Device series: at least 003 confirmed, 001 and 002 location unknown
-- Same operator: tripwire on Auburn South tower + tight-beam Route 167 + RAVN devices
+- Encryption: 128-bit hardware keyed — routine recovered S10
+- Device series: RAVN-003 through RAVN-008 confirmed, 001 and 002 location unknown
+- RAVN-004: dataline tap, Nährboden roof — neutralized S10
+- RAVN-005: receiver/relay, Building 1 NE rooftop — intact
+- RAVN-006: collection node, Building 1 NE interior — intact
+- RAVN-007: audio, 2 blocks south — intact
+- RAVN-008: unknown type, shelter block — intact
 - Panel van: same operator, roaming Auburn
-- Auburn South tap — removed (window expired S03)
+- Raven-Loom cipher: textile steganography on schedule/crypto encoding — someone holds matching textile
+- Crypto access key: recovered S10 — authenticates uplink to collection node
+- Futureman Project host: HMS infrastructure, externally accessed, Psychotropic ICE R4 trap — actively hunting runners searching for family's matrix signature
+
+**RAVN victims — Belltown (S10):**
+- Ghostline: human male, matrix security analyst — gray market DW pickup, missing
+- Fen: elf female, gray market port — gray market DW pickup, missing
+- Unknown ork male ~22: hit Futureman host, caught ICE — recovering at shelter, ICE cleared by Banshee S10
 
 ### Room 6 Man
 Professional, mundane, human male, late 30s, Wired Reflexes 1-2, Essence ~3.0-3.5.
@@ -155,31 +167,43 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
-## Active GM Threads — Session 07
+## Active GM Threads — Session 11
 
 ### Gray Market DocWagon Unit
-Operates in Belltown/Barrens fringe gap. Uses stolen DW livery. Garage on 3rd Street, Belltown. Treated Daro at 2211 S05 — logged his biometrics and sold the data. Not in Corp Secretary's dispatch logs — her log absence is itself information if Banshee asks her about it. Oswin knows the operation. Connects to Kluger's contact Chart at Auburn DW at the edges — Chart may know the unit is operating in the gap.
+Operates in Belltown/Barrens fringe gap. Uses stolen DW livery. Garage on 3rd Street, Belltown. Treated Daro at 2211 S05 — logged his biometrics and sold the data. Took Ghostline and Fen after RAVN flagging — their status unknown. Not in Corp Secretary's dispatch logs. Oswin knows the operation. Cascade Medical Logistics commcode held by Banshee.
+
+### RAVN Collection Node — Building 1 NE
+Physical access now possible. Singer has crypto access key and encryption timing. Question: is RAVN-006 automated or staffed? What does the node contain beyond collection hardware? GM decides before Singer attempts access.
+
+### Futureman Project Host
+HMS infrastructure — normally internal access only. External backdoor exists. Psychotropic ICE R4 trap active. Beyond the ICE: GM controls what's in the host. Surgery records? HMS operational data? Something older? Singer has the address. Not yet accessed.
+
+### Mechanic Cover Approach
+Mechanic messaged Carpenter 0746 Tuesday: "gonna make that call at 9 sharp." Call went out 0900. Outcome: GM controlled. Operatives who asked about Carpenter — identity and affiliation GM controlled.
 
 ### Oswin's Kit Serial Number
-The DocWagon serial number etched into Oswin's trauma kit is flagged in a pending DW internal investigation. Oswin does not know the case is still open — he believed it was closed. If the kit is scanned by anyone with DW database access, it triggers a case file pull and flags Oswin's location. GM controls timing — sleeping thread that activates when the kit gets scanned.
+The DocWagon serial number etched into Oswin's trauma kit is flagged in a pending DW internal investigation. Oswin does not know the case is still open. If the kit is scanned by anyone with DW database access, it triggers a case file pull and flags Oswin's location. GM controls timing.
 
 ### Daro and the Package
-Daro moved from Noodle House alley between 0730–0800 S06. Package still on him. Contents: GM decides — DocWagon personnel file (connects to Chart/Corp Secretary if the name is someone they know) or illegal signal booster hardware (connects to Singer's EW background). Lace did not make contact — reported back to Patch. Patch's next move GM controlled. Daro's biometric data is in a broker queue — buyer unknown. Thread dormant until it resurfaces.
+Daro moved from Noodle House alley between 0730–0800 S06. Package still on him. Contents: GM decides. Biometric data in broker queue — buyer unknown. Thread dormant until it resurfaces.
 
-### Lace / Patch
-Lace departed sector south 0854 without Daro. Professional — she reported the miss to Patch and is waiting for instructions. Patch is an ork male independent dealer, ground-floor commercial space two blocks from Sandy Systems. He doesn't know the family exists. His next move toward Daro is GM controlled.
+### Raven-Loom Textile
+Textile steganography — one-use key matrix. Someone holds the matching textile. Without it the crypto interception is useless. GM controls who holds it and where it is.
+
+### Repair Tech Identity
+Full biometric profile recovered S10. Legitimate Belltown repair tech or RAVN-adjacent? GM controlled.
+
+### Tourniquet's Third Client
+Arrived 4 days before S08. GM controlled — possibly Oswin-adjacent, possibly connected to gray market DW victims.
 
 ### F&V Baptist Cover
-Now held by four street contacts: Marta, Daro, Oswin, Rat. All have the same burner commcode. The cover is getting real use in the sector. If any of them calls the number at an awkward moment it becomes a session event. GM tracks who has the number.
-
-### Marta's Shelter Contact
-Contact at a shelter on 3rd doing SINless intake paperwork — holds paperwork for people who need to disappear from LS records before processing. Name unknown. Potential asset or liability depending on how the family's Belltown presence develops. Load on demand.
+Now held by six: Marta, Daro, Oswin, Rat, Harmon, 3rd Street shelter staff. Any call at wrong moment is a session event.
 
 ---
 
 ## Standing GM Continuity Rules
 
-- Sessions 01–06 events are canonical — do not retcon without GM instruction
+- Sessions 01–10 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
@@ -188,6 +212,15 @@ Contact at a shelter on 3rd doing SINless intake paperwork — holds paperwork f
 - The family does not know they chose the surgery
 - The family does not know what "old blood" means yet
 - Althain as memory restoration site — do not surface to players
+- Pale architect identity — GM controlled. Wolf recognizes him below the reset.
+- Thing in the water: what it cannot say — GM controlled. Most significant information.
+- Pier man identity — GM controlled. Callum Shire is working elf identity.
+- HMS account operator — GM controlled. Connected to surgery architect thread.
+- Oswin's kit serial — sleeping thread, activates on DW database scan
+- Reyes GT principal identity — GM controlled
+- High-grade awakened touched Reyes's chip — identity GM controlled, surgery architect thread
+- Tourniquet counted seven — GM controlled how
+- Flurry's eastward jog toward 3rd — confirmed RAVN signature draw. Filed.
 
 ---
 
@@ -195,20 +228,19 @@ Contact at a shelter on 3rd doing SINless intake paperwork — holds paperwork f
 
 **District:** Sumner/Auburn border, Puyallup edge
 **SR3 security:** Sumner C, transitioning to E toward Alderton, Hell's Kitchen Z to the south
-**Ash damage zone:** Present — Mt. Rainier/volcanic event, 2017. Structural degradation, some roads closed, abandoned properties mixed with occupied.
-**Forest:** Pacific Northwest tree line presses hard against undefended urban edge. Most roads fixed by geography — rivers, lakes, valleys.
-**Real-world maps:** Use as terrain reference only, not building/infrastructure reference. SR3 2058 overlay differs significantly.
+**Ash damage zone:** Present — Mt. Rainier/volcanic event, 2017.
+**Forest:** Pacific Northwest tree line presses hard against undefended urban edge.
+**Real-world maps:** Use as terrain reference only, not building/infrastructure reference.
 
 ---
 
 ## Elven Aging
 
--“I would think that most elves who Awakened in 2011 or later could expect to see their 400th birthdays, barring disease or disaster. As you know, elves mature physically and mentally at the same rate as humans. When they reach an age of about 25, however, their metabolic balance ‘freezes,’ and they cease showing physical and mental signs of aging. Senility is expected to set in during the last 100 years of life. Or so we’re taught in Tir schools, at least.”
--   — Spes (20:42:13/4-10-54)
+*"I would think that most elves who Awakened in 2011 or later could expect to see their 400th birthdays, barring disease or disaster. As you know, elves mature physically and mentally at the same rate as humans. When they reach an age of about 25, however, their metabolic balance 'freezes,' and they cease showing physical and mental signs of aging. Senility is expected to set in during the last 100 years of life. Or so we're taught in Tir schools, at least."*
+— Spes (20:42:13/4-10-54)
 
 ---
 
-
-*GM Notes v1.4 — Malice Family Campaign*
-*Updated after Session 08*
+*GM Notes v1.5 — Malice Family Campaign*
+*Updated after Session 10*
 *⚠️ GM EYES ONLY*

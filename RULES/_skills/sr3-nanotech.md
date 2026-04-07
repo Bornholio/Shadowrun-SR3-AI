@@ -1,3 +1,9 @@
+---
+name: sr3-nanotech
+description: "SR3 Shadowrun 3rd Edition nanotech rules for GM reference. Load when the session involves nano-implants, nanoware, nanogear, free-floating nanites, nanite detection, or interactions between nanotech and magic. Source: Man & Machine."
+user-invocable: false
+---
+
 # SR3 Nanotech
 *Source: Man & Machine. SR3 canonical.*
 

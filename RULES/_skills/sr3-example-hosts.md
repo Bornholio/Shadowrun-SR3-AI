@@ -1,3 +1,9 @@
+---
+name: sr3-example-hosts
+description: "SR3 Shadowrun 3rd Edition example Matrix host configurations for GM reference. Load when setting up a Matrix run and needing pre-built host ratings, IC loadouts, trigger sequences, or security tally examples."
+user-invocable: false
+---
+
 # SR3 Example Hosts
 
 ---

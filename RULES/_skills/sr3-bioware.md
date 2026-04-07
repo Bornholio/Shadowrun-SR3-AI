@@ -1,3 +1,9 @@
+---
+name: sr3-bioware
+description: "SR3 Shadowrun 3rd Edition bioware rules for GM reference. Load when the session involves bioware grades, Bio Index, cultured vs basic bioware, availability, stress points, or any question about bioware implants. Source: Man & Machine."
+user-invocable: false
+---
+
 # SR3 Bioware
 *Source: Man & Machine. SR3 canonical.*
 

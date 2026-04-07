@@ -97,6 +97,14 @@
 - **Pool cap rule (defensive):** No cap on Dodge or Damage Resistance — Body is an attribute, not a skill; offensive cap does not apply to DR rolls.
 - **Social tests:** skill dice only — no spell pool, task pool, or combat pool
 
+### Roll Format
+
+`[label] [Xd/TN#] [series] → [N]suc`
+
+Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until resolved — final value replaces the 6). 1s fail. Count all values ≥ TN as successes. Rule of Six does not apply to Initiative.
+
+`Conjuring 18d/TN8 [3,5,2,11,4,1,5,7,2,4,3,5,1,4,14,2,5,3] → 2suc`
+
 ---
 
 ## Astral Stats

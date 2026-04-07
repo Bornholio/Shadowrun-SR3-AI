@@ -50,6 +50,23 @@ Written shorthand: `Willpower (5) Test` = roll WIL dice vs TN 5.
 
 ---
 
+## OPEN TEST TRIGGERS
+
+Default to Success or Opposed — use Open only when the test generates a TN for a follow-on roll.
+
+| Skill | Test Type | Notes |
+|---|---|---|
+| Stealth (sneaking/hiding) | Open | Result = TN for observers' Perception Tests |
+| Stealth (theft/pickpocket) | Opposed | Stealth vs target INT |
+| Interrogation | Open → Opposed | Interrogator opens; victim resists with WIL vs result |
+| Intimidation | Open → Opposed | Same structure as Interrogation |
+| Vehicle Skill | Open | Result = Driver Points for the turn in vehicle combat |
+| Negotiation | GM call | Normally not Open; GM may open to set TN for detecting lies |
+
+GM may call an Open Test any time a generated TN feeds a later check.
+
+---
+
 ## DICE POOLS — CORE RULES
 
 - Add pool dice to skill/attribute dice for a test
@@ -129,13 +146,27 @@ Opposition NPCs: no Karma Pool unless designated major NPC by GM.
 
 ---
 
+## COMPLEMENTARY SKILLS
+
+A secondary skill rolled alongside a primary to add bonus successes.
+
+**Eligibility:** Knowledge Skills complement Active Skills when legitimate overlap exists. Active Skills complement Build/Repair Skills only. Electronics can complement device rating tests — GM discretion. Background Skills are never Complementary unless rules explicitly say so.
+
+**Procedure:** Roll primary first — must score ≥1 success or complement has no effect. Roll complementary vs same TN. Every 2 complementary successes = 1 bonus success added to primary total.
+
+**Limits:** GM should use sparingly — two rolls per action slows play. Cannot default on the complementary roll. If B/R test fails, complementary successes are lost.
+
+**Example:** 3 Negotiation successes + 2 Psychology successes = 3 + 1 = 4 total.
+
+---
+
 ## FAMILY POOL REFERENCE — 3PR
 
 | Character | Combat Pool | Spell Pool | Hacking Pool | Control Pool |
 |---|---|---|---|---|
-| Singer | 18 | 12 | 12 | 20 (rigging) |
-| Banshee | 20 | 12 | — | — |
-| Carpenter | 18 | 11 | — | — |
+| Singer | 18 | 12 | 12 | 20  |
+| Banshee | 20 | 12 | 12 | 20 |
+| Carpenter | 18 | 11 | 12 | 20 |
 
 *Combat Pool uses augmented QUI/INT/WIL. Spell/Hacking Pool uses unaugmented INT.*  
 *Singer Hacking Pool: (INT 11 + MPCP 8 + Response Increase 2×2) / 3 = 12 (verify against sheet).*

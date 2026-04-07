@@ -1,12 +1,12 @@
 # Chat Control — Session Management
 *Load order: 1 of 3 — Paste this file first*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 08*
+*Updated after Session 10*
 ---
 
 ## First Action
 
-Set this chat's name to the current session number (e.g., "Session 08") before doing anything else.
+Set this chat's name to the current session number (e.g., "Session 11") before doing anything else.
 ---
 
 ## On-Demand Files
@@ -16,7 +16,7 @@ These files are not loaded at session start. Prompt the GM to load them when the
 **Character sheets** — load when working on a specific character
 - `CHARACTERS/singer.md` · `banshee.md` · `carpenter.md` · `keystone.md` · `meridian.md` · `crowbar.md` · `kluger.md`
 
-**Character sheet viewer** — `CHARACTERS/Character_Sheet.html`
+**Character sheet viewer** — `HTML/Character_Sheet.html`
 Load when visual character reference is needed. Pulls portraits and .md sheets directly from GitHub repo. Requires repo to be current — push updated .md files before use. Open via browser, not Claude file tools.
 
 **Character data** — load when detail is needed beyond project knowledge
@@ -28,10 +28,10 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `CHARACTER DATA/pre2025_timeline_players.md` — pre-2025 timeline (player-facing)
 
 **Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_08_header.md` — current session header (consolidated, all prior threads folded in)
-- `SESSION LOGS/session_07_summary.md` — most recent completed session narrative
+- `SESSION LOGS/session_11_header.md` — current session header
+- `SESSION LOGS/session_10_summary.md` — most recent completed session narrative
 
-*Sessions 01–07 headers and summaries archived — load only if specific historical continuity is needed.*
+*Sessions 01–09 headers and summaries archived — load only if specific historical continuity is needed.*
 
 **Maps** — load when action moves to that district
 - `MAPS/00_security_ratings_master.md` — security rating cross-reference
@@ -94,6 +94,7 @@ Skills are **mandatory** — not advisory. Do NOT answer any mechanical question
 | Armor or damage resistance | `sr3-armor` + `sr3-armor-types` |
 | Fire damage or object resistance | `sr3-object-fire` |
 | Karma awards or spending | `sr3-karma` |
+| Stun recovery, unconsciousness, rest interruption | `sr3-healing-stun` |
 | Special abilities (Singer/Banshee/Carpenter) | `sr3-special-abilities` |
 | Test type, pool allocation, defaulting, Rule of Six | `sr3-concepts-tests-pools` |
 
@@ -228,5 +229,5 @@ Then immediately apply the following posture for the entire session:
 
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 08*
+*Updated after Session 10*
 *🔺 flags mark all changes from original version*

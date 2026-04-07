@@ -1,3 +1,9 @@
+---
+name: sr3-shamanic-mask-vs-masking
+description: "SR3 Shadowrun 3rd Edition reference distinguishing Shamanic Mask (physical totem manifestation visible to mundane observers) from Masking metamagic (astral aura concealment). Load when questions arise about physical detection of spellcasting, totem imagery, or aura concealment."
+user-invocable: false
+---
+
 # SR3 Reference — Shamanic Mask vs. Masking Metamagic
 *Malice Family — SR3 Campaign*
 
