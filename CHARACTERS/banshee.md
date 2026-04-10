@@ -27,11 +27,6 @@
 
 ---
 
-## BattleTac Role
-
-**Role:** Receiver (default) — BT Cyberlink active · −2TN on Singer SUT tests targeting Banshee · auto data access · cyber senses feed Singer's TC via radio
-*Can act as master if Singer unavailable — SUT 2, effective 6 with TC Rating 4.*
-
 ## Active Skills
 
 | Skill | Stat | Rating | Notes |
@@ -44,13 +39,13 @@
 | Intimidation | Cha | 2 | |
 | Leadership | Cha | 6 | |
 | Negotiation | Cha | 6 | |
-| Computer | Int | 6 | |
-| Clothing | Int | 6 | |
-| Biotech | Int | 6 | ★ Aptitude, Centering |
+| Computer | Int | 6 (7) | HP 12 cap |
+| Clothing | Int | 6 (7) | |
+| Biotech | Int | 6 (7) | ★ Aptitude, Centering |
 | Small Unit Tactics | Int | 2 (6) | |
-| Lock Picking | Qui | 2 | |
-| Navigation | Int | 3 | |
-| Disguise | Int | 5 | |
+| Lock Picking | Qui | 2 (3) | |
+| Navigation | Int | 3 (4) | |
+| Disguise | Int | 5 (6) | |
 | Assault Rifles | Qui | 5 (6) | |
 | Clubs | Str | 4 (5) | |
 | Edged Weapons | Str | 6 (7) | |
@@ -101,12 +96,12 @@
 | Latin | Int | 6 (10) | |
 | Greek R/W | Int | 1 (5) | |
 | Irish Gaelic | Int | 2 (6) | |
-| Sign Language | Int | 5 | |
+| Sign Language | Int | 5 (9) | |
 
 ---
 
 ## Knowledge Skills
-*Base Int 13 (14), +2TN, Centering*
+*Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
 | Skill | Rating |
 |-------|--------|
@@ -172,15 +167,21 @@
 
 ## Edges, Flaws & Special Abilities
 
-**Edges:** Perceptive (-1TN perception), College Education (-1TN defaulting Academic Knowledge), Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Quick Healer
+**Edges:** Perceptive (-1TN perception), College Education (-1TN defaulting Academic Knowledge), Tech School Education (-1TN defaulting Background Knowledge), Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Regenerative Healer
 
-**Flaws / Surge:** Albino (bought off Colorblind and Allergy to Sunlight — see notes), Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
+**Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), Wide-band Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
+
+**Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
 
 **4th World Abilities:**
 - Lightbringer — From seeking to destroy Horror in the Salish area
 - Greater Incarnation — From Blunting the Horror advance (Unresolved function)
 - Assumed Path — 6th World Elven Magic, added path selection on top of Shamanism
 - Infinite Warehouse — Metaplanar item storage
+
+**Adept Powers:** Multi-Tasking (0.5 — concentrate on separate actions, two free actions per init pass), Nimble Fingers (0.5 — Sleight of Hand +1 Dice, free actions for simple object use)
+
+**Surge / Parabiology:** Augmented Balance, Eagle Eyes, Ambidexterity 4, Small Frame, Microscopic Vision, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Improved Scent, Improved Taste, Thermographic Vision (Natural), Low Light (Natural), Wide-band Hearing, Hearing Amplification
 
 ---
 
@@ -226,22 +227,3 @@
 - Cash: **988¥**
 - ID: R1, Ages Well — Patty Novak
 
----
-
-## Good Karma
-
-**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
-
-| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
-|---|---|---|---|---|---|---|
-| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: 9 |
-| S7 | 1 | 0 | 1 | — | — | Solid investigative session |
-
-**Running Totals (S1+):**
-- Public GK earned: 6
-- Secret GK earned: 1
-- Total GK earned (S1+): 7
-- GK spent (S1+): 16 — Sorcery 6→7: 7 / Disguise 4→5: 4 / Aura Reading 5→6: 5
-- GK available: 32 (bank) + 7 (earned) − 16 (spent) = **23**
-- Karma Pool current: 11
-- Reputation (Malice): 9 ÷ 20 = **0**

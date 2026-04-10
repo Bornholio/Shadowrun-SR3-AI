@@ -28,14 +28,15 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `CHARACTER DATA/pre2025_timeline_players.md` — pre-2025 timeline (player-facing)
 
 **Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_11_header.md` — current session header
-- `SESSION LOGS/session_10_summary.md` — most recent completed session narrative
+- `SESSION LOGS/session_12_header.md` — current session header
+- `SESSION LOGS/session_11_summary.md` — most recent completed session narrative
 
 *Sessions 01–09 headers and summaries archived — load only if specific historical continuity is needed.*
 
 **Maps** — load when action moves to that district
 - `MAPS/00_security_ratings_master.md` — security rating cross-reference
 - `MAPS/01_downtown.md` through `MAPS/11_council_island.md` — district detail
+- `MAPS/ork_underground.md` — Ork Underground reference · load when action moves below street level Downtown, Flurry leads to cache, or family investigates the organometallic key
 - `MAPS/transit_index.md` → specific transit files — when transit travel is involved
 
 **NPCs and opponents**
@@ -43,6 +44,13 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `NPC/Lone_Star_Specialist_Cops.md` — detectives, DPI mages, pilots, watcher
 - `NPC/Lone_Star_SWAT_SF_Cops.md` — DED, FRT, SWAT heavy response
 - `NPC/sr3_contacts_compressed_v1.md` — contacts and opponents reference
+
+**Intel files** — load when relevant thread is active
+- `INTEL/GT_master.md` — Global Technologies: corporate profile, HMS account, Reyes, Okonkwo, threat team escalation tiers, Alachia thread (GM sealed) · replaces GT_notes.md + GT_threat_load_triggers.md
+- `INTEL/GT_threat_tier1_grey_shutter.md` — Grey Shutter stat blocks · load when GT surveillance is active
+- `INTEL/GT_threat_tier2_cold_notch.md` — Cold Notch stat blocks · load when escalation triggered
+- `INTEL/GT_threat_tier3_iron_sill.md` — Iron Sill stat blocks · load when direct action imminent
+- `INTEL/gray_medical.md` — Cascade Medical Logistics gray market DW operation · load when gray market DW thread is active, Oswin call, or garage approach
 
 **Critters** — load when encounter type is known
 - `CRITTERS/critter_rules.md` + `critters_powers_sr3.md` — any critter encounter
@@ -58,15 +66,17 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `RULES/firearms.md` — weapon selection and calls
 - `RULES/_skills/sr3-example-hosts.md` — host examples for decking scenes
 - `RULES/house_rules.md` — bioware/geneware edge cases, Infinite Warehouse
-- `RULES/Genetech_rules.md` — Genetech rules reference
+- `RULES/_skills/sr3-genetech.md` — genetech general rules, gene therapy, microadaptation, protein synthesis, DNA masking, immunization
 - `RULES/sr3-bioware.md` — bioware rules and tables
 - `RULES/sr3-cyberware.md` — cyberware rules and tables
 - `RULES/sr3-nanotech.md` — nanotech rules reference
 - `RULES/phones.md` — commlink and telecom mechanics
 - `RULES/cell_limits_compact_1.md` — signal and cell limit reference
-- `RULES/shadowrun3_action_economy_reference.md` — action economy
+- `RULES/_skills/sr3-action-economy.md` — action economy, initiative pass flow, free/simple/complex action lists by category
 - `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` — Sperethiel
 - `RULES/sr3-shamanic-mask-vs-masking.md` — shamanic mask (physical totem tell) vs. masking metamagic (astral concealment); load when either mechanic is relevant
+- `RULES/_skills/sr3-astral.md` — astral perception, assensing, projection, astral combat, wards, barriers, signatures, tracking, evasion
+- `RULES/_skills/sr3-metamagic.md` — metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring, and others
 
 ---
 
@@ -87,6 +97,10 @@ Skills are **mandatory** — not advisory. Do NOT answer any mechanical question
 | Spellcasting or drain | `sr3-spellcasting` |
 | Spell stats, drain values, spell lookup | `sr3-spells` |
 | Conjuring or spirits | `sr3-conjuring` |
+| Assensing, astral projection, astral combat, wards, barriers, signature erasing | `sr3-astral` |
+| Metamagic mechanic invoked, eligibility question, metamagic detail | `sr3-metamagic` |
+| Genetech, gene therapy, microadaptation, DNA masking, immunization | `sr3-genetech` |
+| Action type, initiative pass timing, free/simple/complex question | `sr3-action-economy` |
 | Social tests or contacts | `sr3-social-tests` |
 | Matrix/decking (full resolution) | `sr3-matrix-rules` + `sr3-matrix-ops` |
 | Matrix run — quick mid-session resolution | `sr3-quick-decking` |
@@ -217,7 +231,7 @@ Then immediately apply the following posture for the entire session:
 `sr3-matrix-rules` · `sr3-matrix-ops` · `sr3-comm-rules` · `deck_programs.md`
 
 **Magic / spirit session:**
-`sr3-spellcasting` · `sr3-spells` · `sr3-conjuring` · `spirits_sr3.md` · `sr3-shamanic-mask-vs-masking.md`
+`sr3-spellcasting` · `sr3-spells` · `sr3-conjuring` · `sr3-astral` · `sr3-metamagic` · `spirits_sr3.md` · `sr3-shamanic-mask-vs-masking.md`
 
 **Outdoor / wilderness:**
 `sr3-athletics` · `sr3-perception-surprise` · relevant map file
@@ -225,9 +239,18 @@ Then immediately apply the following posture for the entire session:
 **Karma / advancement:**
 `sr3-karma`
 
+**GT / corporate investigation:**
+`INTEL/GT_master.md` · load appropriate threat tier file if escalation reached
+
+**Gray market medical / Belltown:**
+`INTEL/gray_medical.md` · `belltown_geography.md` · `belltown_venues.md` · `NPC/sr3_contacts_compressed_v1.md`
+
+**Ork Underground:**
+`MAPS/ork_underground.md` · `MAPS/01_downtown.md` · `sr3-perception-surprise`
+
 ---
 
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 10*
+*Updated after Session 11*
 *🔺 flags mark all changes from original version*

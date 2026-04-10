@@ -27,7 +27,7 @@
 | VCR 2 | Bodyware | Rea +4, +2d6 Init (rigging only), −4H while rigged, Trigger | -1 | 6P-N | 16 | 14 |
 | Voice Modulator | Bodyware | Increased Volume, Playback, Tonal Shift, Secondary Pattern 10 | -1 | 3-Q | 13 | 14 |
 | 2 Routers, 20 Ports | Brainware | High/Mid Brain, Extra Ports | 18 | Legal | — | 14 |
-| Chipjack Expert Driver 6 | Brainware | Task Pool 6 with Slot 1 | -1 | Legal | — | 14 |
+| Chipjack Expert Driver 3 | Brainware | Task Pool 6 for Slot 1 chip-based skills · CED max device rating 3 · 6 = total pool available · Slot 1 currently: Cracking 6 (pool 6 applies) |
 | Cranial Cyberdeck | Brainware | FLE (8/5/6/8/5-10-3000-0-800-2), Hot Cel/Rad, 24 FUPS, Ex.JP, Icon 12, MI, RAS OR, WI-L/M/S/R/C | 24 | 4P-S | 14 | 14 |
 | Data Lock | Brainware | Encryption 10, +10TN Headware Hacking | -1 | 4P-V | 14 | 14 |
 | Datacompactor 4 | Brainware | Compress −20% per Level | -1 | Legal | — | 14 |
@@ -67,7 +67,7 @@
 | Chemical Analyzer | Senseware | BiP-10, R12 Chemistry (Touch), DGP Program 50mp, TC Port | -1 | Legal | — | 14 |
 | Gas Spectrometer | Senseware | BiP-10, R12 Chemistry (Gas), DGP Program 50mp, TC Port | -1 | Legal | — | 14 |
 | Internal GPS | Senseware | Orientation System | -1 | Legal | — | 14 |
-| Orientation System | Senseware | TC Port | -1 | Legal | — | 14 |
+| Orientation System | Senseware | TC Port, counts as 2 senses | -1 | Legal | — | 14 |
 | Recorder | Senseware (Ears) | 1mp/minute, 3mp Full spectrum | -1 | 12P-N | 22 | 14 |
 | Spatial Recognizer | Senseware (Ears) | −5TN Locate sounds (HFH, OS) | -1 | Legal | — | 14 |
 | Display Link / Eye Display (Right Eye) | Senseware (Eyes) | Smartlink | -1 | Legal | — | 14 |
@@ -86,10 +86,9 @@
 | Eagle Eyes 2 | −2 Range Levels, −4TN Range Penalties, TC Port |
 | Hearing | TC Port |
 | Hearing Amplification | As Shotgun microphone, −2TN Hearing tests, TC Port |
-| High Frequency Hearing | −2TN if applicable, TC Port |
+| Wide-band Hearing | Hear above and below human range, −2TN if applicable, can sense ultrasound systems, TC Port, counts as 1 or 2 senses |
 | Improved Scent | As Adept power, Odors Obvious −4TN |
 | Improved Taste | As Adept power, Tastes Obvious −4TN |
-| Low Frequency Hearing | −2TN if applicable, TC Port |
 | Low Light Vision | TC Port |
 | Microscopic Vision | −2TN Microscopic or size penalties |
 | Sense of Smell | TC Port |
@@ -126,7 +125,7 @@
 | Device | Type | Notes | Legality | Conceal | Scan |
 |--------|------|-------|----------|---------|------|
 | Cerebral Booster 2 | Cultured | +2 Intelligence, Task Pool 1 (Int-linked skills only) | Legal | — | 14 |
-| Mnemonic Enhancer 3 | Cultured | +3 die Memory tests · +1 die all Knowledge skill tests · +3 die Language tests · Knowledge default +3 · −3 GK skill improvement cost (floor 1) · Does not apply to skillsoft skills | Legal | — | 14 |
+| Mnemonic Enhancer 3 | Cultured | +3 die Language Skill Tests · +1 die all Knowledge Skill Tests · +3 dice memory-related INT Tests · Knowledge default TN +3 (not +4) · −3 GK skill improvement cost (floor 1) · Does not apply to skillsoft skills · **Stacks with Cognition: total +4 Language / +2 Knowledge / +2 INT default** | Legal | — | 14 |
 | Reflex Recorder 2 | Cultured | Athletics +1 die, Stealth +1 die · Does not apply to skillsoft skills | Legal | — | 14 |
 | Synaptic Accelerator 2 | Cultured | +2d6 Initiative (physical only — not rigging/decking) · Incompatible with wired reflexes, move-by-wire | 5P-R | 12 | 14 |
 | Trauma Damper | Cultured | Physical wound: shift 1 box Physical→Stun · Stun wound: remove 1 box · −2TN pain resistance tests · Not compatible with active pain editor · With damage compensators: applies only when compensators exceeded | 6P-N | 13 | 14 |
@@ -261,7 +260,7 @@
 | Eagle Eyes | Surge | As level 2 optical magnification, shift weapon ranges 2 places to short, offset −4TN Perception range penalties |
 | Strange Eyes | Surge/Flaw | Physical feature only |
 | Hearing Amplification | Surge | As cyberware, −2TN Hearing perception, similar to Shotgun microphone |
-| High/Low Frequency Hearing | Surge | Hear above/below human range, as cyberware −2TN if appropriate, can sense ultrasound systems |
+| Wide-band Hearing | Surge | Hear above and below human range · −2TN if applicable · can sense ultrasound systems · TC Port |
 | Improved Scent | Surge | Identify beings by scent with Perception test, track by scent |
 | Improved Taste | Surge | Recognize ingredients, ID clean water Perception (4), as Adept power |
 | Low Light (Natural) | Surge | Vision chart |

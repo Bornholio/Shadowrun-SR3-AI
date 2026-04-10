@@ -101,3 +101,20 @@ Modifier reduces Drain Force **or** Karma cost at learning — choose one. A spe
 | Low-tech manufactured | 5 |
 | High-tech manufactured | 8 |
 | Highly processed | 10+ |
+
+---
+
+## Spell Learning
+
+| Factor | Rule |
+|---|---|
+| Source | Teacher or formula — same tradition only |
+| Environment | Shaman: Lodge ≥ Force · Mage: Sorcery library ≥ Force |
+| TN | Force × 2 |
+| Time | Force days ÷ successes (min 1 day) |
+| Karma cost | Force GK |
+| Fail (0 successes) | Time wasted, no Karma lost, teacher still paid |
+| Instruction | Every 2 successes vs TN 4 = +1 die to student's Sorcery Test |
+| Teacher cost | 1,000¥ × Force + living expenses |
+
+---

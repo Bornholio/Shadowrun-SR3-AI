@@ -2,7 +2,7 @@
 *Malice Family — SR3 Campaign*
 *File location: SESSION LOGS/gm_notes.md*
 *⚠️ GM EYES ONLY — Do not load into player-facing sessions*
-*Updated after Session 10*
+*Updated after Session 11*
 
 ---
 
@@ -49,13 +49,7 @@ Singer, Banshee, Carpenter underwent extraordinary surgery:
 ### The Missing Years
 All seven remember clearly only up to 2025. The shadow years (2025–2058) are inaccessible — skills, hardware, muscle memory intact. Memories gone.
 
-The reset was chosen. The scale of what was being maintained made it necessary:
-- Hundreds of contacts
-- Multiple lifestyle covers
-- A corporation (Herbertson Medical Services) with physical HQ at Taetzel building
-- Ongoing community obligations
-
-Someone — or the family themselves — determined that carrying all of that forward conscious was untenable or dangerous.
+The reset was chosen. The scale of what was being maintained made it necessary. Someone — or the family themselves — determined that carrying all of that forward conscious was untenable or dangerous.
 
 ### Karma Economy (Background)
 - Keystone and Meridian: ~500 good karma
@@ -75,24 +69,35 @@ Field asset with military tradecraft, burst transmission, told to stand down.
 Whoever runs them has corporate reach into LS dispatch and ability to suppress aerial assets.
 Does not want Lone Star to find la Malice first. Possibly wants the family found intact.
 
-**RAVN network — confirmed S10:**
+**RAVN network — confirmed S11:**
 - Burst frequencies: 423.775 MHz primary / 891.220 MHz secondary
 - Encryption: 128-bit hardware keyed — routine recovered S10
 - Device series: RAVN-003 through RAVN-008 confirmed, 001 and 002 location unknown
-- RAVN-004: dataline tap, Nährboden roof — neutralized S10
+- RAVN-004: dataline tap, Nährboden roof — neutralized S10, housing recovered by placer 0431 Wednesday
 - RAVN-005: receiver/relay, Building 1 NE rooftop — intact
 - RAVN-006: collection node, Building 1 NE interior — intact
 - RAVN-007: audio, 2 blocks south — intact
 - RAVN-008: unknown type, shelter block — intact
-- Panel van: same operator, roaming Auburn
-- Raven-Loom cipher: textile steganography on schedule/crypto encoding — someone holds matching textile
-- Crypto access key: recovered S10 — authenticates uplink to collection node
-- Futureman Project host: HMS infrastructure, externally accessed, Psychotropic ICE R4 trap — actively hunting runners searching for family's matrix signature
+- Route 167 corridor sensors ×3 — confirmed from chip data, network extends south
+- Panel van: same operator, roaming Auburn, single Belltown appearance confirmed
+- Raven-Loom cipher: textile steganography on schedule/crypto encoding
+- Crypto access key: recovered S10
+- Futureman Project host: HMS infrastructure, Psychotropic ICE R4 trap
+- **GS-2 Meredith Hale confirmed as RAVN installation support** — GT/RAVN operational overlap evidenced
+- **Comms relay unit recovered from St. Peter Claver** — same fabrication source, third confirmation
+- **RAVN placer recovered burnt RAVN-004 housing at 0431 Wednesday** — knows the device was deliberately found and burned. Escalation implications GM controlled.
 
-**RAVN victims — Belltown (S10):**
-- Ghostline: human male, matrix security analyst — gray market DW pickup, missing
-- Fen: elf female, gray market port — gray market DW pickup, missing
-- Unknown ork male ~22: hit Futureman host, caught ICE — recovering at shelter, ICE cleared by Banshee S10
+**Third surveillance network — confirmed S11:**
+- Not RAVN, not GT — different encryption signature, cleaner, more sophisticated
+- Tight-beam capable — UNK-D transmissions at 0340 on 03/01/2058 from position overlooking fixer's building
+- 0340 timestamp matches HMS operational incident — two days before family woke at McHugh's
+- UNK-E and UNK-F recurring 6hr intervals — active
+- Operator identity: GM controlled
+
+**RAVN victims — Belltown (resolved S11):**
+- Ghostline: recovered from SoDo staging S11 — warm, 12-day intercept data transferred
+- Fen: recovered from St. Peter Claver S11 — settled Redmond, partial Night One adjacent markers
+- Unknown ork male ~22: recovering at shelter, directed to Nährboden
 
 ### Room 6 Man
 Professional, mundane, human male, late 30s, Wired Reflexes 1-2, Essence ~3.0-3.5.
@@ -100,7 +105,7 @@ RAVN targeted him also — device placed in his vent before his arrival.
 One encrypted comm call at 0731, 12 minutes, content not captured.
 Said "retired" with complicated weight. Mutual professional debt established with Singer.
 *"We should talk properly. When you're ready."*
-Identity and affiliation: GM controlled. Load on demand.
+Identity and affiliation: GM controlled.
 
 ### The Surgery Architect
 Something with no published precedent. The surgeon knew M&M rules at academic or authorial level. Three willing patients burned 45 Karma Pool points each. Cyber-magic integration — not compromise. Something new. Aimed at a specific capability set. The 3PR became what someone needed.
@@ -128,13 +133,21 @@ The SURGE night one expression — one family member expressed differently. Deta
 ### Althain — Mt. St. Helens *(GM only)*
 Full memory restoration for all seven upon visiting. Characters have no conscious reason to go there yet. May be drawn without knowing why — same mechanism as Keystone calling Dag. GM controls the pull.
 
+### McHugh's Photo — New S11
+Seven elves at McHugh's diner, 03/03/2058 at 0612. Two hours after waking.
+- Professional optics, ~80–120 meters, elevated angle
+- Photographer knew the count before framing — pre-planned composition
+- Cannot be pinned to pale architect — different position, timestamp, methodology
+- Someone knew there would be seven before they had eyes on the target
+- Recovered from Tamanous collector's commlink — collector was briefed with this image
+
 ---
 
 ## Horror Memory Triggers
 *(Canonical home — summary pointer in campaign_stats.md)*
 
 | Event | Trigger Condition | What Restores |
-|-------|------------------|---------------|
+|---|---|---|
 | Ivy and Chrome — blood/sacrifice magic item | Encounter blood magic, sacrifice magic, similar items | Memory of the item, what it cost |
 | Total Eclipse — spider-like Horror | Insect spirits (spider type), Horror-tainted astral space | Combat memory first, then context |
 | Geyswain/Arleesh | Great Dragon contact, Geyswain/Arleesh named, dragon-scale artifacts | Weight of helping kill a Great Dragon. Arleesh's name feels significant before they know why. |
@@ -167,43 +180,53 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
-## Active GM Threads — Session 11
+## Active GM Threads — Session 12
 
-### Gray Market DocWagon Unit
-Operates in Belltown/Barrens fringe gap. Uses stolen DW livery. Garage on 3rd Street, Belltown. Treated Daro at 2211 S05 — logged his biometrics and sold the data. Took Ghostline and Fen after RAVN flagging — their status unknown. Not in Corp Secretary's dispatch logs. Oswin knows the operation. Cascade Medical Logistics commcode held by Banshee.
+### Jarlath Drake — 48-Hour Window
+United Oil Seattle security chief. Priority one on Tamanous active acquisitions list. Solo Tuesday evening errand, no detail — someone inside his operation sold his schedule. Acquisition attempt Wednesday evening if family does not intervene. Procurement codes link to Renraku-adjacent shell above the local Tamanous operation. Does not know he is targeted. GM decides: does the family intervene, and what does the acquisition attempt look like if they don't?
 
-### RAVN Collection Node — Building 1 NE
-Physical access now possible. Singer has crypto access key and encryption timing. Question: is RAVN-006 automated or staffed? What does the node contain beyond collection hardware? GM decides before Singer attempts access.
+### RAVN Placer — Escalation Decision
+Recovered burnt RAVN-004 housing at 0431 Wednesday. Knows the device was deliberately found and burned — not timer-triggered self-destruct, externally burned. Someone has operational knowledge of the RAVN network. GM decides response: patience, network reconfiguration, new device placement, or acceleration.
+
+### Third Surveillance Network
+Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 is the most significant data point — two blocks from fixer, same HMS timestamp, two days before reset. Connection to pale architect? Connection to HMS directly? GM decides what the third network is watching for and who operates it.
+
+### RAVN-006 Collection Node
+Physical access possible. Building 1 NE interior. Singer has crypto access key. Automated or staffed? GM decides before Singer attempts access.
 
 ### Futureman Project Host
-HMS infrastructure — normally internal access only. External backdoor exists. Psychotropic ICE R4 trap active. Beyond the ICE: GM controls what's in the host. Surgery records? HMS operational data? Something older? Singer has the address. Not yet accessed.
+HMS infrastructure. External backdoor exists. Psychotropic ICE R4 active. What is beyond the ICE? Surgery records, HMS operational data, something older? GM decides before Singer accesses.
+
+### Oswin's Kit Serial
+At Nährboden now — not on Oswin. DW internal investigation active. LS cross-referencing stolen livery equipment in the garage on 3rd. If the kit gets scanned by anyone with DW database access — including LS processing the garage scene — it triggers a case file pull and flags Oswin's location. GM controls timing.
+
+### Dumb Frame GT Results
+2 successes. Thin GT public info. What does Singer find Wednesday morning? GM decides content before review.
 
 ### Mechanic Cover Approach
-Mechanic messaged Carpenter 0746 Tuesday: "gonna make that call at 9 sharp." Call went out 0900. Outcome: GM controlled. Operatives who asked about Carpenter — identity and affiliation GM controlled.
+Radio install cover pending. Mechanic (Teodor Breckenridge) warns Carpenter before making contact. Operatives — identity and affiliation GM controlled.
 
-### Oswin's Kit Serial Number
-The DocWagon serial number etched into Oswin's trauma kit is flagged in a pending DW internal investigation. Oswin does not know the case is still open. If the kit is scanned by anyone with DW database access, it triggers a case file pull and flags Oswin's location. GM controls timing.
+### Pocket Secretary — Collector's
+Chip removed, locked. Contents GM controlled.
 
-### Daro and the Package
-Daro moved from Noodle House alley between 0730–0800 S06. Package still on him. Contents: GM decides. Biometric data in broker queue — buyer unknown. Thread dormant until it resurfaces.
+### Fen's Partial Markers
+Unactivated secondary meta-genetic markers, Night One adjacent. Implications GM controlled. As Halley's Comet approach intensifies through 2058, the pressure on these markers increases.
 
-### Raven-Loom Textile
-Textile steganography — one-use key matrix. Someone holds the matching textile. Without it the crypto interception is useless. GM controls who holds it and where it is.
+### Tir Tairngire Thread — Three Data Points
+1. Ó Maolalaidh — HMS signatory, Tir forwarding address
+2. Trinity nightclub shell — Tir registration
+3. Tamanous pipeline shell ownership — Tir registration, three layers deep
 
-### Repair Tech Identity
-Full biometric profile recovered S10. Legitimate Belltown repair tech or RAVN-adjacent? GM controlled.
+All three point to the same jurisdiction. The Alachia connection (GM only — sealed) is the underlying architecture. Surface at GM pace only.
 
-### Tourniquet's Third Client
-Arrived 4 days before S08. GM controlled — possibly Oswin-adjacent, possibly connected to gray market DW victims.
-
-### F&V Baptist Cover
-Now held by six: Marta, Daro, Oswin, Rat, Harmon, 3rd Street shelter staff. Any call at wrong moment is a session event.
+### Ghostline Cellular Data
+12 days of cellular intercepts — crackable without the Raven-Loom textile. Ghost Freq (DEADBAND) is the flagged resource. What does the cellular data reveal when cracked? GM decides before activation.
 
 ---
 
 ## Standing GM Continuity Rules
 
-- Sessions 01–10 events are canonical — do not retcon without GM instruction
+- Sessions 01–11 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
@@ -216,11 +239,17 @@ Now held by six: Marta, Daro, Oswin, Rat, Harmon, 3rd Street shelter staff. Any 
 - Thing in the water: what it cannot say — GM controlled. Most significant information.
 - Pier man identity — GM controlled. Callum Shire is working elf identity.
 - HMS account operator — GM controlled. Connected to surgery architect thread.
-- Oswin's kit serial — sleeping thread, activates on DW database scan
-- Reyes GT principal identity — GM controlled
+- Oswin's kit serial — kit at Nährboden, DW investigation active
+- Reyes GT principal identity — GM controlled. Alachia thread sealed.
 - High-grade awakened touched Reyes's chip — identity GM controlled, surgery architect thread
 - Tourniquet counted seven — GM controlled how
-- Flurry's eastward jog toward 3rd — confirmed RAVN signature draw. Filed.
+- Tourniquet's third client — GM controlled
+- Flurry's eastward jog toward 3rd — GM controlled what drew her
+- McHugh's photo photographer — not connectable to pale architect with current evidence
+- Third surveillance network operator — GM controlled
+- Jarlath Drake acquisition order origin — Renraku-adjacent shell above local Tamanous operation, GM controlled
+- Fen's secondary marker expression — partial Night One adjacent, implications GM controlled
+- 4th World entity introductions — GM intervention only, not speculative or incidental
 
 ---
 
@@ -241,6 +270,6 @@ Now held by six: Marta, Daro, Oswin, Rat, Harmon, 3rd Street shelter staff. Any 
 
 ---
 
-*GM Notes v1.5 — Malice Family Campaign*
-*Updated after Session 10*
+*GM Notes v1.6 — Malice Family Campaign*
+*Updated after Session 11*
 *⚠️ GM EYES ONLY*

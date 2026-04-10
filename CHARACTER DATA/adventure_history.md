@@ -67,7 +67,17 @@ Adventures marked with memory trigger icons where applicable.
 | 01/08/57 | Harlequin's Back | — | ⭐🔴 Epic metaplane journey. Blunted early Horror arrival. Magical backlash triggered Night One / SURGE expression in all seven. Trigger: proximity to volcano-affected site or Great Ghost Dance site. Fragmentary restoration, builds with exposure. Two Harlequin arcs may conflate during restoration. |
 | 08/11/57 | Super Tuesday | — | ⭐ **Pentarus killed shortly after.** Possibly investigating president's assassination. Last major run before the reset. |
 | 08/19/57 | Maintenance and weekly activity | — | Last recorded activity. |
-| ~03/2058 | **RESET** | — | ⭐ Family wakes at McHugh's. Memory cleared. |
+| 03/03/2058 | **RESET** | — | ⭐ Family wakes at McHugh's. Memory cleared. |
+| 03/03/2058 | Session 01 | Malice | McHugh's diner — family wakes post-procedure, squatter building secured |
+| 03/03/2058 | Session 02 | Malice | Squatter building interior — assessment, Dag discovered |
+| 03/03/2058 | Session 03 | Malice | Moving day — Dag extracted, 3PR to motel then metro north |
+| 03/04/2058 | Session 04 | Malice | Belltown — Sandy Systems Unit 5, reintegration begins |
+| 03/05/2058 | Session 05 | Malice | Maintenance — no in-game time elapsed |
+| 03/05/2058 | Session 06 | Malice | Belltown morning — 3PR solo ops, go gang diversion, reunification arranged |
+| 03/11/2058 | Session 07 | Malice | The pier — Monday 0100–0710; preceded by 6-day downtime |
+| 03/11/2058 | Session 08 | Malice | Morning intelligence — Monday 0735–1600 |
+| 03/12/2058 | Session 09 | Malice | Harmon call and pier — Monday 1600 through Tuesday 0230 |
+| 03/12/2058 | Session 10 | Malice | RAVN on 3rd Street — full Tuesday |
 
 ---
 
@@ -129,6 +139,37 @@ The family does not know they chose it.
 | Dragon contact generally | Multiple prior encounters | Professional recognition — "I have done this before" | may restore infinite wharehouse (loss of magic for (0.5PP spent)
 
 **Two Harlequin arcs:** The 2050 arc and 2057 Harlequin's Back are distinct events seven years apart. During memory restoration characters may conflate the two. GM manages which memories belong to which event.
+
+---
+
+## 2058–2059 General Timeline
+
+| Month | Notes |
+|-------|-------|
+| **Jan 2058** | Halley’s Comet draws serious attention from magical groups, scholars, cults, dragons, and corp researchers. Rumors circulate about sealed sites, dormant artifacts, and reactivating prophecies. |
+| **Feb 2058** | Early phenomena emerge — odd astral disturbances, unusual critter behavior, prophetic dreams, localized magical instability. Most authorities treat these as isolated incidents or hoaxes. |
+| **Mar 2058** | Coordinated interest from megacorp magical research divisions, draconic agents, talismongers, magical societies, and apocalyptic cults. Shadow activity increases around observatories, archives, and restricted research sites. |
+| **Apr 2058** | Public comet coverage ramps up. Fringe media and magical communities warn of large-scale change. Governments and corps quietly prepare for unrest, magical incidents, and exploitation opportunities. |
+| **May 2058** | Comet approaches. Magical anomalies accelerate worldwide — strange births, unexplained transformations, bizarre astral signatures, paranormal events. First signs of what will become SURGE draw real attention. |
+| **Jun 2058** | ⭐ SURGE manifests visibly and alarmingly. Individuals exhibit dramatic physical or paranormal changes. Panic, religious interpretation, and opportunism explode across the globe. |
+| **Jul 2058** | Media fixation peaks. “Changelings” become a major public topic. Corps launch aggressive data collection, detention, tissue research, and recruitment of SURGE subjects. Hate groups react violently in some regions. |
+| **Aug 2058** | Magical disturbances continue. Shadowruns increasingly involve SURGE subject extraction, protection jobs, research data theft, and comet-related artifact acquisition. Governments begin debating legal and medical status for those transformed. |
+| **Sep 2058** | Social consequences sharpen. Anti-SURGE discrimination hardens across employment, housing, border control, and policing. Certain magical traditions interpret the year as confirmation of ancient cycles returning. |
+| **Oct 2058** | Political and extremist reactions intensify, especially in Europe. Magical black markets boom — comet samples, unusual reagents, and awakened biological material in high demand. |
+| **Nov 2058** | Corps shift from emergency response to structured programs — medical cataloging, black-lab experimentation, controlled detention, covert weaponization studies. Runners with magical, medical, or bioscience skills in high demand. |
+| **Dec 2058** | Shock settles into long-term fallout. SURGE populations become a permanent social and political issue. Dragons, immortal elves, and hidden magical factions implied to have activated long-laid plans. |
+| **Jan 2059** | World enters 2059 managing aftermath. Governments and corps formalize responses to changelings and anomalies. Security profiling of unusual-looking metahumans becomes more common. |
+| **Feb 2059** | Changeling discrimination becomes organized and normalized. Some regions treat SURGE subjects as medical curiosities, security risks, or legal edge cases. Rights movements begin pushing back. |
+| **Mar 2059** | Corporate black research expands across biotech, cybertech, magical theory, and gene research. Shadows see more extractions, sabotage, and data theft tied to these programs. |
+| **Apr 2059** | Magical scholars and secret societies hunt patterns in comet effects. Astral and metaplanar interpretations gain renewed importance. Some cults collapse; others become more dangerous. |
+| **May 2059** | Smuggling networks adapt — changeling relocation, illegal identity papers, medical concealment, rare magical specimens. Safehouses and underground clinics become valuable shadow infrastructure. |
+| **Jun 2059** | One year after peak manifestations. World accepts changes are real and lasting. Public fascination declines; institutional exploitation deepens. Comet-fallout is now background reality for runners. |
+| **Jul 2059** | Most predatory actors are now private — corp research subsidiaries, organized crime brokers, magical traffickers, collectors of rare SURGE subjects. Strong period for grim biotech and conspiracy runs. |
+| **Aug 2059** | Political tension continues where instability was already high. The New Revolution and European unrest remain fertile ground for shadow activity, anti-corporate violence, and covert manipulation. |
+| **Sep 2059** | Changelings increasingly forced into social niches — underground communities, criminal networks, entertainment exploitation, political activism. Strong street-level texture for late-2059 campaigns. |
+| **Oct 2059** | Magical groups reassess long-term comet significance. Rumors persist that some ancient powers were less surprised by 2058 than anyone else. Dragons, immortal elves, and hidden archives especially relevant. |
+| **Nov 2059** | Corp and state responses become bureaucratic rather than chaotic. Files, registries, study programs, and surveillance structures take precedence over riots. Good period for records destruction, identity repair, and witness extraction runs. |
+| **Dec 2059** | Sixth World absorbs the comet shock into its normal cruelty. SURGE is part of the setting now. Mood shifts from panic to: the powerful have adapted and are now profiting. |
 
 ---
 

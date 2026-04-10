@@ -40,9 +40,7 @@ E:.
 │   3_session_header.md             — Always load — campaign identity, current situation, open threads
 │
 ├───ADVENTURE PLANS/                 — Published SR3 module adaptations and original run material
-│       Alachia.md                  — Alachia background notes
-│       belltown_geography.md       — Belltown district layout and geography notes
-│       belltown_venues.md          — Belltown venue reference
+│   │   Alachia.md                  — Alachia background notes
 │   │
 │   ├───BLOOD IN THE BOARDROOM/
 │   │       bitb_00_setup_and_hooks.md
@@ -62,17 +60,24 @@ E:.
 │       deck_programs.md            — Deck program library (SC/OC/R tables)
 │       pre2025_histories_gm.md     — Pre-2025 character histories ⚠️ GM only
 │       pre2025_timeline_players.md — Pre-2025 timeline (player-facing)
+│       session_11_loot.md          — Session 11 loot and recovered assets ⚠️ GM only
 │       shared_3pr_augmentations.md — Full cyberware/bioware block for Singer, Banshee, Carpenter
 │       tactics_3pr.md              — BT network topology, Singer TC sense inventory, SUT TNs, initiative caps
 │
 ├───CHARACTERS/
-│       banshee.md          — Prime Runner / Face / Mage
-│       carpenter.md        — Prime Runner / Mage / Decker
-│       crowbar.md          — Ganger / Shaman
-│       keystone.md         — Shaman (Raven totem)
-│       kluger.md           — Mage / Detective
-│       meridian.md         — Hermetic Mage / Face
-│       singer.md           — Prime Runner / Mage / Military EW
+│   │   banshee.md          — Prime Runner / Face / Mage
+│   │   carpenter.md        — Prime Runner / Mage / Decker
+│   │   singer.md           — Prime Runner / Mage / Military EW
+│   │   xGoup_karma.md      — Group karma tracker
+│   │   xGoup_skills.md     — Group skill reference
+│   │
+│   ├───IMAGES/             — Character portrait images (PNG/GIF)
+│   │
+│   └───INACTIVE/           — Out-of-session characters (day jobs, no active sheets needed)
+│           crowbar.md      — Ganger / Shaman
+│           keystone.md     — Shaman (Raven totem)
+│           kluger.md       — Mage / Detective
+│           meridian.md     — Hermetic Mage / Face
 │
 ├───CONTACTS/
 │   │   contacts_roster.md          — All contacts, ratings, specialties, memory gaps
@@ -90,9 +95,16 @@ E:.
 │       spirits_sr3.md              — SR3 + MitS spirits, elementals, Wild Hunt (MitS sections partial)
 │
 ├───INTEL/                          ⚠️ GM EYES ONLY — threat tracking and mystery architecture
-│       GT_threat_load_header.md    — GT threat team load guide, tier status, escalation quick-ref
-│       memory_restoration_triggers.md — Trigger table, session activation log, standing notes
-│       RAVN2.md                    — RAVN device intelligence summary v2.0
+│   │   belltown_geography.md       — Belltown district layout and geography notes
+│   │   belltown_venues.md          — Belltown venue reference
+│   │   gray_medical.md             — Cascade Medical Logistics gray-market medical network
+│   │   GT_master.md                — GT intelligence and threat reference — tier status, escalation, load guide
+│   │   irish_holiday.md            — Irish holiday calendar reference
+│   │   memory_restoration_triggers.md — Trigger table, session activation log, standing notes
+│   │   RAVN2.md                    — RAVN device intelligence summary v2.0
+│   │
+│   └───_archive/
+│           GT_threat_load_header.md — Superseded by GT_master.md — do not load
 │
 ├───HTML/
 │       Character_Sheet.html        — Character sheet viewer (portraits + stats from GitHub repo)
@@ -115,33 +127,27 @@ E:.
 │       transit_index.md              — Transit system index and load guide
 │       transit_network_reference.md  — Full network reference (routes, fares, schedules)
 │       transit_south_corridor.md     — South corridor detail (Auburn/Puyallup/Tacoma)
+│       ork_underground.md            — Ork Underground district reference ⚠️ GM only
 │       transit_worldbuilding.md      — SR3 transit lore, flavor, world detail
 │
 ├───NPC/
-│       Lone_Star_Beat_Cops.md      — Foot/Auto/Cycle Patrol, Chomer Cop, Riot Control
-│       Lone_Star_Specialist_Cops.md — DoI/DPI Detectives, Mages, Pilots, Watcher, Corpsec ref
-│       Lone_Star_SWAT_SF_Cops.md   — DED, FRT, SWAT Rifleman/Sniper/Spotter/Decker/Mage
-│       GT_threat_load_triggers.md  — Escalation summary, tier trigger conditions ⚠️ GM only
+│       DW response_teams_sr3_conversion.md — Darkwing response team SR3 stat conversion
 │       GT_threat_tier1_grey_shutter.md — Grey Shutter stat block ⚠️ GM only
 │       GT_threat_tier2_cold_notch.md — Cold Notch stat block ⚠️ GM only
 │       GT_threat_tier3_iron_sill.md — Iron Sill stat block ⚠️ GM only
+│       Lone_Star_Beat_Cops.md      — Foot/Auto/Cycle Patrol, Chomer Cop, Riot Control
+│       Lone_Star_Specialist_Cops.md — DoI/DPI Detectives, Mages, Pilots, Watcher, Corpsec ref
+│       Lone_Star_SWAT_SF_Cops.md   — DED, FRT, SWAT Rifleman/Sniper/Spotter/Decker/Mage
 │       sr3_contacts_compressed_v1.md — Contacts and opponents compressed reference
 │
 ├───RULES/
 │   │   01_sperethiel_grammar.md    — Sperethiel grammatical rules and structure
 │   │   02_sperethiel_lexicon.md    — Sperethiel vocabulary reference
 │   │   cell_limits_compact_1.md    — Compact cell limits reference
-│   │   data_rules.md               — Column definitions for data_programs.md
-│   │   deck_rules.md               — Column definitions and options for deck_programs.md
 │   │   firearms.md                 — Firearms list for weapon calls in session
-│   │   Genetech_rules.md           — Genetech rules reference
 │   │   house_rules.md              — Bioware/geneware house rules, Infinite Warehouse
 │   │   phones.md                   — Commlinks, telecom, phone rules reference
 │   │   shadowrun3_action_economy_reference.md — Action economy, free/simple/complex
-│   │   sr3-bioware.md              — Bioware rules and tables
-│   │   sr3-cyberware.md            — Cyberware rules and tables
-│   │   sr3-nanotech.md             — Nanotech rules reference
-│   │   sr3-shamanic-mask-vs-masking.md — Shamanic mask (physical totem tell) vs. masking metamagic (astral)
 │   │
 │   ├───-archive/                   — Superseded flat files, do not load
 │   │       cell_limits_1.md
@@ -226,7 +232,9 @@ E:.
 │       session_09_summary.md
 │       session_10_header.md
 │       session_10_summary.md
-│       session_11_header.md        — ★ current session prep
+│       session_11_header.md
+│       session_11_summary.md
+│       session_12_header.md        — ★ current session prep
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -247,9 +255,11 @@ Load these on demand after the root files:
 | `CHARACTER DATA/deck_programs.md` | Decking scenes — Singer's programs |
 | `CHARACTER DATA/data_programs.md` | Vehicle/drone autosoft work |
 | `CHARACTER DATA/adventure_history.md` | Prior career reference ⚠️ GM only |
+| `CHARACTER DATA/session_11_loot.md` | Session 11 recovered assets and loot ⚠️ GM only |
 | `CHARACTER DATA/pre2025_histories_gm.md` | Pre-2025 character histories ⚠️ GM only |
 | `CHARACTER DATA/pre2025_timeline_players.md` | Pre-2025 timeline (player-facing) |
 | `CONTACTS/contacts_roster.md` | Contact scenes |
+| `NPC/DW response_teams_sr3_conversion.md` | Darkwing response team SR3 stat conversion |
 | `NPC/Lone_Star_Beat_Cops.md` | LS patrol response, foot/auto/cycle/chomer/riot |
 | `NPC/Lone_Star_Specialist_Cops.md` | LS detectives, DPI mages, pilots, watcher |
 | `NPC/Lone_Star_SWAT_SF_Cops.md` | DED, FRT, SWAT — heavy response |
@@ -262,19 +272,17 @@ Load these on demand after the root files:
 | `CRITTERS/dragons_sr3.md` | Dragon encounters |
 | `RULES/firearms.md` | Firearms list — weapon selection and calls in session |
 | `RULES/house_rules.md` | Bioware/geneware edge cases, Infinite Warehouse |
-| `RULES/Genetech_rules.md` | Genetech rules reference |
-| `RULES/sr3-bioware.md` | Bioware rules and tables |
-| `RULES/sr3-cyberware.md` | Cyberware rules and tables |
-| `RULES/sr3-nanotech.md` | Nanotech rules reference |
+| skill: `sr3-genetech` | Genetech rules, gene therapy, microadaptation, protein synthesis, DNA masking, immunization |
 | `RULES/_skills/sr3-example-hosts.md` | Detailed host examples for running decking scenes |
-| `RULES/shadowrun3_action_economy_reference.md` | Action economy questions |
+| skill: `sr3-action-economy` | Action economy, initiative pass flow, free/simple/complex action lists |
 | `RULES/phones.md` | Commlinks, telecom, call mechanics |
 | `RULES/cell_limits_compact_1.md` | Cell/signal limit quick reference |
 | `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` | Sperethiel use in play |
-| `RULES/sr3-shamanic-mask-vs-masking.md` | Shamanic mask or masking metamagic questions |
+| skill: `sr3-shamanic-mask-vs-masking` | Shamanic mask (physical totem tell) vs. masking metamagic |
 | `MAPS/00_security_ratings_master.md` | Full security rating cross-reference |
 | `MAPS/06_auburn.md` | Auburn — current family area of operations |
 | `MAPS/10_puyallup.md` | Puyallup — Dag corridor, barrens fringe |
+| `MAPS/ork_underground.md` | Ork Underground district reference ⚠️ GM only |
 | `MAPS/transit_index.md` | Transit overview — load first, then specific files |
 | `MAPS/transit_south_corridor.md` | South corridor travel (Auburn/Puyallup/Tacoma) |
 | `MAPS/transit_network_reference.md` | Full network detail |
@@ -300,15 +308,19 @@ Load these on demand after the root files:
 | skill: `sr3-spells` | Spell stats and drain lookup |
 | skill: `sr3-special-abilities` | Lightbearer (Singer), Cognition, Adept powers |
 | skill: `sr3-spellcasting` | Spellcasting procedure, drain resolution |
+| skill: `sr3-astral` | Astral perception, assensing, projection, astral combat, wards, barriers, signatures |
+| skill: `sr3-metamagic` | Metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring |
 | skill: `sr3-tactics` | Tactical Computer, SUT, BattleTac, indirect fire |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_10_summary.md` | Most recent completed session narrative |
-| `SESSION LOGS/session_11_header.md` | Current session header |
+| `SESSION LOGS/session_11_summary.md` | Most recent completed session narrative |
+| `SESSION LOGS/session_12_header.md` | Current session header |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
-| `INTEL/GT_threat_load_header.md` | ⚠️ GT threat teams — load first, then tier files as triggered |
+| `INTEL/GT_master.md` | ⚠️ GT intelligence and threat reference — load first, then tier files as triggered |
+| `INTEL/belltown_geography.md` | Belltown district layout and geography |
+| `INTEL/belltown_venues.md` | Belltown venue reference |
+| `INTEL/gray_medical.md` | ⚠️ Cascade Medical Logistics gray-market medical network |
 | `INTEL/memory_restoration_triggers.md` | ⚠️ Memory/power restoration trigger table and session log |
 | `INTEL/RAVN2.md` | ⚠️ RAVN device intelligence summary |
-| `NPC/GT_threat_load_triggers.md` | ⚠️ GT escalation triggers — load when threat tier escalates |
 | `NPC/GT_threat_tier1_grey_shutter.md` | ⚠️ Grey Shutter stat block — load when tier 1 triggered |
 | `NPC/GT_threat_tier2_cold_notch.md` | ⚠️ Cold Notch stat block — load when tier 2 triggered |
 | `NPC/GT_threat_tier3_iron_sill.md` | ⚠️ Iron Sill stat block — load when tier 3 triggered |
@@ -323,9 +335,9 @@ Load these on demand after the root files:
 | What are Singer's stats? | `CHARACTERS/singer.md` |
 | What cyberware do 3PR share? | `CHARACTER DATA/shared_3pr_augmentations.md` |
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
-| What happened in Session 10? | `SESSION LOGS/session_10_summary.md` |
+| What happened in Session 11? | `SESSION LOGS/session_11_summary.md` |
 | Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ |
-| What is the GT threat tier status? | `INTEL/GT_threat_load_header.md` ⚠️ |
+| What is the GT threat tier status? | `INTEL/GT_master.md` ⚠️ |
 | What triggers memory/power restoration? | `INTEL/memory_restoration_triggers.md` ⚠️ |
 | What contacts does the team have? | `CONTACTS/contacts_roster.md` |
 | How does jamming work? | skill: `sr3-comm-rules` |
@@ -335,7 +347,7 @@ Load these on demand after the root files:
 | How does transit work? | `MAPS/transit_index.md` → specific files |
 | How does action economy work? | `RULES/shadowrun3_action_economy_reference.md` |
 | What does that Sperethiel word mean? | `RULES/02_sperethiel_lexicon.md` |
-| How does shamanic mask / masking work? | `RULES/sr3-shamanic-mask-vs-masking.md` |
+| How does shamanic mask / masking work? | skill: `sr3-shamanic-mask-vs-masking` |
 
 ---
 
@@ -352,8 +364,8 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 10 complete — Session 11 pending
-**Heat:** BOLO stale, misdirection posted · LS tracker on Cascade van noted
+**Status:** Session 11 complete — Session 12 pending
+**Heat:** BOLO stale but live · LS very active (three scenes) · Okonkwo on St. Peter Claver · RAVN placer recovers burnt housing 0431 Wed
 **Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 988¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
 medical procedure. Memories clear only to 2025. Someone left a trail for them
@@ -370,4 +382,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 10 — Session 11 in progress*
+*Repository current through Session 11 — Session 12 pending*

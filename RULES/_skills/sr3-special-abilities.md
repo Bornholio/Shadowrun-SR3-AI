@@ -36,28 +36,6 @@ user-invocable: false
 
 ---
 
-## COGNITION
-*Metamagic — Adept or Mystic Adept only (SotA:2064)*
-*Prerequisite: Centering technique (MitS p.72) and a Centering skill*
-*Possessed by: Singer, Banshee, Carpenter*
-
-### What It Does
-- Center for success or reduce modifiers on **Intelligence Tests** including Perception and Learning — Free Action
-- Center to reduce modifiers when **defaulting to INT** from INT-linked skills
-- **+1 die** to all Knowledge and Language Skill Tests
-- **−1 Karma cost** to increase skills (minimum 1 GK per rating point)
-
-### When to Call
-- Any INT-based test where penalties apply and character wants to Center
-- Any Knowledge or Language test — add 1 die automatically
-- Skill advancement cost calculation
-
-### Notes
-- Each initiation grade can extend Centering to an additional Knowledge skill category in place of a new metamagic
-- Perceptive bonus of +1–2 dice to Assensing and related perception tests applies at GM discretion — mechanical detail thin in SotA:2064
-- Cross-reference with Centering rules in sr3_game_rules.md for Mode C (penalty reduction)
-
----
 
 ## ADEPT POWERS
 

@@ -25,20 +25,15 @@
 | Astral Pool | — | 12 | (I+W+M)/3 |
 | Karma Pool | — | 11 | 1/20gk |
 | Good Karma | — | 32 | |
-
+| Hacking Pool | — | 12 | |
 ---
-
-## BattleTac Role
-
-**Role:** Receiver (default) — BT Cyberlink active · −2TN on Singer SUT tests targeting Carpenter · auto data access · cyber senses feed Singer's TC via radio
-*Can act as master if Singer unavailable — SUT 0, TC bonus serves as skill rating, effective 4 with TC Rating 4.*
 
 ## Active Skills
 
-| Skill | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |-------|------|--------|-------|
 | Athletics | Bod | 9 (15) | ★ Aptitude, Centering |
-| Stealth | Qui | 13 (15) | ★ Aptitude, Centering |
+| Stealth | Qui | 13 (15) | ★ Aptitude, Centering, +1 Theft/Sleight of Hand |
 | Wilderness Survival | Wil | 4 | |
 | Etiquette | Cha | 6 | |
 | Instruction | Cha | 4 | |
@@ -47,9 +42,9 @@
 | Leadership | Cha | 6 | ★ Aptitude, Centering |
 | Negotiation | Cha | 4 | |
 | Singing | Cha | 4 | |
-| Computer | Int | 6 | ★ Aptitude, Centering |
-| Electronics | Int | 6 | |
-| Biotech | Int | 6 | |
+| Computer | Int | 6 (7) | ★ Aptitude, Centering |
+| Electronics | Int | 6 (7) | |
+| Biotech | Int | 6 (7) | |
 | Assault Rifles | Qui | 4 (5) | |
 | Clubs | Str | 6 (7) | ★ Aptitude, Centering |
 | Edged Weapons | Str | 4 (5) | |
@@ -64,8 +59,8 @@
 | Conjuring | Wil | 7 | ★ Aptitude, Centering |
 | Enchanting | Wil | 5 | Centering |
 | Aura Reading | Int | 6 | |
-| Centering | Wil | 4 | Latin |
-| Centering | Wil | 4 | Mathematics |
+| Centering | Wil | 4 | Latin, Vocal |
+| Centering | Wil | 4 | Mathematics, Hand Motion |
 | Car | Rea | 6 (7) | Centering |
 | Bike | Rea | 4 (5) | |
 | Boat | Rea | 4 (5) | |
@@ -89,7 +84,7 @@
 |----------|------|--------|-------|
 | English | Int | 13 (17) | City Speak |
 | Sperethiel | Int | 13 (17) | |
-| German | Int | 5 (8) | |
+| German | Int | 5 (9) | |
 | French | Int | 5 (8) | |
 | Irish Gaelic | Int | 5 (8) | |
 | Latin | Int | 6 (10) | |
@@ -97,7 +92,7 @@
 ---
 
 ## Knowledge Skills
-*Base Int 13 (15), +2TN, Centering*
+*Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
 | Skill | Rating |
 |-------|--------|
@@ -158,9 +153,11 @@
 
 ## Edges, Flaws & Special Abilities
 
-**Edges:** Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Quick Healer
+**Edges:** Perceptive (-1TN perception), College Education (-1TN defaulting Academic Knowledge), Tech School Education (-1TN defaulting Background Knowledge), Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Regenerative Healer
 
-**Flaws / Surge:** Altered Eye Color, High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Toughness, High Pain Tolerance 3, Lightning Reflexes 3
+**Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), Wide-band Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
+
+**Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
 
 **4th World Abilities:**
 - Lightbringer — From seeking to destroy Horror in the Salish area
@@ -168,6 +165,9 @@
 - Assumed Path — 6th World Elven Magic, added path selection on top of Shamanism
 - Infinite Warehouse — Metaplanar item storage
 
+**Adept Powers:** Multi-Tasking (0.5 — concentrate on separate actions, two free actions per init pass), Nimble Fingers (0.5 — Sleight of Hand +1 Dice, free actions for simple object use)
+
+**Surge / Parabiology:** Augmented Balance, Eagle Eyes, Ambidexterity 4, Small Frame, Microscopic Vision, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Improved Scent, Improved Taste, Thermographic Vision (Natural), Low Light (Natural), Wide-band Hearing, Hearing Amplification
 ---
 
 ## Cyberware / Bioware
@@ -211,22 +211,3 @@
 - Cash: **988¥**
 - ID: R1, Ages Well — Kevin Strzok
 
----
-
-## Good Karma
-
-**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
-
-| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
-|---|---|---|---|---|---|---|
-| S1–S6 | 5 | 1 | 6 | — | — | Group 5 / Individual: 6 |
-| S7 | 1 | 0 | 1 | — | — | Solid investigative session |
-
-**Running Totals (S1+):**
-- Public GK earned: 6
-- Secret GK earned: 1
-- Total GK earned (S1+): 7
-- GK spent (S1+): 12 — Aura Reading 5→6: 5 / Sorcery 6→7: 7
-- GK available: 32 (bank) + 7 (earned) − 12 (spent) = **27**
-- Karma Pool current: 11
-- Reputation (Malice): 9 ÷ 20 = **0**

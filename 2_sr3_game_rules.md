@@ -42,14 +42,39 @@
 
 ## Narrative Continuity *(GM Eyes Only)*
 
-- Session 01–06 events are canonical — do not retcon without GM instruction
+- Session 01–11 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
 - "Why us then?" is the central unanswered question — do not answer it
-- The family does not know they are initiates
+
 - The family does not know they chose the surgery
 - The family does not know what "old blood" means yet
+
+### Identity Architecture *(hard rules — apply every session)*
+
+ True pre-reset identities known only to: Harlequin, his  Free Spirit agent
+- Harlequin is neutral to the family — owes them for metaplane assistance, does not act against them
+- All persons except the 14 current sheet contacts believe the family dead
+- The 14 contacts know them as completely independent identities — no connection to prior selves
+- **Do not introduce any NPC who recognizes the family's pre-reset identity** without explicit GM instruction
+
+### Enemy and Ally Sources *(hard rules)*
+
+Current enemies arise **only** from:
+1. Interactions around the sale of HMS (HMS-7731-CORP thread)
+2. Harlequin's direct opponents — potentially any Tir prince **except Ehran the Scribe** (Alachia included as possible enemy)
+
+Unknown allies arise **only** from:
+1. HMS former associates defending them as critically important clients
+2. Harlequin's agents sent to foil his enemies
+3. 4th World entities recognizing their synchronized astral presences — **GM intervention only, never incidental**
+
+### 4th World Entities *(hard rule)*
+
+- Introduction by GM intervention only — never speculative, never incidental
+- Do not seed, hint at, or introduce 4th World entity contact outside explicit GM direction
+- Alachia long-burn reveal is sealed — surface at GM pace only
 
 ---
 
@@ -107,16 +132,24 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 
 ---
 
-## Astral Stats
+## COGNITION
+*Possessed by: Singer, Banshee, Carpenter*
 
-| Physical | Astral Equivalent |
-|---|---|
-| STR | CHA |
-| QUI | INT |
-| BOD | WIL |
+### What It Does
+- Center for success or reduce modifiers on **Intelligence Tests** including Perception and Learning — Free Action
+- Center to reduce modifiers when **defaulting to INT** from INT-linked skills
+- **+1 die** to all Knowledge and Language Skill Tests
+- **−1 Karma cost** to increase skills (minimum 1 GK per rating point)
 
-- Astral Initiative = 20 + INT + 1d6
-- Spirits: Initiative based on Force and type
+### When to Call
+- Any INT-based test where penalties apply and character wants to Center
+- Any Knowledge or Language test — add 1 die automatically
+- Skill advancement cost calculation
+
+### Notes
+- Each initiation grade can extend Centering to an additional Knowledge skill category in place of a new metamagic
+- Perceptive bonus of +1–2 dice to Assensing and related perception tests applies at GM discretion — mechanical detail thin in SotA:2064
+- Cross-reference with Centering rules in sr3_game_rules.md for Mode C (penalty reduction)
 
 ---
 
@@ -165,24 +198,6 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 | Summoning | Immediate | Ritual (Force hours) |
 | Domain | One per domain, departs at boundary | Bound until services done |
 | Infrastructure | Lodge | Library |
-| Masking | Yes | No |
-
-**Meridian — dual feature:** Hermetic sorcery (library, no mask) + Lover conjuring (nature spirits, lodge, shamanic structure).
-
----
-
-## Spell Learning
-
-| Factor | Rule |
-|---|---|
-| Source | Teacher or formula — same tradition only |
-| Environment | Shaman: Lodge ≥ Force · Mage: Sorcery library ≥ Force |
-| TN | Force × 2 |
-| Time | Force days ÷ successes (min 1 day) |
-| Karma cost | Force GK |
-| Fail (0 successes) | Time wasted, no Karma lost, teacher still paid |
-| Instruction | Every 2 successes vs TN 4 = +1 die to student's Sorcery Test |
-| Teacher cost | 1,000¥ × Force + living expenses |
 
 ---
 
@@ -202,7 +217,6 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 | Complex subject | 6 |
 | Intricate subject | 9 |
 | Obscure subject | 11 |
-| Lingo/variation | +2 |
 
 ---
 
@@ -237,82 +251,22 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 
 ## Metamagic
 
-| Name | Eligibility | Source |
-|---|---|---|
-| Centering | Both | MitS |
-| Divining | Both | MitS |
-| Masking | Both | MitS |
-| Anchoring | Both | MitS |
-| Cleansing | Both | MitS |
-| Invoking | Mage | MitS |
-| Possessing | Mage | MitS |
-| Quickening | Mage | MitS |
-| Reflecting | Both | MitS |
-| Sacrificing | Both | MitS |
-| Shielding | Both | MitS |
-| Tattoo Magic | Mage | MitS |
-| Movement | Both | MitS (Horse) |
-| Channeling | Both | TAL |
-| Sensing | Both | TAL |
-| Shared Potency | Mage | Threats 2 |
-| Absorption | Both | SotA:2063 |
-| Geomancy | Both | SotA:2063 |
-| Psychometry | Both | SotA:2063 |
-| Severing | Both | SotA:2063 |
-| Symbolic Linking | Mage | SotA:2063 |
-| Filtering | Both | SotA:2063 ⚠️ |
-| Attunement (Animal) | Adept | SotA:2064 |
-| Attunement (Item) | Adept | SotA:2064 |
-| Cognition | Adept | SotA:2064 |
-| Infusion | Adept | SotA:2064 |
-| Limited Astral Projection | Adept | SotA:2064 |
-| Somatic Control | Adept | SotA:2064 |
-| Virtuoso | Adept | SotA:2064 |
-| Invoking Blood Spirits | Mage | Aztlan/MitS |
+*Full reference: `RULES/_skills/sr3-metamagic.md`*
 
-**MitS adept restriction:** Only Centering, Divining, Masking from MitS available to adepts.
-**3PR:** Mystic Adepts — full list per sheets per GM ruling.
+Load when: metamagic mechanic is invoked in play, eligibility question, or metamagic detail needed.
 
-### Centering
+---
 
-Free Action — declare before base skill test. Do not center when silence is required.
+## Ork Underground — Operational Notes
 
-| Mode | When | TN | Effect |
-|------|------|----|--------|
-| A — Success | Astrally perceiving | Same as base skill | Complementary dice (halved) added to base test |
-| B — Drain | Before drain roll | Drain TN | Complementary dice (halved) added to drain resistance |
-| C — Penalties | Before base test | Base TN − Initiate Grade | Every 2 successes = −1 TN on base test |
+*Full reference: `MAPS/ork_underground.md`*
 
-Mode B most effective — pool allocation flexibility, significant drain reduction benefit.
-
-### Masking
-
-- Conceal true initiate grade and magical aura from astral perception
-- Shamans can mask; standard Hermetics cannot
-- Full detection procedure: `RULES/sr3-shamanic-mask-vs-masking.md`
-- Always on by default — deliberate masking is an optional exclusive Simple Action for enhanced concealment
-- Does not affect physical observers; does not work against equal-or-higher-grade astrally projecting initiates
-
-### Shielding
-
-- Provide Spell Defense dice for others within range
-- Range: Initiate Grade × 10m
-- Allocate up to Grade dice — added directly to target's Spell Defense pool
-- Allocated dice unavailable to caster's own pools while shielding
-
-### Quickening *(Mage only)*
-
-- Make a sustained spell permanent — no ongoing concentration required
-- Cost: 1 Karma per Force point of the spell, paid at time of quickening
-- Quickened spell still counts as sustained for dispelling and astral detection
-- Can be dispelled normally; if dispelled, Karma is lost
-
-### Anchoring
-
-- Bind a spell to a trigger object or condition
-- Setup: Force × 2 hours of ritual work; requires lodge or library
-- Trigger condition: physical (touch, spoken word), astral (aura match), or timed
-- Drain occurs at trigger time, not during binding; caster need not be present
+- Pre-2058: not officially recognized, ork-controlled, own police force, no Lone Star presence
+- 22 known public entrances — only two reliably safe for non-orks: Big Rhino (Seneca & 1st) and Lordstrung's (5th & Pine)
+- **Matrix:** Dead zones throughout. No reliable wireless. Hardline access at established nodes only. Singer decking underground = Cold Assist at best without hardline tap. BT network degrades to short-range burst only.
+- **Bronson cache:** Sealed earth, ~40m from Big Rhino stairs. Shape Earth (Singer, F6 fetish) required to open. Flurry is the guide mechanism. Seven military bags, full kit. Bronson letter dated 2052.
+- **Three orks know the location:** Keystone's civil engineer contact (now Denver), two southern Underground construction workers. All consider it mostly forgotten.
+- Load `MAPS/ork_underground.md` when action moves below street level Downtown
 
 ---
 

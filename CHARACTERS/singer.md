@@ -29,7 +29,6 @@
 
 ## Initiative Modes
 
-SA2 = Synaptic Accelerator 2 · LR3 = Lightning Reflexes 3 · RE6 = Reaction Enhancers 6 · RI2 = Response Increase 2
 
 | Mode | REA | Initiative |
 |------|-----|-----------|
@@ -37,30 +36,14 @@ SA2 = Synaptic Accelerator 2 · LR3 = Lightning Reflexes 3 · RE6 = Reaction Enh
 | Rigging (fully mental) | 20 | 20 + 3d6 |
 | Decking (REA based) | 21 | 21 + 3d6 |
 | Decking (fully mental) | 22 | 22 + 4d6 |
-| Cold Assist | 18 | 18 + 3d6 |
+| Decking Cold Assist | 18 | 18 + 3d6 |
 
-## Hacking Pool
 
-| Source | Value |
-|--------|-------|
-| INT 13 + MPCP 8 ÷ 3 | 7 |
-| Encephalon 2 | +2 |
-| Math SPU 3 | +3 |
-| **Total** | **12** |
-
-Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or attribute in use.
-
----
-
-## BattleTac Role
-
-**Role:** Master (default) — SUT 5, effective 9 with TC Rating 4 · Simple Action to convey orders · max 5 teammates boosted
-*Any 3PR can act as master — Singer default by skill advantage.*
 
 | Skill | Stat | Rating | Notes |
 |-------|------|--------|-------|
 | Athletics | Bod | 7 (13) | ★ Aptitude, Centering |
-| Stealth | Qui | 8 (10) | ★ Aptitude, Centering |
+| Stealth | Qui | 8 (10) | ★ Aptitude, Centering, +1 Theft/Sleight of Hand |
 | Wilderness Survival | Wil | 6 (7) | |
 | Etiquette | Cha | 6 | |
 | Instruction | Cha | 4 | |
@@ -96,8 +79,8 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 | Conjuring | Wil | 5 | ★ Aptitude, Centering |
 | Enchanting | Wil | 4 | Centering |
 | Aura Reading | Int | 4 | |
-| Centering | Wil | 4 | Latin |
-| Centering | Wil | 4 | Mathematics |
+| Centering | Wil | 4 | Latin, Vocal |
+| Centering | Wil | 4 | Mathematics, Hand Motion |
 | Car | Rea | 5 (6) | Centering |
 | Bike | Rea | 4 (5) | |
 | Mechanical Arm Op. | Rea | 3 (4) | |
@@ -144,7 +127,7 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 ---
 
 ## Knowledge Skills
-*Base Int 13 (14), +2TN, Centering*
+*Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
 | Skill | Rating |
 |-------|--------|
@@ -237,7 +220,7 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 
 **Edges:** Perceptive (-1TN perception), College Education (-1TN defaulting Academic Knowledge), Tech School Education (-1TN defaulting Background Knowledge), Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Regenerative Healer
 
-**Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
+**Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), Wide-band Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
 
 **Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
 
@@ -249,7 +232,7 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 
 **Adept Powers:** Multi-Tasking (0.5 — concentrate on separate actions, two free actions per init pass), Nimble Fingers (0.5 — Sleight of Hand +1 Dice, free actions for simple object use)
 
-**Surge / Parabiology:** Augmented Balance, Eagle Eyes, Ambidexterity 4, Small Frame, Microscopic Vision, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Improved Scent, Improved Taste, Thermographic Vision (Natural), Low Light (Natural), High/Low Frequency Hearing, Hearing Amplification
+**Surge / Parabiology:** Augmented Balance, Eagle Eyes, Ambidexterity 4, Small Frame, Microscopic Vision, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Improved Scent, Improved Taste, Thermographic Vision (Natural), Low Light (Natural), Wide-band Hearing, Hearing Amplification
 
 ---
 
@@ -308,22 +291,3 @@ Hot ASIST only. Cold Assist = no Hacking Pool. Max dice per test = base skill or
 ### Extender Box
 Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg
 
----
-
-## Good Karma
-
-**GK Bank (pre-S1):** 32 — spend only, no conversion, no reputation
-
-| Session | Public GK | Secret GK | Total Earned | KP Threshold | KP Gained | Notes |
-|---|---|---|---|---|---|---|
-| S1–S6 | 5 | 3 | 8 | — | — | Group 5 / Individual 6 |
-| S7 | 1 | 0 | 1 | — | — | Solid investigative session |
-
-**Running Totals (S1+):**
-- Public GK earned: 6
-- Secret GK earned: 3
-- Total GK earned (S1+): 9
-- GK spent (S1+): 24 — SUT 4→5: 4 / Electronics 8→9: 10 / Negotiation 8→9: 10
-- GK available: 32 (bank) + 9 (earned) − 24 (spent) = **17**
-- Karma Pool current: 11
-- Reputation (Malice): 9 ÷ 20 = **0**
