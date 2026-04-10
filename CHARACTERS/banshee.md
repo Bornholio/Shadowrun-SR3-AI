@@ -205,9 +205,13 @@
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket
-- Secure Vest
-- Military Armored Jacket (Black outfit)
+- Armor Jacket (5 Ballistic / 3 Impact )- Worn
+- Armored Vest with Plates (4 Ballistic / 3 Impact )- Worn, Layered
+- total Armor  (7 Ballistic / 4 Impact )
+- 
+- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
+- Secure Vest (2 Ballistic / 1 Impact ) - Unit 5
+
 
 ### Outfits
 **Ordinary:** Clothing, Hiking Boots, Hooded Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear, Equipment Belt and Pouches  

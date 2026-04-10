@@ -251,13 +251,16 @@
 ### Weapons
 - Defiance T250 (SL, Choke 5, 20rnd Shot), Sling Bag
 - Ruger Super Warhawk (SL, 6 rnds), Holster
+| Ares Viper Slivergun | - | Bagged | Built in Silencer, SL adapter |
+| Spare magazines ×2 | flechette | Banshee | Slivergun |
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket 5/3
-- Secure Vest 2/1
-- Military Armored Jacket (Black outfit)
-- Armor 8/4 (11/5)
+- Armor Jacket (5 Ballistic / 3 Impact )- Worn
+- Secure Vest (2 Ballistic / 1 Impact )- Worn, Layered
+- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
+- Forearm guards (Melee Impact +1)- Worn
+- total Armor  (6 Ballistic / 2 Impact )
 
 ### Outfits
 **Ordinary:** Clothing, Hiking Boots, Hoodie, Jacket, Utility Belt, Hip Bag, Dog Tag, Gold Jewelry, Mesh Socks and Underwear, Bronze Bracers  
@@ -271,8 +274,8 @@
 - Ultrasound Emitter/Detector 10 (Conceal 9, DNI, 8P-V)
 - Sequencer 10 (Conceal 9, DNI, 4P-V)
 - Lockpicking Gun 10 (Conceal 9, DNI, 6P-Q)
-- Synthetic Fingerprint 10 (Conceal 9, DNI, 4P-Q)
-- Scanner Accessory 10 (Conceal 9, DNI)
+- Synthetic Fingerprint 10 (Conceal 9, DNI, 4P-Q, emulates hand or finger prints)
+- Scanner Accessory 10 (Conceal 9, DNI, Scans hand and finger prints)
 
 ### Gear
 - QD Concealing Holster
@@ -287,6 +290,8 @@
 - ZL Bags for all items
 - Cash: **993¥**
 - ID: R1, Ages Well — Dale Kowalski, Wallet
+| Datajack cable | Standard grade, short | Bagged | Low value |
+
 
 ### Extender Box
 Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg

@@ -185,13 +185,16 @@
 ### Weapons
 - Defiance T250 Shotgun (Choke 5, 20 shot)
 - Super Shock Taser
+| Ares Predator II | - | Bagged | Silencer, Built in SL |
+| Spare magazine | standard heavy pistol loads | Banshee | Ares Predator |
 - 9 Shuriken
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket
-- Secure Vest
-- Military Armored Jacket (Black outfit)
+- Armor Jacket (5 Ballistic / 3 Impact )- Worn
+- Secure Vest (2 Ballistic / 1 Impact )- Worn, Layered
+- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
+- total Armor  (6 Ballistic / 3 Impact )
 
 ### Outfits
 **Ordinary:** Clothing, Running Shoes, Hoodie, Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear  
@@ -210,4 +213,4 @@
 - ZL Bags for all items
 - Cash: **988¥**
 - ID: R1, Ages Well — Kevin Strzok
-
+| Field medkit, professional grade | Full — trauma patches, wound sealant, surgical tools, stimulant package | Carpenter | 3kg |
