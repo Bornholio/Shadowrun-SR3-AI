@@ -40,7 +40,7 @@
 
 
 
-| Skill | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |-------|------|--------|-------|
 | Athletics | Bod | 7 (13) | ★ Aptitude, Centering |
 | Stealth | Qui | 8 (10) | ★ Aptitude, Centering, +1 Theft/Sleight of Hand |
@@ -108,7 +108,7 @@
 
 ## Languages
 
-| Language | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
 | English | Int | 13 (17) | City Speak |
 | English R/W | Int | 11 (15) | |
@@ -129,7 +129,7 @@
 ## Knowledge Skills
 *Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
-| Skill | Rating |
+| Skill | Rating (Augmented) |
 |-------|--------|
 | Sociology | 3 (5) |
 | Chemistry | 6 (8) |

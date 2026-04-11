@@ -50,6 +50,32 @@ Two unregistered credsticks recovered:
 - Facility credstick — balance unknown, needs reader
 **Herbertson Medical Services credstick** — balance still unknown, needs HMS-format reader. Carried from pier recovery.
 
+
+Predator II	5	
+Panther Assault Cannon	1	1 mag
+Telescoping baton	1	
+Armor jacket, human	5	
+Armor jacket, troll	1	
+Lined coat	1	
+Sedative injectors	6	Anesthetic-8 loaded
+Professional medkit	2	
+Field surgery kit	1	
+Pharmaceutical tray	1	Labeled, sealed
+Biometric monitor	1	Wrist-mounted, civilian grade
+Subvocal mic	5	
+Radio 6	1	
+Radio 8	1	
+Encryption module 5	1	
+Pocket secretaries	3	
+Cloned data chip	1	Full cell data
+ID card, registered	1	Marcus Tyrell Webb, United Oil
+ID card, blank SIN shell	1	Rating 3
+Plastic restraints	12	
+Mage masks	2	
+
+
+
+
 *Session 11 Loot v1.0 — Malice Family Campaign*
 *Created after Session 11*
 *⚠️ GM EYES ONLY*

@@ -11,7 +11,7 @@
 **Group name:** Malice (the "La" is dropped as superfluous)
 **Shadow rep / web presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — awoke in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only to 2025. The amnesia is the central mystery.
-**Status:** Session 11 complete — Session 12 pending
+**Status:** Session 12 complete — Session 13 pending
 
 ---
 
@@ -38,9 +38,9 @@
 ## Current Situation
 
 **Location:** Sandy Systems LLC, Unit 5, Belltown — established, clean, B-rated security
-**Status:** Tuesday afternoon. All three 3PR returning to Unit 5 from Redmond. Fen settled. Oswin independent.
-**Heat:** BOLO stale but live · LS very active — three scenes running simultaneously · Okonkwo on St. Peter Claver · RAVN placer recovers burnt housing at 0431 Wednesday
-**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 988¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each
+**Status:** Tuesday night / Wednesday approaching. S12 op complete. Drake handled. Aldric meeting Wednesday sunrise — Tacoma waterfront.
+**Heat:** BOLO stale but live · LS very active · Okonkwo on St. Peter Claver · RAVN placer recovered burnt housing 0431 Wednesday — escalation posture unknown · DW kit serial active thread
+**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 588¥ (−400¥ Elite pickup) · Keystone/Meridian/Crowbar/Kluger 938¥ each · Credsticks: 17,050¥ unspent — banking/distribution decision pending · Safehouse Net 30: ~7,650¥ due
 **Credsticks:** Three unregistered (collector ×1, facility ×1, HMS pier ×1) — balances unknown, needs readers
 
 **Active assets:**
@@ -75,6 +75,12 @@
 - Singer headware archive — COLLECTOR / FACILITY / GHOSTLINE-12DAY / FEN-RESEARCH / NCMEM files
 - Oswin's trauma kit — held at Nährboden (not on Oswin — DW scan risk reduced)
 - McHugh's photo (03/03/2058 0612) — archived, seven elves, pre-planned composition
+- Toyota Elite w/RCI — new plates, clean transponder, window repaired · available Mechanic pickup Wednesday 0600 (400¥ paid — Carpenter)
+- Navarro del Toro commcode — live, Johnson on Drake op, does not know operation failed
+- Drake mission cell A comcode — live Tamanous, does not know op failed
+- Drake mission cell B comcode — organ destination, live
+- Marcus Tyrell Webb identity data — United Oil Facilities Tier 2 mole, ID card + cloned chip, does not know he's burned
+- Aldric's berth card — Tacoma waterfront, specific berth, Wednesday sunrise, all seven · key opens something there
 
 **Day job earners (out of sessions):**
 - Keystone — downtown seismic retrofit · 250¥/week
@@ -164,12 +170,14 @@
 2. Trinity nightclub shell license — Tir Tairngire registration
 3. Tamanous pipeline shell account ownership — Tir Tairngire registration, three layers deep
 
-### Jarlath Drake — Active Threat
-- United Oil Seattle security chief
-- Priority one on Tamanous active acquisitions list
-- 48-hour window — solo errand Tuesday evening, no detail
-- Someone inside his operation sold his schedule
-- Procurement codes: Renraku-adjacent shell — corporate kidnapping under Tamanous cover
+### Jarlath Drake — Resolved S12 / Active Thread
+- Great Western Dragon — human form, cover identity: Jarlath Drake, United Oil Seattle Security Chief
+- Tamanous acquisition attempt thwarted S12 — six-man team neutralized, left to Drake
+- Family delivered data bag: traitor file (Marcus Tyrell Webb), target dossier, Navarro del Toro commcode
+- Astral conversation with Banshee — confirmed knowledge of pale architect (*"older debts"*)
+- Accepted note via Great Form City Spirit · will call burner commcode once — GM controlled timing
+- Assessment of Okonkwo given: use her
+- Does not know 3PR true identities · professional recognition trigger fired
 
 ### CSS-7 / Paladin
 **Okonkwo** — on site at St. Peter Claver, SANS host keyed, NCMEM processing. Running split from Raus, managing GT handler. Three tips received this session. Very active.
@@ -182,91 +190,99 @@
 
 ---
 
-## Open Threads — Session 12 Pickup
+## Open Threads — Session 13 Pickup
 
 | Thread | Status | Urgency |
 |---|---|---|
-| Jarlath Drake | 48-hour window — Tuesday evening acquisition attempt | ⚠️ HIGH |
-| RAVN placer | Recovers burnt RAVN-004 housing at 0431 Wednesday — knows device was found | ⚠️ HIGH |
+| Wednesday sunrise — Tacoma waterfront | Aldric waiting, specific berth, all seven · key opens something there | ⚠️ HIGH |
+| Drake's call | Will call burner commcode once — GM controlled timing, possibly Wednesday | ⚠️ HIGH |
+| RAVN placer | Recovered burnt RAVN-004 housing 0431 Wednesday — knows device was deliberately found · escalation posture GM controlled | ⚠️ HIGH |
+| DW kit serial | Raus flagged to DW liaison Tuesday evening — scan could surface Oswin's location | ⚠️ HIGH |
 | Dumb Frame GT results | Dumps Wednesday morning — review before acting | Medium |
 | Ghostline cellular data | 12 days crackable — Ghost Freq (DEADBAND) analysis pending | Medium |
 | RAVN-006 collection node | Building 1 NE — physical access possible | Medium |
 | Futureman Project host | HMS infrastructure, R4 ICE — not yet accessed | Medium |
+| Okonkwo | Three tips, NCMEM filing, SANS access, St. Peter Claver on site — what does she find? | Medium |
+| Navarro del Toro | Live comcode, does not know op failed — approach decision pending | Medium |
+| Marcus Tyrell Webb | United Oil mole, identity confirmed — use, sell, or sit? | Medium |
+| Tamanous cells A and B | Live comcodes, op failed unbeknownst — decision pending | Medium |
 | Operative commcode | Cell sector only — deeper pull pending | Medium |
 | Pocket secretary (collector) | Locked — contents GM controlled | Medium |
-| Credstick balances ×3 | Needs readers | Low-Medium |
 | Third network UNK-D/E/F | Tight-beam operator unknown | Medium |
-| Mechanic thread | Radio install cover — days away, Mechanic warns first | Low |
-| Oswin call | May have follow-up after Drake/LS activity | Medium |
-| Okonkwo approach | She's heavily engaged — format decision pending | Medium |
-| Pier man | Waiting — urgency increasing | Medium |
+| Toyota Elite pickup | New plates, clean — Mechanic, Wednesday 0600 (paid) | Low |
+| Credstick banking | 17,050¥ unspent — distribution or banking decision pending | Low-Medium |
+| Credstick balances ×3 | Unregistered sticks need readers for balance check | Low-Medium |
+| Mechanic thread | Radio install cover — Mechanic warns first | Low |
+| Oswin | Independent, kit at Nährboden — follow-up possible | Low |
+| Pier man | Waiting | Low |
 | Harmon | Theory about reset — holding | Low |
 | Room 6 man | *"When you're ready"* — unanswered | Low |
 | Thing in the water | Will speak again | Low |
 | Reyes new node | Direction-find pending | Low |
-| Corp Secretary | Stolen livery case now active — *"weird lately"* | Low |
+| Corp Secretary | Stolen livery case active | Low |
 | Wind spirit | Not resummoned — decision pending | Low |
 | Net 30 ~7,650¥ | ~2 weeks remaining | Background pressure |
 | Clinic walk-through | Operator contact card held | Low |
 | RAVN-005 / 007 / 008 | Located, intact — action pending | Low |
-| Nährboden | Wants outcome on her people — Ghostline back, Fen recovered, update warranted | Low |
+| Nährboden | Ghostline back, Fen recovered — update still warranted | Low |
 
 ---
 
-## Good Karma — Snapshot (S12 open)
+## Good Karma — Snapshot (S13 open)
 
-*S11 awards pending GM confirmation. Suggested awards below.*
+*S11 and S12 awards confirmed. Totals final.*
 
 | Character | GK Bank (pre-S1) | S1+ Earned | S1+ Spent | GK Available | KP Current |
 |---|---|---|---|---|---|
-| Singer | 32 | 16 | 24 | 24 | 11 |
-| Banshee | 32 | 18 | 16 | 34 | 11 |
-| Carpenter | 32 | 14 | 12 | 34 | 11 |
+| Singer | 32 | 21 | 24 | 29 | 11 |
+| Banshee | 32 | 25 | 16 | 41 | 11 |
+| Carpenter | 32 | 20 | 12 | 40 | 11 |
 | Keystone | 16 | 6 | 19 | 3 | 31 |
 | Meridian | 15 | 6 | 19 | 2 | 31 |
 | Crowbar | 15 | 6 | 14 | 7 | 2 |
 | Kluger | 15 | 6 | 14 | 7 | 2 |
 
-*S11 suggested: Singer +2 (1 public, 1 secret) / Banshee +3 (1 public, 2 secret) / Carpenter +3 (1 public, 2 secret)*
-*Group public +1 (two rescues completed, pipeline disrupted)*
-*GM confirms before finalizing.*
+*Group Public GK earned (S1+): 7 — Reputation (Malice): 0*
 
 ---
 
-## NPC Quick Reference — Active Session 12
+## NPC Quick Reference — Active Session 13
 
 | NPC | Status | Hook |
 |---|---|---|
-| Ghostline | Warm, Nährboden Haus — recovering | 12-day data transferred, cellular analysis pending |
+| Aldric | Confirmed glyph-placer — met S12 | Wednesday sunrise, Tacoma waterfront, specific berth · key opens something |
+| Drake (Jarlath) | Great Western Dragon — S12 engagement complete | Will call burner commcode once · GM controlled timing |
+| Ghostline | Warm, Nährboden Haus | 12-day data transferred, cellular analysis pending |
 | Fen | Settled, Redmond secondary | F&V Baptist commcode held, genetics data in hand |
-| Oswin | Independent, kit at Nährboden | Street shaman handled, available for follow-up |
-| Nährboden | Warm, fully briefed | Ghostline and Fen outcomes known — update warranted |
-| Street shaman | Safe, Oswin extraction | Unaware of scope of threat, warned |
-| Fixer | Has collector + case — livid and active | His move on the collector and the pipeline |
+| Oswin | Independent, kit at Nährboden | Available for follow-up |
+| Nährboden | Warm, fully briefed | Ghostline and Fen outcomes known — update still warranted |
+| Street shaman | Safe, Oswin extraction | Unaware of scope of threat |
+| Fixer | Has collector + case — livid | His move on the collector and the pipeline |
 | Harmon | Warm, waiting | Theory about reset — holding |
-| Mechanic (Teodor Breckenridge) | Warm, recalibrated | Radio install cover pending — warns first |
+| Mechanic (Teodor Breckenridge) | Warm, recalibrated | Elite ready Wednesday 0600 (paid) · radio install cover pending |
 | Pier man | Waiting, waterfront | Proto-Sperethiel, key context |
 | Thing in the water | Puget Sound, pier | Will speak again |
 | Okonkwo | On site St. Peter Claver | Three tips, CSS-7 keyed, SANS doorstop open |
 | Reyes | Republic Parking level three | Still watching garage, unaware of family presence |
 | Tourniquet | Available, Kessler's | Third client — GM controlled |
 | Room 6 man | *"When you're ready"* | Unanswered |
-| Jarlath Drake | United Oil, unaware | 48-hour window, Tuesday evening solo errand |
+| Navarro del Toro | Comcode held — does not know op failed | Johnson on Drake acquisition · Aztec connection not surfaced |
 
 ---
 
-## GM Flags — Session 12
+## GM Flags — Session 13
 
-- **Jarlath Drake** — does the family intervene? If yes: when, how, what's the approach? If no: Drake goes missing Wednesday evening, Tamanous pipeline partially recovers.
-- **RAVN placer reaction** — recovers burnt RAVN-004 housing 0431 Wednesday. What does he do with the knowledge that the device was found and deliberately burned? Escalation or patience?
-- **Third surveillance network** — operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01 is the most significant data point. Connection to HMS 0340 incident?
-- **Dumb Frame GT results** — thin public info, 2 successes. What does Singer actually find Wednesday morning?
+- **Wednesday sunrise — Tacoma waterfront** — Aldric waiting. All seven if possible. What is at the berth? What does the key open? What does Aldric reveal and in what order? Is the pale architect present or referenced?
+- **Drake's call** — GM controlled timing and content. What does he say when he calls the burner commcode? Does he have interrogation results from the Tamanous team?
+- **RAVN placer reaction** — knows device was deliberately found and burned. Escalation, patience, new placement, or direct approach? RAVN-005 health check ping at ~1920 Tuesday, UNK-A interval tightened — source of pre-0431 awareness GM controlled.
+- **DW kit serial** — Raus flagged to DW liaison Tuesday evening. Does the scan happen Wednesday? Does Oswin's location surface?
+- **Dumb Frame GT results** — thin public info, 2 successes. What does Singer find Wednesday morning?
+- **Okonkwo** — three tips, NCMEM filing, SANS access, on site St. Peter Claver. What does she find Wednesday? Does she move toward the family?
 - **Pocket secretary contents** — collector's device, chip removed. GM controlled.
 - **RAVN-006 collection node** — automated or staffed? What does Singer find if he decks it?
 - **Futureman Project host** — what is beyond the R4 ICE? Surgery records? HMS operational data?
-- **Operative commcode** — cell sector triangulated. Deeper pull via Ghost Freq or direct approach?
-- **Oswin's kit** — at Nährboden. DW internal case active. LS is cross-referencing stolen livery equipment now. Does the kit get scanned?
-- **Okonkwo** — with three tips, NCMEM filing, SANS access, and St. Peter Claver on site — what does she find? Does she connect the dots toward the family?
+- **Navarro del Toro** — family has his commcode. Does not know op failed. Approach or sit?
+- **Marcus Tyrell Webb** — United Oil mole identity confirmed. 3PR use it, sell it, or hold?
 - **Wind spirit** — Banshee's decision on resummoning.
 - **Net 30 pressure** — two weeks. No plan. Background escalation.
 
@@ -296,11 +312,18 @@
 - 4th World entity introductions — GM intervention only
 - McHugh's photo photographer — not connectable to pale architect with current evidence
 - Third surveillance network operator — GM controlled
-- Jarlath Drake acquisition order origin — GM controlled (Renraku-adjacent shell above the Tamanous local operation)
+- Jarlath Drake acquisition order origin — Renraku-adjacent shell above the Tamanous local operation, GM controlled depth
 - Fen's secondary marker expression — partial Night One adjacent. Implications GM controlled.
+- Aldric's withheld connections — knows pale architect and Reyes chip contact, both withheld deliberately · same emotional signature · GM controlled, do not generate speculatively
+- Wednesday meeting content — GM controlled entirely
+- Drake's call timing and content — GM controlled
+- The key's function — GM controlled
+- Flurry's recognition of Aldric — noted, do not elaborate without GM direction
+- Drake memory trigger fired S12 — professional recognition layer active, builds with further dragon contact
+- Navarro del Toro corporate affiliation — Aztechnology, do not surface until players run name independently
 
 ---
 
 *Session Header — Malice Family Campaign*
 *File location: 3_session_header.md (root)*
-*Updated after Session 11*
+*Updated after Session 12*

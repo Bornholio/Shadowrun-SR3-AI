@@ -80,7 +80,7 @@
 
 ## Languages
 
-| Language | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
 | English | Int | 13 (17) | City Speak |
 | Sperethiel | Int | 13 (17) | |
@@ -94,7 +94,7 @@
 ## Knowledge Skills
 *Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
-| Skill | Rating |
+| Skill | Rating (Augmented) |
 |-------|--------|
 | Sociology | 6 (8) |
 | Chemistry | 6 (8) |

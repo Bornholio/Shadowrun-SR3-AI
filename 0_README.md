@@ -97,6 +97,7 @@ E:.
 ├───INTEL/                          ⚠️ GM EYES ONLY — threat tracking and mystery architecture
 │   │   belltown_geography.md       — Belltown district layout and geography notes
 │   │   belltown_venues.md          — Belltown venue reference
+│   │   drake_mission_info.md       — Drake acquisition op intel — Johnson, target dossier, live threads ⚠️ GM only
 │   │   gray_medical.md             — Cascade Medical Logistics gray-market medical network
 │   │   GT_master.md                — GT intelligence and threat reference — tier status, escalation, load guide
 │   │   irish_holiday.md            — Irish holiday calendar reference
@@ -234,7 +235,9 @@ E:.
 │       session_10_summary.md
 │       session_11_header.md
 │       session_11_summary.md
-│       session_12_header.md        — ★ current session prep
+│       session_12_header.md
+│       session_12_summary.md       — ⚠️ not yet created
+│       session_13_header.md        — ⚠️ not yet created — ★ create for next session
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -312,12 +315,15 @@ Load these on demand after the root files:
 | skill: `sr3-metamagic` | Metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring |
 | skill: `sr3-tactics` | Tactical Computer, SUT, BattleTac, indirect fire |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_11_summary.md` | Most recent completed session narrative |
-| `SESSION LOGS/session_12_header.md` | Current session header |
+| `SESSION LOGS/session_11_summary.md` | Prior session narrative (S11) |
+| `SESSION LOGS/session_12_header.md` | Session 12 prep header |
+| `SESSION LOGS/session_12_summary.md` | ⚠️ Not yet created — most recent completed session |
+| `SESSION LOGS/session_13_header.md` | ⚠️ Not yet created — next session prep |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 | `INTEL/GT_master.md` | ⚠️ GT intelligence and threat reference — load first, then tier files as triggered |
 | `INTEL/belltown_geography.md` | Belltown district layout and geography |
 | `INTEL/belltown_venues.md` | Belltown venue reference |
+| `INTEL/drake_mission_info.md` | ⚠️ Drake acquisition op intel — Johnson, target dossier, live comcodes |
 | `INTEL/gray_medical.md` | ⚠️ Cascade Medical Logistics gray-market medical network |
 | `INTEL/memory_restoration_triggers.md` | ⚠️ Memory/power restoration trigger table and session log |
 | `INTEL/RAVN2.md` | ⚠️ RAVN device intelligence summary |
@@ -336,7 +342,8 @@ Load these on demand after the root files:
 | What cyberware do 3PR share? | `CHARACTER DATA/shared_3pr_augmentations.md` |
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
 | What happened in Session 11? | `SESSION LOGS/session_11_summary.md` |
-| Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ |
+| What happened in Session 12? | `SESSION LOGS/session_12_summary.md` ⚠️ not yet created |
+| Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ (Aldric — confirmed S12) |
 | What is the GT threat tier status? | `INTEL/GT_master.md` ⚠️ |
 | What triggers memory/power restoration? | `INTEL/memory_restoration_triggers.md` ⚠️ |
 | What contacts does the team have? | `CONTACTS/contacts_roster.md` |
@@ -364,9 +371,9 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 11 complete — Session 12 pending
-**Heat:** BOLO stale but live · LS very active (three scenes) · Okonkwo on St. Peter Claver · RAVN placer recovers burnt housing 0431 Wed
-**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 988¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Safehouse Net 30: ~7,650¥ due
+**Status:** Session 12 complete — Session 13 pending
+**Heat:** BOLO stale but live · LS very active · Okonkwo on St. Peter Claver · RAVN placer recovered burnt housing 0431 Wed · DW kit serial active
+**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 588¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Credsticks: 17,050¥ unspent · Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
 medical procedure. Memories clear only to 2025. Someone left a trail for them
 to find. Someone else told the field operative to stand down.
@@ -382,4 +389,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 11 — Session 12 pending*
+*Repository current through Session 12 — Session 13 pending*

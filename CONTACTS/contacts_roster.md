@@ -1,7 +1,7 @@
 # Contacts Roster — La Malice
 *Malice Family — SR3 Campaign*
 *File location: CONTACTS/contacts_roster.md*
-*Updated after Session 11*
+*Updated after Session 12*
 
 > **Operational state** (next actions, warmth, status) is maintained in the current session header contact table.
 > This file carries static profile data — specialty, relationship type, payment baseline, notes.
@@ -71,6 +71,7 @@ Arms dealer · restricted hardware · Rating 1 · Etiquette Street · Tacoma
 Fixer · Johnson placement · Rating 1 · Etiquette Street · Downtown Seattle
 *S04: Reconnected. Favor ledger open.*
 *S11: Received Tamanous collector and case via family delivery. Livid about unauthorized operation in his pipeline. Now has leverage and information. His move on the collector.*
+*S12: No direct contact. Has Tamanous collector + case. His move on the collector — GM controlled.*
 
 **Talismonger** *(street name unknown)* → codename: TBD
 Talismonger · spell formulae · Rating 1 · Etiquette Street · Pike Street area
@@ -124,6 +125,7 @@ Mechanic · custom fabrication · Rating 1 · Etiquette Street · Kirkland
 Full name: Teodor Breckenridge — operatives used full form, pulled from somewhere outside his current SIN.
 *S04: Two operatives asked about Carpenter ~2 weeks ago.*
 *S11: In-person meeting, Kirkland lunch. Recalibrated, warm. Running radio install cover when ready — warns Carpenter first. Passive monitoring frame installed on his telecom by Carpenter.*
+*S12: Arranged SoDo chop contact for Americar and Toyota Elite. Americar = payment. Elite = new plates, clean transponder, 400¥ cash pickup Wednesday 0600. No face contact. "Don't make this a habit."*
 
 ---
 
@@ -148,6 +150,15 @@ Lone Star contact · records · Rating 1 · Etiquette Street · Auburn LS
 ---
 
 ## Unestablished — Potential Contacts
+
+**Aldric** *(real name confirmed)* → codename: TBD
+Hermetic initiate · glyph-placer · protective watcher
+Gender: Male · Age: Mid-40s presenting · Metatype: Human
+Grade: 4–5 initiate, hermetic tradition, decades of practice
+Specialty: Long-term covert magical protection, organometallic hardware fabrication, proto-Sperethiel literacy, astral surveillance
+Relationship: First physical contact S12 — allowed Mind Probe, full emotional transparency, no deception detected
+*S12: Confirmed as glyph-placer. Has been astrally watching over Unit 5 since before family woke. Flurry recognized him — old friend, root Sperethiel. Delivered Tacoma waterfront address + berth + "Wednesday" on old paper. Instructed key on Banshee's person at all times. Knows pale architect and Reyes chip contact — both withheld deliberately. Same emotional signature around both withheld identities.*
+*⚠️ Wednesday sunrise meeting — Tacoma waterfront, specific berth. All seven. Key opens something there. He is afraid of what happens if someone else explains things to them first.*
 
 **Vessel** → codename: TBD
 Talismonger · Pike Street. Referred by Street Doc.
@@ -177,6 +188,7 @@ Specialty: High-speed Matrix access, signal boost, no-SIN operations — den ope
 Relationship: Established professional · Payment: Billing relationship (cash, no favors) · Warmth: Warm
 *S10: RAVN-004 tap neutralized on her roof. Lines clean. Two missing regulars: Ghostline, Fen.*
 *S11: Fully briefed on RAVN device map. Billing relationship established — cash, no favors. Ghostline recovered and returned. Fen recovered and settled. Update on both outcomes warranted. Holding Oswin's trauma kit. Antenna array flagged for RAVN burst parameters — will alert if new transmissions match.*
+*S12: No direct contact. Antenna array passive flag for RAVN burst parameters still standing. Ghostline returned and settled per S11.*
 *Note: Has unsigned ICE frame, never deployed. Stubby shotgun behind counter, never used in front of anyone.*
 
 **Ghostline** *(matrix handle)* → codename: TBD
@@ -185,6 +197,7 @@ Gender: Male · Age: Unknown · Metatype: Human
 Specialty: Broker network mapping, surveillance infrastructure analysis, passive intercept
 *S10: Flagged as RAVN victim — missing 4+ days, gray market DW pickup.*
 *S11: Recovered from SoDo staging facility. Debriefed at Nährboden Haus. 12-day burst intercept data transferred to Singer — radio encrypted, cellular crackable. Identified Renraku-adjacent shell from filing taxonomy. Warm, debt established. Provided transport via courier contact. Employer: Nährboden (technical).*
+*S12: No direct contact. Cellular data analysis (Ghost Freq / DEADBAND) still pending activation.*
 *Note: Has been mapping broker networks for two years. Flagged Futureman Project host as dangerous three weeks before S10 ork victim hit it.*
 
 **Fen** *(street name only)* → codename: TBD
@@ -217,13 +230,35 @@ Okonkwo's partner. Defers completely. Running visible/reportable pattern while O
 Node burned, rotating. Protecting HMS second signatory. Scent profile locked by Carpenter.
 *S11: Confirmed surveilling Republic Parking garage (Cascade Medical Logistics) from level three, level alone, rental vehicle. GT and Tamanous operation are separate threads — GT stumbled onto Tamanous while following different scent. Unaware family was present. Confused by Hearth Spirit Confusion effect — thought he lost focus briefly.*
 
-**Jarlath Drake** — United Oil Seattle, Security Chief (GM Eyes Only)
-Not a contact — active Tamanous acquisition target.
-Priority one on active acquisitions list. 48-hour window — solo Tuesday evening errand, no detail. Someone inside his operation sold his schedule. Procurement codes link to Renraku-adjacent shell above the Tamanous local operation. Does not know he is targeted.
+**Jarlath Drake** — Great Western Dragon / United Oil Seattle Security Chief (GM Eyes Only)
+Not a contact — significant NPC, single professional interaction S12.
+Cover identity: Jarlath Drake, Chief of Security, United Oil Seattle.
+*S12: Tamanous acquisition attempt thwarted by 3PR. Family delivered data bag (traitor file, target dossier, Navarro del Toro commcode). Drake handled remaining Tamanous agents himself. Accepted note via Banshee's Great Form City Spirit. Astral conversation with Banshee — confirmed knowledge of pale architect ("older debts"), confirmed will call burner commcode once. Assessment of Okonkwo: use her. Professional recognition trigger fired.*
+*⚠️ Will call burner commcode once — GM controlled timing. Does not know 3PR true identities.*
 
 ---
 
 ## Active Threads — Not Contacts
+
+**Navarro del Toro** → active thread
+**Esteban Navarro del Toro** — Director of Strategic Security Enforcement
+Commcode held. Corporate affiliation absent from recovered documents. Aztechnology connection not surfaced.
+*S12: Johnson on Drake acquisition. Milestone payment structure. Does not know operation failed. Drake mission cells A and B are his operational contacts — both live.*
+*⚠️ Do not contact without GM decision on approach.*
+
+**Marcus Tyrell Webb** → active thread
+United Oil Seattle, Facilities Access Tier 2. Registered SIN, ID card in hand.
+Sold Drake's Tuesday schedule — dead drop, payment record confirmed in pocket secretary.
+*S12: Traitor identity confirmed from pocket secretary. Does not know he is burned.*
+
+**Tamanous Drake Mission Cell A** → active thread
+Live comcode. Does not know operation failed. Last contact Monday evening pre-op confirmation.
+
+**Tamanous Drake Mission Cell B** → active thread
+Live comcode. Organ destination receiving operation. Does not know operation failed.
+
+**Wednesday Sunrise Meeting** → active thread
+Tacoma waterfront, specific berth, all seven if possible. Aldric waiting. Key opens something there.
 
 **Daro** → active loose thread
 SINless · Belltown sector · package still on him, location unknown as of S06. Biometric data in broker queue.
@@ -248,5 +283,5 @@ Issued by Sle-cheep Watkins, Pinnacle Peak Park, Muckleshoot NAN. Functions as b
 
 ---
 
-*Contacts Roster v1.9 — Malice Family Campaign*
-*Updated after Session 11*
+*Contacts Roster v2.0 — Malice Family Campaign*
+*Updated after Session 12*

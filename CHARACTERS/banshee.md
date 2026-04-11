@@ -29,7 +29,7 @@
 
 ## Active Skills
 
-| Skill | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |-------|------|--------|-------|
 | Athletics | Bod | 6 (12) | ★ Aptitude, Centering |
 | Stealth | Qui | 8 (10) | Centering |
@@ -84,7 +84,7 @@
 
 ## Languages
 
-| Language | Stat | Rating | Notes |
+| Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
 | English | Int | 13 (17) | Legalese, City Speak |
 | English R/W | Int | 11 (16) | |
@@ -103,7 +103,7 @@
 ## Knowledge Skills
 *Base Int 13 (15), +2TN default (ME3: +3TN), Centering*
 
-| Skill | Rating |
+| Skill | Rating (Augmented) |
 |-------|--------|
 | Sociology | 5 (7) |
 | Medicine | 6 (8) |

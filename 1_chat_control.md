@@ -28,10 +28,12 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `CHARACTER DATA/pre2025_timeline_players.md` — pre-2025 timeline (player-facing)
 
 **Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_12_header.md` — current session header
-- `SESSION LOGS/session_11_summary.md` — most recent completed session narrative
+- `SESSION LOGS/session_13_header.md` — ⚠️ not yet created — next session header
+- `SESSION LOGS/session_12_summary.md` — ⚠️ not yet created — most recent completed session
+- `SESSION LOGS/session_12_header.md` — S12 prep header (reference only post-S12)
+- `SESSION LOGS/session_11_summary.md` — S11 narrative
 
-*Sessions 01–09 headers and summaries archived — load only if specific historical continuity is needed.*
+*Sessions 01–10 headers and summaries archived — load only if specific historical continuity is needed.*
 
 **Maps** — load when action moves to that district
 - `MAPS/00_security_ratings_master.md` — security rating cross-reference
@@ -47,10 +49,12 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 
 **Intel files** — load when relevant thread is active
 - `INTEL/GT_master.md` — Global Technologies: corporate profile, HMS account, Reyes, Okonkwo, threat team escalation tiers, Alachia thread (GM sealed) · replaces GT_notes.md + GT_threat_load_triggers.md
-- `INTEL/GT_threat_tier1_grey_shutter.md` — Grey Shutter stat blocks · load when GT surveillance is active
-- `INTEL/GT_threat_tier2_cold_notch.md` — Cold Notch stat blocks · load when escalation triggered
-- `INTEL/GT_threat_tier3_iron_sill.md` — Iron Sill stat blocks · load when direct action imminent
+- `NPC/GT_threat_tier1_grey_shutter.md` — Grey Shutter stat blocks · load when GT surveillance is active
+- `NPC/GT_threat_tier2_cold_notch.md` — Cold Notch stat blocks · load when escalation triggered
+- `NPC/GT_threat_tier3_iron_sill.md` — Iron Sill stat blocks · load when direct action imminent
 - `INTEL/gray_medical.md` — Cascade Medical Logistics gray market DW operation · load when gray market DW thread is active, Oswin call, or garage approach
+- `INTEL/drake_mission_info.md` — Drake acquisition op: Johnson, target dossier, live Tamanous comcodes, Webb identity · load when Navarro del Toro, Drake cells A/B, or Webb threads are active ⚠️ GM only
+- `INTEL/belltown_geography.md` + `belltown_venues.md` — Belltown district layout and venue reference · load when action moves to Belltown
 
 **Critters** — load when encounter type is known
 - `CRITTERS/critter_rules.md` + `critters_powers_sr3.md` — any critter encounter
@@ -66,15 +70,15 @@ Load when visual character reference is needed. Pulls portraits and .md sheets d
 - `RULES/firearms.md` — weapon selection and calls
 - `RULES/_skills/sr3-example-hosts.md` — host examples for decking scenes
 - `RULES/house_rules.md` — bioware/geneware edge cases, Infinite Warehouse
-- `RULES/_skills/sr3-genetech.md` — genetech general rules, gene therapy, microadaptation, protein synthesis, DNA masking, immunization
-- `RULES/sr3-bioware.md` — bioware rules and tables
-- `RULES/sr3-cyberware.md` — cyberware rules and tables
-- `RULES/sr3-nanotech.md` — nanotech rules reference
+- skill: `sr3-genetech` — genetech general rules, gene therapy, microadaptation, protein synthesis, DNA masking, immunization
+- skill: `sr3-bioware` — bioware rules and tables
+- skill: `sr3-cyberware` — cyberware rules and tables
+- skill: `sr3-nanotech` — nanotech rules reference
 - `RULES/phones.md` — commlink and telecom mechanics
 - `RULES/cell_limits_compact_1.md` — signal and cell limit reference
 - `RULES/_skills/sr3-action-economy.md` — action economy, initiative pass flow, free/simple/complex action lists by category
 - `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` — Sperethiel
-- `RULES/sr3-shamanic-mask-vs-masking.md` — shamanic mask (physical totem tell) vs. masking metamagic (astral concealment); load when either mechanic is relevant
+- skill: `sr3-shamanic-mask-vs-masking` — shamanic mask (physical totem tell) vs. masking metamagic (astral concealment); load when either mechanic is relevant
 - `RULES/_skills/sr3-astral.md` — astral perception, assensing, projection, astral combat, wards, barriers, signatures, tracking, evasion
 - `RULES/_skills/sr3-metamagic.md` — metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring, and others
 
@@ -122,6 +126,7 @@ When a test is called for:
 2. **If anything is missing, ask for all missing items in a single message.** Do not ask one question, wait for the answer, then ask another. One pass only.
 3. **Once all information is in hand, resolve completely** — state the roll, state the result, state the outcome. All in one block. Do not pause for confirmation mid-resolution.
 4. **Format per rolling conventions in 2_sr3_game_rules.md** — always show skill + dice pool + TN + modifiers; open test reports highest single die; threshold test reports dice meeting or beating TN
+5. **Pool source:** Use augmented skill/stat values from character sheets directly. Do not self-calculate modified pools. State the augmented value, then apply any modifiers explicitly and visibly before rolling. Never reroll dice — if a result was rolled incorrectly, flag it and reroll the full pool once with the correct parameters.
 
 ---
 
@@ -252,5 +257,5 @@ Then immediately apply the following posture for the entire session:
 
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 11*
+*Updated after Session 12*
 *🔺 flags mark all changes from original version*

@@ -42,7 +42,7 @@
 
 ## Narrative Continuity *(GM Eyes Only)*
 
-- Session 01–11 events are canonical — do not retcon without GM instruction
+- Session 01–12 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
@@ -129,6 +129,8 @@ Unknown allies arise **only** from:
 Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until resolved — final value replaces the 6). 1s fail. Count all values ≥ TN as successes. Rule of Six does not apply to Initiative.
 
 `Conjuring 18d/TN8 [3,5,2,11,4,1,5,7,2,4,3,5,1,4,14,2,5,3] → 2suc`
+
+**Dice pool rule:** Always use the augmented stat value as printed on the character sheet. Do not calculate or modify the pool before rolling. If a situational modifier applies (e.g. half pool, sustained spell penalty), state it and apply it to the augmented value — do not pre-calculate silently.
 
 ---
 

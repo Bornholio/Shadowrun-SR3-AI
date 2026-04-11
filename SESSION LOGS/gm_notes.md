@@ -2,7 +2,7 @@
 *Malice Family — SR3 Campaign*
 *File location: SESSION LOGS/gm_notes.md*
 *⚠️ GM EYES ONLY — Do not load into player-facing sessions*
-*Updated after Session 11*
+*Updated after Session 12*
 
 ---
 
@@ -110,8 +110,12 @@ Identity and affiliation: GM controlled.
 ### The Surgery Architect
 Something with no published precedent. The surgeon knew M&M rules at academic or authorial level. Three willing patients burned 45 Karma Pool points each. Cyber-magic integration — not compromise. Something new. Aimed at a specific capability set. The 3PR became what someone needed.
 
-### The Glyph-Placer
-Not corporate. Not Lone Star. Not standard runner. Operates outside all current frameworks. Builds hardware from organometallic materials (partially grown). Writes in proto-Sperethiel older than current elven tongue. Left a deliberate fingerprint. Expected to be found. Patient. Has been waiting for la Malice to wake up — possibly for a very long time. Connected to Harlequin's Back through secondary script's linguistic roots.
+### The Glyph-Placer — Confirmed: Aldric
+Real name: Aldric. Other names, other times — said deliberately. Human male presenting mid-40s. Grade 4–5 hermetic initiate, decades of practice. Has been astrally watching over Unit 5 since before the family woke — not surveillance, protective. Allowed Mind Probe without resistance. Placed all RAVN-adjacent devices. Wrote the pier case note. Left the glyph at the Hearth Spirit's building.
+Knows the pale architect (*"older debts"*) — withholds deliberately. Knows who touched Reyes's chip — withholds deliberately. Same emotional signature around both withheld identities — possibly the same entity.
+Knows Drake. Was unsurprised by the family's Commodore engagement. Flurry recognition: *"Hello, old friend."* Root Sperethiel, to the cat directly.
+*Wednesday meeting — Tacoma waterfront, specific berth, sunrise, all seven if possible. He is afraid of what happens if someone else explains things to them first. The key opens something at that location — GM controls what.*
+Not corporate. Not Lone Star. Not standard runner. Operates outside all current frameworks. Builds hardware from organometallic materials (partially grown). Writes in proto-Sperethiel older than current elven tongue. Patient. Has been waiting for la Malice to wake up — possibly for a very long time. Connected to Harlequin's Back through secondary script's linguistic roots.
 
 ### Harlequin Connection *(GM only — never surface to players)*
 All seven present at Harlequin's Back. The SURGE expression triggered by magical backlash. The proto-Sperethiel script is from the same linguistic family as the oldest elven languages. Harlequin measures time in centuries and has reasons to prepare assets across decades. The glyph-placer may be known to Harlequin. Or may BE Harlequin. Or may be something older.
@@ -155,7 +159,7 @@ Seven elves at McHugh's diner, 03/03/2058 at 0612. Two hours after waking.
 | Althain | Physical visit to Mt. St. Helens | Complete restoration, all seven |
 
 **Insect spirits:** Abiding hatred wells up before conscious recall. Characters act before they know why.
-**Dragons:** Professional recognition — *"I have done this before."*
+**Dragons:** Professional recognition — *"I have done this before."* — **Fired S12 during Drake engagement.** Pre-conscious, builds with further dragon contact. Does not restore Infinite Warehouse. Geyswain/Arleesh trigger is separate.
 **Two Harlequin arcs:** Memory restoration may conflate the 2050 arc and Harlequin's Back (2057). Characters may get confused about which memories belong to which event.
 
 ---
@@ -180,16 +184,43 @@ Hundreds of contacts exist in the world, undocumented. Load on demand when:
 
 ---
 
-## Active GM Threads — Session 12
+## Active GM Threads — Session 13
 
-### Jarlath Drake — 48-Hour Window
-United Oil Seattle security chief. Priority one on Tamanous active acquisitions list. Solo Tuesday evening errand, no detail — someone inside his operation sold his schedule. Acquisition attempt Wednesday evening if family does not intervene. Procurement codes link to Renraku-adjacent shell above the local Tamanous operation. Does not know he is targeted. GM decides: does the family intervene, and what does the acquisition attempt look like if they don't?
+### Wednesday Sunrise — Tacoma Waterfront
+Priority one. All seven. The key opens something at the berth. GM controls:
+- What is at the berth
+- What the key opens
+- What Aldric reveals and in what order
+- Whether the pale architect is present or referenced directly
+- Whether Pier man is connected to this location
+
+### Aldric's Withheld Connections
+He knows who touched Reyes's chip. He knows the pale architect. Both withheld with the same emotional signature. GM decides: same entity or different? Surface at GM pace at Wednesday meeting or later.
+
+### Drake's Call
+He will call the burner commcode once — GM controlled timing and content. Could be Wednesday. Could be weeks. May have information from his interrogation of the Tamanous team, or may simply have a question.
 
 ### RAVN Placer — Escalation Decision
-Recovered burnt RAVN-004 housing at 0431 Wednesday. Knows the device was deliberately found and burned — not timer-triggered self-destruct, externally burned. Someone has operational knowledge of the RAVN network. GM decides response: patience, network reconfiguration, new device placement, or acceleration.
+Housing recovered 0431 Wednesday. Knows it was deliberately found and burned.
+- RAVN-005 health check ping at ~1920 Tuesday — not in prior 11 days
+- UNK-A interval tightened from 4-hour to 3-hour starting 2000 Tuesday
+Source of pre-0431 awareness: RAVN-004 dropout logged at collection node on neutralization / physical observation at Nährboden / unmapped eyes — GM decides which.
+GM decides response: patience, reconfiguration, new placement, acceleration, or direct approach.
+
+### Tamanous — Live Threads
+Navarro del Toro commcode is live. Does not know operation failed — if players call posing as T-1, he expects delivery confirmation. GM controls response.
+Marcus Tyrell Webb — United Oil traitor. Players have this. Does not know he is burned.
+Drake mission cells A and B live — do not know operation failed.
+Aztechnology connection: not in any recovered document. Do not surface corp affiliation until players run the name independently.
+
+### Okonkwo — Connecting Threads
+Three tips, NCMEM filing, Commodore connected to CSS-7. What does she find Wednesday? Does she move toward the family? SANS doorstop open — she can reach Singer's monitoring system without knowing it.
+
+### DW Kit Serial
+Raus flagged to DW liaison Tuesday evening. Thread active Wednesday. Does the scan happen? Does Oswin's location surface? He's gone dark with the kit — reduces but does not eliminate risk.
 
 ### Third Surveillance Network
-Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 is the most significant data point — two blocks from fixer, same HMS timestamp, two days before reset. Connection to pale architect? Connection to HMS directly? GM decides what the third network is watching for and who operates it.
+Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 — two blocks from fixer, same HMS timestamp, two days before reset. Connection to pale architect? Connection to HMS directly? GM decides what the third network is watching for and who operates it.
 
 ### RAVN-006 Collection Node
 Physical access possible. Building 1 NE interior. Singer has crypto access key. Automated or staffed? GM decides before Singer attempts access.
@@ -197,20 +228,14 @@ Physical access possible. Building 1 NE interior. Singer has crypto access key. 
 ### Futureman Project Host
 HMS infrastructure. External backdoor exists. Psychotropic ICE R4 active. What is beyond the ICE? Surgery records, HMS operational data, something older? GM decides before Singer accesses.
 
-### Oswin's Kit Serial
-At Nährboden now — not on Oswin. DW internal investigation active. LS cross-referencing stolen livery equipment in the garage on 3rd. If the kit gets scanned by anyone with DW database access — including LS processing the garage scene — it triggers a case file pull and flags Oswin's location. GM controls timing.
-
 ### Dumb Frame GT Results
 2 successes. Thin GT public info. What does Singer find Wednesday morning? GM decides content before review.
 
 ### Mechanic Cover Approach
 Radio install cover pending. Mechanic (Teodor Breckenridge) warns Carpenter before making contact. Operatives — identity and affiliation GM controlled.
 
-### Pocket Secretary — Collector's
-Chip removed, locked. Contents GM controlled.
-
 ### Fen's Partial Markers
-Unactivated secondary meta-genetic markers, Night One adjacent. Implications GM controlled. As Halley's Comet approach intensifies through 2058, the pressure on these markers increases.
+Unactivated secondary meta-genetic markers, Night One adjacent. Implications GM controlled. As Halley's Comet approach intensifies through 2058, pressure on these markers increases.
 
 ### Tir Tairngire Thread — Three Data Points
 1. Ó Maolalaidh — HMS signatory, Tir forwarding address
@@ -226,7 +251,7 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 ## Standing GM Continuity Rules
 
-- Sessions 01–11 events are canonical — do not retcon without GM instruction
+- Sessions 01–12 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
 - The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
@@ -250,6 +275,13 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 - Jarlath Drake acquisition order origin — Renraku-adjacent shell above local Tamanous operation, GM controlled
 - Fen's secondary marker expression — partial Night One adjacent, implications GM controlled
 - 4th World entity introductions — GM intervention only, not speculative or incidental
+- Aldric's identity and withheld connections — GM controlled, do not generate speculatively
+- Wednesday meeting content — GM controlled entirely
+- Drake call timing and content — GM controlled
+- The key's function — GM controlled
+- Flurry's recognition of Aldric — noted, do not elaborate without GM direction
+- Drake memory trigger fired S12 — professional recognition layer active, builds with further dragon contact
+- Navarro del Toro corp affiliation — Aztechnology, do not surface until players run name independently
 
 ---
 
@@ -270,6 +302,6 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 ---
 
-*GM Notes v1.6 — Malice Family Campaign*
-*Updated after Session 11*
+*GM Notes v1.7 — Malice Family Campaign*
+*Updated after Session 12*
 *⚠️ GM EYES ONLY*
