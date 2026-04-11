@@ -1,0 +1,47 @@
+/* ── Width ── */
+.mx-auto.max-w-3xl,
+.mx-auto.max-w-2xl,
+[class*="max-w-3xl"],
+[class*="max-w-2xl"] {
+  max-width: 90vw !important;
+}
+
+/* ── THE real fix: container gap ── */
+.standard-markdown {
+  gap: 0.15rem !important;
+}
+
+/* ── Line height on each paragraph ── */
+.font-claude-response-body {
+  line-height: 1.1 !important;
+}
+
+/* ── Between conversation turns ── */
+.flex.flex-col.gap-4,
+.flex.flex-col.gap-6,
+.flex.flex-col.gap-8 {
+  gap: 0.1rem !important;
+}
+
+/* ── User message bubble padding ── */
+.bg-bg-300 {
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+}
+
+/* ── Action bar (thumbs row) — shrink its vertical space ── */
+.flex.justify-start {
+  min-height: 0 !important;
+  margin-top: 0.1rem !important;
+}
+
+/* ── Outer message container gaps ── */
+.flex.flex-col.items-end.gap-1,
+.flex.flex-col.items-start.gap-1 {
+  gap: 0.1rem !important;
+}
+
+[class*="py-2\.5"] {
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+}
