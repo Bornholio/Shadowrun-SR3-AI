@@ -1,8 +1,8 @@
 # Banshee
-**Metatype:** Elven (Night One) | **Weight:** 52kg | **Height:** 169cm  
-**Alias:** Patty Novak (R1, Ages Well)  
-**Lifestyle:** Squatter  
-**Eye Color:** Bright Blue  
+**Metatype:** Elven (Night One) | **Weight:** 52kg | **Height:** 169cm
+**Alias:** Patty Novak (R1, Ages Well)
+**Lifestyle:** Squatter
+**Eye Color:** Bright Blue
 **Contacts:** Street Doc, Corp Secretary
 
 ---
@@ -11,15 +11,15 @@
 
 | Stat | Racial Max | Value | Notes |
 |------|-----------|-------|-------|
-| BOD  | 9 | 9 | |
-| QUI  | 11 | 11 (15) | x3 |
-| STR  | 9 | 9 (13) | |
-| CHA  | 11 | 16 (20) [21] | Signature 7 (6 when healing) |
-| INT  | 9 | 11 (13) | Centering |
-| WIL  | 10 | 14 | |
-| ESS  | 6 | 5.00 | Bio Index 0.50 / Essence Loss 0.50 |
-| REA  | — | 14 (18) [24] | (Q+I)/2 + Modifiers |
-| INI  | — | 24+3d6 | 21+1d6★ Deck |
+| BOD| 9 | 9 | |
+| QUI| 11 | 11 (15) | x3 |
+| STR| 9 | 9 (13) | |
+| CHA| 11 | 16 (20) [21] | Signature 7 (6 when healing) |
+| INT| 9 | 11 (13) | Centering |
+| WIL| 10 | 14 | |
+| ESS| 6 | 5.00 | Bio Index 0.50 / Essence Loss 0.50 |
+| REA| — | 14 (18) [24] | (Q+I)/2 + Modifiers |
+| INI| — | 24+3d6 | 21+1d6★ Deck |
 | Magic | — | 12 | |
 | Task Pool | — | 1 (3) | |
 | Karma Pool | — | 11 | 1/20gk |
@@ -137,8 +137,8 @@
 
 ## Magic
 
-**Tradition:** Wolf Shaman / Path of the Druid  
-**Grade:** 8 Initiate  
+**Tradition:** Wolf Shaman / Path of the Druid
+**Grade:** 8 Initiate
 **Group:** Malice (Shaman and Mage, 7 members, No strictures)
 
 **Totem Bonuses:**
@@ -167,11 +167,9 @@
 
 ## Edges, Flaws & Special Abilities
 
-**Edges:** Perceptive (-1TN perception), College Education (-1TN defaulting Academic Knowledge), Tech School Education (-1TN defaulting Background Knowledge), Aptitude (multiple skills), Good Reputation 2, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Focused Concentration, Vehicle Empathy, Astral Chameleon, Regenerative Healer
+**Edges:** Ambidexterity 4, Aptitude, Astral Chameleon, At Ease, Bilingual, Bravery, College Education, Cracker: Access Tests, Double Jointed, Exceptional Attribute, Focused Concentration, Good Reputation 2, High Pain Tolerance 3, Lightning Reflexes 3, Natural Hardening 2, Perceptive, Photographic Memory, Regenerative Healer, Sense of Direction, Spirit Affinity, Tech School Education, Toughness, Vehicle Empathy
 
-**Flaws / Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), Wide-band Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
-
-**Foci / Initiated Abilities:** Spell List All (SR3 Core) 1, Fashion 1
+**Flaws / Surge:** Critter Spook, Albinism, Small Frame, Strange Eyes, Unusual Hair (White), Weak Immune System 1, Augmented Balance, Eagle Eyes, Hearing Amplification, High Pain Tolerance 3, Improved Scent, Improved Taste, Lightning Reflexes 3, Low Light (Natural), Microscopic Vision, Quick Healer, Resistance to Poison 3, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Thermographic Vision (Natural), Toughness, Wide-band Hearing
 
 **4th World Abilities:**
 - Lightbringer — From seeking to destroy Horror in the Salish area
@@ -181,8 +179,6 @@
 
 **Adept Powers:** Multi-Tasking (0.5 — concentrate on separate actions, two free actions per init pass), Nimble Fingers (0.5 — Sleight of Hand +1 Dice, free actions for simple object use)
 
-**Surge / Parabiology:** Augmented Balance, Eagle Eyes, Ambidexterity 4, Small Frame, Microscopic Vision, Retractable Climbing Claws, Sound Dampening, Sound Discrimination 5, Improved Scent, Improved Taste, Thermographic Vision (Natural), Low Light (Natural), Wide-band Hearing, Hearing Amplification
-
 ---
 
 ## Cyberware / Bioware
@@ -190,8 +186,6 @@
 **cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
 **Bioware** ©ultured; Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
-
-**ESS:** 5.00 | Bio Index 0.50
 
 ---
 
@@ -207,15 +201,15 @@
 ### Armor
 - Armor Jacket (5 Ballistic / 3 Impact )- Worn
 - Armored Vest with Plates (4 Ballistic / 3 Impact )- Worn, Layered
-- total Armor  (7 Ballistic / 4 Impact )
+- total Armor(7 Ballistic / 4 Impact )
 - 
 - Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
 - Secure Vest (2 Ballistic / 1 Impact ) - Unit 5
 
 
 ### Outfits
-**Ordinary:** Clothing, Hiking Boots, Hooded Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear, Equipment Belt and Pouches  
-**Black:** Military Armored Jacket, Real Leathers, Light Web Gear, Combat Boots, Snake Mesh Socks, Leather Gloves  
+**Ordinary:** Clothing, Hiking Boots, Hooded Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear, Equipment Belt and Pouches
+**Black:** Military Armored Jacket, Real Leathers, Light Web Gear, Combat Boots, Snake Mesh Socks, Leather Gloves
 **Antisensor Urban Camo:** Poncho, Respirator, Beanie, Small Equipment Pouch, Large Equipment Pouch, Pistol Ammunition Pouch
 
 ### Gear

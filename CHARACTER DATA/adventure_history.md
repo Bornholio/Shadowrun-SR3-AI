@@ -65,7 +65,7 @@ Adventures marked with memory trigger icons where applicable.
 | 05/04/55 | Divided Asset | — | |
 | 06/08/55 | Double Exposure | — | |
 | 01/08/57 | Harlequin's Back | — | ⭐🔴 Epic metaplane journey. Blunted early Horror arrival. Magical backlash triggered Night One / SURGE expression in all seven. Trigger: proximity to volcano-affected site or Great Ghost Dance site. Fragmentary restoration, builds with exposure. Two Harlequin arcs may conflate during restoration. |
-| 08/11/57 | Super Tuesday | — | ⭐ **Pentarus killed shortly after.** Possibly investigating president's assassination. Last major run before the reset. |
+| 08/11/57 | Super Tuesday | — | ⭐ **Pentarus killed shortly after.** Possibly investigating president's assassination. Last major run before the reset., end date |
 | 08/19/57 | Maintenance and weekly activity | — | Last recorded activity. |
 | 03/03/2058 | **RESET** | — | ⭐ Family wakes at McHugh's. Memory cleared. |
 | 03/03/2058 | Session 01 | Malice | McHugh's diner — family wakes post-procedure, squatter building secured |

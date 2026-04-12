@@ -1,3 +1,8 @@
+---
+name: sr3-metamagic
+description: SR3 Shadowrun 3rd Edition metamagic rules for GM reference. Load when the session involves metamagic techniques — Anchoring, Centering, Divining, Masking, Shielding, Reflecting, Invoking, or adept-specific metamagics. Covers MitS adept restrictions, Mystic Adept rulings, and 3PR house rules. SR3 only — sources MitS, TAL, SotA:2063, SotA:2064, Threats 2, Aztlan.
+---
+
 # SR3 Metamagic
 *Skill file — load on demand*
 *Source: MitS, TAL, SotA:2063, SotA:2064, Threats 2, Aztlan*

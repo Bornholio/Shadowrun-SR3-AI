@@ -36,7 +36,7 @@ Three tiers in order. Formula applied separately to Ballistic and Impact.
 | 2 — Clothing-based | Vest, armor clothing, secure clothing — worn over form-fitting |
 | 3 — Outer | Jacket or coat — worn over clothing-based |
 
-**Formula:** Highest rated piece + ½ next highest (round down). Per rating independently.
+**Formula:** Highest rated piece + ½ sum of all other layered armor peices (round down). Per rating independently.
 
 **Stacking (not layering):** Helmet, riot shield, forearm guards — add ratings directly. Count toward QUI penalty. No formula applied.
 
@@ -47,7 +47,8 @@ Three tiers in order. Formula applied separately to Ballistic and Impact.
 ## COMBAT POOL PENALTY
 
 Check Ballistic and Impact independently vs character's QUI.  
-For every 2 full points either rating exceeds QUI → −1 Combat Pool die.  
+For every 2 full points either rating exceeds QUI → −1 Combat Pool die. 
+For layered armor sum full ballistic or impact rating to find penalty 
 Use whichever rating produces the larger penalty.
 
 ---

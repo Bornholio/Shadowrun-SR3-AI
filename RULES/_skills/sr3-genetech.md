@@ -1,3 +1,8 @@
+---
+name: sr3-genetech
+description: SR3 Shadowrun 3rd Edition genetech rules for GM reference. Load when the session involves genetic modifications, Bio Index from genetech, gene therapy, cellular repair, age rejuvenation, genengineered substances, or in utero modifications. Covers interaction with cyberware/bioware, magical signature degradation from Bio Index gain, and genetech precedence rules. Source: Man & Machine SR3.
+---
+
 # SR3 Genetech
 *Skill file — load on demand*
 *Source: Man & Machine (SR3)*
@@ -40,10 +45,6 @@
   - Also raises that attribute's **Maximum** to Racial Modified Limit × 1.5 (round up)
   - Does **not** increase current attribute score — limit/maximum only
 - May be incompatible with organ replacements (cyberlimbs, cybereyes, orthoskin, etc.)
-
-**Costs (gene therapy):**
-- Major whole-body change: 2 months / 50,000¥
-- Restore existing genetic pattern: 1 month / 30,000¥
 
 ---
 

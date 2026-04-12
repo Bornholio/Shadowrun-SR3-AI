@@ -1,3 +1,8 @@
+---
+name: sr3-astral
+description: SR3 Shadowrun 3rd Edition astral space rules for GM reference. Load when the session involves astral perception, astral projection, assensing, astral combat, astral barriers, mana warps, background count, astral tracking, or dual-natured beings. Covers perception TN penalties, assensing success table, astral combat mechanics, and signature rules. SR3 only.
+---
+
 # SR3 Astral Rules
 *Skill file — load on demand*
 *Source: SR3 core*

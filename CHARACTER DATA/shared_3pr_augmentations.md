@@ -1,6 +1,6 @@
 # Shared Augmentations — 3PR (Singer, Banshee, Carpenter)
 *This file covers all cyberware, bioware, nanoware, geneware, and related augmentations common to Singer, Banshee, and Carpenter.*
-*All implants are Delta grade unless noted. Surgical outcomes: −90% Essence cost (Karma-assisted), +2 Concealment on all implants.*
+
 *Scan and Conceal values include delta grade and surgical outcome bonuses. Do not modify without GM review.*
 
 ---
@@ -102,7 +102,7 @@
 
 ## Nanoware
 
-*Detection: nanoscanner required for free-floating/transient systems. Nanite Hive and Facilitator are cyberware — caught by cyberscanner, not nanoscanner.*
+
 
 | Device | Type | Notes | Ports | Legality | Conceal | Scan |
 |--------|------|-------|-------|----------|---------|------|
@@ -111,17 +111,12 @@
 | Nanite Hive (Nanosymbiotes) | Nano-implant (cyberware) | Restores 5% Nanosymbiote function per day · −1 Signature while nanites active | -1 | 4P-R | 14 | 14 |
 | Nanosymbiotes | Nano (free-floating) | Heal as 1 damage level lower · Stun base time 30min/box · −5% per box Physical damage · Incompatible with symbiotes bioware | — | Legal | — | Nano |
 
-*Nanoscanner detection TNs: free-floating TN 6, fixed inactive TN 10. See Implant Detection rules.*
-*−1 Signature from active nanites applies to thermographic and sensor detection.*
-
 ---
 
 ## Bioware — Cultured
 
-*All bioware is cultured grade unless noted. Cultured grade: +3 Concealment, −20% Bio Index, Scan TN 10/9.*
-*Bioware scan requires separate test from cyberware scan. Invisible to security cyberware scanners.*
-*Slap patches: bioware filters do not block patches by RAW. House rule: attack-vector patches (tranq) receive Nephritic Screen and Toxin Extractor Power reduction.*
 
+*Slap patches: bioware filters do not block patches by RAW. House rule: attack-vector patches (tranq) receive Nephritic Screen and Toxin Extractor Power reduction.*
 | Device | Type | Notes | Legality | Conceal | Scan |
 |--------|------|-------|----------|---------|------|
 | Cerebral Booster 2 | Cultured | +2 Intelligence, Task Pool 1 (Int-linked skills only) | Legal | — | 14 |
@@ -161,53 +156,11 @@
 
 ---
 
-## Implant Detection — Quick Reference
-
-*Surgical outcomes (see table value for scan TN total) apply on top of grade bonuses. Do not modify these values without GM review.*
-
-**Security Cyberware Scanner (field):**
-- Hand-held Rating 1-6 / Doorway Rating 3-9
-- Basic cyberware TN 3 · Alphaware TN 6 · Betaware TN 8 · Deltaware TN 10
-- Catches: cyberware and nano-implants (Hive, Facilitator)
-- Does not catch: bioware, free-floating/transient nanoware
-
-**Nanoscanner (field):**
-- Detects blood-borne nanites and their containers
-- Free-floating TN 6 · Transient TN 8 · Fixed inactive TN 10
-- Does not catch: nano-implant cyberware (caught by cyberscanner)
-
-**Clinic/Hospital Detection (separate cyberware + bioware tests, 60 min each):**
-
-| Implant | Clinic TN | Street TN |
-|---------|-----------|-----------|
-| Cyberware Basic | 3 | 4 |
-| Alphaware | 5 | 6 |
-| Betaware | 7 | 8 |
-| Deltaware | 9 | 10 |
-| Bioware Basic | 5 | 6 |
-| Cultured Bioware | 9 | 10 |
-| Nanoware | 7 | 8 |
-
-| Successes | Detail |
-|-----------|--------|
-| 1 | Type of implant or nanite |
-| 2 | Manufacturer, ratings |
-| 3 | Grade |
-| 4 | Stress or degradation amount |
-| 5 | Options, nanite manufacturer |
-
-*No successes: reveals only base Essence Rating or Bio Index.*
-*Surgical concealment outcomes modify effective Concealability before detection tests — see GM notes.*
-
----
-
 ## Medical / Implant Grade Notes
-
-⚠️ *Row "Bioware/Cyberware Penalties" below: sourced rule is Lesser Immunity (Bio Index ÷ 2 adds to toxin/disease Power, per 2 points) and Essence-loss Magic reduction. Flat values in this row are not directly source-verified — flag before applying in edge cases.*
 
 | Category | Effect |
 |----------|--------|
-| Bioware/Cyberware Penalties ⚠️ | Poison/Toxin/Disease/Drug Power +1 per 2 Bio Index · +1TN Healing Tests (half Bio Index, round up) · Magic −1 per Essence lost |
+| Bioware/Cyberware Penalties | Poison/Toxin/Disease/Drug Power +1 · +1TN Healing Tests|
 | Pheromone Scanner Signature | TN 10, −4 if Pheromones triggered, −1TN Heavy Exertion |
 | Genetic adaptations | Platelet Factories modified to work with Calcitonin · Heat and Cold Micro Adaptation modified to work together as general temperature tolerance |
 | Cosmetic Surgery | Improved Looks, Natural Look 3, Nanosurgery (+1 Charisma, no astral/conjuring effect) |
@@ -224,56 +177,58 @@
 
 ## Special Abilities & Powers (3PR Shared)
 
-| Ability | Source | Notes |
+| Name | type | Notes |
 |---------|--------|-------|
-| Newly Awakened | Flaw | No Spells, Astrally perceives, can spend on Adept Powers (10karma per power reducing magic), no magical skills — gave way to Shamanism |
 | Multi-Tasking | Adept Power (0.5) | Concentrate on separate actions, Two Free Actions per Init Pass |
 | Nimble Fingers | Adept Power (0.5) | Sleight of Hand +1 Dice, Free Actions (Insert Clip, Pick Up/Down Object, Remove Clip, Use Simple Object) |
-| Shamanism | Flaw | No Spells — must learn magical skills before bonuses apply |
 | Magical Group | Initiation | Group: Malice (Shaman and Mage, 7 members, No strictures) |
 | Initiate Grade 8 | Initiation | +8 Magic, +8 Metamagic Powers (group, ordeal) |
-
----
-
-## Common Edges & SURGE (3PR Shared)
-
-| Ability | Type | Effect |
-|---------|------|--------|
-| Ambidexterity 4 | Edge | −4 Penalty offhand use, no offhand weapon skills needed, secondary melee weapon applies half dice |
-| Aptitude | Edge | −1TN skill tests (see individual sheets for which skills) |
-| Astral Chameleon | Edge | Signatures −1F, +2TN to be assensed |
+| Ambidexterity 4 | Edge | −4 Penalty offhand use, no offhand weapon skills needed, secondary melee weapon applies half dice|
+| Aptitude| Edge | −1TN skill tests (see individual sheets for which skills)|
+| Astral Chameleon| Edge | Signatures −1F, +2TN to be assensed|
 | At Ease | Edge | Use highest Etiquette specialization, locals treat character as local on failed perception (4), Friendly attitude −1TN |
-| Bilingual | Edge | Int×1 skill levels in two native languages in addition to Int×1.5 language skill points |
+| Bilingual | Edge | Int×1 skill levels in two native languages in addition to Int×1.5 language skill points|
+| Bravery | Edge | −1 TN on tests to resist fear and intimidation, including Fear caused by spells and critter powers|
+| College Education | Edge | −1TN defaulting Academic Knowledge |
 | Cracker: Access Tests | Edge | +2 Dice for Access tests |
+| Double Jointed| Edge | −1 target modifier for Athletics (Escape Artist) Tests |
 | Exceptional Attribute | Edge | +1 Max Racial attribute for BOD, CHA, INT, QUI, STR, WIL |
 | Focused Concentration | Edge | Spells +1TN to maintain, max sustains Intelligence+1 |
-| Good Reputation 2 | Edge | −2TN social tests |
+| Good Reputation 2 | Edge | −2TN social tests|
 | High Pain Tolerance 3 | Edge | Ignore penalties for 6 boxes of damage (as Adept Pain Resistance) |
-| Lightning Reflexes 3 | Edge | +3 Reaction |
+| Lightning Reflexes 3| Edge | +3 Reaction|
 | Natural Hardening 2 | Edge | +2 Hardening, cumulative |
-| Regenerative Healer | Edge | −2TN Healing Tests, ignore penalty for magician doctoring, +2 magic loss roll bonus |
+| Perceptive| Edge | −1TN perception and astral perception tests|
+| Photographic Memory | Edge | Perfect recall of anything seen or heard; GM must supply forgotten information the character would know |
+| Regenerative Healer | Edge | −2TN Healing Tests, ignore penalty for magician doctoring, +2 magic loss roll bonus|
+| Sense of Direction| Edge | Always knows true north; can retrace path; no benefit if transported while unconscious or deprived of senses |
 | Spirit Affinity | Edge | Spirits of the Elements (Salamander, Gnomes, Sylphs, Undines, Manitous) find character interesting — may aid or be reluctant to attack |
+| Tech School Education | Edge | −1TN defaulting Background Knowledge |
 | Toughness | Edge | +1 Body die Damage Resistance |
 | Vehicle Empathy | Edge | Reduce piloted vehicle handling by 1 when in contact |
-| Small Frame | Surge/Parabiology | Weight/size: 76+BOD+STR−QUI−14kg / 160+BOD×10−30cm |
-| Augmented Balance | Surge | −2TN Balance/Climbing/Jumping/Falling/Knockdown, ignore difficult ground, 1 point Movement Penalty |
-| Eagle Eyes | Surge | As level 2 optical magnification, shift weapon ranges 2 places to short, offset −4TN Perception range penalties |
+| Critter Spook| Surge/Flaw | +1 TN to control or befriend animals |
+| Albinism | Surge/Flaw | +1TN Vision Tests in Bright Light (ignored via Nictating Membranes), +1 Willpower |
+| Small Frame| Surge/Flaw | Weight/size: 76+BOD+STR−QUI−14kg / 160+BOD×10−30cm|
 | Strange Eyes | Surge/Flaw | Physical feature only |
-| Hearing Amplification | Surge | As cyberware, −2TN Hearing perception, similar to Shotgun microphone |
-| Wide-band Hearing | Surge | Hear above and below human range · −2TN if applicable · can sense ultrasound systems · TC Port |
+| Unusual Hair (White) | Surge/Flaw | |
+| Weak Immune System 1 | Surge/Flaw | -1 Die Body vs. Diseases|
+| Augmented Balance| Surge | −2TN Balance/Climbing/Jumping/Falling/Knockdown, ignore difficult ground, 1 point Movement Penalty|
+| Eagle Eyes | Surge | As level 2 optical magnification, shift weapon ranges 2 places to short, offset −4TN Perception range penalties |
+| Hearing Amplification| Surge | As cyberware, −2TN Hearing perception, similar to Shotgun microphone|
+| High Pain Tolerance 3| Surge | Ignore penalties for 6 boxes of damage (as Adept Pain Resistance) |
 | Improved Scent | Surge | Identify beings by scent with Perception test, track by scent |
-| Improved Taste | Surge | Recognize ingredients, ID clean water Perception (4), as Adept power |
-| Low Light (Natural) | Surge | Vision chart |
-| Microscopic Vision | Surge | −2TN fine manipulation (Electronics, Computer Repair), −2TN size vision penalty if close |
+| Improved Taste | Surge | Recognize ingredients, ID clean water Perception (4), as Adept power|
+| Lightning Reflexes 3 | Surge | +3 Reaction |
+| Low Light (Natural)| Surge | Vision chart|
+| Microscopic Vision | Surge | −2TN fine manipulation (Electronics, Computer Repair), −2TN size vision penalty if close|
+| Quick Healer | Surge| -2TN For Healing Tests|
+| Resistance to Poison 3 | Surge | +3 Dice to resist Poisons, Toxins and Drugs |
 | Retractable Climbing Claws | Surge | Unarmed combat damage (STR−1)L, −2TN Climbing |
-| Sound Dampening | Surge | As cyberware, protects from loud noises |
+| Sound Dampening| Surge| As cyberware, protects from loud noises |
 | Sound Discrimination 5 | Surge | +5 Hearing Dice, R10 vs white noise generator |
-| Thermographic Vision (Natural) | Surge | Vision chart |
-| Albinism | Surge/Flaw | +1TN Vision Tests in Bright Light (ignored via Nictating Membranes), +1 Willpower — Bought off Colorblind and Allergy to Sunlight |
+| Thermographic Vision (Natural) | Surge| Vision chart |
+| Toughness| Surge | +1 Body die Damage Resistance |
+| Wide-band Hearing| Surge | Hear above and below human range · −2TN Perception if applicable · can sense ultrasound systems |
 
----
 
-*Tactical application (network topology, sense inventory, per-character TN table, initiative caps, radio budget): see `CHARACTER DATA/tactics_3pr.md`*
-*Generic SR3 tactics rules: see skill `sr3-tactics`*
-*Surgery and stress rules: separate module — not loaded in standard sessions*
 *Drug and chemistry rules: external reference — devices note applicable rules only*

@@ -1,3 +1,8 @@
+---
+name: sr3-action-economy
+description: SR3 Shadowrun 3rd Edition action economy and initiative rules for GM reference. Load when the session involves initiative order, initiative passes, Simple vs Complex vs Free actions, interrupt actions, delayed actions, full defense declarations, or vehicle/rigging initiative. Covers combat turn structure, action allocation table, and special-case action rules. SR3 only.
+---
+
 # SR3 Action Economy
 *Skill file — load on demand*
 *Source: SR3, Rigger 3, Matrix, MitS, Critters*

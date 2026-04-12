@@ -10,12 +10,6 @@ description: SR3 Shadowrun 3rd Edition Stun damage recovery rules for GM referen
 
 ---
 
-## CORE RULE
-
-Stun damage is **recovered**, not healed. No medical treatment or known spell accelerates it.
-
----
-
 ## RECOVERY TEST
 
 | Element | Value |
@@ -58,8 +52,6 @@ A character rendered unconscious by **Deadly Stun** does **not** wake up until S
 | Medical treatment | Does not help |
 | Magical spells | No known spell assists |
 | **Stim patches** | Temporary workaround — significant drawbacks apply |
-
-*See Stimulant Patches, p. 305, Street Gear chapter.*
 
 ---
 
