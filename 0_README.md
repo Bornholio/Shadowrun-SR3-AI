@@ -236,8 +236,11 @@ E:.
 │       session_11_header.md
 │       session_11_summary.md
 │       session_12_header.md
-│       session_12_summary.md       — ⚠️ not yet created
-│       session_13_header.md        — ⚠️ not yet created — ★ create for next session
+│       session_12_summary.md       — S12 session narrative
+│       session_13_header.md        — S13 prep header (reference only post-S13)
+│       session_13_summary.md       — S13 session narrative
+│       session_14_header.md        — ★ next session prep header
+│       plot_devices.md             — Full mystery architecture reference ⚠️ GM only
 │
 └───STATS/
         campaign_stats.md           — Cross-reference tables: stats, edges, SURGE, languages
@@ -315,10 +318,10 @@ Load these on demand after the root files:
 | skill: `sr3-metamagic` | Metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring |
 | skill: `sr3-tactics` | Tactical Computer, SUT, BattleTac, indirect fire |
 | `SESSION LOGS/session_01.md` | Narrative continuity reference |
-| `SESSION LOGS/session_11_summary.md` | Prior session narrative (S11) |
-| `SESSION LOGS/session_12_header.md` | Session 12 prep header |
-| `SESSION LOGS/session_12_summary.md` | ⚠️ Not yet created — most recent completed session |
-| `SESSION LOGS/session_13_header.md` | ⚠️ Not yet created — next session prep |
+| `SESSION LOGS/session_12_summary.md` | Prior session narrative (S12) |
+| `SESSION LOGS/session_13_summary.md` | Most recent completed session (S13) |
+| `SESSION LOGS/session_14_header.md` | Next session prep (S14) |
+| `SESSION LOGS/plot_devices.md` | ⚠️ Full mystery architecture — verbose GM reference |
 | `SESSION LOGS/gm_notes.md` | ⚠️ GM prep only — mystery architecture |
 | `INTEL/GT_master.md` | ⚠️ GT intelligence and threat reference — load first, then tier files as triggered |
 | `INTEL/belltown_geography.md` | Belltown district layout and geography |
@@ -341,9 +344,9 @@ Load these on demand after the root files:
 | What are Singer's stats? | `CHARACTERS/singer.md` |
 | What cyberware do 3PR share? | `CHARACTER DATA/shared_3pr_augmentations.md` |
 | What happened in Session 01? | `SESSION LOGS/session_01.md` |
-| What happened in Session 11? | `SESSION LOGS/session_11_summary.md` |
-| What happened in Session 12? | `SESSION LOGS/session_12_summary.md` ⚠️ not yet created |
-| Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` ⚠️ (Aldric — confirmed S12) |
+| What happened in Session 12? | `SESSION LOGS/session_12_summary.md` |
+| What happened in Session 13? | `SESSION LOGS/session_13_summary.md` |
+| Who is the glyph-placer? | `SESSION LOGS/gm_notes.md` (Aldric — confirmed S12) |
 | What is the GT threat tier status? | `INTEL/GT_master.md` ⚠️ |
 | What triggers memory/power restoration? | `INTEL/memory_restoration_triggers.md` ⚠️ |
 | What contacts does the team have? | `CONTACTS/contacts_roster.md` |
@@ -371,9 +374,9 @@ Load these on demand after the root files:
 **Group:** Malice — seven elven runners, a family unit (the "La" is dropped)
 **Setting:** Seattle Metroplex, ~March 2058
 **Shadow handle:** Orthogonal Gate
-**Status:** Session 12 complete — Session 13 pending
-**Heat:** BOLO stale but live · LS very active · Okonkwo on St. Peter Claver · RAVN placer recovered burnt housing 0431 Wed · DW kit serial active
-**Funds:** Singer 993¥ · Banshee 988¥ · Carpenter 588¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Credsticks: 17,050¥ unspent · Safehouse Net 30: ~7,650¥ due
+**Status:** Session 13 complete — Session 14 pending
+**Heat:** BOLO stale but live · Okonkwo very active — illicitly contacting Harmon · Grey Shutter neutralized — van rolling, 4 bodies · RAVN placer reaction GM controlled · DW kit resolved via Tourniquet
+**Funds:** Singer 993¥ · Banshee 688¥ · Carpenter 588¥ · Keystone/Meridian/Crowbar/Kluger 938¥ each · Credsticks: 17,050¥ unspent · Safehouse Net 30: ~7,650¥ due
 **Central mystery:** The family woke up in a McHugh's diner after an unknown
 medical procedure. Memories clear only to 2025. Someone left a trail for them
 to find. Someone else told the field operative to stand down.
@@ -389,4 +392,4 @@ to find. Someone else told the field operative to stand down.
 ---
 
 *Malice Family Campaign — SR3 Edition Lock*
-*Repository current through Session 12 — Session 13 pending*
+*Repository current through Session 13 — Session 14 pending*

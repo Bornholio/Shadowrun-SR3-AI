@@ -8,6 +8,16 @@
 
 ---
 
+## Profile
+**Role:** Ganger / Shaman | **Prior Life:** Petty criminal
+**Born:** Late 1970s | **Expression:** Standard elf / mild SURGE
+**Height:** 6'9" | **Build:** Slim-framed | **Hair:** Blonde | **Eyes:** Brown
+**Fur:** Mild SURGE, less pronounced
+**Notes:** Barrens survival instincts. Reads gang tags natively.
+**Relations:** Father of unknown child · Son of Meridian and Keystone
+
+---
+
 ## Status — Session 07+
 **OUT OF ACTIVE SESSIONS**
 Day job: Downtown building services, overnight cleaning and maintenance · 10hrs/week · 250¥/week · cash · no SIN check
@@ -82,6 +92,7 @@ Work clothes purchased S07 · 50¥ spent
 | Sperethiel | Int | 6 |
 | Sperethiel R/W | Int | 3 |
 | Spanish | Int | 2 |
+| Street/City Speak (English lingo) | — | offsets +2TN |
 
 ---
 
@@ -98,6 +109,18 @@ Work clothes purchased S07 · 50¥ spent
 
 ---
 
+## Magic
+
+**Tradition:** Lover Shaman
+- +2 Illusion, +2 Control Manipulation, +2 Spirits of Water
+- Penalties: paid off
+
+**Grade:** 0 Initiate
+**Group:** Malice (7 members, no strictures)
+**Spell List:** Full SR3 core + Fashion F1
+
+---
+
 ## Edges, Flaws & Special Abilities
 
 **Edges:** Low Light Vision (Natural), Good Reputation 2, Aptitude (Polearms), Astral Chameleon, Quick Healer, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Perceptive, Focused Concentration, Vehicle Empathy, Spirit Empathy (Spirits of Water)
@@ -105,10 +128,6 @@ Work clothes purchased S07 · 50¥ spent
 **Surge:** Altered Eye Color, High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3
 
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1
-
-**Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
-**Grade:** 0 Initiate  
-**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 
 ---
 
@@ -141,6 +160,4 @@ Work clothes purchased S07 · 50¥ spent
 
 ## Initiation Group
 
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
-**Cost paid:** 3 GK (S1–S6)
-
+**Group:** Malice (7 members, no strictures) · Cost paid: 3 GK (S1–S6)

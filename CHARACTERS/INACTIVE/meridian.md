@@ -7,6 +7,16 @@
 
 ---
 
+## Profile
+**Role:** Hermetic Mage / Face | **Prior Life:** Occupational therapist
+**Born:** Late 1940s | **Expression:** Night One / SURGE / Albino
+**Height:** 5'10" | **Build:** Firmly built for an elf | **Hair:** Stark white
+**Eyes:** Emerald green, diamond-shaped pupils | **Fur:** White, fine, close
+**Notes:** Diamond pupils announce rather than conceal. French at 1960s academic register. Witnessed Keystone's totem contact at McHugh's. No English lingo. Infrastructure needed: Library (sorcery) + Lodge (conjuring).
+**Relations:** Mother of Singer, Crowbar · Wife of Keystone
+
+---
+
 ## Status — Session 07+
 **OUT OF ACTIVE SESSIONS**
 Day job: Belltown language tutoring service, French conversation sessions · 10hrs/week · 250¥/week · cash · no SIN check
@@ -135,6 +145,20 @@ Work clothes purchased S07 · 50¥ spent
 
 ---
 
+## Magic
+
+**Tradition:** Hermetic (sorcery) / Lover Shaman (conjuring)
+- Sorcery: hermetic framework — library required for learning, no masking on powerful spells
+- Conjuring: Lover bonuses apply — lodge required, nature spirits (not elementals)
+- Conjuring: +2 dice Illusion spells, +2 dice Control Manipulation spells, +2 dice Spirits of Water
+- Disadvantage: minimum CHA 6 (met: CHA 9)
+
+**Grade:** 0 Initiate
+**Group:** Malice (7 members, no strictures)
+**Spell List:** Full SR3 core + Fashion F1
+
+---
+
 ## Edges, Flaws & Special Abilities
 
 **Edges:** Low Light Vision (Natural), Good Reputation 2, Aptitude (Polearms), Astral Chameleon, Quick Healer, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Perceptive, Focused Concentration, Vehicle Empathy, Spirit Empathy (Spirits of Water)
@@ -142,15 +166,6 @@ Work clothes purchased S07 · 50¥ spent
 **Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
 
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1
-
-**Tradition:** Hermetic (sorcery) / Lover Shaman (conjuring)
-- Sorcery: hermetic framework — library required for learning, no masking on powerful spells
-- Conjuring: Lover bonuses apply — lodge required, nature spirits (not elementals)
-- Conjuring: +2 dice Illusion spells, +2 dice Control Manipulation spells, +2 dice Spirits of Water
-- Disadvantage: minimum CHA 6 (met: CHA 9)
-**Grade:** 0 Initiate  
-**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
-**Meridian — dual feature:** Hermetic sorcery (library, no mask) + Lover conjuring (nature spirits, lodge, shamanic structure). 
 
 ---
 
@@ -182,6 +197,4 @@ Work clothes purchased S07 · 50¥ spent
 
 ## Initiation Group
 
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
-**Cost paid:** 3 GK (S1–S6)
-
+**Group:** Malice (7 members, no strictures) · Cost paid: 3 GK (S1–S6)

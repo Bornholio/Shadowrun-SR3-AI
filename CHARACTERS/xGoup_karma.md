@@ -129,3 +129,18 @@
 - GK available: 32 (bank) + 7 (earned) − 16 (spent) = **23**
 - Karma Pool current: 11
 - Reputation (Malice): 9 ÷ 20 = **0**
+
+
+## Good Karma — Snapshot (S14 open)- GM decide if this is okay
+
+*S13 awards pending GM confirmation.*
+
+| Character | GK Bank (pre-S1) | S1+ Earned | S1+ Spent | GK Available | KP Current |
+|---|---|---|---|---|---|
+| Singer | 32 | 19+? | 24 | 27+ | 11 |
+| Banshee | 32 | 22+? | 16 | 38+ | 11 |
+| Carpenter | 32 | 17+? | 12 | 37+ | 11 |
+| Keystone | 16 | 6 | 19 | 3 | 31 |
+| Meridian | 15 | 6 | 19 | 2 | 31 |
+| Crowbar | 15 | 6 | 14 | 7 | 2 |
+| Kluger | 15 | 6 | 14 | 7 | 2 |

@@ -8,6 +8,17 @@
 
 ---
 
+## Profile
+**Role:** Shaman (Raven totem) | **Prior Life:** Civil engineer / mechanic
+**Born:** Late 1940s | **Expression:** Night One / SURGE / Albino
+**Height:** 6'6" | **Build:** Muscular, bulky for an elf | **Hair:** Short, stark white — opaque, not translucent
+**Eyes:** Sapphire blue, star pattern | **Fur:** Silver/white, fine, close-lying
+**Concealment:** Rating 4 normal, 6–8 with clothing, Poncho loadout = 11
+**Notes:** Big hands, wide shoulders. Named Dag ~40 years ago without knowing it. Likely in Seattle that summer — Alaska cruise stopover confirmed. Raven on the wire outside McHugh's was watching him specifically.
+**Relations:** Father of Singer, Kluger, Carpenter · Husband of Meridian
+
+---
+
 ## Status — Session 07+
 **OUT OF ACTIVE SESSIONS**
 Day job: Downtown seismic retrofit contractor's assistant · 10hrs/week · 250¥/week · cash · no SIN check
@@ -124,6 +135,7 @@ Work clothes purchased S07 · 50¥ spent
 | Sperethiel | Int | 8 |
 | Sperethiel R/W | Int | 4 |
 | Salish-Sidhe | Int | 2 |
+| Scientific Jargon (English lingo) | — | offsets +2TN |
 
 ---
 
@@ -141,6 +153,15 @@ Work clothes purchased S07 · 50¥ spent
 
 ---
 
+## Magic
+
+**Tradition:** Raven Shaman — no bonuses, no restrictions. Trickster demands freedom.
+**Grade:** 0 Initiate
+**Group:** Malice (7 members, no strictures)
+**Spell List:** Full SR3 core + Fashion F1
+
+---
+
 ## Edges, Flaws & Special Abilities
 
 **Edges:** Low Light Vision (Natural), Good Reputation 2, Aptitude (Polearms), Astral Chameleon, Quick Healer, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Perceptive, Focused Concentration, Vehicle Empathy, Spirit Empathy (Spirits of Water)
@@ -148,13 +169,6 @@ Work clothes purchased S07 · 50¥ spent
 **Surge:** Albino, Altered Eye Color, Unusual Hair (White), Critter Spook, Goblinization (Night One), High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Resistance to Poison 3, Quick Healer, Toughness, High Pain Tolerance 3, Sunlight Allergy (Mild), Weak Immune System 1, Lightning Reflexes 3
 
 **Foci:** Spell List All (SR3 Core) 1, Fashion 1
-
-**Tradition:** Raven Shaman
-- +2 dice Manipulation spells
-- +2 dice Sky spirits
-- Disadvantage: +1TN all magical TNs while not under open sky
-**Grade:** 0 Initiate  
-**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 
 ---
 
@@ -185,18 +199,6 @@ Work clothes purchased S07 · 50¥ spent
 
 ---
 
-## White Noise Generator (WNG)
-
-- Sound-based — broadband audio interference
-- Opposed test: WNG Rating vs listener/recorder rating
-- Select Sound Filter counters at Rating × 2
-- Does NOT affect electronic signals, RF, or Matrix
-
-
----
-
 ## Initiation Group
 
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
-**Cost paid:** 3 GK (S1–S6)
-
+**Group:** Malice (7 members, no strictures) · Cost paid: 3 GK (S1–S6)

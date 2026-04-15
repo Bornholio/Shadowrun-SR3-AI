@@ -8,6 +8,16 @@
 
 ---
 
+## Profile
+**Role:** Mage / Detective | **Prior Life:** Healthcare specialist / Nurse
+**Born:** Late 1960s | **Expression:** Standard elf / mild SURGE
+**Height:** 6'1" | **Build:** Lithe, long-framed | **Hair:** Light brown, long, heavy | **Eyes:** Dark brown
+**Fur:** Mild SURGE, less pronounced
+**Notes:** Most visually approachable of the seven. German 5 (street dialect, teenage years in Germany). English R/W = full INT.
+**Relations:** Daughter of Keystone
+
+---
+
 ## Status — Session 07+
 **OUT OF ACTIVE SESSIONS**
 Day job: Belltown-edge urgent care clinic, triage intake paperwork · 10hrs/week · 250¥/week · cash · no SIN check · come recommended
@@ -77,12 +87,15 @@ Work clothes purchased S07 · 50¥ spent
 
 | Language | Stat | Rating | Notes |
 |----------|------|--------|-------|
-| English | Int | 6 | |
+| English | Int | 6 | Medical Jargon, Street/City Speak (lingos) |
 | English R/W | Int | 6 | |
 | Sperethiel | Int | 6 | |
 | Sperethiel R/W | Int | 3 | |
 | Spanish | Int | 2 | |
 | German | Int | 5 | Street dialect |
+| Sign Language | Int | 3 | |
+| Latin | Int | 4 | |
+| Japanese | Int | 1 | |
 
 ---
 
@@ -99,17 +112,25 @@ Work clothes purchased S07 · 50¥ spent
 
 ---
 
+## Magic
+
+**Tradition:** Lover Shaman
+- +2 Illusion, +2 Control Manipulation, +2 Spirits of Water
+- Penalties: paid off
+
+**Grade:** 0 Initiate
+**Group:** Malice (7 members, no strictures)
+**Spell List:** Full SR3 core + Fashion F1, Improved Invisibility F2
+
+**Foci:** Spell List All (SR3 Core) 1, Fashion 1, Improved Invisibility 2
+
+---
+
 ## Edges, Flaws & Special Abilities
 
 **Edges:** Low Light Vision (Natural), Good Reputation 2, Aptitude (Polearms), Astral Chameleon, Quick Healer, Toughness, Bravery, Lightning Reflexes 3, Exceptional Attribute (All), Perceptive, Focused Concentration, Vehicle Empathy, Spirit Empathy (Spirits of Water)
 
 **Surge:** Altered Eye Color, High Frequency Hearing, Low Frequency Hearing, Thermographic Vision (Natural), Toughness, High Pain Tolerance 3, Lightning Reflexes 3
-
-**Foci:** Spell List All (SR3 Core) 1, Fashion 1, Improved Invisibility 2
-
-**Shaman Bonuses:** Lover, +2 Illusion, Control Manipulation, +2 Spirits of Water
-**Grade:** 0 Initiate  
-**Group:** Malice (Shaman&Hermetic, 7 members, No strictures)
 
 ---
 
@@ -140,7 +161,4 @@ Work clothes purchased S07 · 50¥ spent
 
 ## Initiation Group
 
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
-**Cost paid:** 3 GK (S1–S6)
-
-
+**Group:** Malice (7 members, no strictures) · Cost paid: 3 GK (S1–S6)

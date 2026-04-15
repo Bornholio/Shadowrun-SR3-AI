@@ -7,6 +7,15 @@
 
 ---
 
+## Profile
+**Role:** Prime Runner / Face / Mage / Teacher | **Prior Life:** Teacher
+**Born:** Early 1970s | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
+**Build:** Small-framed — smallest of the seven | **Hair:** Stark white | **Eyes:** Bright blue, slightly larger — SURGE trait | **Fur:** White, fine
+**Notes:** Teacher's presence. Smallest, frequently most significant. Sign Language 5 — state-level deaf/HoH advocate. Conjures Force 9 wind spirits before breakfast.
+**Relations:** Mother of Carpenter · Wife of Singer
+
+---
+
 ## Attributes
 
 | Stat | Racial Max | Value | Notes |
@@ -86,7 +95,7 @@
 
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
-| English | Int | 13 (17) | Legalese, City Speak |
+| English | Int | 13 (17) | Legalese, City Speak (lingos) |
 | English R/W | Int | 11 (16) | |
 | Japanese | Int | 4 (8) | |
 | Spanish | Int | 4 (8) | |
@@ -139,7 +148,7 @@
 
 **Tradition:** Wolf Shaman / Path of the Druid
 **Grade:** 8 Initiate
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+**Group:** Malice (7 members, no strictures)
 
 **Totem Bonuses:**
 - Wolf: +2 dice Combat spells, +2 dice Detection spells
@@ -183,7 +192,7 @@
 
 ## Cyberware / Bioware
 
-**cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
+**Cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
 **Bioware** ©ultured; Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
 
@@ -199,13 +208,11 @@
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket (5 Ballistic / 3 Impact )- Worn
-- Armored Vest with Plates (4 Ballistic / 3 Impact )- Worn, Layered
-- total Armor(7 Ballistic / 4 Impact )
-- 
-- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
-- Secure Vest (2 Ballistic / 1 Impact ) - Unit 5
-
+- Armor Jacket (5 Ballistic / 3 Impact) — Worn
+- Armored Vest with Plates (4 Ballistic / 3 Impact) — Worn, Layered
+- Total Armor: 7 Ballistic / 4 Impact
+- Military Armored Jacket (5 Ballistic / 3 Impact) — Unit 5
+- Secure Vest (2 Ballistic / 1 Impact) — Unit 5
 
 ### Outfits
 **Ordinary:** Clothing, Hiking Boots, Hooded Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear, Equipment Belt and Pouches
@@ -224,4 +231,3 @@
 - ZL Bags for all items
 - Cash: **988¥**
 - ID: R1, Ages Well — Patty Novak
-

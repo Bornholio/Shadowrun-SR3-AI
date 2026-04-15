@@ -214,7 +214,7 @@ Steganographic encoding method recovered from RAVN-004 chip.
 - Hunting runners who search for the family's signature
 - Has physical access to Belltown buildings
 - Has access to HMS infrastructure
-- Does not want Lone Star to find la Malice first
+- Does not want Lone Star to find Malice first
 - Patient — network built over days/weeks before family became aware
 - Now aware that RAVN-004 was deliberately found and burned
 

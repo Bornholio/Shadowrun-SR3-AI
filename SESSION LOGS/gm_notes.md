@@ -2,7 +2,6 @@
 *Malice Family — SR3 Campaign*
 *File location: SESSION LOGS/gm_notes.md*
 *⚠️ GM EYES ONLY — Do not load into player-facing sessions*
-*Updated after Session 12*
 
 ---
 
@@ -12,7 +11,7 @@
 **Setting:** Seattle Metroplex, ~March 2058
 **Location anchor:** McHugh's Diner — 64th St E / Sumner Tapps Hwy E interchange, north side
 **Real-world GPS:** 47.199398, -122.215170
-**Group Name:** Malice (the "La" is dropped as superfluous)
+**Group Name:** Malice
 **Shadow Reputation / Web Presence:** Orthogonal Gate
 **Premise:** Seven elven runners — a family unit — wake up in a McHugh's diner on the Auburn/Seattle border after an unknown medical procedure they cannot remember. Memories clear only up to 2025. Limited gear, contacts they don't recognize. The amnesia is the central mystery.
 
@@ -21,11 +20,11 @@
 ## Origin Story
 
 ### Elven Expression
-All seven are first-wave elven metamorphosis expressions. Expressed in the central states — dangerous and difficult period. During this time all seven organized and helped others going through genetic expression — 8–10 hours per week sustained over years. Source of Good Reputation 2.
+All seven are first-wave elven metamorphosis expressions. Expressed in the central states — dangerous and difficult period. During this time all seven organized and helped others going through genetic expression.
 
 ### Goblinization / UGE Split
 - Keystone, Meridian, Singer, Banshee, Crowbar, Kluger — goblinized early, coinciding with the volcano cataclysm (2017), as adults
-- Carpenter — UGE baby, born 2011, expressed as elf from birth, did not goblinize
+- Carpenter — UGE baby, born 2010, gobilinized in 2011, as part of surgical correction.
 
 ### Harlequin's Back
 All seven were present at Harlequin's Back (01/08/57). Participated in blunting early Horror arrival. Magical backlash triggered second genetic expression in all seven.
@@ -35,39 +34,22 @@ Keystone, Meridian, Singer, Banshee, Carpenter — Night Ones, SURGE event layer
 Crowbar and Kluger — less severe SURGE, still expressed.
 
 ### The Surgery (3PR)
-Singer, Banshee, Carpenter underwent extraordinary surgery:
-- Over 9 Essence worth of Delta-grade cyberware and bioware
-- Surgeon result: −60% Essence cost, +2 Concealment
-- Karma expenditure improved to −90% Essence cost
-- Total Essence loss: ~1.0 (cyberware ~0.5 + bioindex ~0.5)
-- Pre-surgery Karma Pool: 56 each
-- Karma spent on outcome: 45 each
-- Remaining: 11 each
-- Magic 12 remains — cyber and magic integrated, not in conflict
-- The surgery achieved something with no published precedent
+Singer, Banshee, Carpenter underwent extraordinary surgery - The surgery achieved something with no published precedent
 
 ### The Missing Years
 All seven remember clearly only up to 2025. The shadow years (2025–2058) are inaccessible — skills, hardware, muscle memory intact. Memories gone.
-
-The reset was chosen. The scale of what was being maintained made it necessary. Someone — or the family themselves — determined that carrying all of that forward conscious was untenable or dangerous.
-
-### Karma Economy (Background)
-- Keystone and Meridian: ~500 good karma
-- Crowbar and Kluger: ~120 good karma
-- 3PR: substantial — full adventure career
-- All seven: 1 GK/week community building throughout
 
 ---
 
 ## Mystery Architecture
 
 ### The Device
-Not surveillance against la Malice. Surveillance FOR them — placed to record who else was watching. The glyph-placer wanted la Malice to find the chip. The trail was deliberate.
+Not surveillance against Malice. Surveillance FOR them — placed to record who else was watching. The glyph-placer wanted Malice to find the chip. The trail was deliberate.
 
 ### The Operative / RAVN
 Field asset with military tradecraft, burst transmission, told to stand down.
 Whoever runs them has corporate reach into LS dispatch and ability to suppress aerial assets.
-Does not want Lone Star to find la Malice first. Possibly wants the family found intact.
+Does not want Lone Star to find Malice first. Possibly wants the family found intact.
 
 **RAVN network — confirmed S11:**
 - Burst frequencies: 423.775 MHz primary / 891.220 MHz secondary
@@ -100,38 +82,30 @@ Does not want Lone Star to find la Malice first. Possibly wants the family found
 - Unknown ork male ~22: recovering at shelter, directed to Nährboden
 
 ### Room 6 Man
-Professional, mundane, human male, late 30s, Wired Reflexes 1-2, Essence ~3.0-3.5.
-RAVN targeted him also — device placed in his vent before his arrival.
-One encrypted comm call at 0731, 12 minutes, content not captured.
-Said "retired" with complicated weight. Mutual professional debt established with Singer.
-*"We should talk properly. When you're ready."*
-Identity and affiliation: GM controlled.
+Professional, mundane, human male, late 30s, retire from use.
 
 ### The Surgery Architect
-Something with no published precedent. The surgeon knew M&M rules at academic or authorial level. Three willing patients burned 45 Karma Pool points each. Cyber-magic integration — not compromise. Something new. Aimed at a specific capability set. The 3PR became what someone needed.
+Something with no published precedent. The surgeons knew their craft at world renowned academic or authorial level. Cyber-magic integration — not compromise. Aimed at a specific capability set. .
 
 ### The Glyph-Placer — Confirmed: Aldric
 Real name: Aldric. Other names, other times — said deliberately. Human male presenting mid-40s. Grade 4–5 hermetic initiate, decades of practice. Has been astrally watching over Unit 5 since before the family woke — not surveillance, protective. Allowed Mind Probe without resistance. Placed all RAVN-adjacent devices. Wrote the pier case note. Left the glyph at the Hearth Spirit's building.
 Knows the pale architect (*"older debts"*) — withholds deliberately. Knows who touched Reyes's chip — withholds deliberately. Same emotional signature around both withheld identities — possibly the same entity.
 Knows Drake. Was unsurprised by the family's Commodore engagement. Flurry recognition: *"Hello, old friend."* Root Sperethiel, to the cat directly.
 *Wednesday meeting — Tacoma waterfront, specific berth, sunrise, all seven if possible. He is afraid of what happens if someone else explains things to them first. The key opens something at that location — GM controls what.*
-Not corporate. Not Lone Star. Not standard runner. Operates outside all current frameworks. Builds hardware from organometallic materials (partially grown). Writes in proto-Sperethiel older than current elven tongue. Patient. Has been waiting for la Malice to wake up — possibly for a very long time. Connected to Harlequin's Back through secondary script's linguistic roots.
+Not corporate. Not Lone Star. Not standard runner. Operates outside all current frameworks. Builds hardware from organometallic materials (partially grown). Writes in proto-Sperethiel older than current elven tongue. Patient. Has been waiting for Malice to wake up — possibly for a very long time. Connected to Harlequin's Back through secondary script's linguistic roots.
 
 ### Harlequin Connection *(GM only — never surface to players)*
-All seven present at Harlequin's Back. The SURGE expression triggered by magical backlash. The proto-Sperethiel script is from the same linguistic family as the oldest elven languages. Harlequin measures time in centuries and has reasons to prepare assets across decades. The glyph-placer may be known to Harlequin. Or may BE Harlequin. Or may be something older.
+All seven present at Harlequin's Back. The SURGE expression triggered by magical backlash. The proto-Sperethiel script is from the same linguistic family as the oldest elven languages. Harlequin measures time in centuries and has reasons to prepare assets across decades. The glyph-placer may be known to Harlequin. Or may BE Harlequin.
 
-### The Hearth Spirit's Words
-*"You smell like the old blood. All of you. I remember that smell from before the long sleep."*
-A Force 5 Hearth Spirit of a barrens diner recognized something in seven elves it had never met.
 
-### Dag
+### Dag - Retire thread, do not use
 Ancient awakened mustelid, 247kg, predates the Awakening magically. Called by Keystone ~40 years ago without conscious intent, slept in his direction across three decades.
 Now settled at Pinnacle Peak Park, Muckleshoot tribal land.
 Astral Chameleon initiate traces on his aura — left deliberately by someone at Grade 8 with same signature as the family.
 The bond between Dag and Keystone is visible in astral space as a settled thread, old and rooted.
 Muckleshoot know what Dag is and have for some time. Sle-cheep Watkins made a judgment call letting him onto the mountain.
 
-### The 8th Family Member
+### The 8th Family Member - Retire thread, do not use
 The SURGE night one expression — one family member expressed differently. Details hidden. May be relevant to the "old blood" thread.
 
 ### Althain — Mt. St. Helens *(GM only)*
@@ -170,42 +144,72 @@ Seven elves at McHugh's diner, 03/03/2058 at 0612. Two hours after waking.
 28-story former abandoned office building, Redmond Barrens. Family corporation occupied it.
 **Status: Sold.** No longer family asset. Exists under new ownership.
 
-### Team Generson
+### Team Generson - Retire thread, do not use
 Human masked cover identity — Rigger, Decker, Two Sams. Multiple adventures run under this cover.
 May still exist in records. NPCs who knew Team Generson may not connect them to current Night One elves.
 
-### Pentarus
-Elven initiate, hermetic mage/decker, moderately augmented. Led the group through all prior adventures. Early group face — role later transitioned to Banshee. Killed shortly after Super Tuesday. Possibly connected to investigating the president's assassination. Extensive contact list exists — provides partial context to Banshee. Details withheld to avoid red herrings. Load on demand.
+### Pentarus — Confirmed S13
+Female. Elven initiate, hermetic mage/decker, moderately augmented. Led the group through all prior adventures. Early group face — role later transitioned to Banshee. Killed shortly after August 2057. Timing of her death during the family attack timing per Aldric. Memorial requested in family's letter: whalebone with USAF Psy-Ops logo, Neah Bay (Makah territory), thunderbird/whale imagery.
+**GM controlled:** Exact circumstances. Aztechnology thread family was investigating. Whether her death and the family's attack were coordinated by the same party.
 
-### Prior Career Contacts
+### Prior Career Contacts  - Retire thread, do not use
 Hundreds of contacts exist in the world, undocumented. Load on demand when:
 - Family attempts to access one (memory restoration trigger)
 - One surfaces in play independently (GM introduces)
 
 ---
 
-## Active GM Threads — Session 13
+## Session 13 — Canonical Additions
 
-### Wednesday Sunrise — Tacoma Waterfront
-Priority one. All seven. The key opens something at the berth. GM controls:
-- What is at the berth
-- What the key opens
-- What Aldric reveals and in what order
-- Whether the pale architect is present or referenced directly
-- Whether Pier man is connected to this location
+### The Well — Opened S13  - Retire thread, do not use
+Banshee inserted the key at the Tacoma waterfront berth. The binding released. BGC 5 generated, fully cleansed by Banshee before departure.
 
-### Aldric's Withheld Connections
-He knows who touched Reyes's chip. He knows the pale architect. Both withheld with the same emotional signature. GM decides: same entity or different? Surface at GM pace at Wednesday meeting or later.
+### Released Ancient Free Spirit
+Great orca spirit. Astral form only — rose from unfolding tesseract below waterline when the well was opened. Did not name itself. Greeted the family as "Name givers." Stated that Lochost its lord greets them "today again" — implying prior contact in the family's pre-reset life. Moved northwest into open water at speed, massive waves, ships rocking. Salamander spoke in many voices announcing it. Aldric went to one knee — automatic, unplanned recognition.
+**GM controlled:** spirits identity. No Prior relationship with the family. Connection to Shield Wall's "Sea Mother" rock opera. 
+
+### The Astral Sextant
+Recovered from the well by Carpenter. Brass/bronze, globe-shaped ~45cm, rings within rings, lever + directional pointer. 
+**GM controlled entirely.** Reference: Earthdawn Astral Sextant (Thread Item/Foci). Do not generate stats, function, or activation without explicit GM authorization.
+
+### The Clay Tablet
+Three linguistic layers: oldest PIE or pre-PIE block script; middle proto-Sperethiel phonetic transcription of spoken oldest layer; newest Sperethiel translation. Fired porcelain hardness. Wax/fat preservative — Carpenter working at edges, small flakes clearing. Carpenter identified "Astral" phonetically in Sperethiel layer.
+**GM controlled:** Full content of all three layers. When readable text emerges. Third Layer is Throalic (Earthdawn Dwarven) instead of the assumed PIE
+
+### Grey Shutter — Neutralized S13
+All four GT Tier 1 operatives (GS-1 through GS-4) unconscious in their own van. Van set on autonav to nightly destination. Interior tagged with First Nations gang marks (Crowbar). Astral signatures erased. No data on family identity in any device — suspicion was positional inference only.
+Family now holds full GT Tier 1 comm network including Reyes direct comcode.
+**GM controlled:** When GS-1–4 wake. What they report to GT.  GT escalates to Tier 2. 
+
+### Aldric — S13 Full Disclosure
+Attack date August 11, 2057. Public death. Reconstruction at PensoDyne/Yamatetsu, HMS, Shiawase subsidiary, Yamatetsu nanotech, CAT Guardian Angel. His role: ritual healing support — met Flurry during this period. Laés: Tir agent, final week of reconstruction, killed by HMS security on site. HMS chemicals (family's own development) arrested regression — memories potentially recoverable. HMS not sold. Weapon foci sold, buyers cannot bond, bonds hold. Letter delivered — held six months per family's own instruction. Pale architect: knows him, not willing to reveal — "involved in what you became, not what was done to you" — "afraid of this morning." GT devices: not his work, knows who built them — deferred as longer conversation.
+
+### Shield Wall
+Present on pier during well opening. Yearly vigil. Jay Keith confirmed present. Frumious (vocals) missing since 2051 — four years. "Sea Mother" rock opera. Dunkelzahn's will left them 10 million nuyen to complete it. Fans meet them behind Jack's Fish and Chips after the vigil.
+**GM controlled:** Whether Shield Wall / Lochost / Sea Mother / Frumious form a connected thread.
+
+### Auburn Farm  - Retire thread, do not use
+Family owns or owned a farm in Auburn. New owner exists. Buried caverns beneath — key codes needed. Letter noted this specifically. Clean intermediary required.
+**GM controlled:** What is in the caverns. Whether new owner knows about them.
+
+---
+
+## Active GM Threads — Session 14
+
+### Aldric — GT Devices Builder
+Who built them? This is his next deferred disclosure. He knows — held deliberately. GM controls identity and when Aldric gives it up.
+
+### Aldric — Pale Architect
+Acknowledged the connection exists at S13. Not willing to name. Does he give more at next venue?
+
+### Grey Shutter Waking
+GS-1 through GS-4 wake in a few hours in the van. What do they do? What does GT know? GT Tier 2 escalation.
 
 ### Drake's Call
-He will call the burner commcode once — GM controlled timing and content. Could be Wednesday. Could be weeks. May have information from his interrogation of the Tamanous team, or may simply have a question.
+He will call the burner commcode once — GM controlled timing and content. Earliest 3/18/2058
 
 ### RAVN Placer — Escalation Decision
 Housing recovered 0431 Wednesday. Knows it was deliberately found and burned.
-- RAVN-005 health check ping at ~1920 Tuesday — not in prior 11 days
-- UNK-A interval tightened from 4-hour to 3-hour starting 2000 Tuesday
-Source of pre-0431 awareness: RAVN-004 dropout logged at collection node on neutralization / physical observation at Nährboden / unmapped eyes — GM decides which.
-GM decides response: patience, reconfiguration, new placement, acceleration, or direct approach.
 
 ### Tamanous — Live Threads
 Navarro del Toro commcode is live. Does not know operation failed — if players call posing as T-1, he expects delivery confirmation. GM controls response.
@@ -213,11 +217,11 @@ Marcus Tyrell Webb — United Oil traitor. Players have this. Does not know he i
 Drake mission cells A and B live — do not know operation failed.
 Aztechnology connection: not in any recovered document. Do not surface corp affiliation until players run the name independently.
 
-### Okonkwo — Connecting Threads
-Three tips, NCMEM filing, Commodore connected to CSS-7. What does she find Wednesday? Does she move toward the family? SANS doorstop open — she can reach Singer's monitoring system without knowing it.
+### Okonkwo — Active Thread
+Getting a day away from Reyes. Illicitly contacting Harmon to update on search for the seven. Singer has SANS doorstop on Harmon's building — visibility into contact possible. GM controls what Okonkwo tells Harmon and what Harmon says.
 
-### DW Kit Serial
-Raus flagged to DW liaison Tuesday evening. Thread active Wednesday. Does the scan happen? Does Oswin's location surface? He's gone dark with the kit — reduces but does not eliminate risk.
+### DW Kit — Resolved S13
+Tourniquet turned in case to DW station with message. Kit risk reduced. Thread dormant unless DW follows up.
 
 ### Third Surveillance Network
 Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 — two blocks from fixer, same HMS timestamp, two days before reset. Connection to pale architect? Connection to HMS directly? GM decides what the third network is watching for and who operates it.
@@ -225,16 +229,16 @@ Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 — two 
 ### RAVN-006 Collection Node
 Physical access possible. Building 1 NE interior. Singer has crypto access key. Automated or staffed? GM decides before Singer attempts access.
 
-### Futureman Project Host
+### Futureman Project Host  - Retire thread, unlikely to surface again
 HMS infrastructure. External backdoor exists. Psychotropic ICE R4 active. What is beyond the ICE? Surgery records, HMS operational data, something older? GM decides before Singer accesses.
 
-### Dumb Frame GT Results
-2 successes. Thin GT public info. What does Singer find Wednesday morning? GM decides content before review.
+### Dumb Frame GT Results  - Retire thread, do not use
+2 successes. Thin GT public info. What does Singer find Wednesday morning? already resolved
 
 ### Mechanic Cover Approach
 Radio install cover pending. Mechanic (Teodor Breckenridge) warns Carpenter before making contact. Operatives — identity and affiliation GM controlled.
 
-### Fen's Partial Markers
+### Fen's Partial Markers  - Retire thread, do not use
 Unactivated secondary meta-genetic markers, Night One adjacent. Implications GM controlled. As Halley's Comet approach intensifies through 2058, pressure on these markers increases.
 
 ### Tir Tairngire Thread — Three Data Points
@@ -251,34 +255,33 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 ## Standing GM Continuity Rules
 
-- Sessions 01–12 events are canonical — do not retcon without GM instruction
+- Sessions 01–13 events are canonical — do not retcon without GM instruction
 - Mystery threads are intentionally unresolved
-- The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
 - Harlequin connection is GM-only knowledge — do not surface to players
 - *"Why us then?"* is the central unanswered question — do not answer it
-- The family does not know they are initiates
 - The family does not know they chose the surgery
 - The family does not know what "old blood" means yet
 - Althain as memory restoration site — do not surface to players
-- Pale architect identity — GM controlled. Wolf recognizes him below the reset.
-- Thing in the water: what it cannot say — GM controlled. Most significant information.
-- Pier man identity — GM controlled. Callum Shire is working elf identity.
+- Pale architect identity — GM controlled. 
+- Thing in the water: what it cannot say — GM controlled. Most significant information. Retire.
+- Pier man identity — GM controlled. Callum Shire is working elf identity. 
 - HMS account operator — GM controlled. Connected to surgery architect thread.
-- Oswin's kit serial — kit at Nährboden, DW investigation active
+- Oswin's kit serial — kit at Nährboden, DW investigation active Retire.
 - Reyes GT principal identity — GM controlled. Alachia thread sealed.
 - High-grade awakened touched Reyes's chip — identity GM controlled, surgery architect thread
-- Tourniquet counted seven — GM controlled how
-- Tourniquet's third client — GM controlled
-- Flurry's eastward jog toward 3rd — GM controlled what drew her
 - McHugh's photo photographer — not connectable to pale architect with current evidence
 - Third surveillance network operator — GM controlled
 - Jarlath Drake acquisition order origin — Renraku-adjacent shell above local Tamanous operation, GM controlled
-- Fen's secondary marker expression — partial Night One adjacent, implications GM controlled
-- 4th World entity introductions — GM intervention only, not speculative or incidental
-- Aldric's identity and withheld connections — GM controlled, do not generate speculatively
-- Wednesday meeting content — GM controlled entirely
+- 4th World entity introductions — GM intervention only
+- Aldric's withheld connections — pale architect and Reyes chip contact both withheld; GT device builder deferred S13 — do not generate speculatively
+- Pale architect identity — GM controlled. 
+- Astral Sextant function — GM controlled entirely, do not generate without authorization
+- Clay tablet content — GM controlled entirely
+- Lochost implications — GM controlled. 
+- Shield Wall / Sea Mother / Lochost connection — GM controlled
+- Pentarus death circumstances — GM controlled
+- Weapon foci locations — GM controlled
 - Drake call timing and content — GM controlled
-- The key's function — GM controlled
 - Flurry's recognition of Aldric — noted, do not elaborate without GM direction
 - Drake memory trigger fired S12 — professional recognition layer active, builds with further dragon contact
 - Navarro del Toro corp affiliation — Aztechnology, do not surface until players run name independently
@@ -289,7 +292,6 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 **District:** Sumner/Auburn border, Puyallup edge
 **SR3 security:** Sumner C, transitioning to E toward Alderton, Hell's Kitchen Z to the south
-**Ash damage zone:** Present — Mt. Rainier/volcanic event, 2017.
 **Forest:** Pacific Northwest tree line presses hard against undefended urban edge.
 **Real-world maps:** Use as terrain reference only, not building/infrastructure reference.
 
@@ -302,6 +304,6 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 ---
 
-*GM Notes v1.7 — Malice Family Campaign*
-*Updated after Session 12*
+*GM Notes v1.8 — Malice Family Campaign*
+*Updated after Session 13*
 *⚠️ GM EYES ONLY*

@@ -154,8 +154,6 @@ A secondary skill rolled alongside a primary to add bonus successes.
 
 **Procedure:** Roll primary first — must score ≥1 success or complement has no effect. Roll complementary vs same TN. Every 2 complementary successes = 1 bonus success added to primary total.
 
-**Limits:** GM should use sparingly — two rolls per action slows play. Cannot default on the complementary roll. If B/R test fails, complementary successes are lost.
-
 **Example:** 3 Negotiation successes + 2 Psychology successes = 3 + 1 = 4 total.
 
 ---

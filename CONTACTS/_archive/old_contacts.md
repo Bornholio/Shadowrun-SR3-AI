@@ -1,4 +1,4 @@
-# Lost Contact Network — La Malice
+# Lost Contact Network — Malice
 *Malice Family — SR3 Campaign*
 *File location: CONTACTS/old_contacts.md*
 
@@ -7,7 +7,7 @@
 ## Overview
 
 These contacts were built across a full shadowrunning career (2049–2057).
-All of them believe la Malice is dead. The relationships are gone.
+All of them believe Malice is dead. The relationships are gone.
 
 **These are not contacts. They are leads.**
 
@@ -18,7 +18,7 @@ and normal eyes is not looking at the same person. Most will not make the
 connection. A few might feel something is familiar and not be able to place it.
 
 Recovery of any contact as a genuine relationship requires convincing them
-that la Malice is actually alive — which requires revealing who they were,
+that Malice is actually alive — which requires revealing who they were,
 which is a significant security risk. The GM should treat this as an
 extraordinary social action with consequences either way.
 
@@ -36,7 +36,7 @@ extraordinary social action with consequences either way.
 | Pentarus | *Deceased team member* | — |
 
 Contacts listed under Pentarus have no current handler. They are orphaned —
-the relationship existed but no living member of la Malice held it as primary.
+the relationship existed but no living member of Malice held it as primary.
 They may be approached as cold strangers only.
 
 ---
@@ -44,7 +44,7 @@ They may be approached as cold strangers only.
 ## Taetzal
 
 Multiple contacts list Taetzal as their location or employer. Taetzal was
-la Malice's corporate office building — the operational base that housed
+Malice's corporate office building — the operational base that housed
 Herbertson Medical Services staff, the medical clinic, and associated
 personnel. It no longer belongs to them. Its current ownership and status
 is unknown — Harlequin liquidated everything. Any Taetzal-listed contact
@@ -76,7 +76,7 @@ complete destruction and reconstruction of a person's paper existence.
 He has done it for people who needed to disappear permanently and has never
 been the reason one of them got found.
 
-The Pentarus connection means la Malice has no prior relationship with him.
+The Pentarus connection means Malice has no prior relationship with him.
 He does not know their faces. This is an advantage — he will evaluate them
 as new clients on their own merits with no old loyalty or suspicion.
 
@@ -113,7 +113,7 @@ outside Taetzal is preferable for a first contact.
 **Standard approach (as strangers):**
 All contacts may be approached as new relationships. Use normal SR3 contact
 establishment rules. Prior relationship grants no benefit — they do not know
-la Malice.
+Malice.
 
 **Identity reveal (attempting to recover the relationship):**
 Requires the character to convince the contact they are who they claim to be.
@@ -127,7 +127,7 @@ The GM should require:
 
 **Risk of reveal:**
 If the contact believes them — relationship recovers, but the contact now
-knows la Malice is alive. Every person who knows is a potential leak.
+knows Malice is alive. Every person who knows is a potential leak.
 If the contact does not believe them — they may report a suspicious
 impersonator to unknown parties. Some contacts have dangerous affiliations.
 
@@ -136,7 +136,7 @@ Dunkelzahn was assassinated 08/09/57 — less than seven months before the famil
 woke up. His death is recent and the shadow community is still processing it.
 A contact who was close to the team and old enough to understand what the
 Harlequin's Back backlash could do to an elf might — might — have a framework
-for what they are looking at when they see la Malice. These contacts are
+for what they are looking at when they see Malice. These contacts are
 vanishingly rare and are GM-controlled. The timing of Super Tuesday (08/11/57,
 two days after the assassination) and the subsequent procedure is not accidental.
 
@@ -147,7 +147,7 @@ two days after the assassination) and the subsequent procedure is not accidental
 **Primary:** Alois/Singer *(lost)*
 
 Blackstone and his daughter were extracted from Aztechnology's hands by
-la Malice. The debt is real and he knows it.
+Malice. The debt is real and he knows it.
 
 He will not act on it.
 
@@ -343,11 +343,11 @@ Uncle Bao Jin/Golden Fan, Wu Shen/Heavenly Dragon, and associated lieutenants.
 ### Gang Contacts — Special Note
 
 The gang contact network was built as part of a **training and healing for peace
-program** run by la Malice. These contacts did not think of the family as
+program** run by Malice. These contacts did not think of the family as
 shadowrunners first — they were neutral diplomats, mediators, and advocates.
 The relationship was fundamentally different from a standard runner/contact dynamic.
 
-Recovering any gang contact requires not just convincing them la Malice is alive,
+Recovering any gang contact requires not just convincing them Malice is alive,
 but that the program still means something. The emotional weight cuts both ways —
 some will be genuinely moved. Others will feel the relationship was built on a
 deception if they learn who the family really was.
@@ -378,7 +378,7 @@ All others Rating 1. Full list available on request.
 | Road Crew | Go Gang | G | Seattle/Auburn | Claire/Banshee | 24 go-gangers, 4 industrial road pavers |
 
 *Triple Point operated around Taetzal. Their territory may still border the
-building under new management. They do not know la Malice is alive.*
+building under new management. They do not know Malice is alive.*
 
 ---
 
@@ -415,4 +415,4 @@ building under new management. They do not know la Malice is alive.*
 ---
 
 *Lost Contact Network v1.0 — Malice Family Campaign*
-*All contacts believe la Malice is dead. Approach as strangers.*
+*All contacts believe Malice is dead. Approach as strangers.*

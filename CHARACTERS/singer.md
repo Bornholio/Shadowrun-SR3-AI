@@ -7,6 +7,16 @@
 
 ---
 
+## Profile
+**Role:** Prime Runner / Mage / Military EW specialist | **Prior Life:** Military EW specialist / Mechanical engineer
+**Born:** Early 1970s | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
+**Build:** Compact, dense — deliberate | **Hair:** White | **Fur:** White, fine
+**Individual Bonus:** +1 Intelligence (edge)
+**Notes:** Conducts electronic warfare and radio surveillance.
+**Relations:** Father of Carpenter · Son of Meridian and Keystone · Husband of Banshee
+
+---
+
 ## Attributes
 
 | Stat | Racial Max | Value | Notes |
@@ -29,7 +39,6 @@
 
 ## Initiative Modes
 
-
 | Mode | REA | Initiative |
 |------|-----|-----------|
 | Physical | 24 | 24 + 3d6 |
@@ -38,7 +47,9 @@
 | Decking (fully mental) | 22 | 22 + 4d6 |
 | Decking Cold Assist | 18 | 18 + 3d6 |
 
+---
 
+## Active Skills
 
 | Skill | Stat | Rating (Augmented) | Notes |
 |-------|------|--------|-------|
@@ -88,7 +99,6 @@
 | Semi-ballistic | Rea | 3 (4) | |
 | Suborbital | Rea | 3 (4) | |
 | Tracked | Rea | 4 (5) | |
-| Walker | Rea | 3 (4) | |
 | Boat | Rea | 4 (5) | |
 | Armor B/R | Int | 6 (7) | |
 | Bike B/R | Int | 4 (5) | |
@@ -110,7 +120,7 @@
 
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
-| English | Int | 13 (17) | City Speak |
+| English | Int | 13 (17) | Street/City Speak, Scientific Jargon (lingos) |
 | English R/W | Int | 11 (15) | |
 | Japanese | Int | 4 (8) | |
 | Spanish | Int | 4 (8) | |
@@ -167,14 +177,13 @@
 
 **Tradition:** Dark King / Path of the Bard  
 **Grade:** 8 Initiate  
-**Group:** Malice (Shaman, 7 members, No strictures)
+**Group:** Malice (7 members, no strictures)
 
 **Totem Bonuses:**
-- Sorcery: +1 Dice Health Spells, +1★ Control Manipulation (conditional: summer / Lughnasad ±72hrs / Irish province of Munster / within 4m LOS of fire ≥campfire)
+- Sorcery: +1 Die Health Spells, +1★ Control Manipulation (conditional: summer / Lughnasad ±72hrs / Irish province of Munster / within 4m LOS of fire ≥campfire)
 - Sorcery: −1 die Health Spells (Bard disadvantage — net with Dark King: 0 change)
 - Conjuring: Nature Spirits, Elementals (no Water), Spirits of Flame
 - +2 Dice Spirits of Man, +2 Dice Spirits of Flame
-- Disadvantage: −1 die Health Spells (Bard) offset by +1 die Health Spells (Dark King) — net 0
 - Requirement: artistic Knowledge Skill at Rating 4+ (met: Painting 4)
 
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
@@ -228,7 +237,7 @@
 
 ## Cyberware / Bioware
 
-**cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
+**Cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
 **Bioware** ©ultured; Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
 
@@ -244,18 +253,18 @@
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket (5 Ballistic / 3 Impact )- Worn
-- Secure Vest (2 Ballistic / 1 Impact )- Worn, Layered
-- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
-- Forearm guards (Melee Impact +1)- Worn
-- total Armor  (6 Ballistic / 2 Impact )
+- Armor Jacket (5 Ballistic / 3 Impact) — Worn
+- Secure Vest (2 Ballistic / 1 Impact) — Worn, Layered
+- Military Armored Jacket (5 Ballistic / 3 Impact) — Unit 5
+- Forearm guards (Melee Impact +1) — Worn
+- Total Armor: 6 Ballistic / 2 Impact
 
 ### Outfits
 **Ordinary:** Clothing, Hiking Boots, Hoodie, Jacket, Utility Belt, Hip Bag, Dog Tag, Gold Jewelry, Mesh Socks and Underwear, Bronze Bracers  
 **Black:** Military Armored Jacket, BDUs, Light Web Gear, Combat Boots, Snake Mesh Socks, Leather Gloves  
 **Antisensor Urban Camo:** Poncho, Respirator, Beanie, Small Equipment Pouch, Large Equipment Pouch, Pistol Ammunition Pouch
 
-### Compact Electronics (Body Compartments — see 3PR sheet)
+### Compact Electronics (Body Compartments)
 - Bug Scanner / RF Tracker 10 (Conceal 9, DNI, 5P-V)
 - Cyberware Scanner 10 (Conceal 9, DNI, 8P-U)
 - Signal Amplifier 10 (Conceal 9, DNI, ECCM 10, BCE 10, BCD 8, 10P-U)
@@ -280,7 +289,5 @@
 - ID: R1, Ages Well — Dale Kowalski, Wallet
 | Datajack cable | Standard grade, short | Bagged | Low value |
 
-
 ### Extender Box
 Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg
-

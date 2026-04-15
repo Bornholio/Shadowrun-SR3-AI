@@ -32,43 +32,47 @@
 - Forum rulings and community errata unless GM explicitly approves
 
 ### SR4+ Contamination Vectors (flag proactively)
-- **Radio/telephone** — not commlinks
-- **Flux** — jamming mechanic, not data throughput
-- **Mentor Spirit** — called Totem (shamans) or Mentor (hermetics) in SR3
+- **Radio/telephone** — not commlink - commlink is specific cyberware and is not common
+- **Flux** — range mechanic, not data throughput
+- **Mentor Spirit** — do not use in SR3
 - **Limits** — not an SR3 mechanic
 - **Edge** — not an SR3 mechanic
+
+### Players, Characters, Contacts and NPCs
+
+-Players are the humans defining actions of the characters, do not fill in their actions unless purely for prose during defined actions, missing players during session will be filled in for by gm if needed.
+-Characters are the roles played by the players in the game world, do not invent uneeded information they know, players hold this.
+-Contacts are special NPCs that are defined character assests, they fill the role of agent buying, selling, and information Gathering
+-NPCs are all wolrd entities other than the characters, they may be enemies, nuetral or helpful.  They will never know the previous identies of the characters, with GM driven exceptions.
 
 ---
 
 ## Narrative Continuity *(GM Eyes Only)*
 
-- Session 01–12 events are canonical — do not retcon without GM instruction
-- Mystery threads are intentionally unresolved
-- The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements
-- Harlequin connection is GM-only knowledge — do not surface to players
-- "Why us then?" is the central unanswered question — do not answer it
-
-- The family does not know they chose the surgery
-- The family does not know what "old blood" means yet
+- Prior Session events are canonical — do not retcon without GM instruction
+- Mystery threads are intentionally unresolved, do not make new mystery threads
+- The glyph-placer, the operative, and the surgery architect are separate GM-controlled elements, stop using them
+- Harlequin connection is GM-only knowledge — do not surface to players, do not use
+- The family does not know what "old blood" means yet, do not use
 
 ### Identity Architecture *(hard rules — apply every session)*
 
- True pre-reset identities known only to: Harlequin, his  Free Spirit agent
-- Harlequin is neutral to the family — owes them for metaplane assistance, does not act against them
+ True pre-reset identities known only to: Harlequin, his  Free Spirit agent, this is critical, NO OTHER ENTITY KNOWS THEM PRIOR TO August 2058
+- Harlequin is neutral to the family — owes them for metaplane assistance, does not act against them, DO NOT USE
 - All persons except the 14 current sheet contacts believe the family dead
-- The 14 contacts know them as completely independent identities — no connection to prior selves
-- **Do not introduce any NPC who recognizes the family's pre-reset identity** without explicit GM instruction
+- The 14 contacts know them as completely independent identities — no connection to prior selves they know them from no direct contact. They should never be used as enemies
+- **Do not introduce any NPC who recognizes the family's pre-reset identity** 
 
 ### Enemy and Ally Sources *(hard rules)*
 
 Current enemies arise **only** from:
-1. Interactions around the sale of HMS (HMS-7731-CORP thread)
-2. Harlequin's direct opponents — potentially any Tir prince **except Ehran the Scribe** (Alachia included as possible enemy)
+1. Interactions around the sale of HMS (HMS-7731-CORP thread), To Be finished on completeion of GT Threads
+2. Harlequin's direct opponents — potentially any Tir prince **except Ehran the Scribe** (Alachia included as possible enemy), VERY RARE
 
 Unknown allies arise **only** from:
-1. HMS former associates defending them as critically important clients
-2. Harlequin's agents sent to foil his enemies
-3. 4th World entities recognizing their synchronized astral presences — **GM intervention only, never incidental**
+1. HMS former associates defending them as critically important clients, SHOULD BECOME RARE
+2. Harlequin's agents sent to foil his enemies, VERY RARE
+3. 4th World entities recognizing their synchronized astral presences — **GM intervention only, never incidental**, DO NOT USE
 
 ### 4th World Entities *(hard rule)*
 
@@ -82,10 +86,12 @@ Unknown allies arise **only** from:
 
 - Always display stats as **Base (Augmented)[Cyber]** format
 - Unaugmented stats apply to: astral tests, conjuring, drain resistance, spellcasting, magical skill tests
-- Augmented stats apply to: physical combat, movement, physical skills, social tests in proximity
+- Augmented stats apply to: Most tests
+- Cyber stats apply to physical in person tests: physical combat, movement, physical skills, social tests in proximity
 - Tailored Pheromones: +4 effective Charisma within 20–30m physical proximity only — situational, not permanent
 - Bioware augmentations count as natural augmented stats
 - Always note which stat version applies when calling for a test
+- Damage resistance test is Body plus damage resisitance adders (Dermal Armor, Toughness, Fire Resistance, etc.) as applicable
 
 ---
 
@@ -138,8 +144,8 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 *Possessed by: Singer, Banshee, Carpenter*
 
 ### What It Does
-- Center for success or reduce modifiers on **Intelligence Tests** including Perception and Learning — Free Action
-- Center to reduce modifiers when **defaulting to INT** from INT-linked skills
+- Centering for success or reduce modifiers on **Intelligence Tests** including Perception and Learning — Free Action
+- Centering to reduce modifiers when **defaulting to INT** from INT-linked skills
 - **+1 die** to all Knowledge and Language Skill Tests
 - **−1 Karma cost** to increase skills (minimum 1 GK per rating point)
 
@@ -203,10 +209,10 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 
 ---
 
-## Language Rules (House)
+## Language Rules
 
 - Base pool: INT × 1.5 rounded down
-- Bilingual: English and Sperethiel free at INT rating
+- Bilingual Edge: English and Sperethiel free at INT rating
 - R/W default: spoken ÷ 2 rounded down
 - Lingo/Jargon: edge offsetting +2 TN penalty — noted on language entry, not a separate skill
 
@@ -259,72 +265,138 @@ Load when: metamagic mechanic is invoked in play, eligibility question, or metam
 
 ---
 
-## Ork Underground — Operational Notes
+## Tests
 
-*Full reference: `MAPS/ork_underground.md`*
+## Test modifiers
+- Base TN (Target Number) is generally 4, see special rules or tables for other bases.
+- Test modifiers for circumstance, some augmentations, penalties and penalty offsets apply to TN.
+- TN is the threshold for which a die is a success, make sure to load the sr3-concepts-tests-pools.md before resolving.
+- Singer, Carpenter and Banshee have significant TN bonuses, especially to Athletics (sr3-athletics.md), Perception (sr3-perception-surprise.md) and from centering, edges and aptitude
+- Defaulting is generally from Attribute at a +4TN Penalty, Defaulting to another skill is +2, Defaulting to a skill specialization is +3
 
-- Pre-2058: not officially recognized, ork-controlled, own police force, no Lone Star presence
-- 22 known public entrances — only two reliably safe for non-orks: Big Rhino (Seneca & 1st) and Lordstrung's (5th & Pine)
-- **Matrix:** Dead zones throughout. No reliable wireless. Hardline access at established nodes only. Singer decking underground = Cold Assist at best without hardline tap. BT network degrades to short-range burst only.
-- **Bronson cache:** Sealed earth, ~40m from Big Rhino stairs. Shape Earth (Singer, F6 fetish) required to open. Flurry is the guide mechanism. Seven military bags, full kit. Bronson letter dated 2052.
-- **Three orks know the location:** Keystone's civil engineer contact (now Denver), two southern Underground construction workers. All consider it mostly forgotten.
-- Load `MAPS/ork_underground.md` when action moves below street level Downtown
+### Skill Defaults (Non-Attribute)
+
+| Skill | Defaults |
+|---|---|
+| Assault Rifles | Rifles, Shotguns, Submachine Guns, Pistols |
+| Clubs | Edged Weapons, Pole Arms/Staffs |
+| Cyber-Implant Combat | Unarmed Combat |
+| Edged Weapons | Clubs, Pole Arms/Staffs |
+| Gunnery | Launch Weapons |
+| Launch Weapons | Gunnery |
+| Pistols | Assault Rifles, Rifles, Shotguns, Submachine Guns |
+| Pole Arms/Staffs | Edged Weapons, Clubs |
+| Rifles | Assault Rifles, Pistols, Shotguns, Submachine Guns |
+| Shotguns | Assault Rifles, Pistols, Rifles, Submachine Guns |
+| Spray Weapons | Gunnery |
+| Submachine Guns | Assault Rifles, Pistols, Rifles, Shotguns |
+| Interrogation | Intimidation |
+| Intimidation | Interrogation |
+| Computer | Electronics |
+| Electronics | Computer |
+| LTA Aircraft | Winged Aircraft, Rotor Aircraft, Vectored Thrust Aircraft |
+| Motorboat | Ship |
+| Rotor Aircraft | Winged Aircraft, Vector Thrust Aircraft, LTA Aircraft |
+| Ship | Motorboat |
+| Vectored Thrust Aircraft | Winged Aircraft, Rotor Aircraft, LTA Aircraft |
+| Winged Aircraft | Rotor Aircraft, Vector Thrust Aircraft, LTA Aircraft |
+
+#### Notes
+
+SR3 also explicitly states that **Aura Reading, Sorcery, and Conjuring have no default including attribute**.
+
+### CENTERING
+Free Action — declare before base skill test. Do not center when silence is required.
+| Mode | When | TN | Effect |
+|---|---|---|---|
+| A — Success | Astrally perceiving | Same as base skill | Complementary dice (halved) added to base test |
+| B — Drain | Before drain roll | Drain TN | Complementary dice (halved) added to drain resistance |
+| C — Penalties | Before base test | Base TN − Initiate Grade | Every 2 successes = −1 TN on base test |
+
+### GENERAL BASE TARGET NUMBER TABLE
+| DIFFICULTY | TN |
+|---|---|
+| Simple | 2 |
+| Routine | 3 |
+| Average | 4 |
+| Challenging | 5 |
+| Difficult | 6 |
+| Strenuous | 8 |
+| Extreme | 9 |
+| Nearly Impossible | 10+ |
 
 ---
 
-## Security Ratings
+## Family Language Cross-Reference
 
-### Rating Scale
+*Quick-reference during play. Individual sheets are authoritative on augmented values.*
 
-| Rating | Description | Response |
-|---|---|---|
-| AAA | Maximum — corporate/military enclave | Instant, elite, overwhelming |
-| AA | High — wealthy residential/corporate | Fast, well-armed, professional |
-| A | Good — middle-class, stable | Professional, timely |
-| B | Moderate — working class | Standard Lone Star, adequate |
-| C | Low — poor/transitional | Slow, minimal presence |
-| D | Minimal — near-barrens | Rare patrols, unreliable |
-| E | None — Lone Star does not patrol | No response |
-| Z | Extreme — active threats to life | No law; survival territory |
+### Bilingual Languages (Free at INT rating)
 
-### Response Times (Lone Star)
+| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
+|---|---|---|---|---|---|---|---|
+| English spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
+| English R/W | 8 | 8 | 11 | 11 | 11 | 3 | 6 |
+| Sperethiel spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
+| Sperethiel R/W | 4 | 4 | 5 | 5 | 5 | 3 | 3 |
 
-| Rating | Response Time | Force Sent |
-|---|---|---|
-| AAA | Immediate | Heavy — HTR, magic support possible |
-| AA | 1–2 minutes | Heavy — armed, organized |
-| A | 3–5 minutes | Standard patrol + backup |
-| B | 5–10 minutes | Standard patrol |
-| C | 10–30 minutes | Single patrol, maybe |
-| D | 30+ minutes | Single patrol, if at all |
-| E/Z | Never | — |
+### Additional Languages (spoken, base rating)
 
-### Key District Ratings (Quick Reference)
+| Language | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
+|---|---|---|---|---|---|---|---|
+| French | 2 | 5 | 4 | 2 | 5 | 2 | 4 |
+| German | 2 | — | 4 | 2 | 5 | — | 5 |
+| Spanish | 2 | 2 | 4 | 4 | 2 | 4 | 2 |
+| Japanese | 2 | 2 | 4 | 4 | 2 | 3 | 1 |
+| Korean | — | — | 4 | — | — | — | — |
+| Mandarin | — | — | 4 | — | — | — | — |
+| Irish Gaelic | 2 | — | 2 | 2 | 5 | 3 | 2 |
+| Latin | 2 | — | 6 | 6 | 6 | 2 | 4 |
+| Greek | — | — | 1 | — | — | — | — |
+| Salish-Sidhe | 2 | 2 | 3 | 2 | 2 | 2 | 2 |
+| Sign Language | — | 2 | 1 | 5 | — | — | 3 |
 
-| District | Range | Notes |
-|---|---|---|
-| Downtown | AAA–C | Luxury enclaves to low-class fringe |
-| Bellevue | AAA–C | Wealthy corp suburb |
-| Tacoma | AAA–C | Industrial/port mix |
-| Everett | AAA–D | Independent character, naval shipyard |
-| Renton | AAA–C | Mixed; Lake Youngs AAA island |
-| Auburn | AA–D | Working class; no major gangs; current family location |
-| Snohomish | AA–C | Rural fringe, high human % |
-| Fort Lewis | AA–A | Military; 3 overlapping jurisdictions |
-| Redmond | C/E/Z | Touristville C only; rest = The Barrens |
-| Puyallup | C/E/Z | Tarislar effective A (Knight Errant); rest dangerous |
-| Council Island | Sovereign | No Lone Star rating; own internal security |
+### English Lingos
 
-### Special Cases
+| Character | Lingo |
+|---|---|
+| Keystone | Scientific Jargon |
+| Singer | Street/City Speak, Scientific Jargon |
+| Banshee | Legalese, City Speak |
+| Carpenter | Net Jargon, City Speak |
+| Crowbar | Street/City Speak |
+| Kluger | Medical Jargon, Street/City Speak |
 
-- **Fort Lewis:** Metroplex Guard and UCAS Military Police rate areas one level higher than Lone Star
-- **Tarislar (Puyallup):** Official C; community-funded Knight Errant raises effective security to A
-- **Corporate enclaves:** Internal AAA regardless of surrounding district rating
-- **Lone Star vs Knight Errant:** Auburn/Renton corridor has KE presence; response profile differs from LS
+---
 
-*Full district detail: MAPS/00_security_ratings_master.md · 01–11 district files*
+## Movement Per Pass — All Seven
+
+| | Q | Walk/turn | Run/turn | Passes | Walk/pass | Run/pass |
+|---|---|---|---|---|---|---|
+| Carpenter | 18 | 18m | 54m | 4 | 4.5m | 13.5m |
+| Singer | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
+| Banshee | 15 | 15m | 45m | 4 | 3.75m | 11.25m |
+| Meridian | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
+| Keystone | 9 | 9m | 27m | 2 | 4.5m | 13.5m |
+| Kluger | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
+| Crowbar | 7 | 7m | 21m | 2 | 3.5m | 10.5m |
+
+---
+
+## Memory Restoration — Canonical Framework
+
+1. **Magic** — intuitive, already returning. Active without conscious recall.
+2. **Active skills** — procedural. Works when called upon. May feel dissociative.
+3. **Knowledge skills** — fuzzy, distrusted. Present but felt unreliable. Want verification.
+4. **Historical fact** — must be actively re-learned. Gap years (2025–2058) hardest.
+5. **Reading** — prodigious across all seven. Primary recovery mechanism available now.
+
+**Skill rating 6 threshold:** Innate — not performed, triggered. Amnesia cannot touch this layer.
+**Post-2025 knowledge:** Distrusted by default. Characters hedge and seek verification.
+**Magic basics:** Trusted. Specialty magical knowledge: distrusted until verified.
 
 ---
 
 *SR3 Game Rules Reference — Malice Family Campaign*
 *File location: 2_sr3_game_rules.md (root)*
+*Updated after Session 13*

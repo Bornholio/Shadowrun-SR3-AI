@@ -73,8 +73,25 @@ ID card, blank SIN shell	1	Rating 3
 Plastic restraints	12	
 Mage masks	2	
 
+| Item | Qty | Notes |
+|---|---|---|
+| Electronics kit | 1 | GS-2 |
+| Dataline tap 6 | 1 | GS-2 |
+| Micro-camcorder 6 | 1 | GS-2 |
+| Shotgun mic 5 | 1 | GS-2 |
+| Portacam | 2 | GS-1, GS-2 |
+| Bug scanner 5 | 1 | GS-2 |
+| Pocket secretary | 2 | GS-1, GS-2 |
+| Fichetti Security 600 | 1 | GS-1 |
+| Encrypted field commlink | 1 | GS-1 |
+| Micro-recorder 6 | 1 | GS-1 |
+| Tracking signal/locator 6 | 1 | GS-1 |
+| Encrypted commlink | 1 | GS-4 |
+| Armor vest | 4 | GS-1 through GS-4 |
+| Ares Predator II | 1 | GS-3 |
+| Encrypted radio 5 | 1 | GS-3 |
 
-
+- GT Tier 1 gear — electronics kit, dataline tap 6, micro-camcorder 6, shotgun mic 5, portacam ×2, bug scanner 5, pocket secretary ×2, Fichetti 600, encrypted field commlink, micro-recorder 6, tracking signal/locator 6, encrypted commlink, armor vests ×4, Predator II, encrypted radio 5
 
 *Session 11 Loot v1.0 — Malice Family Campaign*
 *Created after Session 11*

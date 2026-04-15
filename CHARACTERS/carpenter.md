@@ -8,6 +8,16 @@
 
 ---
 
+## Profile
+**Role:** Prime Runner / Mage / Decker | **Prior Life:** Student
+**Born:** 2011 (UGE wave — not goblinization) | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
+**Height:** ~5'4"–5'5" | **Build:** Stockier than Banshee | **Hair:** White | **Eyes:** Bright blue | **Fur:** White, fine
+**Individual Bonus:** +1 Quickness (edge)
+**Notes:** The UGE baby with a veteran's hardware. Youngest of the seven. Two routers — genuine parallel processing. Organic microscopic vision.
+**Relations:** Son of Singer and Banshee
+
+---
+
 ## Attributes
 
 | Stat | Racial Max | Value | Notes |
@@ -26,6 +36,7 @@
 | Karma Pool | — | 11 | 1/20gk |
 | Good Karma | — | 32 | |
 | Hacking Pool | — | 12 | |
+
 ---
 
 ## Active Skills
@@ -82,7 +93,7 @@
 
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
-| English | Int | 13 (17) | City Speak |
+| English | Int | 13 (17) | Net Jargon, City Speak (lingos) |
 | Sperethiel | Int | 13 (17) | |
 | German | Int | 5 (9) | |
 | French | Int | 5 (8) | |
@@ -120,7 +131,7 @@
 
 **Tradition:** Cat Shaman / Path of the Warrior
 **Grade:** 8 Initiate
-**Group:** Malice (Shaman and Mage, 7 members, No strictures)
+**Group:** Malice (7 members, no strictures)
 
 **Metamagics:** Centering, Channeling, Cleansing, Cognition, Invoking, Masking, Reflecting, Sensing, Shielding
 
@@ -163,7 +174,7 @@
 
 ## Cyberware / Bioware
 
-**cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
+**Cyberware** Δgrade; BattleTac FDDM, BattleTac IVIS, Body Compartment ×8, Chipjack Expert Driver 6, Chemical Analyzer, Commlink 10, Cranial Cyberdeck, Data Lock, Datacompactor 4, Datajack (Behind Left Ear), Datajack (Behind Right Ear), Direct Neural Interface 4, Display Link / Eye Display (Right Eye), Encephalon 2, Gas Spectrometer, Headware Memory 300, Image Link (Left Eye), Image Link (Right Eye), Induction Datajack (Left Hand), Induction Datajack (Right Hand), Internal GPS, Internal Voice Mask 10, Jolt Alert, Knowsoft Link, Math SPU 3, Multislot Chipjack-4, Opticam (Left Eye), Orientation System, Protocol Emulation Module 10, Radio 10, Rangefinder, RAS Override, RC Encryption Module 10, Reaction Enhancers 6, Recorder, Remote Control Deck 10, Remote Control ECCM 8, Retinal Clock (Left Eye), Rigger Decryption Module 8, Routers ×2, Simlink 12, Simrig (Full-X), Smartlink 2 Processor PSS, Snake-Eyes FDDM Module, Snake-Eyes Remote Interface Package, Spatial Recognizer, Subdermal Display, Tactical Computer (BT Mod), TC Generic/Dedicated Ports 6/11, Telephone, Transducer, Ultrasound Vision, VCR 2, Voice Modulator, BattleTac Cyberlink
 
 **Bioware** ©ultured; Abnormal Oxygen Adaptation, Angiotensin, Calcitonin, Cerebral Booster 2, Chemical Gland (Anti-Coagulant), Clean Metabolism, Cold Adaptation, Enhanced Articulation, Erythropoietin, Extended Volume 3, Heat Adaptation, Improved Glucagon, Mnemonic Enhancer 3, Muscle Augmentation 4, Muscle Toner 4, Nephritic Screen, Nictating Membranes, Pathogenic Defense 4, Phenotype Alteration 8, Platelet Factories, Reflex Recorder 2, Synaptic Accelerator 2, Syntha Cardium 2, Tailored Pheromones 2, Toxin Extractor 2, Tracheal Filter 2, Trauma Damper
 
@@ -180,10 +191,10 @@
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
-- Armor Jacket (5 Ballistic / 3 Impact )- Worn
-- Secure Vest (2 Ballistic / 1 Impact )- Worn, Layered
-- Military Armored Jacket (5 Ballistic / 3 Impact ) - Unit 5
-- total Armor(6 Ballistic / 3 Impact )
+- Armor Jacket (5 Ballistic / 3 Impact) — Worn
+- Secure Vest (2 Ballistic / 1 Impact) — Worn, Layered
+- Military Armored Jacket (5 Ballistic / 3 Impact) — Unit 5
+- Total Armor: 6 Ballistic / 3 Impact
 
 ### Outfits
 **Ordinary:** Clothing, Running Shoes, Hoodie, Jacket, Shoulder Bag, Hip Bag, Dog Tag, Mesh Socks and Underwear

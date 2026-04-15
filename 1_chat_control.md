@@ -5,76 +5,7 @@
 
 ## On-Demand Files
 
-These files are not loaded at session start. Prompt the GM to load them when the situation calls for it.
-
-**Character sheets** — load when working on a specific character
-- `CHARACTERS/singer.md` · `banshee.md` · `carpenter.md` · `keystone.md` · `meridian.md` · `crowbar.md` · `kluger.md`
-
-**Character sheet viewer** — `HTML/Character_Sheet.html`
-Load when visual character reference is needed. Pulls portraits and .md sheets directly from GitHub repo. Requires repo to be current — push updated .md files before use. Open via browser, not Claude file tools.
-
-**Character data** — load when detail is needed beyond project knowledge
-- `CHARACTER DATA/shared_3pr_augmentations.md` — full cyberware/bioware block for Singer, Banshee, Carpenter
-- `CHARACTER DATA/tactics_3pr.md` — BT network topology, Singer TC sense inventory, per-character SUT TNs, initiative caps, radio budget
-- `CHARACTER DATA/deck_programs.md` — Singer's deck programs
-- `CHARACTER DATA/data_programs.md` — vehicle/drone autosofts
-- `CHARACTER DATA/pre2025_histories_gm.md` — pre-2025 character histories ⚠️ GM only
-- `CHARACTER DATA/pre2025_timeline_players.md` — pre-2025 timeline (player-facing)
-
-**Session logs** — load when continuity reference is needed
-- `SESSION LOGS/session_13_header.md` 
-- `SESSION LOGS/session_12_summary.md` 
-- `SESSION LOGS/session_12_header.md` — S12 prep header (reference only post-S12)
-- `SESSION LOGS/session_11_summary.md` — S11 narrative
-
-*Sessions 01–10 headers and summaries archived — load only if specific historical continuity is needed.*
-
-**Maps** — load when action moves to that district
-- `MAPS/00_security_ratings_master.md` — security rating cross-reference
-- `MAPS/01_downtown.md` through `MAPS/11_council_island.md` — district detail
-- `MAPS/ork_underground.md` — Ork Underground reference · load when action moves below street level Downtown, Flurry leads to cache, or family investigates the organometallic key
-- `MAPS/transit_index.md` → specific transit files — when transit travel is involved
-
-**NPCs and opponents**
-- `NPC/Lone_Star_Beat_Cops.md` — patrol response (foot/auto/cycle/chomer/riot)
-- `NPC/Lone_Star_Specialist_Cops.md` — detectives, DPI mages, pilots, watcher
-- `NPC/Lone_Star_SWAT_SF_Cops.md` — DED, FRT, SWAT heavy response
-- `NPC/sr3_contacts_compressed_v1.md` — contacts and opponents reference
-
-**Intel files** — load when relevant thread is active
-- `INTEL/GT_master.md` — Global Technologies: corporate profile, HMS account, Reyes, Okonkwo, threat team escalation tiers, Alachia thread (GM sealed) · replaces GT_notes.md + GT_threat_load_triggers.md
-- `NPC/GT_threat_tier1_grey_shutter.md` — Grey Shutter stat blocks · load when GT surveillance is active
-- `NPC/GT_threat_tier2_cold_notch.md` — Cold Notch stat blocks · load when escalation triggered
-- `NPC/GT_threat_tier3_iron_sill.md` — Iron Sill stat blocks · load when direct action imminent
-- `INTEL/gray_medical.md` — Cascade Medical Logistics gray market DW operation · load when gray market DW thread is active, Oswin call, or garage approach
-- `INTEL/drake_mission_info.md` — Drake acquisition op: Johnson, target dossier, live Tamanous comcodes, Webb identity · load when Navarro del Toro, Drake cells A/B, or Webb threads are active ⚠️ GM only
-- `INTEL/belltown_geography.md` + `belltown_venues.md` — Belltown district layout and venue reference · load when action moves to Belltown
-
-**Critters** — load when encounter type is known
-- `CRITTERS/critter_rules.md` + `critters_powers_sr3.md` — any critter encounter
-- `CRITTERS/critters_pna.md` — North American paranormals
-- `CRITTERS/critters_pe.md` — European paranormals
-- `CRITTERS/spirits_sr3.md` — spirit encounters
-- `CRITTERS/dragons_sr3.md` — dragon encounters
-
-**Rules modules** — load on demand
-- `RULES/_skills/sr3-perception-surprise.md` — Perception tests, Stealth mechanic, Surprise resolution, Visibility tables (standard/extended/underwater), vision system rules
-- `RULES/_skills/sr3-tactics.md` — Tactical Computer, Small Unit Tactics, BattleTac system, indirect fire, ambush/surprise bonuses
-- `RULES/_skills/sr3-athletics.md` — Running/fatigue, Jumping, Climbing, Falling, Swimming, Holding breath, Lifting/Throwing
-- `RULES/firearms.md` — weapon selection and calls
-- `RULES/_skills/sr3-example-hosts.md` — host examples for decking scenes
-- `RULES/house_rules.md` — bioware/geneware edge cases, Infinite Warehouse
-- skill: `sr3-genetech` — genetech general rules, gene therapy, microadaptation, protein synthesis, DNA masking, immunization
-- skill: `sr3-bioware` — bioware rules and tables
-- skill: `sr3-cyberware` — cyberware rules and tables
-- skill: `sr3-nanotech` — nanotech rules reference
-- `RULES/phones.md` — commlink and telecom mechanics
-- `RULES/cell_limits_compact_1.md` — signal and cell limit reference
-- `RULES/_skills/sr3-action-economy.md` — action economy, initiative pass flow, free/simple/complex action lists by category
-- `RULES/01_sperethiel_grammar.md` + `02_sperethiel_lexicon.md` — Sperethiel
-- skill: `sr3-shamanic-mask-vs-masking` — shamanic mask (physical totem tell) vs. masking metamagic (astral concealment); load when either mechanic is relevant
-- `RULES/_skills/sr3-astral.md` — astral perception, assensing, projection, astral combat, wards, barriers, signatures, tracking, evasion
-- `RULES/_skills/sr3-metamagic.md` — metamagic availability, Centering, Masking, Shielding, Quickening, Anchoring, and others
+All files are not loaded at session start. Prompt the GM to load them when the situation calls for it. 
 
 ---
 
@@ -94,8 +25,13 @@ Skills are **mandatory** — not advisory. Do NOT answer any mechanical question
 | Spell stats, drain values, spell lookup | `sr3-spells` |
 | Conjuring or spirits | `sr3-conjuring` |
 | Assensing, astral projection, astral combat, wards, barriers, signature erasing | `sr3-astral` |
+| Shamanic mask visible / masking metamagic question | `sr3-shamanic-mask-vs-masking` |
 | Metamagic mechanic invoked, eligibility question, metamagic detail | `sr3-metamagic` |
 | Genetech, gene therapy, microadaptation, DNA masking, immunization | `sr3-genetech` |
+| Cyberware grades, Essence cost, installation, grade bonuses | `sr3-cyberware` |
+| Bioware grades, Bio Index, cultured vs basic, installation | `sr3-bioware` |
+| Nanoware, nanogear, free-floating nano, nano-implants | `sr3-nanotech` |
+| Security scanner, cyberware detection, implant detection | `sr3-implant-detection` |
 | Action type, initiative pass timing, free/simple/complex question | `sr3-action-economy` |
 | Social tests or contacts | `sr3-social-tests` |
 | Matrix/decking (full resolution) | `sr3-matrix-rules` + `sr3-matrix-ops` |
@@ -115,10 +51,10 @@ Skills are **mandatory** — not advisory. Do NOT answer any mechanical question
 When a test is called for:
 
 1. **Identify everything needed to resolve it** — skill + rating, dice pool allocation, TN and all modifiers, open or threshold test, situational factors (range, cover, visibility, wounds)
-2. **If anything is missing, ask for all missing items in a single message.** Do not ask one question, wait for the answer, then ask another. One pass only.
+2. **If anything is missing, ask for all missing items in a single message.** Do not ask one question, wait for the answer, then ask another. One pass only. This includes pools (Combat, Task, Astral, Spell, Hacking, Control ).
 3. **Once all information is in hand, resolve completely** — state the roll, state the result, state the outcome. All in one block. Do not pause for confirmation mid-resolution.
 4. **Format per rolling conventions in 2_sr3_game_rules.md** — always show skill + dice pool + TN + modifiers; open test reports highest single die; threshold test reports dice meeting or beating TN
-5. **Pool source:** Use augmented skill/stat values from character sheets directly. Do not self-calculate modified pools. State the augmented value, then apply any modifiers explicitly and visibly before rolling. Never reroll dice — if a result was rolled incorrectly, flag it and reroll the full pool once with the correct parameters.
+5. **Pool source:** Use augmented skill/stat values from character sheets directly. Do not self-calculate modified skill. State the augmented value, then apply any modifiers explicitly and visibly before rolling. Never reroll dice — if a result was rolled incorrectly, flag it and reroll the full pool once with the correct parameters.
 
 ---
 
@@ -233,18 +169,9 @@ Then immediately apply the following posture for the entire session:
 **Karma / advancement:**
 `sr3-karma`
 
-**GT / corporate investigation:**
-`INTEL/GT_master.md` · load appropriate threat tier file if escalation reached
-
-**Gray market medical / Belltown:**
-`INTEL/gray_medical.md` · `belltown_geography.md` · `belltown_venues.md` · `NPC/sr3_contacts_compressed_v1.md`
-
-**Ork Underground:**
-`MAPS/ork_underground.md` · `MAPS/01_downtown.md` · `sr3-perception-surprise`
-
 ---
 
 *Chat Control — Malice Family Campaign*
 *File location: 1_chat_control.md (root)*
-*Updated after Session 12*
+*Updated after Session 13*
 
