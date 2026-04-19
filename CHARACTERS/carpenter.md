@@ -13,7 +13,7 @@
 **Born:** 2011 (UGE wave — not goblinization) | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
 **Height:** ~5'4"–5'5" | **Build:** Stockier than Banshee | **Hair:** White | **Eyes:** Bright blue | **Fur:** White, fine
 **Individual Bonus:** +1 Quickness (edge)
-**Notes:** The UGE baby with a veteran's hardware. Youngest of the seven. Two routers — genuine parallel processing. Organic microscopic vision.
+**Notes:** The UGE baby with a veteran's hardware. Youngest of the seven. 
 **Relations:** Son of Singer and Banshee
 
 ---
@@ -90,14 +90,14 @@
 ---
 
 ## Languages
-
+** All R/W at half rating as spoken **
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
 | English | Int | 13 (17) | Net Jargon, City Speak (lingos) |
 | Sperethiel | Int | 13 (17) | |
 | German | Int | 5 (9) | |
-| French | Int | 5 (8) | |
-| Irish Gaelic | Int | 5 (8) | |
+| French | Int | 5 (9) | |
+| Irish Gaelic | Int | 5 (9) | |
 | Latin | Int | 6 (10) | |
 
 ---

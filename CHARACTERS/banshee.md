@@ -72,8 +72,8 @@
 | Conjuring | Wil | 14 | ★ Aptitude, Centering |
 | Enchanting | Wil | 4 | Centering |
 | Aura Reading | Int | 6 | |
-| Centering | Wil | 4 | Latin |
-| Centering | Wil | 4 | Mathematics |
+| Centering | Wil | 4 | Latin, Vocal |
+| Centering | Wil | 4 | Mathematics, Hand Motion |
 | Car | Rea | 5 (6) | |
 | Bike | Rea | 5 (6) | |
 | Armor B/R | Int | 2 (3) | |
@@ -92,11 +92,10 @@
 ---
 
 ## Languages
-
+** All R/W at same rating as spoken **
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
-| English | Int | 13 (17) | Legalese, City Speak (lingos) |
-| English R/W | Int | 11 (16) | |
+| English | Int | 13 (17) | Legalese, City Speak |
 | Japanese | Int | 4 (8) | |
 | Spanish | Int | 4 (8) | |
 | Sperethiel | Int | 13 (17) | |

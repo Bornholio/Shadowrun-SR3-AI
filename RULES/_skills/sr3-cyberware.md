@@ -95,13 +95,13 @@ No successes: reveals only base Essence Rating or Bio Index.
 Accessory for internal radio or phone. Scans/monitors Rating × 2 frequencies simultaneously. Programmable/lockable. Internal conference calls. Tridphone: voice-only unless image link present. Packaged with radio or phone: Essence halved.
 
 ### Radio
-Transmit/receive any frequency; Rating × 2 programmed frequencies. Receiver-only models available. User subvocalizes when transmitting (inaudible to nearby persons).
+Transmit/receive any frequency; Rating × 2 programmed frequencies. Receiver-only models available.
 
 ### Subvocal Microphones
 Allows communication without speaking aloud. Works with implanted radio or phone, or via datajack to external device.
 
 ### Telephone
-Cellular network. Subject to ECM/jamming. Device Rating 2. Tridphone: voice-only unless image link. Fax receive; 5 Mp fax memory.
+Cellular network. Subject to ECM/jamming. Device Rating 2. Tridphone: voice-only unless image link. Fax/Data receive; 5 Mp fax memory.
 
 ---
 
@@ -169,7 +169,7 @@ Inhibits natural senses and muscle activation during simsense. +8 TN all Percept
 DNI junction device; up to 10 ports (not counting brain). Allows communication only — not cybernetic control. Non-headware connections require nanite-constructed microfilament fiberoptic cables.
 
 ### Tactical Computer
-Expert system integrating multi-sense input for combat awareness. Background process; no actions required. Base: 5 dedicated ports. Additional ports purchasable. Rating = every 2 applicable senses (max rating 4).
+Expert system integrating multi-sense input for combat awareness. Background process; no actions required. Base: 5 dedicated ports. Additional ports purchasable. Rating = every 2 applicable senses (max rating 4). Be leniant of sense value in combat (Touch, smell unlikely unless blind fighting; taste very unlikley)
 
 | Rating | Combat Pool | SUT Bonus | Surprise |
 |--------|-------------|-----------|---------|

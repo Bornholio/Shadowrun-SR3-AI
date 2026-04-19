@@ -10,7 +10,6 @@ description: SR3 Shadowrun 3rd Edition metamagic rules for GM reference. Load wh
 ---
 
 **MitS adept restriction:** Only Centering, Divining, Masking available to adepts from MitS.
-**3PR:** Mystic Adepts — full list per sheets per GM ruling.
 
 ---
 
@@ -132,7 +131,7 @@ Clears temporary background count. Cause must first be removed. Cannot affect la
 ---
 
 ## Cognition
-*Adept/Mystic Adept · SotA:2064*
+*Adept · SotA:2064*
 *Prerequisite: Centering + a Centering skill*
 *Possessed by: Singer, Banshee, Carpenter*
 

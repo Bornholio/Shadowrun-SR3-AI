@@ -118,15 +118,13 @@ Work clothes purchased S07 · 50¥ spent
 ---
 
 ## Languages
-
-| Language | Stat | Rating |
-|----------|------|--------|
-| English | Int | 8 |
-| English R/W | Int | 8 |
+** All R/W at same rating as spoken **
+| Language | Stat | Rating | Notes |
+|----------|------|--------|-------|
+| English | Int | 8 | Medical Jargon |
 | Spanish | Int | 2 |
-| French | Int | 5 |
+| French | Int | 5 | 
 | Sperethiel | Int | 8 |
-| Sperethiel R/W | Int | 4 |
 | Salish-Sidhe | Int | 2 |
 
 ---

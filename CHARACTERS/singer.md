@@ -117,11 +117,10 @@
 ---
 
 ## Languages
-
+** All R/W at same rating as spoken **
 | Skill | Stat | Rating (Augmented) | Notes |
 |----------|------|--------|-------|
-| English | Int | 13 (17) | Street/City Speak, Scientific Jargon (lingos) |
-| English R/W | Int | 11 (15) | |
+| English | Int | 13 (17) | City Speak, Scientific Jargon |
 | Japanese | Int | 4 (8) | |
 | Spanish | Int | 4 (8) | |
 | Sperethiel | Int | 13 (17) | |

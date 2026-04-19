@@ -24,7 +24,7 @@ description: SR3 Shadowrun 3rd Edition armor ratings reference table. Load when 
 | Armor Jacket | 5 | 3 |
 | Armor Vest | 2 | 1 |
 | Armor Vest with Plates | 4 | 3 |
-| Lined Coat | 4 | 2 |
+| Lined Coat | 4 | 2 | ** Long coat may mean lined coat **
 | Secure Clothing | 3 | 0 |
 | Secure Jacket | 5 | 3 |
 | Secure Vest | 2 | 1 |
