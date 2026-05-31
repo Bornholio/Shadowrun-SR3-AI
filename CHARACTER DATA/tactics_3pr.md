@@ -49,7 +49,7 @@
 
 | Condition | Applicable Senses | Rating | Surprise Pool |
 |---|---|---|---|
-| Standard combat, Singer alone | Thermo + Hi/Lo Hearing + Ultrasound + Orientation (×2) + Opticam + Low Light = 7 | **3** | 75% |
+| Standard combat, Singer alone | Thermo + Wideband Hearing + Ultrasound + Orientation (×2) + Opticam + Low Light = 7 | **3** | 75% |
 | + Any one additional sense applicable | 8 | **4** | 100% |
 | + Banshee or Carpenter in network | Additional feeds via cyberlink | **4** | 100% |
 | Worst case (isolated, featureless indoors) | Thermo + Hi/Lo Hearing + Orientation (×2) + Ultrasound = 6 | **3** | 75% |

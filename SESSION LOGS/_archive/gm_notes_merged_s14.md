@@ -54,12 +54,12 @@ Does not want Lone Star to find Malice first. Possibly wants the family found in
 **RAVN network — confirmed S11:**
 - Burst frequencies: 423.775 MHz primary / 891.220 MHz secondary
 - Encryption: 128-bit hardware keyed — routine recovered S10
-- Device series: RAVN-003 through RAVN-008 confirmed, 001 and 002 location unknown
+- Device series: RAVN-003 through RAVN-008 confirmed; RAVN-001 and RAVN-002 narrowed to city block level S14
 - RAVN-004: dataline tap, Nährboden roof — neutralized S10, housing recovered by placer 0431 Wednesday
-- RAVN-005: receiver/relay, Building 1 NE rooftop — intact
-- RAVN-006: collection node, Building 1 NE interior — intact
-- RAVN-007: audio, 2 blocks south — intact
-- RAVN-008: unknown type, shelter block — intact
+- RAVN-005: receiver/relay, Building 1 NE rooftop — destroyed S14
+- RAVN-006: collection node, Building 1 NE interior — destroyed S14 after collection data recovered
+- RAVN-007: audio, 2 blocks south — destroyed S14
+- RAVN-008: cellular intercept unit — destroyed S14; R4 Browse Agent extracted intact
 - Route 167 corridor sensors ×3 — confirmed from chip data, network extends south
 - Panel van: same operator, roaming Auburn, single Belltown appearance confirmed
 - Raven-Loom cipher: textile steganography on schedule/crypto encoding
@@ -194,22 +194,78 @@ Family owns or owned a farm in Auburn. New owner exists. Buried caverns beneath 
 
 ---
 
-## Active GM Threads — Session 14
+## Session 14 — Canonical Additions
+
+### RAVN Network
+- RAVN-005 through RAVN-008 destroyed S14
+- RAVN-001 and RAVN-002 positions narrowed to city block level via signal triangulation from RAVN-006 collection data
+- RAVN-008 confirmed cellular intercept unit — R4 Browse Agent hunting family by behavioral context, no direct commcodes
+- Browse Agent extracted intact; targeting profile archived in Singer headware
+- Organometallic fabrication signature consistent across all units — builder identity GM controlled; Aldric confirmed not his work
+
+### Cold Notch — Active S14
+- Deployment confirmed S14 — Grey Shutter burned, Cold Notch now active
+- CN-1: approached Nährboden, fully repelled by open-test tie, defender wins. Commcode tapped via Singer LTG intercept. Sleeping in parking structure near Nährboden at end of session
+- CN-2: legal request to Sandy Systems host failed. In-person visit mid-morning — automated systems only, no actionable result
+- CN-4: F3 watcher placed on Harmon building ~0400 Thursday. Astral patrol near Sandy Systems at sunrise — has not yet encountered Hearth Spirit or masked auras. Iron Sill not yet triggered
+
+### Okonkwo Contact
+- Singer contacted Okonkwo as ork beat cop at NukIt Burgers near the Needle
+- Delivered GT Tier 1 crypto chip and F&V Baptist commcode
+- Two-way warning channel established
+- Okonkwo directed Harmon to contact Meridian via Baptist referral
+
+### Harmon Thread
+- Meridian call routed by Carpenter — clean, unintercepted
+- Harmon confirmed GT HR host: Renraku mid-grade Seattle branch
+- Harmon identified Tir registry thread — knows host and cross-reference query to pull real name behind HMS shell signatory. Has not pulled it — makes noise he cannot explain professionally
+- Carpenter planted demerit notice with 15min delay using Reyes credentials — tripwire active
+- Tracking pixel embedded in Harmon notification email
+- F&V Baptist established as Harmon emergency channel
+
+### Festival Foods — Pier 28
+- Full recon complete S14
+- Matrix: Blue Easy host compromised, camera loop commands injected, backdoor planted
+- Physical: two entry points mapped to network nodes, waterside sensor positions confirmed, coverage gap at pier column base
+- File created: INTEL/festival_foods.md
+
+### Addresses Established
+- Harmon building: 7th and Stewart, Belltown
+- Marcus' Hovel: ground floor, Misner Aquaculture building, across from Harmon
+
+### Retire Threads — Confirmed S14
+No new retirements this session.
+
+---
+
+## Active GM Threads — Session 15
+
+### CN-4 + Hearth Spirit
+CN-4 hits the F4 Hearth Spirit perimeter at Sandy Systems. Grade 0 vs Grade 8 masked auras. Auto-escalation to Iron Sill fires when she reports. GM controls timing of encounter and report.
+
+### Cold Notch Pivot
+CN-1 wakes in car with nothing. CN-2 stalled on Sandy Systems. What do they target next?
+
+### Harmon Tripwire
+Does Reyes move on Harmon? When does the pixel fire?
+
+### Tir Registry
+Family can run the query. What does it reveal?
+
+### RAVN Placer Response
+Devices burned, silence on network. Housing recovered 0431 Wednesday. Knows RAVN-004 was deliberately found and burned. Response posture GM controlled.
+
+### Drake's Call
+He will call the burner commcode once — GM controlled timing and content. Earliest 3/18/2058.
+
+### Browse Agent Markers
+What behavioral profile was the agent keyed to? GM controls specifics.
 
 ### Aldric — GT Devices Builder
 Who built them? This is his next deferred disclosure. He knows — held deliberately. GM controls identity and when Aldric gives it up.
 
 ### Aldric — Pale Architect
 Acknowledged the connection exists at S13. Not willing to name. Does he give more at next venue?
-
-### Grey Shutter Waking
-GS-1 through GS-4 wake in a few hours in the van. What do they do? What does GT know? GT Tier 2 escalation.
-
-### Drake's Call
-He will call the burner commcode once — GM controlled timing and content. Earliest 3/18/2058
-
-### RAVN Placer — Escalation Decision
-Housing recovered 0431 Wednesday. Knows it was deliberately found and burned.
 
 ### Tamanous — Live Threads
 Navarro del Toro commcode is live. Does not know operation failed — if players call posing as T-1, he expects delivery confirmation. GM controls response.
@@ -220,11 +276,11 @@ Aztechnology connection: not in any recovered document. Do not surface corp affi
 ### Okonkwo — Active Thread
 Getting a day away from Reyes. Illicitly contacting Harmon to update on search for the seven. Singer has SANS doorstop on Harmon's building — visibility into contact possible. GM controls what Okonkwo tells Harmon and what Harmon says.
 
-### DW Kit — Resolved S13
-Tourniquet turned in case to DW station with message. Kit risk reduced. Thread dormant unless DW follows up.
-
 ### Third Surveillance Network
 Operator identity GM controlled. UNK-D tight-beam at 0340 on 03/01/2058 — two blocks from fixer, same HMS timestamp, two days before reset. Connection to pale architect? Connection to HMS directly? GM decides what the third network is watching for and who operates it.
+
+### RAVN-001 / RAVN-002
+Positions narrowed to city block level from RAVN-006 data. GM decides exact locations, function, guarding, and whether the silence from 005–008 changes their posture.
 
 ### RAVN-006 Collection Node
 Physical access possible. Building 1 NE interior. Singer has crypto access key. Automated or staffed? GM decides before Singer attempts access.
@@ -232,14 +288,8 @@ Physical access possible. Building 1 NE interior. Singer has crypto access key. 
 ### Futureman Project Host  - Retire thread, unlikely to surface again
 HMS infrastructure. External backdoor exists. Psychotropic ICE R4 active. What is beyond the ICE? Surgery records, HMS operational data, something older? GM decides before Singer accesses.
 
-### Dumb Frame GT Results  - Retire thread, do not use
-2 successes. Thin GT public info. What does Singer find Wednesday morning? already resolved
-
 ### Mechanic Cover Approach
 Radio install cover pending. Mechanic (Teodor Breckenridge) warns Carpenter before making contact. Operatives — identity and affiliation GM controlled.
-
-### Fen's Partial Markers  - Retire thread, do not use
-Unactivated secondary meta-genetic markers, Night One adjacent. Implications GM controlled. As Halley's Comet approach intensifies through 2058, pressure on these markers increases.
 
 ### Tir Tairngire Thread — Three Data Points
 1. Ó Maolalaidh — HMS signatory, Tir forwarding address
@@ -304,6 +354,6 @@ All three point to the same jurisdiction. The Alachia connection (GM only — se
 
 ---
 
-*GM Notes v1.8 — Malice Family Campaign*
-*Updated after Session 13*
+*GM Notes v1.9 — Malice Family Campaign*
+*Updated after Session 14*
 *⚠️ GM EYES ONLY*

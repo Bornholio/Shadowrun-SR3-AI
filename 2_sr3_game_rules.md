@@ -128,6 +128,9 @@ Unknown allies arise **only** from:
 - **Pool cap rule (defensive):** No cap on Dodge or Damage Resistance — Body is an attribute, not a skill; offensive cap does not apply to DR rolls.
 - **Social tests:** skill dice only — no spell pool, task pool, or combat pool
 
+| Any test involving Singer, Banshee, or Carpenter | shared_3pr_augmentations.md — check Edges, Surge traits, and augmentation modifiers before rolling |
+"
+
 ### Roll Format
 
 `[label] [Xd/TN#] [series] → [N]suc`
@@ -135,6 +138,17 @@ Unknown allies arise **only** from:
 Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until resolved — final value replaces the 6). 1s fail. Count all values ≥ TN as successes. Rule of Six does not apply to Initiative.
 
 `Conjuring 18d/TN8 [3,5,2,11,4,1,5,7,2,4,3,5,1,4,14,2,5,3] → 2suc`
+
+Example hearing perception test for locating a small rat in a wharehouse, the Rat rolls an open test and gets a 14 with its modifiers
+Aplicable augmentations [Sound Amplification -2TN, Sound Discrimination +5d, Wide Band Hearing -2TN, Spatial Recocnizer -5TN]
+`Perception (Hearing/location) 18d/TN5 [3,5,2,11,4,1,5,7,2,4,3,5,1,4,14,2,5,3] → 11>5 Success`
+
+Example test using sorcery to recognize a detection spell being cast TN with modifiers is 5
+Complex skill use
+`Centering A (FA), 4d/TN5 (4, 5, 7, 1) → 2suc`
+`Sorcery 7d/TN5 (1, 9, 3, 3, 14, 2, 2) → 2suc`
+`Complementary skill - Spell Formulas 5d/TN5 (1, 19, 3, 2, 2) → 1suc`
+
 
 **Dice pool rule:** Always use the augmented stat value as printed on the character sheet. Do not calculate or modify the pool before rolling. If a situational modifier applies (e.g. half pool, sustained spell penalty), state it and apply it to the augmented value — do not pre-calculate silently.
 
@@ -229,18 +243,18 @@ Values >6 are Rule of Six finals (6 re-rolled, result added, repeated until reso
 ---
 
 ## Skill Ratings
-
-| Rating | Active | Knowledge |
-|--------|--------|-----------|
-| 1 | Introduced — rote only | Scream Sheet |
-| 2 | Practice — understands why | Interested |
-| 3 | Proficient — average, reliable | Dedicated |
-| 4 | Skilled — focus on how/why | Well-rounded |
-| 5 | Professional — no fear of failure | Educated |
-| 6 | Innate — triggered reaction | Mastered |
-| 7 | Expert — skill is self | Expert |
-| 8+ | World Class | Genius |
-
+**skills above attributes are hard to raise and rare for NPC's except in specialists**
+| Rating | Active | Knowledge | Average Open Test |
+|--------|--------|-----------|-------------------|
+| 1 | Introduced — rote only | Scream Sheet | 3 |
+| 2 | Practice — understands why | Interested | 5 |
+| 3 | Proficient — average, reliable | Dedicated | 5 |
+| 4 | Skilled — focus on how/why | Well-rounded | 7 |
+| 5 | Professional — no fear of failure | Educated | 8 |
+| 6 | Innate — triggered reaction | Mastered | 9 |
+| 7 | Expert — skill is self | Expert | 9 |
+| 8-12 | World Class | Genius | 10 |
+| 13+ | World Class | Genius | 11 |
 ---
 
 ## Karma Economy
@@ -306,7 +320,7 @@ Load when: metamagic mechanic is invoked in play, eligibility question, or metam
 SR3 also explicitly states that **Aura Reading, Sorcery, and Conjuring have no default including attribute**.
 
 ### CENTERING
-Free Action — declare before base skill test. Do not center when silence is required.
+Free Action — declare before base skill test. 
 | Mode | When | TN | Effect |
 |---|---|---|---|
 | A — Success | Astrally perceiving | Same as base skill | Complementary dice (halved) added to base test |
@@ -324,48 +338,6 @@ Free Action — declare before base skill test. Do not center when silence is re
 | Strenuous | 8 |
 | Extreme | 9 |
 | Nearly Impossible | 10+ |
-
----
-
-## Family Language Cross-Reference
-
-*Quick-reference during play. Individual sheets are authoritative on augmented values.*
-
-### Bilingual Languages (Free at INT rating)
-
-| | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
-|---|---|---|---|---|---|---|---|
-| English spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
-| English R/W | 8 | 8 | 11 | 11 | 11 | 3 | 6 |
-| Sperethiel spoken | 8 | 8 | 11 | 11 | 11 | 6 | 6 |
-| Sperethiel R/W | 4 | 4 | 5 | 5 | 5 | 3 | 3 |
-
-### Additional Languages (spoken, base rating)
-
-| Language | Keystone | Meridian | Singer | Banshee | Carpenter | Crowbar | Kluger |
-|---|---|---|---|---|---|---|---|
-| French | 2 | 5 | 4 | 2 | 5 | 2 | 4 |
-| German | 2 | — | 4 | 2 | 5 | — | 5 |
-| Spanish | 2 | 2 | 4 | 4 | 2 | 4 | 2 |
-| Japanese | 2 | 2 | 4 | 4 | 2 | 3 | 1 |
-| Korean | — | — | 4 | — | — | — | — |
-| Mandarin | — | — | 4 | — | — | — | — |
-| Irish Gaelic | 2 | — | 2 | 2 | 5 | 3 | 2 |
-| Latin | 2 | — | 6 | 6 | 6 | 2 | 4 |
-| Greek | — | — | 1 | — | — | — | — |
-| Salish-Sidhe | 2 | 2 | 3 | 2 | 2 | 2 | 2 |
-| Sign Language | — | 2 | 1 | 5 | — | — | 3 |
-
-### English Lingos
-
-| Character | Lingo |
-|---|---|
-| Keystone | Scientific Jargon |
-| Singer | Street/City Speak, Scientific Jargon |
-| Banshee | Legalese, City Speak |
-| Carpenter | Net Jargon, City Speak |
-| Crowbar | Street/City Speak |
-| Kluger | Medical Jargon, Street/City Speak |
 
 ---
 
@@ -399,4 +371,4 @@ Free Action — declare before base skill test. Do not center when silence is re
 
 *SR3 Game Rules Reference — Malice Family Campaign*
 *File location: 2_sr3_game_rules.md (root)*
-*Updated after Session 13*
+*Updated after Session 14*

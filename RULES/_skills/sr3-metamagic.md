@@ -265,10 +265,9 @@ Project astrally as a full magician (SR3 p.172). Adept powers function normally 
 *Both · MitS*
 
 - Conceal true initiate grade and magical aura from astral perception
-- Shamans can mask; standard Hermetics cannot
 - Full detection procedure: `RULES/sr3-shamanic-mask-vs-masking.md`
 - Always on by default — deliberate masking is an optional exclusive Simple Action for enhanced concealment
-- Does not affect physical observers; does not work against equal-or-higher-grade astrally projecting initiates
+- Does not affect physical observers; may not work against equal-or-higher-grade astrally projecting initiates
 
 ---
 

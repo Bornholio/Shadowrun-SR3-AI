@@ -1,17 +1,13 @@
 # Singer
 **Metatype:** Elven (Night One) | **Weight:** 62kg | **Height:** 187cm  
 **Alias:** Dale Kowalski (R1, Ages Well)  
-**Lifestyle:** Squatter  
 **Eye Color:** Olive Green (yellow band)  
 **Contacts:** Fixer, Talismonger
-
 ---
-
 ## Profile
 **Role:** Prime Runner / Mage / Military EW specialist | **Prior Life:** Military EW specialist / Mechanical engineer
 **Born:** Early 1970s | **Expression:** Night One / SURGE / Albino / Genetic Enhancement
 **Build:** Compact, dense — deliberate | **Hair:** White | **Fur:** White, fine
-**Individual Bonus:** +1 Intelligence (edge)
 **Notes:** Conducts electronic warfare and radio surveillance.
 **Relations:** Father of Carpenter · Son of Meridian and Keystone · Husband of Banshee
 
@@ -22,15 +18,15 @@
 | Stat | Racial Max | Value | Notes |
 |------|-----------|-------|-------|
 | BOD  | 9 | 11 | |
-| QUI  | 11 | 11 (15) | x3 |
-| STR  | 9 | 11 (14) | |
+| QUI  | 11 | 11 (16) | x3 |
+| STR  | 9 | 11 (15) | |
 | CHA  | 11 | 11 (15) [16] | Signature 7 (6 when healing) |
 | INT  | 9 | 11 (13) | Centering |
 | WIL  | 10 | 11 | |
 | ESS  | 6 | 5.0 | |
 | REA  | — | 14 (18) [24] | |
 | INI  | — | 24+3d6 | |
-| Magic | — | 12 | |
+| Magic | — | 13 | |
 | Task Pool | — | 1 (3) | |
 | Karma Pool | — | 11 | 1/20gk |
 | Good Karma | — | 32 | |
@@ -248,7 +244,7 @@
 - Defiance T250 (SL, Choke 5, 20rnd Shot), Sling Bag
 - Ruger Super Warhawk (SL, 6 rnds), Holster
 | Ares Viper Slivergun | - | Bagged | Built in Silencer, SL adapter |
-| Spare magazines ×2 | flechette | Banshee | Slivergun |
+| Spare magazines ×2 | flechette | - | Slivergun |
 - Collapsible Staff (Club: 5c, 1R, S+1M Stun / Staff: 2c, 2R, S+2M Stun)
 
 ### Armor
@@ -286,7 +282,8 @@
 - ZL Bags for all items
 - Cash: **993¥**
 - ID: R1, Ages Well — Dale Kowalski, Wallet
-| Datajack cable | Standard grade, short | Bagged | Low value |
+- Datajack cable, Standard grade, short
+- Fetish x4(1 for each spell)
 
 ### Extender Box
 Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg

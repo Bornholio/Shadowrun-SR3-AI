@@ -42,7 +42,7 @@ user-invocable: false
 | **Success** | Roll vs fixed TN, count successes | Standard task resolution |
 | **Opposed** | Both roll; each uses opponent's stat as TN; higher successes wins | Direct physical/social conflict |
 | **Success Contest** | Two opposing Success Tests; may use different stats/TNs; higher wins | Multi-factor conflict (e.g. hacking vs security) |
-| **Open** | Roll, keep only highest single die; Rule of Six applies | Generating a result used as TN or threshold |
+| **Open** | Roll, keep only highest single die; Rule of Six applies. **Generates a magnitude result only — no successes. Result used as TN for a follow-on test or as one side of a gap comparison. Never count successes on an Open Test.** | Generating a result used as TN or threshold |
 
 Tie on Opposed or Contest = nothing happens.
 
@@ -58,8 +58,8 @@ Default to Success or Opposed — use Open only when the test generates a TN for
 |---|---|---|
 | Stealth (sneaking/hiding) | Open | Result = TN for observers' Perception Tests |
 | Stealth (theft/pickpocket) | Opposed | Stealth vs target INT |
-| Interrogation | Open → Opposed | Interrogator opens; victim resists with WIL vs result |
-| Intimidation | Open → Opposed | Same structure as Interrogation |
+| Interrogation | Open → Open | Aggressor rolls Open, target resists with WIL Open. Both sides keep highest single die only — no successes on either side. Gap between results determines outcome severity. |
+| Intimidation | Open → Open | Same structure as Interrogation. Both sides keep highest single die only — no successes on either side. Gap between results determines outcome severity. |
 | Vehicle Skill | Open | Result = Driver Points for the turn in vehicle combat |
 | Negotiation | GM call | Normally not Open; GM may open to set TN for detecting lies |
 
@@ -152,9 +152,15 @@ A secondary skill rolled alongside a primary to add bonus successes.
 
 **Eligibility:** Knowledge Skills complement Active Skills when legitimate overlap exists. Active Skills complement Build/Repair Skills only. Electronics can complement device rating tests — GM discretion. Background Skills are never Complementary unless rules explicitly say so.
 
-**Procedure:** Roll primary first — must score ≥1 success or complement has no effect. Roll complementary vs same TN. Every 2 complementary successes = 1 bonus success added to primary total.
+**Procedure — Success Tests:** Roll primary first — must score ≥1 success or complement has no effect. Roll complementary vs same TN. Every 2 complementary successes = 1 bonus success added to primary total.
 
-**Example:** 3 Negotiation successes + 2 Psychology successes = 3 + 1 = 4 total.
+**Procedure — Open Tests:** Roll complementary dice, keep highest single die only. If the complementary result exceeds the primary Open result, it replaces it. No success counting on either side. The final result is whichever single die value is higher — primary or complementary.
+
+**Limits:** GM should use sparingly — two rolls per action slows play. Cannot default on the complementary roll. If B/R test fails, complementary successes are lost.
+
+**Example (Success Test):** 3 Negotiation successes + 2 Psychology successes = 3 + 1 = 4 total.
+
+**Example (Open Test):** Intimidation primary Open result = 7. Complementary Intimidation highest die = 9. Final result = 9.
 
 ---
 
@@ -162,9 +168,9 @@ A secondary skill rolled alongside a primary to add bonus successes.
 
 | Character | Combat Pool | Spell Pool | Hacking Pool | Control Pool |
 |---|---|---|---|---|
-| Singer | 18 | 12 | 12 | 20  |
-| Banshee | 20 | 12 | 12 | 20 |
-| Carpenter | 18 | 11 | 12 | 20 |
+| Singer | 18 | 12 | 12 | 20 (rigging) |
+| Banshee | 20 | 12 | — | — |
+| Carpenter | 18 | 11 | — | — |
 
 *Combat Pool uses augmented QUI/INT/WIL. Spell/Hacking Pool uses unaugmented INT.*  
 *Singer Hacking Pool: (INT 11 + MPCP 8 + Response Increase 2×2) / 3 = 12 (verify against sheet).*

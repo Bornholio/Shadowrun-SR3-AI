@@ -5,19 +5,119 @@
 
 ---
 
+## ⚡ MANDATORY — Test Modifier Quick Reference
+
+Scan the relevant section(s) before finalizing any 3PR roll. All entries apply to all three unless noted otherwise — individual sheets override where starred.
+
+### All skills
+- **Aptitude:** −1TN (skill-specific — check individual sheet)
+- Character sheets include augmentations in skills and attributes (#) and [#]
+
+### Combat (Ranged / Attack)
+- **Smartlink 2:** −2TN ranged attacks (linked weapon, standard); −1TN (SA/burst)
+- **Eagle Eyes 2:** −2 range levels
+- **Combat Pool:** +4 total (TC mod)
+- **Augmented Balance:** ignore difficult ground; −1 Movement Penalty
+
+### Damage Resistance / Soaking
+- **Toughness ×2 (Edge + Surge — stacks):** +2 Body dice DR
+- **Natural Hardening 2:** +2 Hardening (cumulative vs applicable damage)
+- **High Pain Tolerance 3 (Edge + Surge — stacks):** ignore wound penalty for up to 6 boxes
+- **Trauma Damper:** shift 1 Physical→Stun on each wound
+- ** Platelet Factory:** removes 1 box of physical damage from Moderate or worse wound
+
+### Perception
+- **Perceptive:** −1TN all Perception + astral perception tests
+- **Sound Discrimination 5:** +5 Hearing dice
+- **Spatial Recognizer:** −5TN locate sounds (stacks with Hearing Amplification)
+- **Hearing Amplification:** −2TN Hearing perception
+- **Wide-band Hearing:** −2TN if applicable (ultrasound sensing, extended range); already included in Spatial reconizer
+- **Eagle Eyes 2:** −4TN range/vision penalties (vision tests)
+- **Nictitating Membranes:** −1TN modifiers from smoke, glare, flash, water
+- **Microscopic Vision:** −2TN microscopic or size penalties
+
+### Athletics
+- **Augmented Balance:** −2TN Balance/Climbing/Jumping/Falling/Knockdown; ignore difficult ground; −1 Movement Penalty
+- **Synthacardium 2:** +2 dice Athletics
+- **Reflex Recorder 2:** +1 die Athletics
+- **Erythropoietin:** +2 dice Athletics
+- **Extended Volume 3:** −3TN Fatigue tests
+- **Double Jointed:** −1TN Escape Artist
+- **Retractable Climbing Claws:** −2TN Climbing
+- **Muscle Toner 4:** −2TN Escape Artist
+
+### Social
+- **Good Reputation 2:** −2TN social tests (fully cancels +2 wariness/suspicion)
+- **Tailored Pheromones 2:** CHA+4 within 20–30m physical proximity only — not astral, not remote
+- **At Ease:** use highest Etiquette specialization; locals treat as local on failed perception (4); Friendly attitude −1TN
+- **Bravery:** −1TN fear and intimidation resistance (including spell/critter-caused Fear)
+
+### Magic (Spellcasting / Conjuring / Astral)
+- **Perceptive:** −1TN astral perception
+- **Focused Concentration:** spells +1TN to maintain; max sustained spells = INT+1
+- **Spirit Affinity:** Elemental spirits (Salamander, Gnomes, Sylphs, Undines, Manitous) may aid or be reluctant to attack
+- **Astral Chameleon:** +2TN for others to assense 3PR astral signature; Signatures −1F
+
+
+### Matrix / Decking
+- **Encephalon 2:** Hacking Pool +2, Task Pool +1 (INT-linked)
+- **Math SPU 3:** Hacking Pool +3, +6 dice Mathematics
+- **Cracker:** +2 dice Access tests
+- **Chipjack Expert Driver 3:** Task Pool 6 for Slot 1 chip-based skills (Cracking 6 currently loaded)
+
+### Knowledge / Language
+- **Mnemonic Enhancer 3:** +3 dice Language; +1 die Knowledge; +3 dice memory-related INT tests; Knowledge default TN +3 (not +4); −3 GK skill cost (floor 1)
+- **Cognition** *(in 2_sr3_game_rules.md — applies here):* +1 Language die, +1 Knowledge die; Centering on INT tests; −1 GK skill cost
+- **Combined ME3 + Cognition:** +4 Language dice / +2 Knowledge dice / INT default bonus
+- **College Education:** −1TN Academic Knowledge defaults
+- **Tech School Education:** −1TN Background Knowledge defaults
+- **Photographic Memory:** perfect recall of anything seen or heard
+
+### Initiative (Physical / Driving)
+- **Synaptic Accelerator 2:** +2d6 init — physical and driving only (not rigging, not decking)
+- **Reaction Enhancers 6:** +6 REA — physical and driving only (not rigging, not decking)
+- **Lightning Reflexes 3 (Edge + Surge):** +6 REA — check individual sheet; may stack
+- **Enhanced Articulation:** +1 REA — physical and driving only
+
+### Resistance — Toxin / Disease / Pathogen
+- **Toxin Extractor 2:** −4 Power injection/ingestion vector + attack-vector patches [HR]
+- **Tracheal Filter 2:** −4 Power air vector
+- **Nephritic Screen:** −1 Power pathogen/blood-vector toxin; +1 Body die vs toxin/pathogen
+- **Pathogenic Defense 4:** −4 Disease/pathogen Power; +4 dice disease resistance
+- **Resistance to Poison 3:** +3 dice toxins, poisons, drugs
+- **Weak Immune System 1 (Surge/Flaw):** −1 Body die vs disease
+
+### Healing / Stabilization
+- **Guardian Angel (nano):** R6 medkit function; −2TN Biotech (First Aid); auto-stabilize Deadly; auto-revive unconscious; doubles Overflow time on failed stabilization
+- **Nanosymbiotes (nano):** heal as 1 damage level lower; Stun base 30 min/box; −5% per box Physical damage taken
+- **Regenerative Healer:** −2TN Healing Tests; ignore penalty for magician doctoring; +2 magic loss roll bonus
+- **Quick Healer (Surge + HR):** −2TN all Healing Tests
+
+
+### Tactical / BattleTac
+- **TC (BattleTac Mod):** +4 Combat Pool; 100% pool for Surprise Tests; +4 SUT skill bonus; Simple Action to convey orders
+- **BattleTac Cyberlink:** −2TN SUT tests (when target is in TC); auto tactical map; translates cyber senses to BT
+
+### Stealth / Concealment
+- **Astral Chameleon:** Signatures −1F; +2TN for others to assense 3PR aura
+- **Reflex Recorder 2:** +1 die Stealth
+- **Clean Metabolism:** reduced scent detection; Pheromone Detection TN 10 (vs 6 base)
+
+---
+
 ## Cyberware
 
 | Device | Type | Notes | Ports | Legality | Conceal | Scan |
 |--------|------|-------|-------|----------|---------|------|
-| Body Compartment | Bodyware | Contains compact Bug Scanner / RF Tracker 10, DNI port, Behind Right Wrist | -1 | 5P-V | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Cyberware Scanner 6, DNI port, Behind Left Wrist | -1 | 8P-U | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Signal Amplifier 10, DNI port, Right Shoulder | -1 | 10P-U | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Ultrasound Emitter/Detector 10, DNI port, Left Shoulder | -1 | 8P-V | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Sequencer 10, Left Hip | -1 | 4P-V | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Lockpicking Gun 10, Left Hip | -1 | 6P-Q | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Synthetic Fingerprint 10, Right Hip | -1 | 4P-Q | 14 | 15 |
-| Body Compartment | Bodyware | Contains compact Scanner Accessory 10, Right Hip | -1 | 6P-V | 14 | 15 |
-| Direct Neural Interface 4 | Bodyware | Operate modified equipment either FA or SA instead of SA/CA | -4 | 5P-Q | 15 | 14 |
+| Body Compartment, DNI port | Bodyware | Contains compact Bug Scanner / RF Tracker 10, Behind Right Wrist | -1 | 5P-V | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Cyberware Scanner 6, Behind Left Wrist | -1 | 8P-U | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Signal Amplifier 10, Right Shoulder | -1 | 10P-U | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Ultrasound Emitter/Detector 10, Left Shoulder | -1 | 8P-V | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Sequencer 10, Left Hip | -1 | 4P-V | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Lockpicking Gun 10, Left Hip | -1 | 6P-Q | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Synthetic Fingerprint 10, Right Hip | -1 | 4P-Q | 14 | 15 |
+| Body Compartment, DNI port | Bodyware | Contains compact Scanner Accessory 10, Right Hip | -1 | 6P-V | 14 | 15 |
+| Direct Neural Interface (DNI) 4 | Bodyware | Operate modified equipment either FA or SA instead of SA/CA | -4 | 5P-Q | 15 | 14 |
 | Jolt Alert | Bodyware | Instantly awake from headware device or external alarm | -1 | Legal | — | 14 |
 | Rangefinder | Bodyware | SL2 part, TC Port | -1 | 5P-N | 15 | 14 |
 | Reaction Enhancers 6 | Bodyware | Reaction +6 | — | 6P-R | 16 | 14 |
@@ -35,8 +135,8 @@
 | Datajack (Behind Left Ear) | Brainware | Left Ear, Mid Brain | 4 | Legal | 14 | 14 |
 | Encephalon 2 | Brainware | Task (Int) 2, Hacking Pool +2, +2 Int Learning | -1 | Legal | — | 14 |
 | Headware Memory 300 | Brainware | 300mp | -1 | Legal | — | 14 |
-| Induction Datajack (Right Hand) | Brainware | Conceal 19, CS+1TN, Requires matching induction pad or adapter, SL2 Part | 4 | Legal | 19 | 15 |
-| Induction Datajack (Left Hand) | Brainware | Conceal 19, CS+1TN, Requires matching induction pad or adapter, SL2 Part | 4 | Legal | 19 | 15 |
+| Induction Datajack (Right Hand) | Brainware | Conceal 19, CS+1TN, Requires matching induction pad or adapter, SL/SL2 Part | 4 | Legal | 19 | 15 |
+| Induction Datajack (Left Hand) | Brainware | Conceal 19, CS+1TN, Requires matching induction pad or adapter, SL/SL2 Part | 4 | Legal | 19 | 15 |
 | Knowsoft Link | Brainware | Allow use of knowsofts | -1 | Legal | — | 14 |
 | Math SPU 3 | Brainware | +6 Dice Mathematics, +3 Hacking Pool | -1 | Legal | — | 14 |
 | MSCJ-1 | Brainware | Data, Programs and Skill Chip 50Gp OMC, Read Only | -1 | Legal | 14 | 14 |
