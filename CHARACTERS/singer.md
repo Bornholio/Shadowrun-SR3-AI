@@ -285,5 +285,11 @@
 - Datajack cable, Standard grade, short
 - Fetish x4(1 for each spell)
 
-### Extender Box
-Offline Storage Device — 5Gp, FUPS Cable 1m, Chip Reader Jukebox 216mp/6port, Hitcher Jack, Speaker, Tiny Display, DNI, Induction — 6c / 0kg
+### Extender Box — 6c / 0kg
+Offline Storage Device — 5Gp, 
+FUPS Cable 1m, 
+Chip Reader Jukebox 216mp/6port, 
+Hitcher Jack, 
+Speaker, 
+Tiny Display, 
+DNI, Induction
