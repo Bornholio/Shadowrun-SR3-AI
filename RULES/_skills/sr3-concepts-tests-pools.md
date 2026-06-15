@@ -73,44 +73,21 @@ GM may call an Open Test any time a generated TN feeds a later check.
 - **Refresh at start of each Combat Turn** — unused dice do not carry over
 - Available from the first step of the first Combat Turn of any encounter
 
-### Offensive Cap — verify before every offensive roll
-**Combat Pool added to any offensive test cannot exceed the base skill rating.**  
-Check: Pool dice committed ≤ base skill rating. Reduce to match if over.  
-Defaulting (no skill): cap = 0, no Combat Pool on the offensive roll.
-
-### Defensive Exception — no cap
-**Dodge and Damage Resistance have no cap.** Add any number of Combat Pool dice.  
-Body is an attribute, not a skill — the offensive cap does not apply to DR rolls.
-
 ---
 
 ## POOL FORMULAS
 
 | Pool | Formula | Requirement |
 |---|---|---|
-| Combat | (QUI + INT + WIL) / 2 ↓ | — |
-| Astral Combat | (INT + WIL + CHA) / 2 ↓ | Astral tests only |
 | Control | REA (VCR-modified only) | VCR cyberware |
 | Hacking | (INT + MPCP) / 3 ↓ | Cyberdeck |
 | Spell | (INT + WIL + MAG) / 3 ↓ | — |
 
 ---
 
-## COMBAT POOL
-
-**Offense:** up to [base skill rating] dice — verify cap before rolling  
-**Defense:** any number of dice on Dodge or Damage Resistance — no cap
-
-- Surprised characters: **cannot** use Combat Pool
-- Heavy armor: −1 die per 2 pts armor rating (Ballistic or Impact) exceeds QUI
-- Elemental manipulation spells: Combat Pool allowed to dodge/resist as ranged combat
-- All other magic: Combat Pool **not** applicable
-
----
-
 ## SPELL POOL
 
-**Allowed:** Spell Success Tests, Drain Resistance Tests, Dispelling, Spell Defense  
+**Allowed:** Spell Success Tests, Drain Resistance Tests, Dispelling 
 **Not allowed:** Conjuring, or any non-Sorcery magic test
 
 - Max dice per Sorcery Test = base Sorcery skill dice
@@ -120,7 +97,7 @@ Body is an attribute, not a skill — the offensive cap does not apply to DR rol
 
 ## HACKING POOL
 
-**Allowed:** Any Matrix test — System, Attack/Defense, maneuvers, programming, Attribute Tests  
+**Allowed:** Any Matrix test — System, maneuvers, programming, Attribute Tests  
 **Not allowed:** BOD or WIL tests resisting gray/black IC damage; Etiquette (Matrix) tests
 
 - Max dice per test = base skill dice in use
@@ -130,7 +107,7 @@ Body is an attribute, not a skill — the offensive cap does not apply to DR rol
 
 ## CONTROL POOL
 
-**Allowed:** Controlling a currently **rigged** vehicle only (Maneuver Tests, rigged vehicle damage resistance)  
+**Allowed:** Controlling a currently **rigged** vehicle only (Maneuver Tests)  
 **Not allowed:** Any test for a vehicle the rigger is not currently jacked into
 
 - Max dice per test = base skill dice in use
@@ -166,11 +143,11 @@ A secondary skill rolled alongside a primary to add bonus successes.
 
 ## FAMILY POOL REFERENCE — 3PR
 
-| Character | Combat Pool | Spell Pool | Hacking Pool | Control Pool |
-|---|---|---|---|---|
-| Singer | 18 | 12 | 12 | 20 (rigging) |
-| Banshee | 20 | 12 | — | — |
-| Carpenter | 18 | 11 | — | — |
+| Character | Combat Pool | Spell Pool | Hacking Pool | Control Pool | Astral |
+|---|---|---|---|---|---|
+| Singer | 18 | 13 | 12 | 20 (rigging) | 13 |
+| Banshee | 20 | 12 | 12 | 20 (rigging) | 12 |
+| Carpenter | 18 | 12 | 12 | 20 (rigging) | 12 |
 
-*Combat Pool uses augmented QUI/INT/WIL. Spell/Hacking Pool uses unaugmented INT.*  
-*Singer Hacking Pool: (INT 11 + MPCP 8 + Response Increase 2×2) / 3 = 12 (verify against sheet).*
+
+

@@ -51,15 +51,10 @@ description: SR3 Shadowrun 3rd Edition genetech rules for GM reference. Load whe
 ## Environmental Microadaptation
 
 ### Cold Adaptation
-- +2 dice to resist cold-related damage
 - −2 TN to cold-environment Survival Tests
-- **Incompatible with:** boosted reflexes, metabolic arrestor, heat microadaptation
 
 ### Heat Adaptation
-- +2 dice to resist heat damage — applies to direct fire attacks (flamethrowers, fire spells, Flame Aura, ambient heat sources)
-- Does **not** apply to ongoing burning damage (secondary escalating state: 6M base, +2 Power per Combat Turn)
 - −2 TN to hot-environment Survival Tests
-- **Incompatible with:** boosted reflexes, dermal sheathing/plating, orthoskin, suprathyroid gland, cold microadaptation
 
 ### Low-Oxygen Adaptation
 - Holding-breath Athletics Test: each success = +10 Combat Turns (instead of +3)
@@ -76,21 +71,17 @@ Enhancement reaches full effectiveness ~1 month after treatment. Significant phy
 
 ### Angiotensin
 - After a Deadly physical wound: additional damage from blood loss and shock accrues at 1 box per (Body × 2) Combat Turns
-- **Incompatible with:** muscle replacement, metabolic arrestor; negated if character has more than two cyberlimbs
+
 
 ### Calcitonin
-- +1 Body for Damage Resistance Tests
 - Bones do not break under normal circumstances; Barrier Rating 6
-- **[HR]** Unarmed melee damage: (STR+2)M
-- **Incompatible with:** muscle replacement, flex hands, platelet factory; negated if more than two cyberlimbs
+
 
 ### Erythropoietin
 - +2 dice to all Athletics Tests
-- **Incompatible with:** muscle replacement
 
 ### Glucagon
 - Double all listed times when dealing with fatigue effects
-- **Incompatible with:** suprathyroid gland
 
 ---
 
@@ -116,23 +107,6 @@ Enhancement reaches full effectiveness ~1 month after treatment. Significant phy
 - Similar compounds may be affected at GM discretion, possibly at half Power
 - Max immunizations per character: Body (excluding race, cyber, bioware modifiers) — each permanent
 - Does **not** work against neurotoxins or fast-acting compounds (Speed: Immediate) — use Cellular Repair instead
-
----
-
-## Compatibility Quick Reference
-
-| Genetech | Incompatible With |
-|---|---|
-| Augmented healing | Any cyber/bioware (+25% cost, not blocked) |
-| Cellular repair | Boosted reflexes |
-| Age rejuvenation | Any cyber/bioware (+25% cost, not blocked) |
-| Phenotypic alteration | Organ replacements (cyberlimbs, cybereyes, orthoskin, etc.) — case by case |
-| Cold microadaptation | Boosted reflexes, metabolic arrestor, heat microadaptation |
-| Heat microadaptation | Boosted reflexes, dermal sheathing/plating, orthoskin, suprathyroid gland, cold microadaptation |
-| Angiotensin synthesis | Muscle replacement, metabolic arrestor; negated by 2+ cyberlimbs |
-| Calcitonin synthesis | Muscle replacement, flex hands, platelet factory; negated by 2+ cyberlimbs |
-| Erythropoietin synthesis | Muscle replacement |
-| Glucagon synthesis | Suprathyroid gland |
 
 ---
 

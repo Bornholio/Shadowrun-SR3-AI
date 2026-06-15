@@ -59,7 +59,7 @@ metaplane uses the same action as placing them.
 
 ### Quick Healer
 -2 TN on all healing tests.
-*(Pending book verification of exact SR3 Companion wording)*
+
 
 ### Natural Aptitude
 -1 TN to the specific linked skill.

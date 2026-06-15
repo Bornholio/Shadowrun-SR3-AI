@@ -1,6 +1,6 @@
 ---
 name: sr3-damage-conditions
-description: SR3 Shadowrun 3rd Edition damage, condition monitor, wound modifiers, knockdown, and overflow rules for GM reference. Load when the session involves applying damage, tracking wounds, wound modifiers, initiative penalties, unconsciousness, overflow, bleeding out, knockdown, or any question about how damage affects a character. Applies to both ranged and melee combat. SR3 only. Barrier and healing rules are GM-handled separately.
+description: SR3 Shadowrun 3rd Edition damage, condition monitor, wound modifiers, and overflow rules for GM reference. Load when the session involves tracking wounds, wound modifiers, initiative penalties, unconsciousness, overflow, or any question about how damage affects a character. SR3 only. Barrier and healing rules are GM-handled separately.
 ---
 
 # SR3 DAMAGE & CONDITIONS — GM REFERENCE
@@ -68,46 +68,6 @@ Record in Overflow box.
 
 **Bleeding out:** +1 Physical box every (Body) Combat Turns without medical aid.  
 Dies if Physical total exceeds Body + 10 before aid arrives.
-
----
-
-## KNOCKDOWN
-
-Triggered by any hit that lands. Roll **Body** vs:
-- Ranged: ½ Power (round down)
-- Melee: opponent's Strength
-- Gel rounds: **full** Power
-
-| Wound Taken | Successes to Remain Standing |
-|---|---|
-| Light | 1 |
-| Moderate | 3 |
-| Serious | 6 |
-| Deadly | Always prone — no test |
-
-| Successes | Result |
-|---|---|
-| 0 | Prone |
-| Below threshold | Staggers ~1m back |
-| Meets threshold | Remains standing |
-| Cannot step back | +2 TN all tests until able to move |
-
----
-
-## FAMILY OVERFLOW REFERENCE
-
-| Character | Body | Survives up to | Instant death at overflow > |
-|---|---|---|---|
-| Singer | 11 | 21 boxes | 11 |
-| Carpenter | 11 | 21 boxes | 11 |
-| Banshee | 9 | 19 boxes | 9 |
-| Keystone | 8 | 18 boxes | 8 |
-| Meridian | 8 | 18 boxes | 8 |
-| Crowbar | 6 | 16 boxes | 6 |
-| Kluger | 6 | 16 boxes | 6 |
-
-*Bleed-out tick: +1 Physical box per (Body) Combat Turns unattended.*  
-*High Pain Tolerance 3, Regenerative Healer, Toughness edge interactions: GM-handled.*
 
 ---
 

@@ -17,7 +17,7 @@ These share a word and nothing else. One is physical. One is astral. They operat
 
 ## Shamanic Mask
 
-**What it is:** A perceptual phenomenon. When a shaman uses magical skills, totem-associated features become apparent to physical observers — a kind of hallucination affecting those present.
+**What it is:** A physical world perceptual phenomenon. When a shaman uses magical skills, totem-associated features become apparent to physical observers — a kind of hallucination affecting those present.
 
 **Plane:** Physical only. Mundane observers are affected. Does not appear on film or video.
 

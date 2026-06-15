@@ -18,21 +18,6 @@ user-invocable: false
 
 ---
 
-## COMBAT SPELLS
-
-All combat spells: bypass physical armor · LOS range · caster chooses base Damage Level at cast · Drain scales with chosen damage · Mana spells affect living/magical targets only.
-
-| Name | Type | Target | Dur | Drain | Area | Notes |
-|---|---|---|---|---|---|---|
-| Death Touch | M | W | I | (Dmg−1) | — | Touch required; physical damage |
-| Manabolt | M | W | I | (Dmg) | — | Physical damage |
-| Manaball | M | W | I | (Dmg+1) | ✓ | Physical damage |
-| Powerbolt | P | B | I | +1(Dmg) | — | Affects living and non-living |
-| Powerball | P | B | I | +1(Dmg+1) | ✓ | Affects living and non-living |
-| Stunbolt | M | W | I | −1(Dmg) | — | Stun damage |
-| Stunball | M | W | I | −1(Dmg+1) | ✓ | Stun damage |
-
----
 
 ## DETECTION SPELLS
 
@@ -121,25 +106,10 @@ Resisted by Willpower. Threshold = target's Willpower ÷ 2 (round down).
 | Control Thoughts | M | W | S | +1(S) | Full mind control; commands as SA; Wil vs Force to resist each |
 | Influence | M | W | P | S | Single post-hypnotic suggestion; target may be talked out of it |
 
-### Elemental Manipulations
-Treated as ranged attacks (Sorcery as combat skill). Base TN 4. Impact armor at half rating.
-Caster chooses base Damage Level at cast. Secondary effects apply on surviving targets.
-
-| Name | Type | Target | Dur | Drain | Area | Notes |
-|---|---|---|---|---|---|---|
-| Acid Stream | P | 4 | I | +1(Dmg+1) | — | Corrosive; +4 TN area rest of turn; fumes; can melt gear |
-| Toxic Wave | P | 4 | I | +1(Dmg+2) | ✓ | Area Acid Stream |
-| Flamethrower | P | 4 | I | +1(Dmg+1) | — | Fire; can ignite materials; burning clothing 6M/turn |
-| Fireball | P | 4 | I | +1(Dmg+2) | ✓ | Area Flamethrower |
-| Lightning Bolt | P | 4 | I | +1(Dmg+1) | — | Electricity; can short electronics; metallic armor no protection |
-| Ball Lightning | P | 4 | I | +1(Dmg+2) | ✓ | Area Lightning Bolt |
-
 ### Telekinetic Manipulations
 
 | Name | Type | Target | Dur | Drain | Notes |
 |---|---|---|---|---|---|
-| Clout | P | 4 | I | (Dmg) | Stun damage; Impact armor protects |
-| Fling | P | — | I | +1(M) | Hurls item ≤ Magic kg; touch on item; Strength = Force |
 | Levitate | P | 4 | S | +2(M) | Move object at Magic × suc m/turn; +1 TN per 100kg |
 | Magic Fingers | P | 6 | S | +2(M) | Invisible hands; effective STR and QUI = suc, max Force; +2 TN fine control |
 | Poltergeist | P | 4 | S | +1(M) | Area; whirls objects ≤1kg; +2 visibility mod; base Light Stun/turn |
@@ -162,16 +132,6 @@ Caster chooses base Damage Level at cast. Secondary effects apply on surviving t
 
 ## QUICK DRAIN REFERENCE
 
-### Combat
-| Name | Drain |
-|---|---|
-| Death Touch | (Dmg−1) |
-| Manabolt | (Dmg) |
-| Manaball | (Dmg+1) |
-| Powerbolt | +1(Dmg) |
-| Powerball | +1(Dmg+1) |
-| Stunbolt | −1(Dmg) |
-| Stunball | −1(Dmg+1) |
 
 ### Detection
 | Name | Drain |
@@ -232,10 +192,6 @@ Caster chooses base Damage Level at cast. Secondary effects apply on surviving t
 | Control Actions / Emotions | +1(M) |
 | Control Thoughts | +1(S) |
 | Influence | S |
-| Acid Stream / Flamethrower / Lightning Bolt | +1(Dmg+1) |
-| Toxic Wave / Fireball / Ball Lightning | +1(Dmg+2) |
-| Clout | (Dmg) |
-| Fling / Poltergeist | +1(M) |
 | Levitate / Magic Fingers | +2(M) |
 | Armor / Light / Shadow | +2(M) |
 | Fashion | +1(L) |

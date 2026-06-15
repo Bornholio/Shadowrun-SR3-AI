@@ -149,49 +149,6 @@ Astral barrier with no other application. Any Awakened capable of astral percept
 
 ---
 
-## Astral Combat
-
-Follows melee combat rules. No ranged combat — only spells. Astral movement imposes no attack penalties.
-
-**Who can be hit:** only beings using astral perception or projection. Purely physical characters are immune.
-
-**Initiative:**
-- Dual beings / astral perceivers: normal physical Reaction and Initiative
-- Projecting characters: REA = INT, Initiative = INT + 20 + 1d6
-- Transition: character who projects mid-turn uses physical Initiative for remainder of that turn; character returning to body may not act for 2 passes
-
-**Attack skills:**
-- Armed combat skill (weapon focus required)
-- Unarmed Combat
-- Sorcery (substitutes for either — even non-casters may use Sorcery's Astral Combat specialization; uses Sorcery dice normally)
-
-**Dice pools:**
-- Dual beings: normal Combat Pool
-- Projecting characters: Astral Combat Pool = (sum of Mental Attributes) ÷ 2, rounded down
-- Spirits and entities: Force for all tests
-
-**Damage codes:**
-
-| Attacker | Code |
-|---|---|
-| Unarmed (projector) | (CHA)M |
-| Armed (projector, weapon focus) | (CHA) + weapon focus damage |
-| Dual being | (STR)M or by weapon |
-| Spirit / focus / barrier | (Force)M |
-
-**Damage resistance:**
-- Astral beings: Willpower
-- Astral entities: Force
-- Dual beings: Body
-
-Physical armor useless. Natural armor (troll, Mystic Armor) reduces Power. Attacker chooses Physical or Stun. Adept Killing Hands applies fully.
-
-**Shared wounds:** damage to astral form appears on physical body. Killing the astral form kills the body. Healing either heals both.
-
-**Disruption:** Deadly Stun = disrupted. Projectors snap back to body regardless of barriers — unconscious, recover normally. Spirits vanish — cannot reappear for (28 − Force) days. Disruption triggers mandatory Magic Loss check.
-
----
-
 ## Astral Objects (Barriers, Foci)
 
 Only fight if attacked. Inflict and resist only Physical damage. Owner knows instantly if attacked.

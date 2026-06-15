@@ -40,24 +40,9 @@ Modifiers: +2 TN per sustained spell | +Force of any astral barrier crossed
 
 ---
 
-## SPELL RESISTANCE
-
-Target rolls **Willpower** (mana) or **Body** (physical) vs **TN = Force**
-Elemental spells: Damage Resistance Test instead (Combat Pool allowed)
-
----
-
 ## SPELL EFFECT
 
-Net successes = caster − target. Every **2 net successes** = +1 damage stage. 0 or fewer = no effect.
-
-### Combat spells — base M Stun (Manabolt/Stunbolt) or M Physical (Powerbolt)
-| Net | Result |
-|---|---|
-| 0 | No effect |
-| 1–2 | M |
-| 3–4 | S |
-| 5+ | D |
+Net successes = caster − target. 
 
 ---
 
@@ -67,18 +52,6 @@ Roll: **Willpower + Spell Pool** (drain-allocated) vs **TN = Force ÷ 2 (round d
 Every 2 successes = −1 Drain level. Below Light = no damage.
 
 Drain type: **Stun** if Force ≤ Magic. **Physical** if Force > Magic. Astral projection = always Physical.
-
----
-
-## SPELL DEFENSE
-
-Free Action. Roll **Sorcery + Spell Pool** vs TN = Force. Each success subtracts from caster's successes. Reduce to 0 = spell fails. Range: Magic × 100m. Max subjects = Sorcery rating.
-
----
-
-## DISPELLING
-
-Complex Action. Roll **Sorcery + Spell Pool** vs TN = Force. Each success reduces spell's original successes by 1. Resist Drain after each attempt.
 
 ---
 
@@ -101,20 +74,5 @@ Modifier reduces Drain Force **or** Karma cost at learning — choose one. A spe
 | Low-tech manufactured | 5 |
 | High-tech manufactured | 8 |
 | Highly processed | 10+ |
-
----
-
-## Spell Learning
-
-| Factor | Rule |
-|---|---|
-| Source | Teacher or formula — same tradition only |
-| Environment | Shaman: Lodge ≥ Force · Mage: Sorcery library ≥ Force |
-| TN | Force × 2 |
-| Time | Force days ÷ successes (min 1 day) |
-| Karma cost | Force GK |
-| Fail (0 successes) | Time wasted, no Karma lost, teacher still paid |
-| Instruction | Every 2 successes vs TN 4 = +1 die to student's Sorcery Test |
-| Teacher cost | 1,000¥ × Force + living expenses |
 
 ---

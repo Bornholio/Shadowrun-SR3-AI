@@ -188,21 +188,4 @@ When SUT is used in preparation for an ambush:
 
 ---
 
-## 3PR VISION SUMMARY
-
-| Character | Natural Vision Systems | Cyber Vision | Best Darkness Modifier |
-|---|---|---|---|
-| Singer | Thermographic (Surge), Low-Light (Surge) | Ultrasound | Lowest of Thermo/LL/Ultrasound |
-| Banshee | Thermographic (Surge), Low-Light (Surge) | Ultrasound | Lowest of Thermo/LL/Ultrasound |
-| Carpenter | Thermographic (Surge), Low-Light (Surge) | Ultrasound | Lowest of Thermo/LL/Ultrasound |
-| Keystone | Low-Light (Natural) | — | Low-Light natural |
-| Meridian | Low-Light (Natural) | — | Low-Light natural |
-| Crowbar | Low-Light (Natural) | — | Low-Light natural |
-| Kluger | Low-Light (Natural) | — | Low-Light natural |
-
-**3PR full darkness:** Thermographic +4 / Ultrasound +4 → lowest = **+4** (cybernetic thermo or ultrasound)
-**Non-3PR full darkness:** Low-Light natural +8 — significant liability vs 3PR
-
----
-
 *Pair with: sr3-tactics (TC surprise pool, SUT ambush bonus) · sr3-ranged-combat · sr3-damage-conditions*

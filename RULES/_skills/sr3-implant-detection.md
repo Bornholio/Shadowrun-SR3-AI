@@ -21,7 +21,7 @@ Handheld Rating 1–6 / Doorway Rating 3–9
 - Nano-implants: Nanite Hive, Nanite Facilitator (these are cyberware devices, not free-floating nanites)
 
 **What it does NOT catch:**
-- Bioware (any grade) — requires separate test
+- Bioware (any grade) — requires separate medical test
 - Free-floating nanites (transient or fixed inactive) — requires nanoscanner
 
 **Base Detection TNs by grade:**
@@ -82,8 +82,6 @@ Full medical scan. Cyberware and bioware require **separate tests**, each taking
 
 *Campaign application: 3PR Delta implants scan test TN is listed per item. Hospital scans at -1TN vs 3pr_shared *
 
-
-
 ---
 
 ## DETECTION RESULT DETAIL
@@ -92,7 +90,7 @@ Number of successes on the detection test determines what is revealed:
 
 | Successes | Information Revealed |
 |---|---|
-| 0 | Base Essence Rating or Bio Index only — no implant detail |
+| 0 | Base Essence Rating or Bio Index only if medical  — no implant detail |
 | 1 | Type of implant or nanite (e.g., "cyberware present," "nanite activity") |
 | 2 | Manufacturer and ratings |
 | 3 | Grade (basic, alpha, beta, delta) |
@@ -113,22 +111,6 @@ Number of successes on the detection test determines what is revealed:
 *Campaign application: 3PR Delta implants scan test TN is listed per item. Hospital scans at -1TN vs 3pr_shared *
 ---
 
-## QUICK REFERENCE — 3PR CAMPAIGN VALUES
-
-*All values account for Delta grade + surgical outcome (+2 Concealability). GM review required before modifying.*
-
-| Scan Type | Effective TN |
-|---|---|
-| Field cyberscanner (3PR cyberware) | 12 |
-| Clinic cyberware scan (3PR) | 11 |
-| Street clinic cyberware scan (3PR) | 12 |
-| Clinic bioware scan (3PR cultured) | 11 |
-| Street clinic bioware scan (3PR) | 12 |
-| Nanoscanner — free-floating nanites | 6 |
-| Nanoscanner — fixed inactive | 10 |
-
-*Nanite Hive, Guardian Angel, and Facilitator: caught by cyberscanner not nanoscanner.*
-* Free floating nanites released by Guardian Angel are detected by Nanoscanner while active.* 
 
 ---
 

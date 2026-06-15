@@ -96,7 +96,7 @@ Requires nanoscanner. Nanoscanner catches blood-borne nanites and their containe
 *Cyberware. Standard Essence cost rules. Detected by cyberscanner.*
 
 ### Nanite Facilitator
-Liver/kidney/spleen modifications. Prevents filtration of free-floating nanites. Each level of blood filtration cyberware (SR3 p. 300): −0.05 Essence cost.
+Liver/kidney/spleen modifications. Prevents filtration of free-floating nanites.
 
 ### Nanite Hive
 Replicates specific nanite species; maintains normal levels. Restores 5%/day to supported free-floating system. Replenishment ~every 6 months (10% of nanite price). Cyberlimb: 0.1 Essence, 1 ECU, −1 Concealability. Each hive individually numbered; generates significant heat (insulated).

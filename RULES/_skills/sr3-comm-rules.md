@@ -58,7 +58,7 @@ Player declares they are jamming a specific device or frequency. GM confirms tar
 - **Comp pool:** Operator EW Skill dice vs same TN (halved)
 - **Total successes** = main successes + floor(comp successes / 2)
 
-### Defender Roll (NPC — GM rolls behind screen)
+### Defender Roll (NPC)
 - **Main pool:** ECCM Rating dice vs TN = attacker ECM Rating
 - **Comp pool:** Operator EW Skill dice vs same TN (halved)
 
@@ -175,6 +175,6 @@ When a comm action comes up in play:
 3. **Provide the TN** based on target device stats (GM supplies NPC/device stats)
 4. **Player rolls** — report successes
 5. **Resolve** per module rules above
-6. **NPC/opposing rolls** are handled by GM behind the screen — Claude receives only the results if needed
+6. **NPC/opposing rolls** are handled by GM behind the screen — CHAT receives only the results if needed
 
 **Do not** import SR4+ mechanics, terminology, or paradigms. If a rule is ambiguous, apply RAW SR3 interpretation and flag it for GM ruling.
