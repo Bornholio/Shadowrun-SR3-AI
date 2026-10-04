@@ -1,0 +1,69 @@
+# Equipment List
+- **Canteen and Mess Kit**- Special Forces style, titanium and composites
+- **Cash (94,718)**- ¥, certified credit on sticks, seven sticks.
+- **Collapsible Staff**- Club 16M stun Reach 1, 17M Stun Reach 2- Club: 5 conceal / Staff: 2 conceal
+- **Combat Boots**- Black, Leather
+- **Cyberware Scanner (10)**- Conceal 9, DNI, Detects and identifies Cyberware
+- **Datajack Cable, Standard Grade, Short**- Optical and power cable for data transfer and simsense, small auto-winder
+- **Defiance T250**- SA, 10S, Smart Link, Choke 5, 20 rounds Shot ammunition (Box)- Sling Bag, 5 shot internal magazine, 4 conceal
+- **Dog Tag**- Very Old, has nearly unreadable information for character's old life
+- **Fake ID**- Use when legally interrogated for Identity
+- **Fetish x4**- 1 per fetish-tagged spell, Hematite talisman, burnished hawthorne wand, silver cross, ancient gold coin
+- **Forearm Guards**- +1 Impact Armor for Melee/Crashes only- Worn in normal use, 8 conceal as armor
+- **Gecko Tape 50m**- Climb as if using gear, nullified by water, Friction is extremely high
+- **Gecko Tape Gloves**- Climb as if using gear, nullified by water
+- **Glass Cutter (6)**- Cut up to Barrier Rating 6 Glass
+- **Glasses**- Chrome Mirror shades, side covers
+- **Glasses**- Dark IR blocking, data display style
+- **Goggles**- Black mirror face, full spectrum glass, Fit to Respirator
+- **Gold Jewelry**- Simple styling, two necklaces, two rings and wrist medical alert bracelet, Two Hair clips and bands
+- **Handset Phone**- Modified with access port available on outside
+- **Hiking Boots**- Sport hiking style, blue and brown
+- **Hip Bag**- Black, police style
+- **Hoodie**- REI Branded dark green
+- **ID- Dale Kowalski Silver Rating (1)**- Option: Ages Well; Permits: None
+- **ID- James Taylor Ebony Rating (4)**- Option: Ages Well; Watertight; Dead Mans Shoes Permits: Motor Vehicle (Full), Aircraft, Firearms, Licensed Chemist, Fork Lift
+- **Jacket**- North Face Quad-Climate
+- **Large Equipment Pouch**- Dark Green
+- **Leather Gloves**- Black, ports for claws
+- **Light Web Gear**- Black, molle clips and attachments to work with other gear
+- **Lockpicking Gun (10)**- Conceal 9, DNI, Defeats Mechanical Locks
+- **Mesh Socks**- Nordic military special forces style
+- **Mesh Underwear**- Nordic military special forces style
+- **Military Secure Armored Jacket**- Black, built in speakers and microphone for phone or radio use, wireless, Ballistic 5, Impact 3- 6 conceal as armor
+- **Music Player**- Compact Electronic player with small speakers, chip and disc load, DNI port, Loaded pre-2027 music library
+- **Ordinary Outfit**- Normal conservative civilian style, running shoes, socks, underwear, shirt, tee-shirt, jeans, gloves
+- **Ordinary Outfit**- Bright civilian style, running shoes, socks, underwear, shirt, tee-shirt, Orange running shorts
+- **Ordinary Outfit**- Four more common outfits, Jeans and running shoes, long sleeve shirts, good coverage of fur to hide it.
+- **Morrissey Elan**- smartlinked ceramic hold-out pistol - loaded armor-piercing ammunition
+- **Spare Morrissey Elan clip** ×2 - loaded armor-piercing ammunition
+- **Ceramic folding knife** will not be detected by MAD sensors
+- **Pistol Ammunition Pouch**- Dark Green
+- **Pocket Flashlight**- Multi-function, Wide Beam, Narrow Beam, three levels, UV, Red, White, Flasher, Green and Red laser pointer
+- **Pocket Knife**- Small folding knife, no combat stats
+- **Poncho, Reversible**- Anti-sensor Urban Camouflage +1 Signature to sensors at night, Counts as camouflage in urban, Black inside
+- **QD Concealing Holster, Pistol**- Allows user to quick draw item as normal item, +2 Concealable base to weapon
+- **QD Concealing Holster, Revolver**- Allows user to quick draw item as normal item, +2 Concealable base to weapon
+- **QD Concealing Holster, Shotgun**- Allows user to quick draw item as normal item, +2 Concealable base to weapon
+- **QD Concealing Holster, Staff/Baton**- Allows user to quick draw item as normal item, +2 Concealable base to weapon
+- **Ration Bars (5 days)**- Military special forces style
+- **Respirator**- Reduce power of damaging gases by 2, reduce damage levels by 1- May add regulator for underwater use as breathing apparatus
+- **Ruger Super Warhawk**- SA 10M Damage, Heavy Pistol, Built-in Smart Link II- Holster, 6 shot cylinder, 4 conceal, 2.75kg
+- **Scanner Accessory (10)**- Conceal 9, DNI, scans hand/finger prints
+- **Secure Vest**- Ballistic 2, Impact 1- Worn, layered, 15 conceal as armor
+- **Sequencer (10)**- Conceal 9, DNI, assist defeating Passcodes
+- **Signal Amplifier (10)**- Conceal 9, DNI, ECCM 10, BCE 10, BCD 8
+- **Sleeping Bag**- Dark Green, 4 season with removable liners and wet use cover
+- **Sliver Gun, Spare Magazines x2**- Flechette rounds- 30 round capacity
+- **Small Equipment Pouch**- Dark Green, military style
+- **Small Military Rucksack**- Black, Molle
+- **Snake Mesh Socks**- Black
+- **Survival Kit**- Black, Molle, lighter, compass, paracord, first aid kit, water sacks, waterproof matches in sealed container, emergency blanket, small tarp, sailwork needles, fire block, metal foil pouch, multi tool, folding mini-shovel/pick.
+- **Survival Knife**- Standard special forces survival knife, black plastic sheath
+- **Synthetic Fingerprint (10)**- Conceal 9, DNI, emulates hand/finger prints
+- **Tent**- Two Person, 4 season, ultra-compact
+- **Ultrasound Emitter/Detector (10)**- Conceal 9, DNI, Detects and defeats ultrasound detection
+- **Utility Belt**- Black, police style
+- **Waterproof Liner**- protects contents of rucksack
+- **Zip Lock Bags**- protects individual items
+- **Towels** - Hotel style

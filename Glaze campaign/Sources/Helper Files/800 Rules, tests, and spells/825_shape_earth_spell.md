@@ -1,0 +1,4 @@
+**Shape Earth**
+Type: P · Target: 4 · Duration: S · Drain: +2(M)
+This spell moves and shapes a number of cubic meters of earth equal to the caster's Magic. The material can be moved and reshaped in any way the caster desires, at a Movement Rate equal to 1 meter per success (up to a maximum equal to the spell's Force) per Combat Turn. This allows the caster to rapidly dig or fill in holes or tunnels, dig trenches, or push over earthen barricades. The spell only works on soil and rock, not processed mineral materials such as glass, metal, or concrete, and the spell's Force must at least equal the Barrier Rating of the material affected (1 for loose soil, 2 for packed earth, 4 for gravel or loose rock and 6 or more for stone). Material reshaped by the caster remains in its current form when the spell ends. If that form cannot be supported by the material, it will collapse.
+*Manipulation (Telekinetic)*

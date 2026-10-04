@@ -1,0 +1,5 @@
+The two respirators were:
+Do not preemptively load this file. Retrieve only the specific section needed for the current request.
+
+Melon-3 respirator
+Catspaw Blue respirator

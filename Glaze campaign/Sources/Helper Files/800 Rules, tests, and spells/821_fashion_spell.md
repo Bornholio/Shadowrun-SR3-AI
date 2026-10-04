@@ -1,0 +1,4 @@
+**Fashion**
+Type: P · Target: 6 · Duration: P · Drain: +1(M)
+This spell instantly tailors clothing, transforming garments into any fashion the caster wishes. The successes measure the degree of style in the tailoring. The spell cannot change clothing's protective value, only its cut, color and fit. The weight of the clothing does not change, and it must cover approximately the same amount of area (a jump suit can't be converted into a bikini). This spell cannot change clothing with a total Armor Rating (ballistic and impact) higher than Force (+1 per 2 successes). The caster must touch the clothing.
+*Manipulation (Transformation)*

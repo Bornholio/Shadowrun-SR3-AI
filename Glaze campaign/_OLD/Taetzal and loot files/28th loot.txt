@@ -1,0 +1,37 @@
+Top notch decker, deck is gone High Lifestyle, dead
+- Clothing and ordinary personal electronics. <Generate>
+- Computer B/R Kit
+- Spare optical cable, hitcher jack, off-line storage module 1200mp, vidscreen display.
+- Skillsoft jukebox with several slotted chips; loose optical memory chips; linguasofts. <Generate>
+- Data unit and a micro-recorder. <Generate>
+- **One locked personal container**, unopened. <Generate Contents for decker
+
+**Resolved — half the guards died in the raid.** Eight footlockers were emptied by the survivors and stand open. **Eight remain locked**, holding the personal effects of the dead. Locks are simple mechanical padlocks or Type I maglocks, Rating 1–3.
+
+**Typical locked-footlocker contents** (vary them; each locker is one person's life, not a loot table): x16, x8 empty
+- Handset or wrist-model cellphone, sometimes a pager; one locker has a pocket secretary. <Generate>
+- Pocket computer or data unit; loose optical memory chips. <Generate>
+- A personal sidearm the armory never issued — Fichetti Security 500a, Colt America L36, Streetline Special. <Generate>
+- Armor clothing or an armor jacket in civilian cut, kept separate from issued security armor. <Generate>
+- Pocket flashlight; binoculars, a couple with low-light. <Generate>
+- Linguasofts and knowsofts; a skillsoft jukebox in one; **two contain BTL chips**. <Generate>
+- Certified credsticks with small balances. <Generate>
+- Photographs, letters, personal keepsakes, a few items that plainly belonged to someone outside the building.
+
+Armory
+- 6 **FN HAR** assault rifles — 20-round clips, integral laser sight, gas-vent level 2, folding stock
+- 4 **Ares Predators**
+- 5 **Fichetti Security 500** pistols — 10-round clips
+- 5 sets **partial heavy armor with helmet** — Ballistic 7 / Impact 5, black and gray urban camo, no ID or rank marks
+- 6 pairs **low-light goggles**
+- 4 micro-transceivers and 4 subvocal mics; 3 sets of metal restraints and 3 plasteel; wire clippers; large flashlights
+**Ammunition, established:** every remaining weapon has **at least eight clips' worth on hand, minimum 200 rounds each**. In practice: 200 rounds per HAR (ten clips), 200 per Predator, 200 per Fichetti (twenty clips), plus loose boxed stock.
+
+
+**Contents (left behind):** Blackstone Dwarven Technician
+- Optical chip encoder and a stock of blank optical memory chips. <Generate>
+- Electronics B/R kit; loose components, connectors, cable. <Generate>
+- Dataline scanner and bug scanner.  <Generate>
+- Assorted salvaged parts with no obvious purpose.
+
+These are all expert and master level personell 

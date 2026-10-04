@@ -1,0 +1,35 @@
+Simsense: Simulated Sense, artificial sensory information, generally transmitted in realtime. It exceeds the data rates of basic communications like radio and telephone. It is the basis of most cybertechnology. Using it generally requires a the suppression of the Reticular Activation System (RAS) and a RAS override allows limited co-sensory input but with penalties. A RAS override halves the penalty for interacting the real world to +4 TN shifting the penalty to both frames of reference.
+
+Headware Memory: Act as a general purpose computer, storage and program space :: limitations, display device, IO and specialized  devices.  
+
+Display link: acts as a limited AR and computer display, small video and text, icon and status, generally on edge of view.
+
+Image link: act as Full AR and computer display, both eyes can present Trideo or 3d AR.  Higher resolution full area.  
+
+Encephalon: Offloads processing and parallel task monitoring, increases reading speeds and comprehension, reduces distraction due to internal mental effort. Task pool assigned to purely cognitive tasks lets them occur in parallel to physical and social tasks.  Increased effective intelligence allows INT skills to be two higher than base INT without increased cost
+
+Datajack: input synthetic senses access to high brain is cognitive access to low brain is physical and sensory.  Provides general IO, can load chips but not carry them as active. Provides connections between other systems.
+Two systems add more connections but also a decision about which brain connection to make, tertiary ports allow one more external connection each and 5 more internal. It also provides Artificial Sensory Induction Systems Technology (ASSIST) and a converter is a part of the jack. This allows properly formatted simulated sensory inputs and outputs. 
+
+Simrig: Allows the user to output and receive raw simsense. Acts as a simsense player. The word baseline represents only sensory information for all senses except astral.  Raw sense data is 1Mp per second. The Word Full-X represents simsense that includes Emotions and Feelings taking 3Mp per second.  In neither case does it include thoughts, intuition or astral. 
+
+Smartlink: Consists of several devices; a ballistics processor, a limited simsense rig, a simple induction data jack, a display link in one eye and a router connecting the devices and connecting them to a datajack if possessed.
+
+Router: in brain routers provide up to 20 connections internally at less load than datajacks plus a brain connection but no use other than internal networking
+
+Math SPU:  like an encephalon it offloads processing of raw data, but focusses on pure data allowing the user to gain a significant advantage in adaptive data spaces like the matrix. it acts as a clock and alarm system of any depth the user desires, with 3 decimals of accuracy per level of SPU.  
+
+Phone: includes a R2 cellular connection, 4 phone numbers directly assigned at one time. Can link 2 calls and has basic ECCM. Its flux can be augmented with an external booster or signal amplifier. It includes subdermal speakers and a subvocal microphone and a Basic eye display. It has a small amount of memory for small data files, images and short video. It can use an external camera to present the user in video calls or it can present a generated stand in image or character. It can also host virtual meetings to a limited extent. All its capabilities are expanded by a Commlink or transducer.
+
+Commlink (Headware): each rating point allow one more interconnected communication path. It does not provide the paths. It can link internal or external devices with connections to the headware. by default it is automatically connected to radio and telephone headware and datajack. It expands the virtual meeting room capability of a telephone and  coordinates radio chatter and direction. 
+
+Transducer: Allows for mental communication via devices. Translates the users thoughts into digital words and output, feeds external text and digital voice into mental communication. Completely silent communication. Automatically connected to headware telephone and radio. External version needs a datajack connection to headware. 
+
+Cyberdeck: all versions connect to brain via ASIST and are powerful general purpose computers along with many special functions. They need datajacks to operate at full capability.
+
+Cyberterminal: A less capable computer with similar capabilities to a Cyberdeck. Sometimes cyberterminal is used in error to refer to a cyberdeck.  
+
+Vehicle Control Rig (VCR): A low brain simsense device, muscular input and deeper sensory outputs turn vehicle data and control into user information and data.  The users can see through the vehicles sensors and feel its fuel flow and other senses as body like inputs. Revving engine like a heartbeat, flexing muscles as turning input, a turret like a turned neck. It allows for a unique pool of dice called control pool. These dice can be used to augment any test the vehicle performs. Handling is augmented by -2TN per level of VCR. The vehicle initiative and reaction is also augmented greatly. Smart Link weapons requires special hardware. The system is greatly extended by a Remote Control Deck.
+
+Remote Control Deck (RCD): A complicated radio system that transmits the simsense needed to use a VCR to control remote vehicles, each rating point adds one more vehicle and greater radio power. Each Rating point represents a 3 channel radio, this radio set contains the individual simsense and data channels along with a communication channel for one connection. Several Specific items augment the system. Since this is the primary way to operate drones it is also called a drone deck. 
+
